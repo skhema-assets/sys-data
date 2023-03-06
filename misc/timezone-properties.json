@@ -1,0 +1,386 @@
+[
+	{
+		"utc_display_name": "(UTC-12:00) International Date Line West",
+		"zone_name": "Etc/GMT+12"
+	},
+	{
+		"utc_display_name": "(UTC-11:00) Coordinated Universal Time-11",
+		"zone_name": "Etc/GMT+11"
+	},
+	{
+		"utc_display_name": "(UTC-10:00) Hawaii",
+		"zone_name": "Pacific/Honolulu"
+	},
+	{
+		"utc_display_name": "(UTC-09:00) Alaska",
+		"zone_name": "America/Anchorage"
+	},
+	{
+		"utc_display_name": "(UTC-08:00) Baja California",
+		"zone_name": "America/Santa Isabel"
+	},
+	{
+		"utc_display_name": "(UTC-08:00) Pacific Time (US and Canada)",
+		"zone_name": "America/Los Angeles"
+	},
+	{
+		"utc_display_name": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
+		"zone_name": "America/Chihuahua"
+	},
+	{
+		"utc_display_name": "(UTC-07:00) Arizona",
+		"zone_name": "America/Phoenix"
+	},
+	{
+		"utc_display_name": "(UTC-07:00) Mountain Time (US and Canada)",
+		"zone_name": "America/Denver"
+	},
+	{
+		"utc_display_name": "(UTC-06:00) Central America",
+		"zone_name": "America/Guatemala"
+	},
+	{
+		"utc_display_name": "(UTC-06:00) Central Time (US and Canada)",
+		"zone_name": "America/Chicago"
+	},
+	{
+		"utc_display_name": "(UTC-06:00) Saskatchewan",
+		"zone_name": "America/Regina"
+	},
+	{
+		"utc_display_name": "(UTC-06:00) Guadalajara, Mexico City, Monterey",
+		"zone_name": "America/Mexico City"
+	},
+	{
+		"utc_display_name": "(UTC-05:00) Bogota, Lima, Quito",
+		"zone_name": "America/Bogota"
+	},
+	{
+		"utc_display_name": "(UTC-05:00) Indiana (East)",
+		"zone_name": "America/Indiana/Indianapolis"
+	},
+	{
+		"utc_display_name": "(UTC-05:00) Eastern Time (US and Canada)",
+		"zone_name": "America/New York"
+	},
+	{
+		"utc_display_name": "(UTC-04:30) Caracas",
+		"zone_name": "America/Caracas"
+	},
+	{
+		"utc_display_name": "(UTC-04:00) Atlantic Time (Canada)",
+		"zone_name": "America/Halifax"
+	},
+	{
+		"utc_display_name": "(UTC-04:00) Asuncion",
+		"zone_name": "America/Asuncion"
+	},
+	{
+		"utc_display_name": "(UTC-04:00) Georgetown, La Paz, Manaus, San Juan",
+		"zone_name": "America/La Paz"
+	},
+	{
+		"utc_display_name": "(UTC-04:00) Cuiaba",
+		"zone_name": "America/Cuiaba"
+	},
+	{
+		"utc_display_name": "(UTC-04:00) Santiago",
+		"zone_name": "America/Santiago"
+	},
+	{
+		"utc_display_name": "(UTC-03:30) Newfoundland",
+		"zone_name": "America/St Johns"
+	},
+	{
+		"utc_display_name": "(UTC-03:00) Brasilia",
+		"zone_name": "America/Sao Paulo"
+	},
+	{
+		"utc_display_name": "(UTC-03:00) Greenland",
+		"zone_name": "America/Godthab"
+	},
+	{
+		"utc_display_name": "(UTC-03:00) Cayenne, Fortaleza",
+		"zone_name": "America/Cayenne"
+	},
+	{
+		"utc_display_name": "(UTC-03:00) Buenos Aires",
+		"zone_name": "America/Argentina/Buenos Aires"
+	},
+	{
+		"utc_display_name": "(UTC-03:00) Montevideo",
+		"zone_name": "America/Montevideo"
+	},
+	{
+		"utc_display_name": "(UTC-02:00) Coordinated Universal Time-2",
+		"zone_name": "Etc/GMT+2"
+	},
+	{
+		"utc_display_name": "(UTC-01:00) Cape Verde",
+		"zone_name": "Atlantic/Cape Verde"
+	},
+	{
+		"utc_display_name": "(UTC-01:00) Azores",
+		"zone_name": "Atlantic/Azores"
+	},
+	{
+		"utc_display_name": "(UTC+00:00) Casablanca",
+		"zone_name": "Africa/Casablanca"
+	},
+	{
+		"utc_display_name": "(UTC+00:00) Monrovia, Reykjavik",
+		"zone_name": "Atlantic/Reykjavik"
+	},
+	{
+		"utc_display_name": "(UTC+00:00) Dublin, Edinburgh, Lisbon, London",
+		"zone_name": "Europe/London"
+	},
+	{
+		"utc_display_name": "(UTC+00:00) Coordinated Universal Time",
+		"zone_name": "Etc/GMT"
+	},
+	{
+		"utc_display_name": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+		"zone_name": "Europe/Berlin"
+	},
+	{
+		"utc_display_name": "(UTC+01:00) Brussels, Copenhagen, Madrid, Paris",
+		"zone_name": "Europe/Paris"
+	},
+	{
+		"utc_display_name": "(UTC+01:00) West Central Africa",
+		"zone_name": "Africa/Lagos"
+	},
+	{
+		"utc_display_name": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+		"zone_name": "Europe/Budapest"
+	},
+	{
+		"utc_display_name": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
+		"zone_name": "Europe/Warsaw"
+	},
+	{
+		"utc_display_name": "(UTC+01:00) Windhoek",
+		"zone_name": "Africa/Windhoek"
+	},
+	{
+		"utc_display_name": "(UTC+02:00) Athens, Bucharest, Istanbul",
+		"zone_name": "Europe/Istanbul"
+	},
+	{
+		"utc_display_name": "(UTC+02:00) Helsinki, Kiev, Riga, Sofia, Tallinn, Vilnius",
+		"zone_name": "Europe/Kiev"
+	},
+	{
+		"utc_display_name": "(UTC+02:00) Cairo",
+		"zone_name": "Africa/Cairo"
+	},
+	{
+		"utc_display_name": "(UTC+02:00) Damascus",
+		"zone_name": "Asia/Damascus"
+	},
+	{
+		"utc_display_name": "(UTC+02:00) Amman",
+		"zone_name": "Asia/Amman"
+	},
+	{
+		"utc_display_name": "(UTC+02:00) Harare, Pretoria",
+		"zone_name": "Africa/Johannesburg"
+	},
+	{
+		"utc_display_name": "(UTC+02:00) Jerusalem",
+		"zone_name": "Asia/Jerusalem"
+	},
+	{
+		"utc_display_name": "(UTC+02:00) Beirut",
+		"zone_name": "Asia/Beirut"
+	},
+	{
+		"utc_display_name": "(UTC+03:00) Baghdad",
+		"zone_name": "Asia/Baghdad"
+	},
+	{
+		"utc_display_name": "(UTC+03:00) Minsk",
+		"zone_name": "Europe/Minsk"
+	},
+	{
+		"utc_display_name": "(UTC+03:00) Kuwait, Riyadh",
+		"zone_name": "Asia/Riyadh"
+	},
+	{
+		"utc_display_name": "(UTC+03:00) Nairobi",
+		"zone_name": "Africa/Nairobi"
+	},
+	{
+		"utc_display_name": "(UTC+03:30) Tehran",
+		"zone_name": "Asia/Tehran"
+	},
+	{
+		"utc_display_name": "(UTC+04:00) Moscow, St. Petersburg, Volgograd",
+		"zone_name": "Europe/Moscow"
+	},
+	{
+		"utc_display_name": "(UTC+04:00) Tbilisi",
+		"zone_name": "Asia/Tbilisi"
+	},
+	{
+		"utc_display_name": "(UTC+04:00) Yerevan",
+		"zone_name": "Asia/Yerevan"
+	},
+	{
+		"utc_display_name": "(UTC+04:00) Abu Dhabi, Muscat",
+		"zone_name": "Asia/Dubai"
+	},
+	{
+		"utc_display_name": "(UTC+04:00) Baku",
+		"zone_name": "Asia/Baku"
+	},
+	{
+		"utc_display_name": "(UTC+04:00) Port Louis",
+		"zone_name": "Indian/Mauritius"
+	},
+	{
+		"utc_display_name": "(UTC+04:30) Kabul",
+		"zone_name": "Asia/Kabul"
+	},
+	{
+		"utc_display_name": "(UTC+05:00) Tashkent",
+		"zone_name": "Asia/Tashkent"
+	},
+	{
+		"utc_display_name": "(UTC+05:00) Islamabad, Karachi",
+		"zone_name": "Asia/Karachi"
+	},
+	{
+		"utc_display_name": "(UTC+05:30) Sri Jayewardenepura Kotte",
+		"zone_name": "Asia/Colombo"
+	},
+	{
+		"utc_display_name": "(UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi",
+		"zone_name": "Asia/Kolkata"
+	},
+	{
+		"utc_display_name": "(UTC+05:45) Kathmandu",
+		"zone_name": "Asia/Kathmandu"
+	},
+	{
+		"utc_display_name": "(UTC+06:00) Astana",
+		"zone_name": "Asia/Almaty"
+	},
+	{
+		"utc_display_name": "(UTC+06:00) Dhaka",
+		"zone_name": "Asia/Dhaka"
+	},
+	{
+		"utc_display_name": "(UTC+06:00) Yekaterinburg",
+		"zone_name": "Asia/Yekaterinburg"
+	},
+	{
+		"utc_display_name": "(UTC+06:30) Yangon",
+		"zone_name": "Asia/Yangon"
+	},
+	{
+		"utc_display_name": "(UTC+07:00) Bangkok, Hanoi, Jakarta",
+		"zone_name": "Asia/Bangkok"
+	},
+	{
+		"utc_display_name": "(UTC+07:00) Novosibirsk",
+		"zone_name": "Asia/Novosibirsk"
+	},
+	{
+		"utc_display_name": "(UTC+08:00) Krasnoyarsk",
+		"zone_name": "Asia/Krasnoyarsk"
+	},
+	{
+		"utc_display_name": "(UTC+08:00) Ulaanbaatar",
+		"zone_name": "Asia/Ulaanbaatar"
+	},
+	{
+		"utc_display_name": "(UTC+08:00) Beijing, Chongqing, Hong Kong, Urumqi",
+		"zone_name": "Asia/Shanghai"
+	},
+	{
+		"utc_display_name": "(UTC+08:00) Perth",
+		"zone_name": "Australia/Perth"
+	},
+	{
+		"utc_display_name": "(UTC+08:00) Kuala Lumpur, Singapore",
+		"zone_name": "Asia/Singapore"
+	},
+	{
+		"utc_display_name": "(UTC+08:00) Taipei",
+		"zone_name": "Asia/Taipei"
+	},
+	{
+		"utc_display_name": "(UTC+09:00) Irkutsk",
+		"zone_name": "Asia/Irkutsk"
+	},
+	{
+		"utc_display_name": "(UTC+09:00) Seoul",
+		"zone_name": "Asia/Seoul"
+	},
+	{
+		"utc_display_name": "(UTC+09:00) Osaka, Sapporo, Tokyo",
+		"zone_name": "Asia/Tokyo"
+	},
+	{
+		"utc_display_name": "(UTC+09:30) Darwin",
+		"zone_name": "Australia/Darwin"
+	},
+	{
+		"utc_display_name": "(UTC+09:30) Adelaide",
+		"zone_name": "Australia/Adelaide"
+	},
+	{
+		"utc_display_name": "(UTC+10:00) Hobart",
+		"zone_name": "Australia/Hobart"
+	},
+	{
+		"utc_display_name": "(UTC+10:00) Yakutsk",
+		"zone_name": "Asia/Yakutsk"
+	},
+	{
+		"utc_display_name": "(UTC+10:00) Brisbane",
+		"zone_name": "Australia/Brisbane"
+	},
+	{
+		"utc_display_name": "(UTC+10:00) Guam, Port Moresby",
+		"zone_name": "Pacific/Port Moresby"
+	},
+	{
+		"utc_display_name": "(UTC+10:00) Canberra, Melbourne, Sydney",
+		"zone_name": "Australia/Sydney"
+	},
+	{
+		"utc_display_name": "(UTC+11:00) Vladivostok",
+		"zone_name": "Asia/Vladivostok"
+	},
+	{
+		"utc_display_name": "(UTC+11:00) Solomon Islands, New Caledonia",
+		"zone_name": "Pacific/Guadalcanal"
+	},
+	{
+		"utc_display_name": "(UTC+12:00) Coordinated Universal Time+12",
+		"zone_name": "Etc/GMT-12"
+	},
+	{
+		"utc_display_name": "(UTC+12:00) Fiji, Marshall Islands",
+		"zone_name": "Pacific/Fiji"
+	},
+	{
+		"utc_display_name": "(UTC+12:00) Magadan",
+		"zone_name": "Asia/Magadan"
+	},
+	{
+		"utc_display_name": "(UTC+12:00) Auckland, Wellington",
+		"zone_name": "Pacific/Auckland"
+	},
+	{
+		"utc_display_name": "(UTC+13:00) Nuku'alofa",
+		"zone_name": "Pacific/Tongatapu"
+	},
+	{
+		"utc_display_name": "(UTC+13:00) Samoa",
+		"zone_name": "Pacific/Apia"
+	}
+]
