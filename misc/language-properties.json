@@ -1,0 +1,1372 @@
+[
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Celtic",
+		"language": "Gaelic (Scotland)"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Celtic",
+		"language": "Irish"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Celtic",
+		"language": "Welsh"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Celtic",
+		"language": "\"Celtic"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English - Australia"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English - Canada"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English - Hong Kong"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English - India"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English - Ireland"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English - Malaysia"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English - Malta"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English - New Zealand"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English - Philippines"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English - Singapore"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English - South Africa"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English - United Kingdom"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English - United States"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "English",
+		"language": "English - Zimbabwe"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "German and Related Languages",
+		"language": "German"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "German and Related Languages",
+		"language": "German - Austria"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "German and Related Languages",
+		"language": "German - Germany"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "German and Related Languages",
+		"language": "German - Liechtenstein"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "German and Related Languages",
+		"language": "German - Luxembourg"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "German and Related Languages",
+		"language": "German - Switzerland"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "German and Related Languages",
+		"language": "Letzeburgish"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "German and Related Languages",
+		"language": "Yiddish"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Dutch and Related Languages",
+		"language": "Dutch"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Dutch and Related Languages",
+		"language": "Dutch - Belgium"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Dutch and Related Languages",
+		"language": "Dutch - The Netherlands"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Dutch and Related Languages",
+		"language": "Frisian"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Dutch and Related Languages",
+		"language": "Afrikaans"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Scandinavian",
+		"language": "Danish"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Scandinavian",
+		"language": "Icelandic"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Scandinavian",
+		"language": "Norwegian"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Scandinavian",
+		"language": "Swedish"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Scandinavian",
+		"language": "Swedish - Finland"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Scandinavian",
+		"language": "Swedish - Sweden"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Scandinavian",
+		"language": "\"Scandinavian"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Finnish and Related Languages",
+		"language": "Estonian"
+	},
+	{
+		"broad_language_group": "Northern European Languages",
+		"narrow_language_group": "Finnish and Related Languages",
+		"language": "Finnish"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "French",
+		"language": "French"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "French",
+		"language": "French - Belgium"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "French",
+		"language": "French - Canada"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "French",
+		"language": "French - France"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "French",
+		"language": "French - Luxembourg"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "French",
+		"language": "French - Monaco"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "French",
+		"language": "French - Switzerland"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Greek",
+		"language": "Greek"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Catalan"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Portuguese"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Portuguese - Brazil"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Portuguese - Portugal"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "\"Spanish"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Argentina"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Bolivia"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Chile"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Colombia"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Costa Rica"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Cuba"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Dominican Republic"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Ecuador"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - El Salvador"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Guatemala"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Honduras"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Mexico"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Nicaragua"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Panama"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Paraguay"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Peru"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Puerto Rico"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Spain"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - United States"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Uruguay"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "Spanish - Venezuela"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Iberian Romance",
+		"language": "\"Iberian Romance"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Italian",
+		"language": "Italian"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Italian",
+		"language": "Italian - Italy"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Italian",
+		"language": "Italian - Switzerland"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Maltese",
+		"language": "Maltese"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Other Southern European Languages",
+		"language": "Basque"
+	},
+	{
+		"broad_language_group": "Southern European Languages",
+		"narrow_language_group": "Other Southern European Languages",
+		"language": "Latin"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "Baltic",
+		"language": "Latvian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "Baltic",
+		"language": "Lithuanian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "Hungarian",
+		"language": "Hungarian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "East Slavic",
+		"language": "Belorussian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "East Slavic",
+		"language": "Russian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "East Slavic",
+		"language": "Ukrainian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "South Slavic",
+		"language": "Bosnian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "South Slavic",
+		"language": "Bulgarian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "South Slavic",
+		"language": "Croatian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "South Slavic",
+		"language": "Macedonian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "South Slavic",
+		"language": "Serbian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "South Slavic",
+		"language": "Serbian - Bosnia and Herzegovina"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "South Slavic",
+		"language": "Serbian - Montenegro"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "South Slavic",
+		"language": "Serbian - Serbia"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "South Slavic",
+		"language": "Serbian - Serbia and Montenegro (Former)"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "South Slavic",
+		"language": "Slovene"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "South Slavic",
+		"language": "\"Serbo-Croatian/Yugoslavian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "West Slavic",
+		"language": "Czech"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "West Slavic",
+		"language": "Polish"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "West Slavic",
+		"language": "Slovak"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "West Slavic",
+		"language": "Czechoslovakian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "Other Eastern European Languages",
+		"language": "Albanian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "Other Eastern European Languages",
+		"language": "Aromunian (Macedo-Romanian)"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "Other Eastern European Languages",
+		"language": "Romanian"
+	},
+	{
+		"broad_language_group": "Eastern European Languages",
+		"narrow_language_group": "Other Eastern European Languages",
+		"language": "Romany"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Iranic",
+		"language": "Kurdish"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Iranic",
+		"language": "Pashto"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Iranic",
+		"language": "Balochi"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Iranic",
+		"language": "Dari"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Iranic",
+		"language": "Persian (excluding Dari)"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Iranic",
+		"language": "Hazaraghi"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Iranic",
+		"language": "Iranic"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - Algeria"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - Bahrain"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - Egypt"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic- Iraq"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - Jordan"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - Kuwait"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - Lebanon"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - Libya"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - Morocco"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - Oman"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - Qatar"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - Saudi Arabia"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - Sudan"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - Syria"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - Tunisia"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Arabic - United Arab Emirates"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Hebrew"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Assyrian Neo-Aramaic"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Chaldean Neo-Aramaic"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Middle Eastern Semitic Languages",
+		"language": "Mandaean (Mandaic)"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Turkic",
+		"language": "Turkish"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Turkic",
+		"language": "Azeri"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Turkic",
+		"language": "Tatar"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Turkic",
+		"language": "Turkmen"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Turkic",
+		"language": "Uygur"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Turkic",
+		"language": "Uzbek"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Other Southwest and Central Asian Languages",
+		"language": "Armenian"
+	},
+	{
+		"broad_language_group": "Southwest And Central Asian Languages",
+		"narrow_language_group": "Other Southwest and Central Asian Languages",
+		"language": "Georgian"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Dravidian",
+		"language": "Kannada"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Dravidian",
+		"language": "Malayalam"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Dravidian",
+		"language": "Tamil"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Dravidian",
+		"language": "Telugu"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Dravidian",
+		"language": "Tulu"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Dravidian",
+		"language": "Dravidian"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Bengali"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Gujarati"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Hindi"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Konkani"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Marathi"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Nepali"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Punjabi"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Sindhi"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Sinhalese"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Urdu"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Assamese"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Dhivehi"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Kashmiri"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Oriya"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Fijian Hindustani"
+	},
+	{
+		"broad_language_group": "Southern Asian Languages",
+		"narrow_language_group": "Indo-Aryan",
+		"language": "Indo-Aryan"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Burmese and Related Languages",
+		"language": "Burmese"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Burmese and Related Languages",
+		"language": "Chin Haka"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Burmese and Related Languages",
+		"language": "Karen"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Burmese and Related Languages",
+		"language": "Rohingya"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Burmese and Related Languages",
+		"language": "Zomi"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Hmong-Mien",
+		"language": "Hmong"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Hmong-Mien",
+		"language": "Hmong-Mien"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Mon-Khmer",
+		"language": "Khmer"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Mon-Khmer",
+		"language": "Vietnamese"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Mon-Khmer",
+		"language": "Mon"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Mon-Khmer",
+		"language": "Mon-Khmer"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Tai",
+		"language": "Lao"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Tai",
+		"language": "Thai"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Tai",
+		"language": "Tai"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Bisaya"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Cebuano"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Ilokano"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Indonesian"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Malay"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Tetum"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Timorese"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Tagalog"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Filipino"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Acehnese"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Balinese"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Bikol"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Iban"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Ilonggo (Hiligaynon)"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Javanese"
+	},
+	{
+		"broad_language_group": "Southeast Asian Languages",
+		"narrow_language_group": "Southeast Asian Austronesian Languages",
+		"language": "Pampangan"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Chinese",
+		"language": "Cantonese"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Chinese",
+		"language": "Hakka"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Chinese",
+		"language": "Mandarin"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Chinese",
+		"language": "Wu"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Chinese",
+		"language": "Min Nan"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Chinese",
+		"language": "Chinese - China"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Chinese",
+		"language": "Chinese - Hong Kong SAR"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Chinese",
+		"language": "Chinese - Macau SAR"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Chinese",
+		"language": "Chinese - Singapore"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Chinese",
+		"language": "Chinese - Taiwan"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Chinese",
+		"language": "Chinese (Simplified)"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Chinese",
+		"language": "Chinese (Traditional)"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Japanese",
+		"language": "Japanese"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Korean",
+		"language": "Korean"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Other Eastern Asian Languages",
+		"language": "Tibetan"
+	},
+	{
+		"broad_language_group": "Eastern Asian Languages",
+		"narrow_language_group": "Other Eastern Asian Languages",
+		"language": "Mongolian"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Acholi"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Akan"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Mauritian Creole"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Oromo"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Shona"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Somali"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Swahili"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Yoruba"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Zulu"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Amharic"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Bemba"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Dinka"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Ewe"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Ga"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Harari"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Hausa"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Igbo"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Kikuyu"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Krio"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Luganda"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Luo"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Ndebele"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Nuer"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Nyanja (Chichewa)"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Shilluk"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Tigre"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Tigrinya"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Tswana"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Xhosa"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Seychelles Creole"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Anuak"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Bari"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Bassa"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Dan (Gio-Dan)"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Fulfulde"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Kinyarwanda (Rwanda)"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Kirundi (Rundi)"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Kpelle"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Krahn"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Liberian (Liberian English)"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Loma (Lorma)"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Lumun (Kuku Lumun)"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Madi"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Mandinka"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Mann"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Moro (Nuba Moro)"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Themne"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "African Languages",
+		"language": "Lingala"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Pacific Austronesian Languages",
+		"language": "Fijian"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Pacific Austronesian Languages",
+		"language": "Gilbertese"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Pacific Austronesian Languages",
+		"language": "Maori (Cook Island)"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Pacific Austronesian Languages",
+		"language": "Maori (New Zealand)"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Pacific Austronesian Languages",
+		"language": "Nauruan"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Pacific Austronesian Languages",
+		"language": "Niue"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Pacific Austronesian Languages",
+		"language": "Samoan"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Pacific Austronesian Languages",
+		"language": "Tongan"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Pacific Austronesian Languages",
+		"language": "Rotuman"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Pacific Austronesian Languages",
+		"language": "Tokelauan"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Pacific Austronesian Languages",
+		"language": "Tuvaluan"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Pacific Austronesian Languages",
+		"language": "Yapese"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Sign Languages",
+		"language": "American Sign Language"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Sign Languages",
+		"language": "Auslan"
+	},
+	{
+		"broad_language_group": "Other Languages",
+		"narrow_language_group": "Sign Languages",
+		"language": "British Sign Language"
+	}
+]
