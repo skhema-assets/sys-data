@@ -1,0 +1,3054 @@
+[
+	{
+		"id": "1111",
+		"major_group": "Managers",
+		"sub_major_group": "Chief Executives, Senior Officials and Legislators",
+		"minor_group": "Legislators and Senior Officials",
+		"occupation": "Legislators"
+	},
+	{
+		"id": "1112",
+		"major_group": "Managers",
+		"sub_major_group": "Chief Executives, Senior Officials and Legislators",
+		"minor_group": "Legislators and Senior Officials",
+		"occupation": "Senior Government Officials"
+	},
+	{
+		"id": "1113",
+		"major_group": "Managers",
+		"sub_major_group": "Chief Executives, Senior Officials and Legislators",
+		"minor_group": "Legislators and Senior Officials",
+		"occupation": "Traditional Chiefs and Heads of Villages"
+	},
+	{
+		"id": "1114",
+		"major_group": "Managers",
+		"sub_major_group": "Chief Executives, Senior Officials and Legislators",
+		"minor_group": "Legislators and Senior Officials",
+		"occupation": "Senior Officials of Special-interest Organizations"
+	},
+	{
+		"id": "1120",
+		"major_group": "Managers",
+		"sub_major_group": "Chief Executives, Senior Officials and Legislators",
+		"minor_group": "Managing Directors and Chief Executives",
+		"occupation": "Managing Directors and Chief Executives"
+	},
+	{
+		"id": "1211",
+		"major_group": "Managers",
+		"sub_major_group": "Administrative and Commercial Managers",
+		"minor_group": "Business Services and Administration Managers",
+		"occupation": "Finance Managers"
+	},
+	{
+		"id": "1212",
+		"major_group": "Managers",
+		"sub_major_group": "Administrative and Commercial Managers",
+		"minor_group": "Business Services and Administration Managers",
+		"occupation": "Human Resource Managers"
+	},
+	{
+		"id": "1213",
+		"major_group": "Managers",
+		"sub_major_group": "Administrative and Commercial Managers",
+		"minor_group": "Business Services and Administration Managers",
+		"occupation": "Policy and Planning Managers"
+	},
+	{
+		"id": "1219",
+		"major_group": "Managers",
+		"sub_major_group": "Administrative and Commercial Managers",
+		"minor_group": "Business Services and Administration Managers",
+		"occupation": "Business Services and Administration Managers Not Elsewhere Classified"
+	},
+	{
+		"id": "1221",
+		"major_group": "Managers",
+		"sub_major_group": "Administrative and Commercial Managers",
+		"minor_group": "Sales, Marketing and Development Managers",
+		"occupation": "Sales and Marketing Managers"
+	},
+	{
+		"id": "1222",
+		"major_group": "Managers",
+		"sub_major_group": "Administrative and Commercial Managers",
+		"minor_group": "Sales, Marketing and Development Managers",
+		"occupation": "Advertising and Public Relations Managers"
+	},
+	{
+		"id": "1223",
+		"major_group": "Managers",
+		"sub_major_group": "Administrative and Commercial Managers",
+		"minor_group": "Sales, Marketing and Development Managers",
+		"occupation": "Research and Development Managers"
+	},
+	{
+		"id": "1311",
+		"major_group": "Managers",
+		"sub_major_group": "Production and Specialized Services Managers",
+		"minor_group": "Production Managers in Agriculture, Forestry and Fisheries",
+		"occupation": "Agricultural and Forestry Production Managers"
+	},
+	{
+		"id": "1312",
+		"major_group": "Managers",
+		"sub_major_group": "Production and Specialized Services Managers",
+		"minor_group": "Production Managers in Agriculture, Forestry and Fisheries",
+		"occupation": "Aquaculture and Fisheries Production Managers"
+	},
+	{
+		"id": "1321",
+		"major_group": "Managers",
+		"sub_major_group": "Production and Specialized Services Managers",
+		"minor_group": "Manufacturing, Mining, Construction and Distribution Managers",
+		"occupation": "Manufacturing Managers"
+	},
+	{
+		"id": "1322",
+		"major_group": "Managers",
+		"sub_major_group": "Production and Specialized Services Managers",
+		"minor_group": "Manufacturing, Mining, Construction and Distribution Managers",
+		"occupation": "Mining Managers"
+	},
+	{
+		"id": "1323",
+		"major_group": "Managers",
+		"sub_major_group": "Production and Specialized Services Managers",
+		"minor_group": "Manufacturing, Mining, Construction and Distribution Managers",
+		"occupation": "Construction Managers"
+	},
+	{
+		"id": "1324",
+		"major_group": "Managers",
+		"sub_major_group": "Production and Specialized Services Managers",
+		"minor_group": "Manufacturing, Mining, Construction and Distribution Managers",
+		"occupation": "Supply, Distribution and Related Managers"
+	},
+	{
+		"id": "1330",
+		"major_group": "Managers",
+		"sub_major_group": "Production and Specialized Services Managers",
+		"minor_group": "Information and Communications Technology Services Managers",
+		"occupation": "Information and Communications Technology Services Managers"
+	},
+	{
+		"id": "1341",
+		"major_group": "Managers",
+		"sub_major_group": "Production and Specialized Services Managers",
+		"minor_group": "Professional Services Managers",
+		"occupation": "Child Care Services Managers"
+	},
+	{
+		"id": "1342",
+		"major_group": "Managers",
+		"sub_major_group": "Production and Specialized Services Managers",
+		"minor_group": "Professional Services Managers",
+		"occupation": "Health Services Managers"
+	},
+	{
+		"id": "1343",
+		"major_group": "Managers",
+		"sub_major_group": "Production and Specialized Services Managers",
+		"minor_group": "Professional Services Managers",
+		"occupation": "Aged Care Services Managers"
+	},
+	{
+		"id": "1344",
+		"major_group": "Managers",
+		"sub_major_group": "Production and Specialized Services Managers",
+		"minor_group": "Professional Services Managers",
+		"occupation": "Social Welfare Managers"
+	},
+	{
+		"id": "1345",
+		"major_group": "Managers",
+		"sub_major_group": "Production and Specialized Services Managers",
+		"minor_group": "Professional Services Managers",
+		"occupation": "Education Managers"
+	},
+	{
+		"id": "1346",
+		"major_group": "Managers",
+		"sub_major_group": "Production and Specialized Services Managers",
+		"minor_group": "Professional Services Managers",
+		"occupation": "Financial and Insurance Services Branch Managers"
+	},
+	{
+		"id": "1349",
+		"major_group": "Managers",
+		"sub_major_group": "Production and Specialized Services Managers",
+		"minor_group": "Professional Services Managers",
+		"occupation": "Professional Services Managers Not Elsewhere Classified"
+	},
+	{
+		"id": "1411",
+		"major_group": "Managers",
+		"sub_major_group": "Hospitality, Retail and Other Services Managers",
+		"minor_group": "Hotel and Restaurant Managers",
+		"occupation": "Hotel Managers"
+	},
+	{
+		"id": "1412",
+		"major_group": "Managers",
+		"sub_major_group": "Hospitality, Retail and Other Services Managers",
+		"minor_group": "Hotel and Restaurant Managers",
+		"occupation": "Restaurant Managers"
+	},
+	{
+		"id": "1420",
+		"major_group": "Managers",
+		"sub_major_group": "Hospitality, Retail and Other Services Managers",
+		"minor_group": "Retail and Wholesale Trade Managers",
+		"occupation": "Retail and Wholesale Trade Managers"
+	},
+	{
+		"id": "1431",
+		"major_group": "Managers",
+		"sub_major_group": "Hospitality, Retail and Other Services Managers",
+		"minor_group": "Other Services Managers",
+		"occupation": "Sports, Recreation and Cultural Centre Managers"
+	},
+	{
+		"id": "1439",
+		"major_group": "Managers",
+		"sub_major_group": "Hospitality, Retail and Other Services Managers",
+		"minor_group": "Other Services Managers",
+		"occupation": "Services Managers Not Elsewhere Classified"
+	},
+	{
+		"id": "2111",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Physical and Earth Science Professionals",
+		"occupation": "Physicists and Astronomers"
+	},
+	{
+		"id": "2112",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Physical and Earth Science Professionals",
+		"occupation": "Meteorologists"
+	},
+	{
+		"id": "2113",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Physical and Earth Science Professionals",
+		"occupation": "Chemists"
+	},
+	{
+		"id": "2114",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Physical and Earth Science Professionals",
+		"occupation": "Geologists and Geophysicists"
+	},
+	{
+		"id": "2120",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Mathematicians, Actuaries and Statisticians",
+		"occupation": "Mathematicians, Actuaries and Statisticians"
+	},
+	{
+		"id": "2131",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Life Science Professionals",
+		"occupation": "Biologists, Botanists, Zoologists and Related Professionals"
+	},
+	{
+		"id": "2132",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Life Science Professionals",
+		"occupation": "Farming, Forestry and Fisheries Advisers"
+	},
+	{
+		"id": "2133",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Life Science Professionals",
+		"occupation": "Environmental Protection Professionals"
+	},
+	{
+		"id": "2141",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Engineering Professionals (excluding Electrotechnology)",
+		"occupation": "Industrial and Production Engineers"
+	},
+	{
+		"id": "2142",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Engineering Professionals (excluding Electrotechnology)",
+		"occupation": "Civil Engineers"
+	},
+	{
+		"id": "2143",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Engineering Professionals (excluding Electrotechnology)",
+		"occupation": "Environmental Engineers"
+	},
+	{
+		"id": "2144",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Engineering Professionals (excluding Electrotechnology)",
+		"occupation": "Mechanical Engineers"
+	},
+	{
+		"id": "2145",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Engineering Professionals (excluding Electrotechnology)",
+		"occupation": "Chemical Engineers"
+	},
+	{
+		"id": "2146",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Engineering Professionals (excluding Electrotechnology)",
+		"occupation": "Mining Engineers, Metallurgists and Related Professionals"
+	},
+	{
+		"id": "2149",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Engineering Professionals (excluding Electrotechnology)",
+		"occupation": "Engineering Professionals Not Elsewhere Classified"
+	},
+	{
+		"id": "2151",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Electrotechnology Engineers",
+		"occupation": "Electrical Engineers"
+	},
+	{
+		"id": "2152",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Electrotechnology Engineers",
+		"occupation": "Electronics Engineers"
+	},
+	{
+		"id": "2153",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Electrotechnology Engineers",
+		"occupation": "Telecommunications Engineers"
+	},
+	{
+		"id": "2161",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Architects, Planners, Surveyors and Designers",
+		"occupation": "Building Architects"
+	},
+	{
+		"id": "2162",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Architects, Planners, Surveyors and Designers",
+		"occupation": "Landscape Architects"
+	},
+	{
+		"id": "2163",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Architects, Planners, Surveyors and Designers",
+		"occupation": "Product and Garment Designers"
+	},
+	{
+		"id": "2164",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Architects, Planners, Surveyors and Designers",
+		"occupation": "Town and Traffic Planners"
+	},
+	{
+		"id": "2165",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Architects, Planners, Surveyors and Designers",
+		"occupation": "Cartographers and Surveyors"
+	},
+	{
+		"id": "2166",
+		"major_group": "Professionals",
+		"sub_major_group": "Science and Engineering Professionals",
+		"minor_group": "Architects, Planners, Surveyors and Designers",
+		"occupation": "Graphic and Multimedia Designers"
+	},
+	{
+		"id": "2211",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Medical Doctors",
+		"occupation": "Generalist Medical Practitioners "
+	},
+	{
+		"id": "2212",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Medical Doctors",
+		"occupation": "Specialist Medical Practitioners "
+	},
+	{
+		"id": "2221",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Nursing and Midwifery Professionals",
+		"occupation": "Nursing Professionals"
+	},
+	{
+		"id": "2222",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Nursing and Midwifery Professionals",
+		"occupation": "Midwifery Professionals"
+	},
+	{
+		"id": "2230",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Traditional and Complementary Medicine Professionals",
+		"occupation": "Traditional and Complementary Medicine Professionals"
+	},
+	{
+		"id": "2240",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Paramedical Practitioners",
+		"occupation": "Paramedical Practitioners"
+	},
+	{
+		"id": "2250",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Veterinarians",
+		"occupation": "Veterinarians"
+	},
+	{
+		"id": "2261",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Other Health Professionals",
+		"occupation": "Dentists"
+	},
+	{
+		"id": "2262",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Other Health Professionals",
+		"occupation": "Pharmacists"
+	},
+	{
+		"id": "2263",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Other Health Professionals",
+		"occupation": "Environmental and Occupational Health and Hygiene Professionals"
+	},
+	{
+		"id": "2264",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Other Health Professionals",
+		"occupation": "Physiotherapists "
+	},
+	{
+		"id": "2265",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Other Health Professionals",
+		"occupation": "Dieticians and Nutritionists"
+	},
+	{
+		"id": "2266",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Other Health Professionals",
+		"occupation": "Audiologists and Speech Therapists"
+	},
+	{
+		"id": "2267",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Other Health Professionals",
+		"occupation": "Optometrists and Ophthalmic Opticians"
+	},
+	{
+		"id": "2269",
+		"major_group": "Professionals",
+		"sub_major_group": "Health Professionals",
+		"minor_group": "Other Health Professionals",
+		"occupation": "Health Professionals Not Elsewhere Classified"
+	},
+	{
+		"id": "2310",
+		"major_group": "Professionals",
+		"sub_major_group": "Teaching Professionals",
+		"minor_group": "University and Higher Education Teachers",
+		"occupation": "University and Higher Education Teachers"
+	},
+	{
+		"id": "2320",
+		"major_group": "Professionals",
+		"sub_major_group": "Teaching Professionals",
+		"minor_group": "Vocational Education Teachers",
+		"occupation": "Vocational Education Teachers"
+	},
+	{
+		"id": "2330",
+		"major_group": "Professionals",
+		"sub_major_group": "Teaching Professionals",
+		"minor_group": "Secondary Education Teachers",
+		"occupation": "Secondary Education Teachers"
+	},
+	{
+		"id": "2341",
+		"major_group": "Professionals",
+		"sub_major_group": "Teaching Professionals",
+		"minor_group": "Primary School and Early Childhood Teachers",
+		"occupation": "Primary School Teachers"
+	},
+	{
+		"id": "2342",
+		"major_group": "Professionals",
+		"sub_major_group": "Teaching Professionals",
+		"minor_group": "Primary School and Early Childhood Teachers",
+		"occupation": "Early Childhood Educators"
+	},
+	{
+		"id": "2351",
+		"major_group": "Professionals",
+		"sub_major_group": "Teaching Professionals",
+		"minor_group": "Other Teaching Professionals",
+		"occupation": "Education Methods specialists"
+	},
+	{
+		"id": "2352",
+		"major_group": "Professionals",
+		"sub_major_group": "Teaching Professionals",
+		"minor_group": "Other Teaching Professionals",
+		"occupation": "Special Needs Teachers"
+	},
+	{
+		"id": "2353",
+		"major_group": "Professionals",
+		"sub_major_group": "Teaching Professionals",
+		"minor_group": "Other Teaching Professionals",
+		"occupation": "Other Language Teachers"
+	},
+	{
+		"id": "2354",
+		"major_group": "Professionals",
+		"sub_major_group": "Teaching Professionals",
+		"minor_group": "Other Teaching Professionals",
+		"occupation": "Other Music Teachers"
+	},
+	{
+		"id": "2355",
+		"major_group": "Professionals",
+		"sub_major_group": "Teaching Professionals",
+		"minor_group": "Other Teaching Professionals",
+		"occupation": "Other Arts Teachers"
+	},
+	{
+		"id": "2356",
+		"major_group": "Professionals",
+		"sub_major_group": "Teaching Professionals",
+		"minor_group": "Other Teaching Professionals",
+		"occupation": "Information Technology Trainers"
+	},
+	{
+		"id": "2359",
+		"major_group": "Professionals",
+		"sub_major_group": "Teaching Professionals",
+		"minor_group": "Other Teaching Professionals",
+		"occupation": "Teaching Professionals Not Elsewhere Classified"
+	},
+	{
+		"id": "2411",
+		"major_group": "Professionals",
+		"sub_major_group": "Business and Administration Professionals",
+		"minor_group": "Finance Professionals",
+		"occupation": "Accountants"
+	},
+	{
+		"id": "2412",
+		"major_group": "Professionals",
+		"sub_major_group": "Business and Administration Professionals",
+		"minor_group": "Finance Professionals",
+		"occupation": "Financial and Investment Advisers"
+	},
+	{
+		"id": "2413",
+		"major_group": "Professionals",
+		"sub_major_group": "Business and Administration Professionals",
+		"minor_group": "Finance Professionals",
+		"occupation": "Financial Analysts"
+	},
+	{
+		"id": "2421",
+		"major_group": "Professionals",
+		"sub_major_group": "Business and Administration Professionals",
+		"minor_group": "Administration Professionals",
+		"occupation": "Management and Organization Analysts"
+	},
+	{
+		"id": "2422",
+		"major_group": "Professionals",
+		"sub_major_group": "Business and Administration Professionals",
+		"minor_group": "Administration Professionals",
+		"occupation": "Policy Administration Professionals"
+	},
+	{
+		"id": "2423",
+		"major_group": "Professionals",
+		"sub_major_group": "Business and Administration Professionals",
+		"minor_group": "Administration Professionals",
+		"occupation": "Personnel and Careers Professionals"
+	},
+	{
+		"id": "2424",
+		"major_group": "Professionals",
+		"sub_major_group": "Business and Administration Professionals",
+		"minor_group": "Administration Professionals",
+		"occupation": "Training and Staff Development Professionals"
+	},
+	{
+		"id": "2431",
+		"major_group": "Professionals",
+		"sub_major_group": "Business and Administration Professionals",
+		"minor_group": "Sales, Marketing and Public Relations Professionals",
+		"occupation": "Advertising and Marketing Professionals"
+	},
+	{
+		"id": "2432",
+		"major_group": "Professionals",
+		"sub_major_group": "Business and Administration Professionals",
+		"minor_group": "Sales, Marketing and Public Relations Professionals",
+		"occupation": "Public Relations Professionals"
+	},
+	{
+		"id": "2433",
+		"major_group": "Professionals",
+		"sub_major_group": "Business and Administration Professionals",
+		"minor_group": "Sales, Marketing and Public Relations Professionals",
+		"occupation": "Technical and Medical Sales Professionals (excluding ICT)"
+	},
+	{
+		"id": "2434",
+		"major_group": "Professionals",
+		"sub_major_group": "Business and Administration Professionals",
+		"minor_group": "Sales, Marketing and Public Relations Professionals",
+		"occupation": "Information and Communications Technology Sales Professionals"
+	},
+	{
+		"id": "2511",
+		"major_group": "Professionals",
+		"sub_major_group": "Information and Communications Technology Professionals",
+		"minor_group": "Software and Applications Developers and Analysts",
+		"occupation": "Systems Analysts"
+	},
+	{
+		"id": "2512",
+		"major_group": "Professionals",
+		"sub_major_group": "Information and Communications Technology Professionals",
+		"minor_group": "Software and Applications Developers and Analysts",
+		"occupation": "Software Developers"
+	},
+	{
+		"id": "2513",
+		"major_group": "Professionals",
+		"sub_major_group": "Information and Communications Technology Professionals",
+		"minor_group": "Software and Applications Developers and Analysts",
+		"occupation": "Web and Multimedia Developers"
+	},
+	{
+		"id": "2514",
+		"major_group": "Professionals",
+		"sub_major_group": "Information and Communications Technology Professionals",
+		"minor_group": "Software and Applications Developers and Analysts",
+		"occupation": "Applications Programmers"
+	},
+	{
+		"id": "2519",
+		"major_group": "Professionals",
+		"sub_major_group": "Information and Communications Technology Professionals",
+		"minor_group": "Software and Applications Developers and Analysts",
+		"occupation": "Software and Applications Developers and Analysts Not Elsewhere Classified"
+	},
+	{
+		"id": "2521",
+		"major_group": "Professionals",
+		"sub_major_group": "Information and Communications Technology Professionals",
+		"minor_group": "Database and Network Professionals",
+		"occupation": "Database Designers and Administrators"
+	},
+	{
+		"id": "2522",
+		"major_group": "Professionals",
+		"sub_major_group": "Information and Communications Technology Professionals",
+		"minor_group": "Database and Network Professionals",
+		"occupation": "Systems Administrators"
+	},
+	{
+		"id": "2523",
+		"major_group": "Professionals",
+		"sub_major_group": "Information and Communications Technology Professionals",
+		"minor_group": "Database and Network Professionals",
+		"occupation": "Computer Network Professionals"
+	},
+	{
+		"id": "2529",
+		"major_group": "Professionals",
+		"sub_major_group": "Information and Communications Technology Professionals",
+		"minor_group": "Database and Network Professionals",
+		"occupation": "Database and Network Professionals Not Elsewhere Classified"
+	},
+	{
+		"id": "2611",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Legal Professionals",
+		"occupation": "Lawyers"
+	},
+	{
+		"id": "2612",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Legal Professionals",
+		"occupation": "Judges"
+	},
+	{
+		"id": "2619",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Legal Professionals",
+		"occupation": "Legal Professionals Not Elsewhere Classified"
+	},
+	{
+		"id": "2621",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Librarians, Archivists and Curators ",
+		"occupation": "Archivists and Curators"
+	},
+	{
+		"id": "2622",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Librarians, Archivists and Curators ",
+		"occupation": "Librarians and Related Information Professionals"
+	},
+	{
+		"id": "2631",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Social and Religious Professionals",
+		"occupation": "Economists"
+	},
+	{
+		"id": "2632",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Social and Religious Professionals",
+		"occupation": "Sociologists, Anthropologists and Related Professionals"
+	},
+	{
+		"id": "2633",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Social and Religious Professionals",
+		"occupation": "Philosophers, Historians and Political Scientists"
+	},
+	{
+		"id": "2634",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Social and Religious Professionals",
+		"occupation": "Psychologists"
+	},
+	{
+		"id": "2635",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Social and Religious Professionals",
+		"occupation": "Social Work and Counselling Professionals"
+	},
+	{
+		"id": "2636",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Social and Religious Professionals",
+		"occupation": "Religious Professionals"
+	},
+	{
+		"id": "2641",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Authors, Journalists and Linguists",
+		"occupation": "Authors and Related Writers"
+	},
+	{
+		"id": "2642",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Authors, Journalists and Linguists",
+		"occupation": "Journalists"
+	},
+	{
+		"id": "2643",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Authors, Journalists and Linguists",
+		"occupation": "Translators, Interpreters and Other Linguists"
+	},
+	{
+		"id": "2651",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Creative and Performing Artists",
+		"occupation": "Visual Artists"
+	},
+	{
+		"id": "2652",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Creative and Performing Artists",
+		"occupation": "Musicians, Singers and Composers"
+	},
+	{
+		"id": "2653",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Creative and Performing Artists",
+		"occupation": "Dancers and Choreographers"
+	},
+	{
+		"id": "2654",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Creative and Performing Artists",
+		"occupation": "Film, Stage and Related Directors and Producers"
+	},
+	{
+		"id": "2655",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Creative and Performing Artists",
+		"occupation": "Actors"
+	},
+	{
+		"id": "2656",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Creative and Performing Artists",
+		"occupation": "Announcers on Radio, Television and Other Media"
+	},
+	{
+		"id": "2659",
+		"major_group": "Professionals",
+		"sub_major_group": "Legal, Social and Cultural Professionals",
+		"minor_group": "Creative and Performing Artists",
+		"occupation": "Creative and Performing Artists Not Elsewhere Classified"
+	},
+	{
+		"id": "3111",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Physical and Engineering Science Technicians",
+		"occupation": "Chemical and Physical Science Technicians"
+	},
+	{
+		"id": "3112",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Physical and Engineering Science Technicians",
+		"occupation": "Civil Engineering Technicians"
+	},
+	{
+		"id": "3113",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Physical and Engineering Science Technicians",
+		"occupation": "Electrical Engineering Technicians"
+	},
+	{
+		"id": "3114",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Physical and Engineering Science Technicians",
+		"occupation": "Electronics Engineering Technicians"
+	},
+	{
+		"id": "3115",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Physical and Engineering Science Technicians",
+		"occupation": "Mechanical Engineering Technicians"
+	},
+	{
+		"id": "3116",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Physical and Engineering Science Technicians",
+		"occupation": "Chemical Engineering Technicians"
+	},
+	{
+		"id": "3117",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Physical and Engineering Science Technicians",
+		"occupation": "Mining and Metallurgical Technicians"
+	},
+	{
+		"id": "3118",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Physical and Engineering Science Technicians",
+		"occupation": "Draughtspersons"
+	},
+	{
+		"id": "3119",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Physical and Engineering Science Technicians",
+		"occupation": "Physical and Engineering Science Technicians Not Elsewhere Classified"
+	},
+	{
+		"id": "3121",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Mining, Manufacturing and Construction Supervisors",
+		"occupation": "Mining Supervisors"
+	},
+	{
+		"id": "3122",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Mining, Manufacturing and Construction Supervisors",
+		"occupation": "Manufacturing Supervisors"
+	},
+	{
+		"id": "3123",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Mining, Manufacturing and Construction Supervisors",
+		"occupation": "Construction Supervisors"
+	},
+	{
+		"id": "3131",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Process Control Technicians",
+		"occupation": "Power Production Plant Operators"
+	},
+	{
+		"id": "3132",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Process Control Technicians",
+		"occupation": "Incinerator and Water Treatment Plant Operators"
+	},
+	{
+		"id": "3133",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Process Control Technicians",
+		"occupation": "Chemical Processing Plant Controllers"
+	},
+	{
+		"id": "3134",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Process Control Technicians",
+		"occupation": "Petroleum and Natural Gas Refining Plant Operators"
+	},
+	{
+		"id": "3135",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Process Control Technicians",
+		"occupation": "Metal Production Process Controllers"
+	},
+	{
+		"id": "3139",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Process Control Technicians",
+		"occupation": "Process Control Technicians Not Elsewhere Classified"
+	},
+	{
+		"id": "3141",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Life Science Technicians and Related Associate Professionals",
+		"occupation": "Life Science Technicians (excluding Medical)"
+	},
+	{
+		"id": "3142",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Life Science Technicians and Related Associate Professionals",
+		"occupation": "Agricultural Technicians"
+	},
+	{
+		"id": "3143",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Life Science Technicians and Related Associate Professionals",
+		"occupation": "Forestry Technicians"
+	},
+	{
+		"id": "3151",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Ship and Aircraft Controllers and Technicians",
+		"occupation": "Ships� Engineers"
+	},
+	{
+		"id": "3152",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Ship and Aircraft Controllers and Technicians",
+		"occupation": "Ships� Deck Officers and Pilots"
+	},
+	{
+		"id": "3153",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Ship and Aircraft Controllers and Technicians",
+		"occupation": "Aircraft Pilots and Related Associate Professionals"
+	},
+	{
+		"id": "3154",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Ship and Aircraft Controllers and Technicians",
+		"occupation": "Air Traffic Controllers"
+	},
+	{
+		"id": "3155",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Science and Engineering Associate Professionals",
+		"minor_group": "Ship and Aircraft Controllers and Technicians",
+		"occupation": "Air Traffic Safety Electronics Technicians"
+	},
+	{
+		"id": "3211",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Medical and Pharmaceutical Technicians",
+		"occupation": "Medical Imaging and Therapeutic Equipment Technicians"
+	},
+	{
+		"id": "3212",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Medical and Pharmaceutical Technicians",
+		"occupation": "Medical and Pathology Laboratory Technicians "
+	},
+	{
+		"id": "3213",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Medical and Pharmaceutical Technicians",
+		"occupation": "Pharmaceutical Technicians and Assistants"
+	},
+	{
+		"id": "3214",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Medical and Pharmaceutical Technicians",
+		"occupation": "Medical and Dental Prosthetic Technicians"
+	},
+	{
+		"id": "3221",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Nursing and Midwifery Associate Professionals",
+		"occupation": "Nursing Associate Professionals"
+	},
+	{
+		"id": "3222",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Nursing and Midwifery Associate Professionals",
+		"occupation": "Midwifery Associate Professionals"
+	},
+	{
+		"id": "3230",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Traditional and Complementary Medicine Associate Professionals",
+		"occupation": "Traditional and Complementary Medicine Associate Professionals"
+	},
+	{
+		"id": "3240",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Veterinary Technicians and Assistants",
+		"occupation": "Veterinary Technicians and Assistants"
+	},
+	{
+		"id": "3251",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Other Health Associate Professionals",
+		"occupation": "Dental Assistants and Therapists"
+	},
+	{
+		"id": "3252",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Other Health Associate Professionals",
+		"occupation": "Medical Records and Health Information Technicians"
+	},
+	{
+		"id": "3253",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Other Health Associate Professionals",
+		"occupation": "Community Health Workers"
+	},
+	{
+		"id": "3254",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Other Health Associate Professionals",
+		"occupation": "Dispensing Opticians"
+	},
+	{
+		"id": "3255",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Other Health Associate Professionals",
+		"occupation": "Physiotherapy Technicians and Assistants"
+	},
+	{
+		"id": "3256",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Other Health Associate Professionals",
+		"occupation": "Medical Assistants"
+	},
+	{
+		"id": "3257",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Other Health Associate Professionals",
+		"occupation": "Environmental and Occupational Health Inspectors and Associates"
+	},
+	{
+		"id": "3258",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Other Health Associate Professionals",
+		"occupation": "Ambulance Workers"
+	},
+	{
+		"id": "3259",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Health Associate Professionals",
+		"minor_group": "Other Health Associate Professionals",
+		"occupation": "Health Associate Professionals Not Elsewhere Classified"
+	},
+	{
+		"id": "3311",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Financial and Mathematical Associate Professionals",
+		"occupation": "Securities and Finance Dealers and Brokers"
+	},
+	{
+		"id": "3312",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Financial and Mathematical Associate Professionals",
+		"occupation": "Credit and Loans Officers"
+	},
+	{
+		"id": "3313",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Financial and Mathematical Associate Professionals",
+		"occupation": "Accounting Associate Professionals"
+	},
+	{
+		"id": "3314",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Financial and Mathematical Associate Professionals",
+		"occupation": "Statistical, Mathematical and Related Associate Professionals"
+	},
+	{
+		"id": "3315",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Financial and Mathematical Associate Professionals",
+		"occupation": "Valuers and Loss Assessors"
+	},
+	{
+		"id": "3321",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Sales and Purchasing Agents and Brokers",
+		"occupation": "Insurance Representatives"
+	},
+	{
+		"id": "3322",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Sales and Purchasing Agents and Brokers",
+		"occupation": "Commercial Sales Representatives"
+	},
+	{
+		"id": "3323",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Sales and Purchasing Agents and Brokers",
+		"occupation": "Buyers"
+	},
+	{
+		"id": "3324",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Sales and Purchasing Agents and Brokers",
+		"occupation": "Trade Brokers"
+	},
+	{
+		"id": "3331",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Business Services Agents",
+		"occupation": "Clearing and Forwarding Agents"
+	},
+	{
+		"id": "3332",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Business Services Agents",
+		"occupation": "Conference and Event Planners"
+	},
+	{
+		"id": "3333",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Business Services Agents",
+		"occupation": "Employment Agents and Contractors"
+	},
+	{
+		"id": "3334",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Business Services Agents",
+		"occupation": "Real Estate Agents and Property Managers"
+	},
+	{
+		"id": "3339",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Business Services Agents",
+		"occupation": "Business Services Agents Not Elsewhere Classified"
+	},
+	{
+		"id": "3341",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Administrative and Specialized Secretaries",
+		"occupation": "Office Supervisors"
+	},
+	{
+		"id": "3342",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Administrative and Specialized Secretaries",
+		"occupation": "Legal Secretaries"
+	},
+	{
+		"id": "3343",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Administrative and Specialized Secretaries",
+		"occupation": "Administrative and Executive Secretaries"
+	},
+	{
+		"id": "3344",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Administrative and Specialized Secretaries",
+		"occupation": "Medical Secretaries"
+	},
+	{
+		"id": "3351",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Government Regulatory Associate Professionals",
+		"occupation": "Customs and Border Inspectors"
+	},
+	{
+		"id": "3352",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Government Regulatory Associate Professionals",
+		"occupation": "Government Tax and Excise Officials"
+	},
+	{
+		"id": "3353",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Government Regulatory Associate Professionals",
+		"occupation": "Government Social Benefits Officials"
+	},
+	{
+		"id": "3354",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Government Regulatory Associate Professionals",
+		"occupation": "Government Licensing Officials"
+	},
+	{
+		"id": "3355",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Government Regulatory Associate Professionals",
+		"occupation": "Police Inspectors and Detectives"
+	},
+	{
+		"id": "3359",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Business and Administration Associate Professionals",
+		"minor_group": "Government Regulatory Associate Professionals",
+		"occupation": "Government Regulatory Associate Professionals Not Elsewhere Classified"
+	},
+	{
+		"id": "3411",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Legal, Social, Cultural and Related Associate Professionals",
+		"minor_group": "Legal, Social and Religious Associate Professionals",
+		"occupation": "Legal and Related Associate Professionals"
+	},
+	{
+		"id": "3412",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Legal, Social, Cultural and Related Associate Professionals",
+		"minor_group": "Legal, Social and Religious Associate Professionals",
+		"occupation": "Social Work Associate Professionals"
+	},
+	{
+		"id": "3413",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Legal, Social, Cultural and Related Associate Professionals",
+		"minor_group": "Legal, Social and Religious Associate Professionals",
+		"occupation": "Religious Associate Professionals"
+	},
+	{
+		"id": "3421",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Legal, Social, Cultural and Related Associate Professionals",
+		"minor_group": "Sports and Fitness Workers",
+		"occupation": "Athletes and Sports Players"
+	},
+	{
+		"id": "3422",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Legal, Social, Cultural and Related Associate Professionals",
+		"minor_group": "Sports and Fitness Workers",
+		"occupation": "Sports Coaches, Instructors and Officials"
+	},
+	{
+		"id": "3423",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Legal, Social, Cultural and Related Associate Professionals",
+		"minor_group": "Sports and Fitness Workers",
+		"occupation": "Fitness and Recreation Instructors and Programme Leaders"
+	},
+	{
+		"id": "3431",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Legal, Social, Cultural and Related Associate Professionals",
+		"minor_group": "Artistic, Cultural and Culinary Associate Professionals",
+		"occupation": "Photographers"
+	},
+	{
+		"id": "3432",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Legal, Social, Cultural and Related Associate Professionals",
+		"minor_group": "Artistic, Cultural and Culinary Associate Professionals",
+		"occupation": "Interior Designers and Decorators"
+	},
+	{
+		"id": "3433",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Legal, Social, Cultural and Related Associate Professionals",
+		"minor_group": "Artistic, Cultural and Culinary Associate Professionals",
+		"occupation": "Gallery, Museum and Library Technicians"
+	},
+	{
+		"id": "3434",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Legal, Social, Cultural and Related Associate Professionals",
+		"minor_group": "Artistic, Cultural and Culinary Associate Professionals",
+		"occupation": "Chefs"
+	},
+	{
+		"id": "3435",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Legal, Social, Cultural and Related Associate Professionals",
+		"minor_group": "Artistic, Cultural and Culinary Associate Professionals",
+		"occupation": "Other Artistic and Cultural Associate Professionals"
+	},
+	{
+		"id": "3511",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Information and Communications Technicians",
+		"minor_group": "Information and Communications Technology Operations and User Support Technicians",
+		"occupation": "Information and Communications Technology Operations Technicians"
+	},
+	{
+		"id": "3512",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Information and Communications Technicians",
+		"minor_group": "Information and Communications Technology Operations and User Support Technicians",
+		"occupation": "Information and Communications Technology User Support Technicians"
+	},
+	{
+		"id": "3513",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Information and Communications Technicians",
+		"minor_group": "Information and Communications Technology Operations and User Support Technicians",
+		"occupation": "Computer Network and Systems Technicians"
+	},
+	{
+		"id": "3514",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Information and Communications Technicians",
+		"minor_group": "Information and Communications Technology Operations and User Support Technicians",
+		"occupation": "Web Technicians"
+	},
+	{
+		"id": "3521",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Information and Communications Technicians",
+		"minor_group": "Telecommunications and Broadcasting Technicians",
+		"occupation": "Broadcasting and Audiovisual Technicians"
+	},
+	{
+		"id": "3522",
+		"major_group": "Technicians and Associate Professionals",
+		"sub_major_group": "Information and Communications Technicians",
+		"minor_group": "Telecommunications and Broadcasting Technicians",
+		"occupation": "Telecommunications Engineering Technicians"
+	},
+	{
+		"id": "4110",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "General and Keyboard Clerks",
+		"minor_group": "General Office Clerks",
+		"occupation": "General Office Clerks"
+	},
+	{
+		"id": "4120",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "General and Keyboard Clerks",
+		"minor_group": "Secretaries (general)",
+		"occupation": "Secretaries (general)"
+	},
+	{
+		"id": "4131",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "General and Keyboard Clerks",
+		"minor_group": "Keyboard Operators",
+		"occupation": "Typists and Word Processing Operators"
+	},
+	{
+		"id": "4132",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "General and Keyboard Clerks",
+		"minor_group": "Keyboard Operators",
+		"occupation": "Data Entry Clerks"
+	},
+	{
+		"id": "4211",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Customer Services Clerks",
+		"minor_group": "Tellers, Money Collectors and Related Clerks",
+		"occupation": "Bank Tellers and Related Clerks"
+	},
+	{
+		"id": "4212",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Customer Services Clerks",
+		"minor_group": "Tellers, Money Collectors and Related Clerks",
+		"occupation": "Bookmakers, Croupiers and Related Gaming Workers"
+	},
+	{
+		"id": "4213",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Customer Services Clerks",
+		"minor_group": "Tellers, Money Collectors and Related Clerks",
+		"occupation": "Pawnbrokers and Money-lenders"
+	},
+	{
+		"id": "4214",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Customer Services Clerks",
+		"minor_group": "Tellers, Money Collectors and Related Clerks",
+		"occupation": "Debt Collectors and Related Workers"
+	},
+	{
+		"id": "4221",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Customer Services Clerks",
+		"minor_group": "Client Information Workers",
+		"occupation": "Travel Consultants and Clerks"
+	},
+	{
+		"id": "4222",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Customer Services Clerks",
+		"minor_group": "Client Information Workers",
+		"occupation": "Contact Centre Information Clerks"
+	},
+	{
+		"id": "4223",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Customer Services Clerks",
+		"minor_group": "Client Information Workers",
+		"occupation": "Telephone Switchboard Operators"
+	},
+	{
+		"id": "4224",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Customer Services Clerks",
+		"minor_group": "Client Information Workers",
+		"occupation": "Hotel Receptionists"
+	},
+	{
+		"id": "4225",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Customer Services Clerks",
+		"minor_group": "Client Information Workers",
+		"occupation": "Inquiry Clerks"
+	},
+	{
+		"id": "4226",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Customer Services Clerks",
+		"minor_group": "Client Information Workers",
+		"occupation": "Receptionists (general)"
+	},
+	{
+		"id": "4227",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Customer Services Clerks",
+		"minor_group": "Client Information Workers",
+		"occupation": "Survey and Market Research Interviewers"
+	},
+	{
+		"id": "4229",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Customer Services Clerks",
+		"minor_group": "Client Information Workers",
+		"occupation": "Client Information Workers Not Elsewhere Classified"
+	},
+	{
+		"id": "4311",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Numerical and Material Recording Clerks",
+		"minor_group": "Numerical Clerks",
+		"occupation": "Accounting and Bookkeeping Clerks"
+	},
+	{
+		"id": "4312",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Numerical and Material Recording Clerks",
+		"minor_group": "Numerical Clerks",
+		"occupation": "Statistical, Finance and Insurance Clerks"
+	},
+	{
+		"id": "4313",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Numerical and Material Recording Clerks",
+		"minor_group": "Numerical Clerks",
+		"occupation": "Payroll Clerks"
+	},
+	{
+		"id": "4321",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Numerical and Material Recording Clerks",
+		"minor_group": "Material Recording and Transport Clerks",
+		"occupation": "Stock Clerks"
+	},
+	{
+		"id": "4322",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Numerical and Material Recording Clerks",
+		"minor_group": "Material Recording and Transport Clerks",
+		"occupation": "Production Clerks"
+	},
+	{
+		"id": "4323",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Numerical and Material Recording Clerks",
+		"minor_group": "Material Recording and Transport Clerks",
+		"occupation": "Transport Clerks"
+	},
+	{
+		"id": "4411",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Other Clerical Support Workers",
+		"minor_group": "Other Clerical Support Workers",
+		"occupation": "Library Clerks"
+	},
+	{
+		"id": "4412",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Other Clerical Support Workers",
+		"minor_group": "Other Clerical Support Workers",
+		"occupation": "Mail Carriers and Sorting Clerks"
+	},
+	{
+		"id": "4413",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Other Clerical Support Workers",
+		"minor_group": "Other Clerical Support Workers",
+		"occupation": "Coding, Proofreading and Related Clerks"
+	},
+	{
+		"id": "4414",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Other Clerical Support Workers",
+		"minor_group": "Other Clerical Support Workers",
+		"occupation": "Scribes and Related Workers"
+	},
+	{
+		"id": "4415",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Other Clerical Support Workers",
+		"minor_group": "Other Clerical Support Workers",
+		"occupation": "Filing and Copying Clerks"
+	},
+	{
+		"id": "4416",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Other Clerical Support Workers",
+		"minor_group": "Other Clerical Support Workers",
+		"occupation": "Personnel Clerks"
+	},
+	{
+		"id": "4419",
+		"major_group": "Clerical Support Workers",
+		"sub_major_group": "Other Clerical Support Workers",
+		"minor_group": "Other Clerical Support Workers",
+		"occupation": "Clerical Support Workers Not Elsewhere Classified"
+	},
+	{
+		"id": "5111",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Travel Attendants, Conductors and Guides",
+		"occupation": "Travel Attendants and Travel Stewards"
+	},
+	{
+		"id": "5112",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Travel Attendants, Conductors and Guides",
+		"occupation": "Transport Conductors"
+	},
+	{
+		"id": "5113",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Travel Attendants, Conductors and Guides",
+		"occupation": "Travel Guides"
+	},
+	{
+		"id": "5120",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Cooks",
+		"occupation": "Cooks"
+	},
+	{
+		"id": "5131",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Waiters and Bartenders",
+		"occupation": "Waiters"
+	},
+	{
+		"id": "5132",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Waiters and Bartenders",
+		"occupation": "Bartenders"
+	},
+	{
+		"id": "5141",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Hairdressers, Beauticians and Related Workers",
+		"occupation": "Hairdressers"
+	},
+	{
+		"id": "5142",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Hairdressers, Beauticians and Related Workers",
+		"occupation": "Beauticians and Related Workers"
+	},
+	{
+		"id": "5151",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Building and Housekeeping Supervisors",
+		"occupation": "Cleaning and Housekeeping Supervisors in Offices, Hotels and Other Establishments"
+	},
+	{
+		"id": "5152",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Building and Housekeeping Supervisors",
+		"occupation": "Domestic Housekeepers"
+	},
+	{
+		"id": "5153",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Building and Housekeeping Supervisors",
+		"occupation": "Building Caretakers"
+	},
+	{
+		"id": "5161",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Other Personal Services Workers",
+		"occupation": "Astrologers, Fortune-tellers and Related Workers"
+	},
+	{
+		"id": "5162",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Other Personal Services Workers",
+		"occupation": "Companions and Valets"
+	},
+	{
+		"id": "5163",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Other Personal Services Workers",
+		"occupation": "Undertakers and Embalmers"
+	},
+	{
+		"id": "5164",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Other Personal Services Workers",
+		"occupation": "Pet Groomers and Animal Care Workers"
+	},
+	{
+		"id": "5165",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Other Personal Services Workers",
+		"occupation": "Driving Instructors"
+	},
+	{
+		"id": "5169",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Services Workers",
+		"minor_group": "Other Personal Services Workers",
+		"occupation": "Personal Services Workers Not Elsewhere Classified"
+	},
+	{
+		"id": "5211",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Sales Workers",
+		"minor_group": "Street and Market Salespersons",
+		"occupation": "Stall and Market Salespersons"
+	},
+	{
+		"id": "5212",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Sales Workers",
+		"minor_group": "Street and Market Salespersons",
+		"occupation": "Street Food Salespersons"
+	},
+	{
+		"id": "5221",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Sales Workers",
+		"minor_group": "Shop Salespersons ",
+		"occupation": "Shopkeepers"
+	},
+	{
+		"id": "5222",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Sales Workers",
+		"minor_group": "Shop Salespersons ",
+		"occupation": "Shop Supervisors"
+	},
+	{
+		"id": "5223",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Sales Workers",
+		"minor_group": "Shop Salespersons ",
+		"occupation": "Shop Sales Assistants"
+	},
+	{
+		"id": "5230",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Sales Workers",
+		"minor_group": "Cashiers and Ticket Clerks",
+		"occupation": "Cashiers and Ticket Clerks"
+	},
+	{
+		"id": "5241",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Sales Workers",
+		"minor_group": "Other Sales Workers",
+		"occupation": "Fashion and Other Models"
+	},
+	{
+		"id": "5242",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Sales Workers",
+		"minor_group": "Other Sales Workers",
+		"occupation": "Sales Demonstrators"
+	},
+	{
+		"id": "5243",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Sales Workers",
+		"minor_group": "Other Sales Workers",
+		"occupation": "Door-to-door Salespersons"
+	},
+	{
+		"id": "5244",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Sales Workers",
+		"minor_group": "Other Sales Workers",
+		"occupation": "Contact Centre Salespersons"
+	},
+	{
+		"id": "5245",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Sales Workers",
+		"minor_group": "Other Sales Workers",
+		"occupation": "Service Station Attendants"
+	},
+	{
+		"id": "5246",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Sales Workers",
+		"minor_group": "Other Sales Workers",
+		"occupation": "Food Service Counter Attendants"
+	},
+	{
+		"id": "5249",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Sales Workers",
+		"minor_group": "Other Sales Workers",
+		"occupation": "Sales Workers Not Elsewhere Classified"
+	},
+	{
+		"id": "5311",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Care Workers",
+		"minor_group": "Child Care Workers and Teachers� Aides",
+		"occupation": "Child Care Workers"
+	},
+	{
+		"id": "5312",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Care Workers",
+		"minor_group": "Child Care Workers and Teachers� Aides",
+		"occupation": "Teachers� Aides"
+	},
+	{
+		"id": "5321",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Care Workers",
+		"minor_group": "Personal Care Workers in Health Services",
+		"occupation": "Health Care Assistants"
+	},
+	{
+		"id": "5322",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Care Workers",
+		"minor_group": "Personal Care Workers in Health Services",
+		"occupation": "Home-based Personal Care Workers"
+	},
+	{
+		"id": "5329",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Personal Care Workers",
+		"minor_group": "Personal Care Workers in Health Services",
+		"occupation": "Personal Care Workers in Health Services Not Elsewhere Classified"
+	},
+	{
+		"id": "5411",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Protective Services Workers",
+		"minor_group": "Protective Services Workers",
+		"occupation": "Firefighters"
+	},
+	{
+		"id": "5412",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Protective Services Workers",
+		"minor_group": "Protective Services Workers",
+		"occupation": "Police Officers"
+	},
+	{
+		"id": "5413",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Protective Services Workers",
+		"minor_group": "Protective Services Workers",
+		"occupation": "Prison Guards"
+	},
+	{
+		"id": "5414",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Protective Services Workers",
+		"minor_group": "Protective Services Workers",
+		"occupation": "Security Guards"
+	},
+	{
+		"id": "5419",
+		"major_group": "Services And Sales Workers",
+		"sub_major_group": "Protective Services Workers",
+		"minor_group": "Protective Services Workers",
+		"occupation": "Protective Services Workers Not Elsewhere Classified"
+	},
+	{
+		"id": "6111",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Market-oriented Skilled Agricultural Workers",
+		"minor_group": "Market Gardeners and Crop Growers",
+		"occupation": "Field Crop and Vegetable Growers"
+	},
+	{
+		"id": "6112",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Market-oriented Skilled Agricultural Workers",
+		"minor_group": "Market Gardeners and Crop Growers",
+		"occupation": "Tree and Shrub Crop Growers"
+	},
+	{
+		"id": "6113",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Market-oriented Skilled Agricultural Workers",
+		"minor_group": "Market Gardeners and Crop Growers",
+		"occupation": "Gardeners; Horticultural and Nursery Growers"
+	},
+	{
+		"id": "6114",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Market-oriented Skilled Agricultural Workers",
+		"minor_group": "Market Gardeners and Crop Growers",
+		"occupation": "Mixed Crop Growers"
+	},
+	{
+		"id": "6121",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Market-oriented Skilled Agricultural Workers",
+		"minor_group": "Animal Producers",
+		"occupation": "Livestock and Dairy Producers"
+	},
+	{
+		"id": "6122",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Market-oriented Skilled Agricultural Workers",
+		"minor_group": "Animal Producers",
+		"occupation": "Poultry Producers"
+	},
+	{
+		"id": "6123",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Market-oriented Skilled Agricultural Workers",
+		"minor_group": "Animal Producers",
+		"occupation": "Apiarists and Sericulturists"
+	},
+	{
+		"id": "6129",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Market-oriented Skilled Agricultural Workers",
+		"minor_group": "Animal Producers",
+		"occupation": "Animal Producers Not Elsewhere Classified"
+	},
+	{
+		"id": "6130",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Market-oriented Skilled Agricultural Workers",
+		"minor_group": "Mixed Crop and Animal Producers",
+		"occupation": "Mixed Crop and Animal Producers"
+	},
+	{
+		"id": "6210",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Market-oriented Skilled Forestry, Fishery and Hunting Workers",
+		"minor_group": "Forestry and Related Workers",
+		"occupation": "Forestry and Related Workers"
+	},
+	{
+		"id": "6221",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Market-oriented Skilled Forestry, Fishery and Hunting Workers",
+		"minor_group": "Fishery Workers, Hunters and Trappers",
+		"occupation": "Aquaculture Workers"
+	},
+	{
+		"id": "6222",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Market-oriented Skilled Forestry, Fishery and Hunting Workers",
+		"minor_group": "Fishery Workers, Hunters and Trappers",
+		"occupation": "Inland and Coastal Waters Fishery Workers"
+	},
+	{
+		"id": "6223",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Market-oriented Skilled Forestry, Fishery and Hunting Workers",
+		"minor_group": "Fishery Workers, Hunters and Trappers",
+		"occupation": "Deep-sea Fishery Workers"
+	},
+	{
+		"id": "6224",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Market-oriented Skilled Forestry, Fishery and Hunting Workers",
+		"minor_group": "Fishery Workers, Hunters and Trappers",
+		"occupation": "Hunters and Trappers"
+	},
+	{
+		"id": "6310",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Subsistence Farmers, Fishers, Hunters and Gatherers",
+		"minor_group": "Subsistence Crop Farmers",
+		"occupation": "Subsistence Crop Farmers"
+	},
+	{
+		"id": "6320",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Subsistence Farmers, Fishers, Hunters and Gatherers",
+		"minor_group": "Subsistence Livestock Farmers",
+		"occupation": "Subsistence Livestock Farmers"
+	},
+	{
+		"id": "6330",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Subsistence Farmers, Fishers, Hunters and Gatherers",
+		"minor_group": "Subsistence Mixed Crop and Livestock Farmers",
+		"occupation": "Subsistence Mixed Crop and Livestock Farmers"
+	},
+	{
+		"id": "6340",
+		"major_group": "Skilled Agricultural, Forestry and Fishery Workers",
+		"sub_major_group": "Subsistence Farmers, Fishers, Hunters and Gatherers",
+		"minor_group": "Subsistence Fishers, Hunters, Trappers and Gatherers",
+		"occupation": "Subsistence Fishers, Hunters, Trappers and Gatherers"
+	},
+	{
+		"id": "7111",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Building Frame and Related Trades Workers",
+		"occupation": "House Builders"
+	},
+	{
+		"id": "7112",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Building Frame and Related Trades Workers",
+		"occupation": "Bricklayers and Related Workers"
+	},
+	{
+		"id": "7113",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Building Frame and Related Trades Workers",
+		"occupation": "Stonemasons, Stone Cutters, Splitters and Carvers"
+	},
+	{
+		"id": "7114",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Building Frame and Related Trades Workers",
+		"occupation": "Concrete Placers, Concrete Finishers and Related Workers"
+	},
+	{
+		"id": "7115",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Building Frame and Related Trades Workers",
+		"occupation": "Carpenters and Joiners"
+	},
+	{
+		"id": "7119",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Building Frame and Related Trades Workers",
+		"occupation": "Building Frame and Related Trades Workers Not Elsewhere Classified"
+	},
+	{
+		"id": "7121",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Building Finishers and Related Trades Workers",
+		"occupation": "Roofers"
+	},
+	{
+		"id": "7122",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Building Finishers and Related Trades Workers",
+		"occupation": "Floor Layers and Tile Setters"
+	},
+	{
+		"id": "7123",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Building Finishers and Related Trades Workers",
+		"occupation": "Plasterers"
+	},
+	{
+		"id": "7124",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Building Finishers and Related Trades Workers",
+		"occupation": "Insulation Workers"
+	},
+	{
+		"id": "7125",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Building Finishers and Related Trades Workers",
+		"occupation": "Glaziers"
+	},
+	{
+		"id": "7126",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Building Finishers and Related Trades Workers",
+		"occupation": "Plumbers and Pipe Fitters"
+	},
+	{
+		"id": "7127",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Building Finishers and Related Trades Workers",
+		"occupation": "Air Conditioning and Refrigeration Mechanics"
+	},
+	{
+		"id": "7131",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Painters, Building Structure Cleaners and Related Trades Workers",
+		"occupation": "Painters and Related Workers"
+	},
+	{
+		"id": "7132",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Painters, Building Structure Cleaners and Related Trades Workers",
+		"occupation": "Spray Painters and Varnishers"
+	},
+	{
+		"id": "7133",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Building and Related Trades Workers (excluding Electricians)",
+		"minor_group": "Painters, Building Structure Cleaners and Related Trades Workers",
+		"occupation": "Building Structure Cleaners"
+	},
+	{
+		"id": "7211",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Metal, Machinery and Related Trades Workers",
+		"minor_group": "Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",
+		"occupation": "Metal Moulders and Coremakers"
+	},
+	{
+		"id": "7212",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Metal, Machinery and Related Trades Workers",
+		"minor_group": "Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",
+		"occupation": "Welders and Flame Cutters"
+	},
+	{
+		"id": "7213",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Metal, Machinery and Related Trades Workers",
+		"minor_group": "Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",
+		"occupation": "Sheet Metal Workers"
+	},
+	{
+		"id": "7214",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Metal, Machinery and Related Trades Workers",
+		"minor_group": "Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",
+		"occupation": "Structural Metal Preparers and Erectors"
+	},
+	{
+		"id": "7215",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Metal, Machinery and Related Trades Workers",
+		"minor_group": "Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers",
+		"occupation": "Riggers and Cable Splicers"
+	},
+	{
+		"id": "7221",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Metal, Machinery and Related Trades Workers",
+		"minor_group": "Blacksmiths, Toolmakers and Related Trades Workers",
+		"occupation": "Blacksmiths, Hammersmiths and Forging Press Workers"
+	},
+	{
+		"id": "7222",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Metal, Machinery and Related Trades Workers",
+		"minor_group": "Blacksmiths, Toolmakers and Related Trades Workers",
+		"occupation": "Toolmakers and Related Workers"
+	},
+	{
+		"id": "7223",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Metal, Machinery and Related Trades Workers",
+		"minor_group": "Blacksmiths, Toolmakers and Related Trades Workers",
+		"occupation": "Metal Working Machine Tool Setters and Operators"
+	},
+	{
+		"id": "7224",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Metal, Machinery and Related Trades Workers",
+		"minor_group": "Blacksmiths, Toolmakers and Related Trades Workers",
+		"occupation": "Metal Polishers, Wheel Grinders and Tool Sharpeners"
+	},
+	{
+		"id": "7231",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Metal, Machinery and Related Trades Workers",
+		"minor_group": "Machinery Mechanics and Repairers",
+		"occupation": "Motor Vehicle Mechanics and Repairers"
+	},
+	{
+		"id": "7232",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Metal, Machinery and Related Trades Workers",
+		"minor_group": "Machinery Mechanics and Repairers",
+		"occupation": "Aircraft Engine Mechanics and Repairers"
+	},
+	{
+		"id": "7233",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Metal, Machinery and Related Trades Workers",
+		"minor_group": "Machinery Mechanics and Repairers",
+		"occupation": "Agricultural and Industrial Machinery Mechanics and Repairers"
+	},
+	{
+		"id": "7234",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Metal, Machinery and Related Trades Workers",
+		"minor_group": "Machinery Mechanics and Repairers",
+		"occupation": "Bicycle and Related Repairers"
+	},
+	{
+		"id": "7311",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Handicraft and Printing Workers",
+		"minor_group": "Handicraft Workers",
+		"occupation": "Precision-instrument Makers and Repairers"
+	},
+	{
+		"id": "7312",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Handicraft and Printing Workers",
+		"minor_group": "Handicraft Workers",
+		"occupation": "Musical Instrument Makers and Tuners"
+	},
+	{
+		"id": "7313",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Handicraft and Printing Workers",
+		"minor_group": "Handicraft Workers",
+		"occupation": "Jewellery and Precious Metal Workers"
+	},
+	{
+		"id": "7314",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Handicraft and Printing Workers",
+		"minor_group": "Handicraft Workers",
+		"occupation": "Potters and Related Workers"
+	},
+	{
+		"id": "7315",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Handicraft and Printing Workers",
+		"minor_group": "Handicraft Workers",
+		"occupation": "Glass Makers, Cutters, Grinders and Finishers"
+	},
+	{
+		"id": "7316",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Handicraft and Printing Workers",
+		"minor_group": "Handicraft Workers",
+		"occupation": "Signwriters, Decorative Painters, Engravers and Etchers"
+	},
+	{
+		"id": "7317",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Handicraft and Printing Workers",
+		"minor_group": "Handicraft Workers",
+		"occupation": "Handicraft Workers in Wood, Basketry and Related Materials"
+	},
+	{
+		"id": "7318",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Handicraft and Printing Workers",
+		"minor_group": "Handicraft Workers",
+		"occupation": "Handicraft Workers in Textile, Leather and Related Materials"
+	},
+	{
+		"id": "7319",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Handicraft and Printing Workers",
+		"minor_group": "Handicraft Workers",
+		"occupation": "Handicraft Workers Not Elsewhere Classified"
+	},
+	{
+		"id": "7321",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Handicraft and Printing Workers",
+		"minor_group": "Printing Trades Workers",
+		"occupation": "Pre-press Technicians"
+	},
+	{
+		"id": "7322",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Handicraft and Printing Workers",
+		"minor_group": "Printing Trades Workers",
+		"occupation": "Printers "
+	},
+	{
+		"id": "7323",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Handicraft and Printing Workers",
+		"minor_group": "Printing Trades Workers",
+		"occupation": "Print Finishing and Binding Workers"
+	},
+	{
+		"id": "7411",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Electrical and Electronics Trades Workers",
+		"minor_group": "Electrical Equipment Installers and Repairers",
+		"occupation": "Building and Related Electricians"
+	},
+	{
+		"id": "7412",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Electrical and Electronics Trades Workers",
+		"minor_group": "Electrical Equipment Installers and Repairers",
+		"occupation": "Electrical Mechanics and Fitters"
+	},
+	{
+		"id": "7413",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Electrical and Electronics Trades Workers",
+		"minor_group": "Electrical Equipment Installers and Repairers",
+		"occupation": "Electrical Line Installers and Repairers "
+	},
+	{
+		"id": "7421",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Electrical and Electronics Trades Workers",
+		"minor_group": "Electronics and Telecommunications Installers and Repairers",
+		"occupation": "Electronics Mechanics and Servicers"
+	},
+	{
+		"id": "7422",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Electrical and Electronics Trades Workers",
+		"minor_group": "Electronics and Telecommunications Installers and Repairers",
+		"occupation": "Information and Communications Technology Installers and Servicers"
+	},
+	{
+		"id": "7511",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Food Processing and Related Trades Workers",
+		"occupation": "Butchers, Fishmongers and Related Food Preparers"
+	},
+	{
+		"id": "7512",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Food Processing and Related Trades Workers",
+		"occupation": "Bakers, Pastry-cooks and Confectionery Makers"
+	},
+	{
+		"id": "7513",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Food Processing and Related Trades Workers",
+		"occupation": "Dairy Products Makers"
+	},
+	{
+		"id": "7514",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Food Processing and Related Trades Workers",
+		"occupation": "Fruit, Vegetable and Related Preservers"
+	},
+	{
+		"id": "7515",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Food Processing and Related Trades Workers",
+		"occupation": "Food and Beverage Tasters and Graders"
+	},
+	{
+		"id": "7516",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Food Processing and Related Trades Workers",
+		"occupation": "Tobacco Preparers and Tobacco Products Makers"
+	},
+	{
+		"id": "7521",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Wood Treaters, Cabinet-makers and Related Trades Workers",
+		"occupation": "Wood Treaters"
+	},
+	{
+		"id": "7522",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Wood Treaters, Cabinet-makers and Related Trades Workers",
+		"occupation": "Cabinet-makers and Related Workers"
+	},
+	{
+		"id": "7523",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Wood Treaters, Cabinet-makers and Related Trades Workers",
+		"occupation": "Woodworking Machine Tool Setters and Operators"
+	},
+	{
+		"id": "7531",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Garment and Related Trades Workers",
+		"occupation": "Tailors, Dressmakers, Furriers and Hatters"
+	},
+	{
+		"id": "7532",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Garment and Related Trades Workers",
+		"occupation": "Garment and Related Patternmakers and Cutters"
+	},
+	{
+		"id": "7533",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Garment and Related Trades Workers",
+		"occupation": "Sewing, Embroidery and Related Workers"
+	},
+	{
+		"id": "7534",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Garment and Related Trades Workers",
+		"occupation": "Upholsterers and Related Workers"
+	},
+	{
+		"id": "7535",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Garment and Related Trades Workers",
+		"occupation": "Pelt Dressers, Tanners and Fellmongers"
+	},
+	{
+		"id": "7536",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Garment and Related Trades Workers",
+		"occupation": "Shoemakers and Related Workers"
+	},
+	{
+		"id": "7541",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Other Craft and Related Workers",
+		"occupation": "Underwater Divers"
+	},
+	{
+		"id": "7542",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Other Craft and Related Workers",
+		"occupation": "Shotfirers and Blasters"
+	},
+	{
+		"id": "7543",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Other Craft and Related Workers",
+		"occupation": "Product Graders and Testers (excluding Foods and Beverages)"
+	},
+	{
+		"id": "7544",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Other Craft and Related Workers",
+		"occupation": "Fumigators and Other Pest and Weed Controllers"
+	},
+	{
+		"id": "7549",
+		"major_group": "Craft and Related Trades Workers",
+		"sub_major_group": "Food Processing, Woodworking, Garment and Other Craft and Related Trades Workers",
+		"minor_group": "Other Craft and Related Workers",
+		"occupation": "Craft and Related Workers Not Elsewhere Classified"
+	},
+	{
+		"id": "8111",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Mining and Mineral Processing Plant Operators",
+		"occupation": "Miners and Quarriers"
+	},
+	{
+		"id": "8112",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Mining and Mineral Processing Plant Operators",
+		"occupation": "Mineral and Stone Processing Plant Operators"
+	},
+	{
+		"id": "8113",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Mining and Mineral Processing Plant Operators",
+		"occupation": "Well Drillers and Borers and Related Workers"
+	},
+	{
+		"id": "8114",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Mining and Mineral Processing Plant Operators",
+		"occupation": "Cement, Stone and Other Mineral Products Machine Operators"
+	},
+	{
+		"id": "8121",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Metal Processing and Finishing Plant Operators",
+		"occupation": "Metal Processing Plant Operators"
+	},
+	{
+		"id": "8122",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Metal Processing and Finishing Plant Operators",
+		"occupation": "Metal Finishing, Plating and Coating Machine Operators"
+	},
+	{
+		"id": "8131",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Chemical and Photographic Products Plant and Machine Operators",
+		"occupation": "Chemical Products Plant and Machine Operators"
+	},
+	{
+		"id": "8132",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Chemical and Photographic Products Plant and Machine Operators",
+		"occupation": "Photographic Products Machine Operators"
+	},
+	{
+		"id": "8141",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Rubber, Plastic and Paper Products Machine Operators",
+		"occupation": "Rubber Products Machine Operators"
+	},
+	{
+		"id": "8142",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Rubber, Plastic and Paper Products Machine Operators",
+		"occupation": "Plastic Products Machine Operators"
+	},
+	{
+		"id": "8143",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Rubber, Plastic and Paper Products Machine Operators",
+		"occupation": "Paper Products Machine Operators"
+	},
+	{
+		"id": "8151",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Textile, Fur and Leather Products Machine Operators",
+		"occupation": "Fibre Preparing, Spinning and Winding Machine Operators"
+	},
+	{
+		"id": "8152",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Textile, Fur and Leather Products Machine Operators",
+		"occupation": "Weaving and Knitting Machine Operators"
+	},
+	{
+		"id": "8153",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Textile, Fur and Leather Products Machine Operators",
+		"occupation": "Sewing Machine Operators"
+	},
+	{
+		"id": "8154",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Textile, Fur and Leather Products Machine Operators",
+		"occupation": "Bleaching, Dyeing and Fabric Cleaning Machine Operators"
+	},
+	{
+		"id": "8155",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Textile, Fur and Leather Products Machine Operators",
+		"occupation": "Fur and Leather Preparing Machine Operators"
+	},
+	{
+		"id": "8156",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Textile, Fur and Leather Products Machine Operators",
+		"occupation": "Shoemaking and Related Machine Operators"
+	},
+	{
+		"id": "8157",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Textile, Fur and Leather Products Machine Operators",
+		"occupation": "Laundry Machine Operators"
+	},
+	{
+		"id": "8159",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Textile, Fur and Leather Products Machine Operators",
+		"occupation": "Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified"
+	},
+	{
+		"id": "8160",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Food and Related Products Machine Operators",
+		"occupation": "Food and Related Products Machine Operators"
+	},
+	{
+		"id": "8171",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Wood Processing and Papermaking Plant Operators",
+		"occupation": "Pulp and Papermaking Plant Operators"
+	},
+	{
+		"id": "8172",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Wood Processing and Papermaking Plant Operators",
+		"occupation": "Wood Processing Plant Operators"
+	},
+	{
+		"id": "8181",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Other Stationary Plant and Machine Operators",
+		"occupation": "Glass and Ceramics Plant Operators"
+	},
+	{
+		"id": "8182",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Other Stationary Plant and Machine Operators",
+		"occupation": "Steam Engine and Boiler Operators"
+	},
+	{
+		"id": "8183",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Other Stationary Plant and Machine Operators",
+		"occupation": "Packing, Bottling and Labelling Machine Operators"
+	},
+	{
+		"id": "8189",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Stationary Plant and Machine Operators",
+		"minor_group": "Other Stationary Plant and Machine Operators",
+		"occupation": "Stationary Plant and Machine Operators Not Elsewhere Classified"
+	},
+	{
+		"id": "8211",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Assemblers",
+		"minor_group": "Assemblers",
+		"occupation": "Mechanical Machinery Assemblers"
+	},
+	{
+		"id": "8212",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Assemblers",
+		"minor_group": "Assemblers",
+		"occupation": "Electrical and Electronic Equipment Assemblers"
+	},
+	{
+		"id": "8219",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Assemblers",
+		"minor_group": "Assemblers",
+		"occupation": "Assemblers Not Elsewhere Classified"
+	},
+	{
+		"id": "8311",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Drivers and Mobile Plant Operators",
+		"minor_group": "Locomotive Engine Drivers and Related Workers",
+		"occupation": "Locomotive Engine Drivers"
+	},
+	{
+		"id": "8312",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Drivers and Mobile Plant Operators",
+		"minor_group": "Locomotive Engine Drivers and Related Workers",
+		"occupation": "Railway Brake, Signal and Switch Operators"
+	},
+	{
+		"id": "8321",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Drivers and Mobile Plant Operators",
+		"minor_group": "Car, Van and Motorcycle Drivers",
+		"occupation": "Motorcycle Drivers"
+	},
+	{
+		"id": "8322",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Drivers and Mobile Plant Operators",
+		"minor_group": "Car, Van and Motorcycle Drivers",
+		"occupation": "Car, Taxi and Van Drivers"
+	},
+	{
+		"id": "8331",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Drivers and Mobile Plant Operators",
+		"minor_group": "Heavy Truck and Bus Drivers",
+		"occupation": "Bus and Tram Drivers"
+	},
+	{
+		"id": "8332",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Drivers and Mobile Plant Operators",
+		"minor_group": "Heavy Truck and Bus Drivers",
+		"occupation": "Heavy Truck and Lorry Drivers"
+	},
+	{
+		"id": "8341",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Drivers and Mobile Plant Operators",
+		"minor_group": "Mobile Plant Operators",
+		"occupation": "Mobile Farm and Forestry Plant Operators"
+	},
+	{
+		"id": "8342",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Drivers and Mobile Plant Operators",
+		"minor_group": "Mobile Plant Operators",
+		"occupation": "Earthmoving and Related Plant Operators"
+	},
+	{
+		"id": "8343",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Drivers and Mobile Plant Operators",
+		"minor_group": "Mobile Plant Operators",
+		"occupation": "Crane, Hoist and Related Plant Operators"
+	},
+	{
+		"id": "8344",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Drivers and Mobile Plant Operators",
+		"minor_group": "Mobile Plant Operators",
+		"occupation": "Lifting Truck Operators"
+	},
+	{
+		"id": "8350",
+		"major_group": "Plant and Machine Operators and Assemblers",
+		"sub_major_group": "Drivers and Mobile Plant Operators",
+		"minor_group": "Ships� Deck Crews and Related Workers",
+		"occupation": "Ships� Deck Crews and Related Workers"
+	},
+	{
+		"id": "9111",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Cleaners and Helpers",
+		"minor_group": "Domestic, Hotel and Office Cleaners and Helpers",
+		"occupation": "Domestic Cleaners and Helpers"
+	},
+	{
+		"id": "9112",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Cleaners and Helpers",
+		"minor_group": "Domestic, Hotel and Office Cleaners and Helpers",
+		"occupation": "Cleaners and Helpers in Offices, Hotels and Other Establishments"
+	},
+	{
+		"id": "9121",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Cleaners and Helpers",
+		"minor_group": "Vehicle, Window, Laundry and Other Hand Cleaning Workers",
+		"occupation": "Hand Launderers and Pressers"
+	},
+	{
+		"id": "9122",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Cleaners and Helpers",
+		"minor_group": "Vehicle, Window, Laundry and Other Hand Cleaning Workers",
+		"occupation": "Vehicle Cleaners"
+	},
+	{
+		"id": "9123",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Cleaners and Helpers",
+		"minor_group": "Vehicle, Window, Laundry and Other Hand Cleaning Workers",
+		"occupation": "Window Cleaners"
+	},
+	{
+		"id": "9129",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Cleaners and Helpers",
+		"minor_group": "Vehicle, Window, Laundry and Other Hand Cleaning Workers",
+		"occupation": "Other Cleaning Workers"
+	},
+	{
+		"id": "9211",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Agricultural, Forestry and Fishery Labourers",
+		"minor_group": "Agricultural, Forestry and Fishery Labourers",
+		"occupation": "Crop Farm Labourers"
+	},
+	{
+		"id": "9212",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Agricultural, Forestry and Fishery Labourers",
+		"minor_group": "Agricultural, Forestry and Fishery Labourers",
+		"occupation": "Livestock Farm Labourers"
+	},
+	{
+		"id": "9213",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Agricultural, Forestry and Fishery Labourers",
+		"minor_group": "Agricultural, Forestry and Fishery Labourers",
+		"occupation": "Mixed Crop and Livestock Farm Labourers"
+	},
+	{
+		"id": "9214",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Agricultural, Forestry and Fishery Labourers",
+		"minor_group": "Agricultural, Forestry and Fishery Labourers",
+		"occupation": "Garden and Horticultural Labourers"
+	},
+	{
+		"id": "9215",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Agricultural, Forestry and Fishery Labourers",
+		"minor_group": "Agricultural, Forestry and Fishery Labourers",
+		"occupation": "Forestry Labourers"
+	},
+	{
+		"id": "9216",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Agricultural, Forestry and Fishery Labourers",
+		"minor_group": "Agricultural, Forestry and Fishery Labourers",
+		"occupation": "Fishery and Aquaculture Labourers"
+	},
+	{
+		"id": "9311",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Labourers in Mining, Construction, Manufacturing and Transport",
+		"minor_group": "Mining and Construction Labourers",
+		"occupation": "Mining and Quarrying Labourers"
+	},
+	{
+		"id": "9312",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Labourers in Mining, Construction, Manufacturing and Transport",
+		"minor_group": "Mining and Construction Labourers",
+		"occupation": "Civil Engineering Labourers"
+	},
+	{
+		"id": "9313",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Labourers in Mining, Construction, Manufacturing and Transport",
+		"minor_group": "Mining and Construction Labourers",
+		"occupation": "Building Construction Labourers"
+	},
+	{
+		"id": "9321",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Labourers in Mining, Construction, Manufacturing and Transport",
+		"minor_group": "Manufacturing Labourers",
+		"occupation": "Hand Packers"
+	},
+	{
+		"id": "9329",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Labourers in Mining, Construction, Manufacturing and Transport",
+		"minor_group": "Manufacturing Labourers",
+		"occupation": "Manufacturing Labourers Not Elsewhere Classified"
+	},
+	{
+		"id": "9331",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Labourers in Mining, Construction, Manufacturing and Transport",
+		"minor_group": "Transport and Storage Labourers",
+		"occupation": "Hand and Pedal Vehicle Drivers"
+	},
+	{
+		"id": "9332",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Labourers in Mining, Construction, Manufacturing and Transport",
+		"minor_group": "Transport and Storage Labourers",
+		"occupation": "Drivers of Animal-drawn Vehicles and Machinery"
+	},
+	{
+		"id": "9333",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Labourers in Mining, Construction, Manufacturing and Transport",
+		"minor_group": "Transport and Storage Labourers",
+		"occupation": "Freight Handlers"
+	},
+	{
+		"id": "9334",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Labourers in Mining, Construction, Manufacturing and Transport",
+		"minor_group": "Transport and Storage Labourers",
+		"occupation": "Shelf Fillers"
+	},
+	{
+		"id": "9411",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Food Preparation Assistants",
+		"minor_group": "Food Preparation Assistants",
+		"occupation": "Fast Food Preparers"
+	},
+	{
+		"id": "9412",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Food Preparation Assistants",
+		"minor_group": "Food Preparation Assistants",
+		"occupation": "Kitchen Helpers"
+	},
+	{
+		"id": "9510",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Street and Related Sales and Services Workers",
+		"minor_group": "Street and Related Services Workers",
+		"occupation": "Street and Related Services Workers"
+	},
+	{
+		"id": "9520",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Street and Related Sales and Services Workers",
+		"minor_group": "Street Vendors (excluding Food)",
+		"occupation": "Street Vendors (excluding Food)"
+	},
+	{
+		"id": "9611",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Refuse Workers and Other Elementary Workers",
+		"minor_group": "Refuse Workers",
+		"occupation": "Garbage and Recycling Collectors"
+	},
+	{
+		"id": "9612",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Refuse Workers and Other Elementary Workers",
+		"minor_group": "Refuse Workers",
+		"occupation": "Refuse Sorters"
+	},
+	{
+		"id": "9613",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Refuse Workers and Other Elementary Workers",
+		"minor_group": "Refuse Workers",
+		"occupation": "Sweepers and Related Labourers"
+	},
+	{
+		"id": "9621",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Refuse Workers and Other Elementary Workers",
+		"minor_group": "Other Elementary Workers",
+		"occupation": "Messengers, Package Deliverers and Luggage Porters"
+	},
+	{
+		"id": "9622",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Refuse Workers and Other Elementary Workers",
+		"minor_group": "Other Elementary Workers",
+		"occupation": "Odd-job Persons"
+	},
+	{
+		"id": "9623",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Refuse Workers and Other Elementary Workers",
+		"minor_group": "Other Elementary Workers",
+		"occupation": "Meter Readers and Vending-machine Collectors"
+	},
+	{
+		"id": "9624",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Refuse Workers and Other Elementary Workers",
+		"minor_group": "Other Elementary Workers",
+		"occupation": "Water and Firewood Collectors"
+	},
+	{
+		"id": "9629",
+		"major_group": "Elementary Occupations",
+		"sub_major_group": "Refuse Workers and Other Elementary Workers",
+		"minor_group": "Other Elementary Workers",
+		"occupation": "Elementary Workers Not Elsewhere Classified"
+	},
+	{
+		"id": "0110",
+		"major_group": "Armed Forces Occupations",
+		"sub_major_group": "Commissioned Armed Forces Officers",
+		"minor_group": "Commissioned Armed Forces Officers",
+		"occupation": "Commissioned Armed Forces Officers"
+	},
+	{
+		"id": "0210",
+		"major_group": "Armed Forces Occupations",
+		"sub_major_group": "Non-commissioned Armed Forces Officers",
+		"minor_group": "Non-commissioned Armed Forces Officers",
+		"occupation": "Non-commissioned Armed Forces Officers"
+	},
+	{
+		"id": "0310",
+		"major_group": "Armed Forces Occupations",
+		"sub_major_group": "Armed Forces Occupations, Other Ranks",
+		"minor_group": "Armed Forces Occupations, Other Ranks",
+		"occupation": "Armed Forces Occupations, Other Ranks"
+	}
+]
