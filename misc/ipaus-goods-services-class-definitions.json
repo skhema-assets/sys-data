@@ -1,0 +1,272 @@
+[
+    {
+        "id": "101",
+        "section": "Goods",
+        "class": "Class 1",
+        "definition": "Class 1 includes chemicals for use in industry and other general applications, including the manufacture of other products, are in Class 1. However, they can be listed in other classes when a particular use is indicated. For example, hydrogen peroxide is in Class 1, while hydrogen peroxide for cosmetic purposes is in Class 3, and hydrogen peroxide for medical purposes is in Class 5. Compost, manures, and fertilizers are also in this class."
+    },
+    {
+        "id": "102",
+        "section": "Goods",
+        "class": "Class 2",
+        "definition": "Class 2 includes paints, varnishes, lacquers and other preparations that are used as coatings either for decorative or protective purposes."
+    },
+    {
+        "id": "103",
+        "section": "Goods",
+        "class": "Class 3",
+        "definition": "Class 3 includes Cosmetic, personal hygiene (when not for medical purposes) and general cleaning or polishing preparations are in Class 3. Cleaning or cosmetic apparatus, utensils and articles which are not preparations are generally classified elsewhere"
+    },
+    {
+        "id": "104",
+        "section": "Goods",
+        "class": "Class 4",
+        "definition": "Class 4 contains primarily industrial oils, greases and lubricants, as well as fuels and illuminating substances. Candles and wicks for lighting are in Class 4, even if they are scented."
+    },
+    {
+        "id": "105",
+        "section": "Goods",
+        "class": "Class 5",
+        "definition": "Most goods found in Class 5 are pharmaceutical, veterinary and sanitary preparations however babies' diapers and bandages for dressings are also in this class. Bandages used to support muscles or any part of the body, or for orthopedic purposes, are in Class 10.\n\nDietary supplements are in Class 5 regardless of whether they are for medical or veterinary purposes. Food and beverages adapted for infants will also be in class 5. Meal replacements, health foods and other foods and beverages which are not dietary supplements will only be in class 5 if specifically adapted for medical or veterinary purposes.\n\nSanitary preparations for medical purposes are also in this class (eg medicated shampoo). Those not for medical purposes are classified in class 3 (eg non-medicated shampoo).\n\nDisinfectants, preparations for destroying vermin, fungicides and herbicides are also in Class 5."
+    },
+    {
+        "id": "106",
+        "section": "Goods",
+        "class": "Class 6",
+        "definition": "Class 6 is one of the classes that includes unworked or semi-worked common metals and their alloys, and ores. It also includes some  finished goods that are classified according to material composition (made of metal) that can’t be classified elsewhere.\n\nIn the Nice Classification, finished goods are in principle classified according to function or purpose. Goods that can not be classified in this way are classified according to the material of which the goods are made. If they are made of common metal, they belong in Class 6. Typical examples are figurines or statuettes. Because the function or purpose of these goods can not be identified in any of the Class Headings, they are classified according to what they are made of. Metal figurines are therefore classified in this class whereas metal furniture would belong in the furniture class (class 20) because their purpose aligns with the class heading."
+    },
+    {
+        "id": "107",
+        "section": "Goods",
+        "class": "Class 7",
+        "definition": "Class 7 encompasses primarily power-driven machines and machine tools, parts of those machines, motors and engines and parts of motors and engines. To understand the contents of this class it is important to consider it together with Classes 8 and 12.\n\nThe classification of tools depends on their mode of operation. In principle, power-operated tools are in Class 7 while hand-operated hand tools are in Class 8. For example, \"hammers [hand tools]\" are in Class 8, while \"electric hammers\" are in Class 7. However, there are certain hand tools or implements, like depilation appliances, nail clippers and razors, that are in Class 8 even if they are electric. They are not in Class 7 because they do not fit in the concept of machines or machine tools. The machines and machine tools in Class 7 are usually industrial or household machines that use mechanical or electrical power to perform a task such as cleaning, cutting, shaping, welding, drilling, pumping, assembling and loading/unloading.Parts of machines are also classified in Class 7. Goods that normally belong in other classes, such as hammers in Class 8 and brushes in Class 21, are classified in Class 7 when they are specified as being \"parts of machines\".\n\nMotors and engines, whether for machines or for vehicles, are classified in Class 7, except for land vehicle motors which are in Class 12. Parts of all kinds of motors, including parts of land vehicle motors, are in Class 7."
+    },
+    {
+        "id": "108",
+        "section": "Goods",
+        "class": "Class 8",
+        "definition": "Class 8 includes mainly \"hand-operated implements used as tools in the respective professions\". Under these parameters, Class 8 includes many tools that perform a task, such as drilling, shaping, cutting or piercing which are not powered by electricity or any other power source. Thus, hand-operated tools such as hammers are in Class 8, while electric or pneumatic hammers, although being hand-held, are in Class 7 because they are power-driven machine tools.\n\nIt should be noted, however, that certain hand tools are classified in Class 8 regardless of whether they are electric or non-electric. These are small hand implements such as depilation appliances, razors, hair clippers and manicure sets that can not be considered as \"machines\" or \"machine tools\" in Class 7.\n\nThe relation between Class 8 and Class 21 is sometimes problematic, as it may be difficult to decide whether a particular good should be considered as a hand tool in Class 8 or as a kitchen or household utensil in Class 21.\n\nThe term \"cutlery\" is classified in Class 8 because it refers to goods primarily used for cutting or piercing."
+    },
+    {
+        "id": "109",
+        "section": "Goods",
+        "class": "Class 9",
+        "definition": "Class 9 is often described as the class of electronic equipment but, in fact, it includes a wide variety of goods. There are mainly five general areas of goods: apparatus and instruments for scientific or research purposes, information technology and audiovisual equipment, apparatus and devices for controlling the distribution and use of electricity, optical apparatus and instruments, and safety equipment.\n\nSafety equipment and protective clothing are classified in Class 9 based on them being \"life-saving … apparatus\". Examples of protective clothing in Class 9 are clothing and shoes for protection against accidents, irradiation and fire, clothing specially made for laboratories, and protective helmets (including for sports). However, it should be noted that protective padding used as parts of sports suits are classified in Class 28 as sports articles. They are not considered to be \"life-saving\" since they protect against bumps and bruises that usually are not fatal or physically incapacitating.\n\nIt should also be mentioned that certain apparatus in Class 9 are classified in Class 10 as well when they are used for medical purposes, for example, lasers, X-ray apparatus, respiratory masks and testing apparatus.\n\nClass 9 also includes computer software which is downloadable or sold stored on physical media, and computer hardware. Other electronic media such as images, music, and books are also included in class 9 if downloadable or sold stored on physical media."
+    },
+    {
+        "id": "110",
+        "section": "Goods",
+        "class": "Class 10",
+        "definition": "Class 10 includes mainly surgical, medical, dental and veterinary apparatus and instruments that are generally used for the diagnosis or treatment of human or animal diseases.\n\nClass 10 further includes prostheses and artificial implants.\n\nClass 10 also contains apparatus that, whilst not necessarily used directly for medical treatment, helps to maintain or improve human health. Examples include massage apparatus and articles for nursing infants.\n\nThere are bandages in Class 10 and in Class 5. The difference is that the bandages in Class 10 are supportive, i.e., they are used for holding injured muscles or parts of the body and thus have a therapeutic supportive function, while the bandages in Class 5 are used just to bind up wounds or hold dressings in place."
+    },
+    {
+        "id": "111",
+        "section": "Goods",
+        "class": "Class 11",
+        "definition": "The goods included in Class 11 can be characterized as being for \"environmental control\" in the sense that they change the surrounding environment, e.g., by heating, cooling, drying, purifying or disinfecting air or water. Consequently, Class 11 includes heating, ventilating, air conditioning and air purification equipment, sanitary installations, water supply and water treatment installations, refrigerating and freezing equipment, as well as apparatus for cooking, heating and refrigerating food.\n\nIt should be noted that the cooking apparatus and utensils in Class 11 have a heat source that is part of the apparatus, for example, microwave ovens, bakers' ovens, electric kettles and electric pressure cookers. Cooking utensils that do not incorporate a heat source are, generally, in Class 21, such as pots and pans for cooking, non-electric kettles and non-electric pressure cookers.\n\nPipes as parts of sanitary installations are in Class 11. There are pipes in Classes 6, 11, 17 and 19. The pipes in Class 11 are those that are directly attached to and are specialized parts of installations such as sinks, showers and toilets. The pipes that bring water to and from these installations are building materials and are thus classified in Class 6 if they are made of metal and in Class 19 if they are rigid and not made of metal. Flexible pipes not made of metal are in Class 17.\n\nClass 11 also comprises lighting apparatus and certain accessories, for example, electric lamps, light bulbs and lamp shades. Lights that are in classes other than Class 11 are used mainly for purposes other than lighting, for example, lamps for medical purposes are in Class 10 and signalling lights and traffic-light apparatus are in Class 9."
+    },
+    {
+        "id": "112",
+        "section": "Goods",
+        "class": "Class 12",
+        "definition": "Class 12 includes all apparatus and machines used for the transport of people, animals or things by land, air or water. The term \"transport\" is significant since there are goods in other classes that could be deemed as providing transport when, in fact, that is not the primary purpose of the goods. For example, road sweeping machines [self-propelled] and snow ploughs are in Class 7. These items move but their purpose is not transport but to perform a task, either road sweeping or snow removal. Conversely, bicycles are in Class 12 and not in Class 28 because they provide transport even if that transport is done for sport or recreational purposes.\n\nIt should be noted, however, that not all parts of vehicles are in Class 12. Motors and engines, whether for machines or for vehicles, are classified in Class 7, except for land vehicle motors which are in Class 12. Parts of all kinds of motors, including parts of land vehicle motors, are in Class 7.\n\nAs regards couplings and transmission components for vehicles, they are classified in the same way as motors and engines, i.e., they are all in Class 7, except those for land vehicles, which belong in Class 12.\n\nThere are other specific items that are not in Class 12 although they are associated with vehicles and apparatus for transport. This usually occurs when the item in question is not a structural part of the vehicle. Thus, goods such as locks of metal for vehicles are in Class 6, mileage recorders for vehicles and vehicle radios are in Class 9 and lights for vehicles are in Class 11."
+    },
+    {
+        "id": "113",
+        "section": "Goods",
+        "class": "Class 13",
+        "definition": "Firearms, ammunition, projectiles, explosives and pyrotechnical products are in this class. Parts of and certain accessories for these goods are in Class 13 as well.\n\nThe goods in this class are powered by an incendiary, explosive or propellant force. Goods are not classified in Class 13 just because they are weapons. Bladed weapons such as knives are in Class 8, or in Class 28 if they are used for sports, like fencing weapons. With some exceptions, like sprays for personal defense purposes, the weapons in Class 13 are mostly explosive devices."
+    },
+    {
+        "id": "114",
+        "section": "Goods",
+        "class": "Class 14",
+        "definition": "Jewellery and imitation jewellery, regardless of the material of which they are made, and precious stones are in Class 14. It should be taken into account, however, that certain goods, such as brooches and pins, are classified in Class 26 when they are dressmakers' articles rather than jewellery.\n\nGenerally, watches, clocks, stopwatches and other horological and chronometric instruments are in Class 14 as well.\n\nClass 14 is one of the classes that includes some finished goods which are classified according to their material composition (made of precious metal) because they can’t be classified elsewhere.\n\nIn the Nice Classification, finished goods are in principle classified according to function or purpose. Goods that can not be classified in this way are classified according to like the material of which the goods are made. If they are made of precious metal, they belong in Class 14. Typical examples are figurines or statuettes. Because the function or purpose of these goods can not be identified in any of the Class Headings, they are classified according to what they are made of."
+    },
+    {
+        "id": "115",
+        "section": "Goods",
+        "class": "Class 15",
+        "definition": "All musical instruments, their parts and their accessories are in Class 15 as well as certain goods that create music but are not manipulated by a musician, such as music boxes. However, goods that affect sound produced from another source, such as music amplifiers or loudspeakers, and apparatus that reproduce music, such as music players, are in Class 9. Class 15 also includes goods that are highly related to the production of musical sounds, such as music stands, tuning forks and conductors' batons."
+    },
+    {
+        "id": "116",
+        "section": "Goods",
+        "class": "Class 16",
+        "definition": "Class 16 comprises mainly paper, cardboard, printed matter such as books, pamphlets and brochures, and materials for printing and bookbinding, as well as writing materials and office requisites such as writing paper, envelopes, pens, ink, paper-clips, adhesive tapes, correcting fluids and staplers.\n\nIt is important to mention that electronic books or other publications that are intended by the provider to be downloaded into the end users electronic device are in Class 9. The provision of on-line, non-downloadable electronic publications is considered a service in Class 41.\n\nPackaging materials of paper, cardboard and plastic are also in Class 16. "
+    },
+    {
+        "id": "117",
+        "section": "Goods",
+        "class": "Class 17",
+        "definition": "Goods that provide insulation are in Class 17 even if they would be in other classes if not specialized for insulation purposes.\n\nFlexible pipes that are not made of metal are in Class 17, such as radiator hoses and watering hoses.\n\nClass 17 is one of the classes that includes some finished goods which are classified according to their material composition (rubber, gutta-percha, gum, or mica) because they can’t be classified elsewhere. For example, valves and washers made of rubber belong in class 17, whereas metal valves and washers belong in class 6, and plastic valves and washers belong in class 20."
+    },
+    {
+        "id": "118",
+        "section": "Goods",
+        "class": "Class 18",
+        "definition": "Items used for the transport of personal goods, such as suitcases and other travelling bags, are in Class 18, as well as are umbrellas and walking sticks.\n\nClass 18 also includes unworked or semi-worked materials, namely leather, substitutes for leather and animal skins.\n\nFinally, many items in Class 18 relate to animals due to the mention of whips, harnesses and saddlery in the Class Heading."
+    },
+    {
+        "id": "119",
+        "section": "Goods",
+        "class": "Class 19",
+        "definition": "Non-metallic building materials comprise most of the items in Class 19. Building materials made of metal are in Class 6. Anything that constitutes a structure and is not made primarily of metal, from bicycle parking installations to entire buildings, is in Class 19.\n\nNon-metallic rigid pipes for building are in Class 19. It should be noted that there are pipes in Classes 6, 11, 17 and 19. Pipes are considered as building materials and are thus classified in Class 19 if they are rigid and non-metallic, and in Class 6 if they are of metal (whether rigid or flexible). Flexible non-metallic pipes such as watering hoses or vehicle radiator hoses are in Class 17, and pipes that are directly attached to and are specialized parts of sanitary installations such as sinks, showers and toilets, are in Class 11.\n\nClass 19 includes materials such as stone, cement and marble. It also includes certain finished goods made of stone, cement, marble or similar materials that are classified according to material composition, such as stone figurines."
+    },
+    {
+        "id": "120",
+        "section": "Goods",
+        "class": "Class 20",
+        "definition": "Furniture in general is in Class 20 regardless of material composition. Furniture for special uses is in the classes of their uses, such as furniture especially made for laboratories in Class 9 and dentists' armchairs in Class 10.\n\nBedding such as mattresses and pillows is also in Class 20, but not bedding linen, eiderdowns and blankets, which are in Class 24.\n\nFurthermore, Class 20 is a class for non-metal goods that often have a counterpart in Class 6 when those goods are made of metal. For example, metal containers for storage or transport are in Class 6, while the non-metal ones are in Class 20. However, non-metal building or construction materials belong in class 19.\n\nMany hardware items of plastic are in Class 20, their equivalent of metal being in Class 6. It should be noted, however, that hardware related to curtains is classified in Class 20 no matter their material composition. Also non textile curtains, such as, bamboo or bead curtains, as well as window blinds or shades for interiors are in Class 20 because they are considered as furnishings."
+    },
+    {
+        "id": "121",
+        "section": "Goods",
+        "class": "Class 21",
+        "definition": "This class includes mainly containers and small hand-operated utensils and apparatus for household and kitchen use. This language, in particular \"containers\", covers a very broad range of products, some of them being very much related to certain products in Classes 7, 8 and 11.\n\nThe criteria used to classify containers in Class 21 is function or purpose. From pails and garbage cans to vases, bottles and indoor aquaria, they are all in Class 21 as household or kitchen containers, regardless of material composition. On the contrary, containers used for the transport and storage of goods are classified by material composition, in Class 6 if they are of metal and in Class 20 if they are not of metal. Containers that are especially adapted to the form of the product they contain are in principle classified in the same class as that product. For example, containers for contact lenses are in Class 9 together with the contact lenses, and watch cases are in Class 14 together with the watches.\n\nContainers and certain utensils used as tableware, such as dishes, bowls, drinking glasses, mugs, tea services and pie servers, are in Class 21. Important exceptions are knives, forks and spoons, which belong in Class 8.\n\nThe household and kitchen utensils and apparatus in Class 21 are mostly hand-operated (non-electric), their electric counterpart being in other classes. For example, apparatus for cleaning and polishing and for kitchen uses such as mincing, grinding and pressing are in Class 21 when they are non-electric and in Class 7 when they are electric. It should be noted, however, that combs and most brushes, including cosmetic brushes and toothbrushes, are in Class 21 whether electric or non-electric, while manicure, pedicure and other cosmetic implements, such as nail files, depilation appliances and razors, electric and non-electric, are classified in Class 8."
+    },
+    {
+        "id": "122",
+        "section": "Goods",
+        "class": "Class 22",
+        "definition": "Generally, Class 22 covers \"text\"ile materials in their most unprocessed state, namely, fibers.\n\nThis class also includes some finished goods that cannot be well classified in the other \"\"text\"ile classes\" (23, 24 and 25), such as tents, awnings and sails. Sails are in Class 22 even though they are used with transport and sport apparatus, such as boats and ski sailing equipment, that belong in other classes.\n\nNon-metallic slings and bands for handling loads and binding, and ropes and string of natural or artificial \"text\"ile fibres, paper or plastics, used for packing, wrapping or binding, are in Class 22. However, thread and yarn, which are used for sewing, knitting, weaving, embroidering and in the production of fabrics, are in Class 23.\n\nOther finished products in Class 22 are sacks and bags for the transport and storage of materials in bulk, mail bags and sacks of \"text\"ile for packaging.\n\nFinally, Class 22 includes padding and stuffing materials that are not rubber or plastic (which would be in Class 17). Padding and stuffing derived from natural sources (other than rubber), such as straw, horsehair, kapok, feathers and seaweed, are thus in Class 22."
+    },
+    {
+        "id": "123",
+        "section": "Goods",
+        "class": "Class 23",
+        "definition": "Yarns and threads, either natural or synthetic, are in Class 23 so long as they are for textile use. Clearly, cotton, silk or woolen threads and yarns are in this class. But, when used for textile purposes, also fiberglass, elastic, rubber and plastic threads or yarns are in Class 23."
+    },
+    {
+        "id": "124",
+        "section": "Goods",
+        "class": "Class 24",
+        "definition": "Fabric intended for traditional textile uses are in this class, as are flat finished goods made of textile or of substitutes for textiles such as plastic and oilcloth. Some examples of these goods are curtains, flags (not of paper), handkerchiefs, mosquito nets, printers' blankets, shrouds and wall hangings.\n\nThis class does not include finished items that are considered clothing in Class 25 or textile items that could be classified in other classes according to their function or purpose. Some examples of flat, textile goods that are not in Class 24 are horse blankets in Class 18, insulating fabrics in Class 17, fabrics for bookbinding in Class 16, and geotextiles in Class 19.\n\nIt should be noted that bed linen, whether of textile or of paper, is in Class 24. However, table and bath linen such as tablecloths, napkins, coasters and towels are in Class 24 if they are made of textile or of substitutes for textiles, but in Class 16 if they are made of paper.\n\nFinally, bed covers such as blankets are in Class 24 unless they are electrically heated, in which case they belong in Class 11 or, if they are for medical purposes, in Class 10."
+    },
+    {
+        "id": "125",
+        "section": "Goods",
+        "class": "Class 25",
+        "definition": "Clothing, footwear and head wear used for normal dress purposes (including for sports) are in Class 25. Clothing, footwear and headwear that are especially adapted for a particular use are classified in the class that is related to that use. Some examples of specialized clothing articles that are not in Class 25 are clothing for protection against fire and other highly protective clothing in Class 9, clothing especially for operating rooms in Class 10 and skating boots with skates attached in Class 28.\n\nFinally, it should be noted that certain parts of clothing, footwear and headwear, such as cuffs, pockets, ready-made linings, heels and heelpieces, cap peaks and hat frames (skeletons) are in Class 25. However, most fastenings and haberdashery accessories like clasps, buckles, zippers, ribbons, hatbands, and hat and shoe trimmings are in Cl. 26"
+    },
+    {
+        "id": "126",
+        "section": "Goods",
+        "class": "Class 26",
+        "definition": "Clothing embellishments are in Class 26. These embellishments may be decorative, such as lace trimmings, and frills and spangles for clothing. They may also be functional, such as belt clasps, snap fasteners, zippers and shoe buckles. Crochet hooks, knitting needles and sewing needles as well as items that are related to these goods, such as pin cushions and boxes for needle are also in Class 26.\n\nIt should be noted that natural hair, wigs and other false hair items are in Class 26 as well as items that are related to them, such as hair nets, hair bands and hair curling papers.\n\nArtificial flowers are also in this class."
+    },
+    {
+        "id": "127",
+        "section": "Goods",
+        "class": "Class 27",
+        "definition": "Basically, this is the \"floor covering and wallpaper class\". Please note that these floors are \"materials for covering existing floors and walls\". This is the language that differentiates items in Class 27 from certain building materials used in the construction of floors that are in Class 19, like \"tiles\"."
+    },
+    {
+        "id": "128",
+        "section": "Goods",
+        "class": "Class 28",
+        "definition": "Games, playthings and sporting apparatus are in this class.\n\nDecorations for Christmas trees, Christmas trees of synthetic material and Christmas tree stands are in Class 28 as well.\n\nAll amusement and game apparatus, with integrated display screens or adapted for use with external display screens or monitors, are in Class 28. However, computer game software is in Class 9.\n\nWhile most gymnastic and sporting articles are in Class 28, there are some significant exceptions, such as protective helmets for sports and riding helmets in Class 9, gymnastic mats in Class 27 and boots for sports in Class 25."
+    },
+    {
+        "id": "129",
+        "section": "Goods",
+        "class": "Class 29",
+        "definition": "The foodstuffs in Class 29 are of animal or vegetable origin and are prepared for human consumption or for conservation.\n\nFresh vegetables and fruits are in Class 31. Once the vegetables or the fruits have been processed for consumption or conservation, for example, cut for a ready-made salad, frozen or cooked into a purée, a compote or a jam, they become a Class 29 product.\n\nMeat, milk and most dairy products (excluding dairy confections) are in this class.\n\nIt should be noted that foods like pizza and sandwiches are classified in Class 30 although they are covered with or contain Class 29 goods such as cheese, ham, tuna fish, eggs or vegetables, because the predominant ingredient is considered to be the pizza dough or the bread, which are both Class 30 products. Following this principle, filled pastries and pasta are classified in Class 30, even if the filling is made of Class 29 ingredients. As for prepared meals, they are also classified in either Class 29 or 30, depending on the predominant ingredient."
+    },
+    {
+        "id": "130",
+        "section": "Goods",
+        "class": "Class 30",
+        "definition": "Class 30 comprises products of plant origin that are prepared for human consumption or for conservation. However, Class 30 does not include processed fruits or vegetables, which are in Class 29. Processed grains, rice, coffee, tea and cocoa are in Class 30 as they are plant products and not fruits or vegetables.\n\nCereal grain products like flour are in this class, as well as products made with flour, such as bread and pastry.\n\nSubstances that sweeten or improve the flavour of food and beverages, like sugar, honey, aromatic substances, preserved herbs, salt and condiments (including sauces) are also in Class 30.\n\nIt should be noted that foods like pizza and sandwiches are classified in Class 30 although they are covered with or contain Class 29 goods such as cheese, ham, tuna fish, eggs or vegetables, because the predominant ingredient is considered to be the pizza dough or the bread, which are both Class 30 products. Following this principle, filled pastries and pasta are classified in Class 30, even if the filling is made of Class 29 ingredients. As for prepared meals, they are also classified in either Class 29 or 30, depending on the predominant ingredient."
+    },
+    {
+        "id": "131",
+        "section": "Goods",
+        "class": "Class 31",
+        "definition": "Agricultural products that are not prepared for human consumption, live animals and plants, and foodstuffs for animals are in Class 31.\n\nHowever, once products such as vegetables and fruits have been processed for consumption or conservation, for example, cut for a ready-made salad, frozen or cooked into a purée, a compote or a jam, they become a Class 29 product.\n\nUnprocessed grains, seeds and raw cereals belong in Class 31.\n\nAlso natural flowers, trees and forestry products such as trunks and unsawn timber, are in Class 31. Once the timber has been further processed into semi-worked wood, for example, beams, planks or panels for building, these are classified in Class 19."
+    },
+    {
+        "id": "132",
+        "section": "Goods",
+        "class": "Class 32",
+        "definition": "Generally, non-alcoholic beverages are in Class 32, except for milk-, tea-, coffee- and chocolate-based drinks which are in Classes 29 or 30 depending on the predominant ingredient.\n\nThe only alcoholic beverage in Class 32 is beer."
+    },
+    {
+        "id": "133",
+        "section": "Goods",
+        "class": "Class 33",
+        "definition": "Except beers, all alcoholic beverages are in Class 33, even if their alcohol content is low. Completely de-alcoholised wine belongs in class 32.\n\nPre-mixed alcoholic beverages are also in Class 33. However, non-alcoholic mixers that are used together with alcoholic beverages, such as ginger ale and soda water, are in Class 32."
+    },
+    {
+        "id": "134",
+        "section": "Goods",
+        "class": "Class 34",
+        "definition": "Not only are tobacco and tobacco-based products in Class 34, but also articles used by smokers. Articles that could be classified in other classes are in Class 34 because of this special use. Examples of this are matches, lighters for smokers, ashtrays for smokers and electronic cigarettes. It should be noted that tobacco substitutes that are not for medical purposes are in Class 34 as well.\n\nElectronic cigarettes and oral vaporisers are also classified in class 34."
+    },
+    {
+        "id": "235",
+        "section": "Services",
+        "class": "Class 35",
+        "definition": "Class 35 services are those provided by persons or enterprises that directly assist in the operation and management of another commercial or industrial enterprise. Simply because an enterprise conducts business does not classify the activity of that enterprise in Class 35. If that were the case, all businesses, regardless of their specific activities, would provide Class 35 services. The determining factor is generally whether the management, administrative or advertising service is being provided for another party’s benefit, rather than being performed incidentally as part of carrying on another kind of business. For example, accountants providing accountancy services would claim these services in class 35, whereas an engineering firm which does its own accountancy in-house would generally not need to claim this as a service in class 35.\n\nSimilarly, a claim for advertising or marketing in class 35 covers advertising or marketing services provided by professionals for the enterprises of others, and is generally not required where a business or commercial enterprise is simply using their own trade mark within advertising or marketing materials.\n\nServices that may further the activities of a business but do not relate directly to the operation or management of a commercial or industrial enterprise belong in other classes. Some examples are various financial and insurance services in Class 36, telecommunication services in Class 38, transport services in Class 39, training services in Class 41, etc.\n\nAdministrative services relating to the \"registration, transcription, composition, compilation or systemization of written communications and registrations\" and to compilation of data belong to Class 35. If a service is administrative in nature, for example, appointment scheduling services, it is normally classified in Class 35 even if it is ancillary to services in other classes.\n\nRetail services, whether physical or online, belong in this class along with marketing and advertising services."
+    },
+    {
+        "id": "236",
+        "section": "Services",
+        "class": "Class 36",
+        "definition": "This class includes activities relating to finance, real estate transactions and insurance. If a service affects the movement of money, investments in the form of money, insurance, or real estate, it is classified in Class 36."
+    },
+    {
+        "id": "237",
+        "section": "Services",
+        "class": "Class 37",
+        "definition": "Services in this class include the physical construction of buildings and other major structures and the repair or installation of virtually all types of goods. They further involve activities in the field of mining and gas and oil extraction.\n\nClass 37 also includes maintenance and cleaning services and other services involving the restoration of objects to their original condition or their preservation without altering their physical or chemical properties."
+    },
+    {
+        "id": "238",
+        "section": "Services",
+        "class": "Class 38",
+        "definition": "Services in Class 38 involve providing the means by which one party can communicate with another. This includes using computers that communicate with each other or a computer or other electronic system that provides communication to a human being, such as a television or radio. Services in Class 38 provide the means to communicate, not the content or subject matter that may be contained in the communication activity.\n\nClass 38 includes Internet Service Provider (ISP) services along with mobile telephone communication services."
+    },
+    {
+        "id": "239",
+        "section": "Services",
+        "class": "Class 39",
+        "definition": "Transport of anything or any person by any manner or means is classified in Class 39. From air transport to distribution of electricity, any service that has movement as its primary function is classified in this class.\n\nThis class also includes packaging of goods as well as storage of goods.\n\nArrangement of travel itself is in Class 39. Also the services of a travel agency that involve the arrangement of travel are in Class 39 while other services provided by a travel agency are in other classes, such as making arrangements for lodging or meals while travelling in Class 43."
+    },
+    {
+        "id": "240",
+        "section": "Services",
+        "class": "Class 40",
+        "definition": "\"Treatment of materials\" is the transformation of the essential properties of an object, a substance or a material through mechanical or chemical processes that render that object, substance or material quantitatively or qualitatively different than they were before the treatment or transformation.\n\nThe custom manufacture of goods to the individual specifications of a customer is also in Class 40. If the production or manufacturing is not being performed to fulfil an order for goods which meet the customer's particular needs, requirements, or specifications, then it is generally ancillary to the maker's primary commercial activity or goods in trade. If the substance or object is marketed to third parties by the person who processed, transformed or produced it, then this would generally not be considered a service and instead would be more appropriately classified as a good."
+    },
+    {
+        "id": "241",
+        "section": "Services",
+        "class": "Class 41",
+        "definition": "Educational services belong in Class 41. They include the more formal or traditional forms of education, such as classes, seminars, workshops or degree programs, as well as other forms of education or training, such as gymnastic courses, practical training and the training of animals.\n\nThe publication of books or texts (other than the publication of publicity texts which is in Class 35) and lending library services are also in Class 41.\n\nClass 41 further includes the organization of sporting and cultural activities and rental of the facilities for the realization or housing of those activities. It also includes services that entertain or amuse people."
+    },
+    {
+        "id": "242",
+        "section": "Services",
+        "class": "Class 42",
+        "definition": "Scientific and technological services in this Class include not only practical but also theoretical aspects of science and technology. Class 42 includes research and design services in most scientific and technological areas. Thus, although medical services belong in Class 44, medical research services are in Class 42. Industrial analysis services, such as analysis for oil-field exploitation, water analysis and chemical analysis, are in Class 42 as well.\n\nThe temporary use of non-downloadable software is classified in Class 42 as well as computer programming and computer security services. Most design services (including architectural design) are in Class 42. Please note that the design of marketing and publicity material is classified in Class 35."
+    },
+    {
+        "id": "243",
+        "section": "Services",
+        "class": "Class 43",
+        "definition": "Class 43 includes restaurant services. Similar services, such as catering services and services of cafeterias and snack bars or fast-food outlets, are also in Class 43. In general, these services consist of preparing food and/or beverages for immediate consumption by the consumer.\n\nClass 43 is also the class for temporary accommodation services, like those provided by hotels, boarding houses and day-nurseries [crèches]. Travel agency services for the arranging of these services are in this class. Please note that travel agency services for the booking of transport belong in Class 39."
+    },
+    {
+        "id": "244",
+        "section": "Services",
+        "class": "Class 44",
+        "definition": "Class 44 includes services that provide care for both human beings and animals. That care may be medical or cosmetic in nature.\n\nServices related to agriculture, horticulture and forestry activities are also in this class.\n\nHowever, it should be noted that this class is for activities that provide actual care and not the theoretical research or analysis that is associated with that care. Those services are classified in Class 42 with the other scientific and technological services."
+    },
+    {
+        "id": "245",
+        "section": "Services",
+        "class": "Class 45",
+        "definition": "The personal and social services that are included in Class 45 are quite specific. Some examples are marriage agencies, horoscope casting and funerals.\n\nLegal services are in Class 45. Adoption agency services, arbitration and mediation services and registration of domain names and services that protect the legal rights of individuals or corporations are also in this class.\n\nGenerally, services relating to guarding or safety (security guard services) are in Class 45."
+    }
+]
