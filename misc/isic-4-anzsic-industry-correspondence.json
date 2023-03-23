@@ -1,0 +1,2102 @@
+[
+    {
+        "isic_id": "0129",
+        "isic_title": "Growing of other perennial crops",
+        "anzsic_correspondence": [{"id": "0111", "title": "Nursery Production (Under Cover)"}, {"id": "0112", "title": "Nursery Production (Outdoors)"}, {"id": "0112", "title": "Nursery Production (Outdoors)"}, {"id": "0115", "title": "Floriculture Production (Outdoors)"}, {"id": "0122", "title": "Vegetable Growing (Under Cover)"}, {"id": "0123", "title": "Vegetable Growing (Outdoors)"}, {"id": "0159", "title": "Other Crop Growing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "0130",
+        "isic_title": "Plant propagation",
+        "anzsic_correspondence": [{"id": "0111", "title": "Nursery Production (Under Cover)"}, {"id": "0112", "title": "Nursery Production (Outdoors)"}, {"id": "0113", "title": "Turf Growing"}, {"id": "0121", "title": "Mushroom Growing"}]
+    },
+    {
+        "isic_id": "0119",
+        "isic_title": "Growing of other non-perennial crops",
+        "anzsic_correspondence": [{"id": "0114", "title": "Floriculture Production (Under Cover)"}, {"id": "0115", "title": "Floriculture Production (Outdoors)"}, {"id": "0122", "title": "Vegetable Growing (Under Cover)"}, {"id": "0123", "title": "Vegetable Growing (Outdoors)"}, {"id": "0149", "title": "Other Grain Growing"}, {"id": "0159", "title": "Other Crop Growing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "0113",
+        "isic_title": "Growing of vegetables and melons, roots and tubers",
+        "anzsic_correspondence": [{"id": "0121", "title": "Mushroom Growing"}, {"id": "0122", "title": "Vegetable Growing (Under Cover)"}, {"id": "0123", "title": "Vegetable Growing (Outdoors)"}]
+    },
+    {
+        "isic_id": "0111",
+        "isic_title": "Growing of cereals (except rice), leguminous crops and oil seeds",
+        "anzsic_correspondence": [{"id": "0122", "title": "Vegetable Growing (Under Cover)"}, {"id": "0123", "title": "Vegetable Growing (Outdoors)"}, {"id": "0149", "title": "Other Grain Growing"}, {"id": "0159", "title": "Other Crop Growing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "0128",
+        "isic_title": "Growing of spices, aromatic, drug and pharmaceutical crops",
+        "anzsic_correspondence": [{"id": "0122", "title": "Vegetable Growing (Under Cover)"}, {"id": "0123", "title": "Vegetable Growing (Outdoors)"}, {"id": "0159", "title": "Other Crop Growing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "0121",
+        "isic_title": "Growing of grapes",
+        "anzsic_correspondence": [{"id": "0131", "title": "Grape Growing"}]
+    },
+    {
+        "isic_id": "0125",
+        "isic_title": "Growing of other tree and bush fruits and nuts",
+        "anzsic_correspondence": [{"id": "0132", "title": "Kiwifruit Growing"}, {"id": "0133", "title": "Berry Fruit Growing"}, {"id": "0139", "title": "Other Fruit and Tree Nut Growing"}]
+    },
+    {
+        "isic_id": "0124",
+        "isic_title": "Growing of pome fruits and stone fruits",
+        "anzsic_correspondence": [{"id": "0134", "title": "Apple and Pear Growing"}, {"id": "0135", "title": "Stone Fruit Growing"}]
+    },
+    {
+        "isic_id": "0123",
+        "isic_title": "Growing of citrus fruits",
+        "anzsic_correspondence": [{"id": "0136", "title": "Citrus Fruit Growing"}]
+    },
+    {
+        "isic_id": "0126",
+        "isic_title": "Growing of oleaginous fruits",
+        "anzsic_correspondence": [{"id": "0137", "title": "Olive Growing"}, {"id": "0139", "title": "Other Fruit and Tree Nut Growing"}]
+    },
+    {
+        "isic_id": "0122",
+        "isic_title": "Growing of tropical and subtropical fruits",
+        "anzsic_correspondence": [{"id": "0139", "title": "Other Fruit and Tree Nut Growing"}]
+    },
+    {
+        "isic_id": "0144",
+        "isic_title": "Raising of sheep and goats",
+        "anzsic_correspondence": [{"id": "0141", "title": "Sheep Farming (Specialised)"}, {"id": "0144", "title": "Sheep-Beef Cattle Farming"}, {"id": "0199", "title": "Other Livestock Farming (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "0162",
+        "isic_title": "Support activities for animal production",
+        "anzsic_correspondence": [{"id": "0141", "title": "Sheep Farming (Specialised)"}, {"id": "0142", "title": "Beef Cattle Farming (Specialised)"}, {"id": "0191", "title": "Horse Farming"}, {"id": "0522", "title": "Shearing Services"}, {"id": "0529", "title": "Other Agriculture and Fishing Support Services"}]
+    },
+    {
+        "isic_id": "0141",
+        "isic_title": "Raising of cattle and buffaloes",
+        "anzsic_correspondence": [{"id": "0142", "title": "Beef Cattle Farming (Specialised)"}, {"id": "0143", "title": "Beef Cattle Feedlots (Specialised)"}, {"id": "0144", "title": "Sheep-Beef Cattle Farming"}, {"id": "0160", "title": "Dairy Cattle Farming"}]
+    },
+    {
+        "isic_id": "0150",
+        "isic_title": "Mixed farming",
+        "anzsic_correspondence": [{"id": "0145", "title": "Grain-Sheep or Grain-Beef Cattle Farming"}]
+    },
+    {
+        "isic_id": "0112",
+        "isic_title": "Growing of rice",
+        "anzsic_correspondence": [{"id": "0146", "title": "Rice Growing"}]
+    },
+    {
+        "isic_id": "0114",
+        "isic_title": "Growing of sugar cane",
+        "anzsic_correspondence": [{"id": "0151", "title": "Sugar Cane Growing"}]
+    },
+    {
+        "isic_id": "0116",
+        "isic_title": "Growing of fibre crops",
+        "anzsic_correspondence": [{"id": "0152", "title": "Cotton Growing"}, {"id": "0159", "title": "Other Crop Growing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "0115",
+        "isic_title": "Growing of tobacco",
+        "anzsic_correspondence": [{"id": "0159", "title": "Other Crop Growing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "0127",
+        "isic_title": "Growing of beverage crops",
+        "anzsic_correspondence": [{"id": "0159", "title": "Other Crop Growing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "0146",
+        "isic_title": "Raising of poultry",
+        "anzsic_correspondence": [{"id": "0171", "title": "Poultry Farming (Meat)"}, {"id": "0172", "title": "Poultry Farming (Eggs) "}]
+    },
+    {
+        "isic_id": "0149",
+        "isic_title": "Raising of other animals",
+        "anzsic_correspondence": [{"id": "0180", "title": "Deer Farming"}, {"id": "0193", "title": "Beekeeping"}, {"id": "0199", "title": "Other Livestock Farming (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "0142",
+        "isic_title": "Raising of horses and other equines",
+        "anzsic_correspondence": [{"id": "0191", "title": "Horse Farming"}, {"id": "0199", "title": "Other Livestock Farming (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "0145",
+        "isic_title": "Raising of swine/pigs",
+        "anzsic_correspondence": [{"id": "0192", "title": "Pig Farming"}]
+    },
+    {
+        "isic_id": "0143",
+        "isic_title": "Raising of camels and camelids",
+        "anzsic_correspondence": [{"id": "0199", "title": "Other Livestock Farming (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "0321",
+        "isic_title": "Marine aquaculture",
+        "anzsic_correspondence": [{"id": "0201", "title": "Offshore Longline and Rack Aquaculture"}, {"id": "0202", "title": "Offshore Caged Aquaculture"}, {"id": "0203", "title": "Onshore Aquaculture"}]
+    },
+    {
+        "isic_id": "0322",
+        "isic_title": "Freshwater aquaculture",
+        "anzsic_correspondence": [{"id": "0203", "title": "Onshore Aquaculture"}]
+    },
+    {
+        "isic_id": "0210",
+        "isic_title": "Silviculture and other forestry activities",
+        "anzsic_correspondence": [{"id": "0301", "title": "Forestry"}, {"id": "0510", "title": "Forestry Support Services"}]
+    },
+    {
+        "isic_id": "0230",
+        "isic_title": "Gathering of non-wood forest products",
+        "anzsic_correspondence": [{"id": "0301", "title": "Forestry"}]
+    },
+    {
+        "isic_id": "0220",
+        "isic_title": "Logging",
+        "anzsic_correspondence": [{"id": "0302", "title": "Logging"}]
+    },
+    {
+        "isic_id": "0311",
+        "isic_title": "Marine fishing",
+        "anzsic_correspondence": [{"id": "0411", "title": "Rock Lobster and Crab Potting"}, {"id": "0412", "title": "Prawn Fishing"}, {"id": "0413", "title": "Line Fishing"}, {"id": "0414", "title": "Fish Trawling, Seining and Netting"}, {"id": "0419", "title": "Other Fishing"}, {"id": "0529", "title": "Other Agriculture and Fishing Support Services"}, {"id": "1120", "title": "Seafood Processing"}]
+    },
+    {
+        "isic_id": "0312",
+        "isic_title": "Freshwater fishing",
+        "anzsic_correspondence": [{"id": "0419", "title": "Other Fishing"}, {"id": "0529", "title": "Other Agriculture and Fishing Support Services"}]
+    },
+    {
+        "isic_id": "0170",
+        "isic_title": "Hunting, trapping and related service activities",
+        "anzsic_correspondence": [{"id": "0420", "title": "Hunting and Trapping"}]
+    },
+    {
+        "isic_id": "0240",
+        "isic_title": "Support services to forestry",
+        "anzsic_correspondence": [{"id": "0510", "title": "Forestry Support Services"}, {"id": "6962", "title": "Management Advice and Related Consulting Services"}, {"id": "7713", "title": "Fire Protection and Other Emergency Services"}]
+    },
+    {
+        "isic_id": "0163",
+        "isic_title": "Post-harvest crop activities",
+        "anzsic_correspondence": [{"id": "0521", "title": "Cotton Ginning"}, {"id": "0529", "title": "Other Agriculture and Fishing Support Services"}]
+    },
+    {
+        "isic_id": "0161",
+        "isic_title": "Support activities for crop production",
+        "anzsic_correspondence": [{"id": "0529", "title": "Other Agriculture and Fishing Support Services"}]
+    },
+    {
+        "isic_id": "0164",
+        "isic_title": "Seed processing for propagation",
+        "anzsic_correspondence": [{"id": "0529", "title": "Other Agriculture and Fishing Support Services"}]
+    },
+    {
+        "isic_id": "0510",
+        "isic_title": "Mining of hard coal",
+        "anzsic_correspondence": [{"id": "0600", "title": "Coal Mining"}, {"id": "6999", "title": "Other Professional, Scientific and Technical Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "0520",
+        "isic_title": "Mining of lignite",
+        "anzsic_correspondence": [{"id": "0600", "title": "Coal Mining"}]
+    },
+    {
+        "isic_id": "0892",
+        "isic_title": "Extraction of peat",
+        "anzsic_correspondence": [{"id": "0600", "title": "Coal Mining"}]
+    },
+    {
+        "isic_id": "0610",
+        "isic_title": "Extraction of crude petroleum",
+        "anzsic_correspondence": [{"id": "0700", "title": "Oil and Gas Extraction"}]
+    },
+    {
+        "isic_id": "0620",
+        "isic_title": "Extraction of natural gas",
+        "anzsic_correspondence": [{"id": "0700", "title": "Oil and Gas Extraction"}]
+    },
+    {
+        "isic_id": "0910",
+        "isic_title": "Support activities for petroleum and natural gas extraction",
+        "anzsic_correspondence": [{"id": "0700", "title": "Oil and Gas Extraction"}, {"id": "1011", "title": "Petroleum Exploration"}, {"id": "1090", "title": "Other Mining Support Services"}, {"id": "6999", "title": "Other Professional, Scientific and Technical Services (not elsewhere classified)."}, {"id": "7713", "title": "Fire Protection and Other Emergency Services"}]
+    },
+    {
+        "isic_id": "0710",
+        "isic_title": "Mining of iron ores",
+        "anzsic_correspondence": [{"id": "0801", "title": "Iron Ore Mining"}]
+    },
+    {
+        "isic_id": "0729",
+        "isic_title": "Mining of other non-ferrous metal ores",
+        "anzsic_correspondence": [{"id": "0802", "title": "Bauxite Mining"}, {"id": "0803", "title": "Copper Ore Mining"}, {"id": "0804", "title": "Gold Ore Mining"}, {"id": "0805", "title": "Mineral Sand Mining"}, {"id": "0806", "title": "Nickel Ore Mining"}, {"id": "0807", "title": "Silver-Lead-Zinc Ore Mining"}, {"id": "0809", "title": "Other Metal Ore Mining"}]
+    },
+    {
+        "isic_id": "0721",
+        "isic_title": "Mining of uranium and thorium ores",
+        "anzsic_correspondence": [{"id": "0809", "title": "Other Metal Ore Mining"}]
+    },
+    {
+        "isic_id": "0810",
+        "isic_title": "Quarrying of stone, sand and clay",
+        "anzsic_correspondence": [{"id": "0911", "title": "Gravel and Sand Quarrying"}, {"id": "0919", "title": "Other Construction Material Mining"}, {"id": "0990", "title": "Other Non-Metallic Mineral Mining and Quarrying"}]
+    },
+    {
+        "isic_id": "0891",
+        "isic_title": "Mining of chemical and fertilizer minerals",
+        "anzsic_correspondence": [{"id": "0990", "title": "Other Non-Metallic Mineral Mining and Quarrying"}]
+    },
+    {
+        "isic_id": "0893",
+        "isic_title": "Extraction of salt",
+        "anzsic_correspondence": [{"id": "0990", "title": "Other Non-Metallic Mineral Mining and Quarrying"}]
+    },
+    {
+        "isic_id": "0899",
+        "isic_title": "Other mining and quarrying (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "0990", "title": "Other Non-Metallic Mineral Mining and Quarrying"}]
+    },
+    {
+        "isic_id": "0990",
+        "isic_title": "Support activities for other mining and quarrying",
+        "anzsic_correspondence": [{"id": "1012", "title": "Mineral Exploration"}, {"id": "1090", "title": "Other Mining Support Services"}, {"id": "6999", "title": "Other Professional, Scientific and Technical Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "1010",
+        "isic_title": "Processing and preserving of meat",
+        "anzsic_correspondence": [{"id": "1111", "title": "Meat Processing"}, {"id": "1112", "title": "Poultry Processing"}, {"id": "1113", "title": "Cured Meat and Smallgoods Manufacturing"}]
+    },
+    {
+        "isic_id": "1075",
+        "isic_title": "Manufacture of prepared meals and dishes",
+        "anzsic_correspondence": [{"id": "1111", "title": "Meat Processing"}, {"id": "1112", "title": "Poultry Processing"}, {"id": "1113", "title": "Cured Meat and Smallgoods Manufacturing"}, {"id": "1120", "title": "Seafood Processing"}, {"id": "1140", "title": "Fruit and Vegetable Processing"}, {"id": "1161", "title": "Grain Mill Product Manufacturing"}, {"id": "1199", "title": "Other Food Product Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "1020",
+        "isic_title": "Processing and preserving of fish, crustaceans and molluscs",
+        "anzsic_correspondence": [{"id": "1120", "title": "Seafood Processing"}]
+    },
+    {
+        "isic_id": "1050",
+        "isic_title": "Manufacture of dairy products",
+        "anzsic_correspondence": [{"id": "1131", "title": "Milk and Cream Processing"}, {"id": "1132", "title": "Ice Cream Manufacturing"}, {"id": "1133", "title": "Cheese and Other Dairy Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1079",
+        "isic_title": "Manufacture of other food products (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "1133", "title": "Cheese and Other Dairy Product Manufacturing"}, {"id": "1140", "title": "Fruit and Vegetable Processing"}, {"id": "1161", "title": "Grain Mill Product Manufacturing"}, {"id": "1191", "title": "Potato, Corn and Other Crisp Manufacturing"}, {"id": "1199", "title": "Other Food Product Manufacturing (not elsewhere classified)."}, {"id": "1211", "title": "Soft Drink, Cordial and Syrup Manufacturing"}, {"id": "1214", "title": "Wine and Other Alcoholic Beverage Manufacturing"}]
+    },
+    {
+        "isic_id": "1030",
+        "isic_title": "Processing and preserving of fruit and vegetables",
+        "anzsic_correspondence": [{"id": "1140", "title": "Fruit and Vegetable Processing"}, {"id": "1191", "title": "Potato, Corn and Other Crisp Manufacturing"}, {"id": "1199", "title": "Other Food Product Manufacturing (not elsewhere classified)."}, {"id": "1211", "title": "Soft Drink, Cordial and Syrup Manufacturing"}]
+    },
+    {
+        "isic_id": "1040",
+        "isic_title": "Manufacture of vegetable and animal oils and fats",
+        "anzsic_correspondence": [{"id": "1150", "title": "Oil and Fat Manufacturing"}]
+    },
+    {
+        "isic_id": "1062",
+        "isic_title": "Manufacture of starches and starch products",
+        "anzsic_correspondence": [{"id": "1150", "title": "Oil and Fat Manufacturing"}, {"id": "1161", "title": "Grain Mill Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1073",
+        "isic_title": "Manufacture of cocoa, chocolate and sugar confectionery",
+        "anzsic_correspondence": [{"id": "1150", "title": "Oil and Fat Manufacturing"}, {"id": "1182", "title": "Confectionery Manufacturing"}]
+    },
+    {
+        "isic_id": "1061",
+        "isic_title": "Manufacture of grain mill products",
+        "anzsic_correspondence": [{"id": "1161", "title": "Grain Mill Product Manufacturing"}, {"id": "1162", "title": "Cereal, Pasta and Baking Mix Manufacturing"}, {"id": "1171", "title": "Bread Manufacturing (Factory based)"}]
+    },
+    {
+        "isic_id": "1103",
+        "isic_title": "Manufacture of malt liquors and malt",
+        "anzsic_correspondence": [{"id": "1161", "title": "Grain Mill Product Manufacturing"}, {"id": "1212", "title": "Beer Manufacturing"}]
+    },
+    {
+        "isic_id": "1074",
+        "isic_title": "Manufacture of macaroni, noodles, couscous and similar farinaceous products",
+        "anzsic_correspondence": [{"id": "1162", "title": "Cereal, Pasta and Baking Mix Manufacturing"}]
+    },
+    {
+        "isic_id": "1071",
+        "isic_title": "Manufacture of bakery products",
+        "anzsic_correspondence": [{"id": "1171", "title": "Bread Manufacturing (Factory based)"}, {"id": "1172", "title": "Cake and Pastry Manufacturing (Factory based)"}, {"id": "1173", "title": "Biscuit Manufacturing (Factory based)"}, {"id": "1174", "title": "Bakery Product Manufacturing (Non-factory based)"}, {"id": "1191", "title": "Potato, Corn and Other Crisp Manufacturing"}, {"id": "1199", "title": "Other Food Product Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "1072",
+        "isic_title": "Manufacture of sugar",
+        "anzsic_correspondence": [{"id": "1181", "title": "Sugar Manufacturing"}]
+    },
+    {
+        "isic_id": "1080",
+        "isic_title": "Manufacture of prepared animal feeds",
+        "anzsic_correspondence": [{"id": "1192", "title": "Prepared Animal and Bird Feed Manufacturing"}]
+    },
+    {
+        "isic_id": "1102",
+        "isic_title": "Manufacture of wines",
+        "anzsic_correspondence": [{"id": "1211", "title": "Soft Drink, Cordial and Syrup Manufacturing"}, {"id": "1214", "title": "Wine and Other Alcoholic Beverage Manufacturing"}]
+    },
+    {
+        "isic_id": "1104",
+        "isic_title": "Manufacture of soft drinks; production of mineral waters and other bottled water",
+        "anzsic_correspondence": [{"id": "1211", "title": "Soft Drink, Cordial and Syrup Manufacturing"}]
+    },
+    {
+        "isic_id": "1101",
+        "isic_title": "Distilling, rectifying and blending of spirits",
+        "anzsic_correspondence": [{"id": "1213", "title": "Spirit Manufacturing"}]
+    },
+    {
+        "isic_id": "1200",
+        "isic_title": "Manufacture of tobacco products",
+        "anzsic_correspondence": [{"id": "1220", "title": "Cigarette and Tobacco Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1311",
+        "isic_title": "Preparation and spinning of textile fibres",
+        "anzsic_correspondence": [{"id": "1311", "title": "Wool Scouring"}, {"id": "1312", "title": "Natural Textile Manufacturing"}, {"id": "1313", "title": "Synthetic Textile Manufacturing"}]
+    },
+    {
+        "isic_id": "2023",
+        "isic_title": "Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations",
+        "anzsic_correspondence": [{"id": "1311", "title": "Wool Scouring"}, {"id": "1851", "title": "Cleaning Compound Manufacturing"}, {"id": "1852", "title": "Cosmetic and Toiletry Preparation Manufacturing"}, {"id": "2412", "title": "Medical and Surgical Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "1312",
+        "isic_title": "Weaving of textiles",
+        "anzsic_correspondence": [{"id": "1312", "title": "Natural Textile Manufacturing"}, {"id": "1313", "title": "Synthetic Textile Manufacturing"}]
+    },
+    {
+        "isic_id": "1399",
+        "isic_title": "Manufacture of other textiles (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "1313", "title": "Synthetic Textile Manufacturing"}, {"id": "1333", "title": "Cut and Sewn Textile Product Manufacturing"}, {"id": "1334", "title": "Textile Finishing and Other Textile Product Manufacturing"}, {"id": "1351", "title": "Clothing Manufacturing"}]
+    },
+    {
+        "isic_id": "1420",
+        "isic_title": "Manufacture of articles of fur",
+        "anzsic_correspondence": [{"id": "1320", "title": "Leather Tanning, Fur Dressing and Leather Product Manufacturing"}, {"id": "1351", "title": "Clothing Manufacturing"}]
+    },
+    {
+        "isic_id": "1511",
+        "isic_title": "Tanning and dressing of leather; dressing and dyeing of fur",
+        "anzsic_correspondence": [{"id": "1320", "title": "Leather Tanning, Fur Dressing and Leather Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1512",
+        "isic_title": "Manufacture of luggage, handbags and the like, saddlery and harness",
+        "anzsic_correspondence": [{"id": "1320", "title": "Leather Tanning, Fur Dressing and Leather Product Manufacturing"}]
+    },
+    {
+        "isic_id": "3092",
+        "isic_title": "Manufacture of bicycles and invalid carriages",
+        "anzsic_correspondence": [{"id": "1320", "title": "Leather Tanning, Fur Dressing and Leather Product Manufacturing"}, {"id": "2399", "title": "Other Transport Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "3290",
+        "isic_title": "Other manufacturing (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "1320", "title": "Leather Tanning, Fur Dressing and Leather Product Manufacturing"}, {"id": "1351", "title": "Clothing Manufacturing"}, {"id": "1499", "title": "Other Wood Product Manufacturing (not elsewhere classified)."}, {"id": "1912", "title": "Rigid and Semi-Rigid Polymer Product Manufacturing"}, {"id": "1913", "title": "Polymer Foam Product Manufacturing"}, {"id": "1919", "title": "Other Polymer Product Manufacturing"}, {"id": "2090", "title": "Other Non-Metallic Mineral Product Manufacturing"}, {"id": "2299", "title": "Other Fabricated Metal Product Manufacturing (not elsewhere classified)."}, {"id": "2412", "title": "Medical and Surgical Equipment Manufacturing"}, {"id": "2599", "title": "Other Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "1393",
+        "isic_title": "Manufacture of carpets and rugs",
+        "anzsic_correspondence": [{"id": "1331", "title": "Textile Floor Covering Manufacturing"}]
+    },
+    {
+        "isic_id": "1394",
+        "isic_title": "Manufacture of cordage, rope, twine and netting",
+        "anzsic_correspondence": [{"id": "1332", "title": "Rope, Cordage and Twine Manufacturing"}]
+    },
+    {
+        "isic_id": "1392",
+        "isic_title": "Manufacture of made-up textile articles, except apparel",
+        "anzsic_correspondence": [{"id": "1333", "title": "Cut and Sewn Textile Product Manufacturing"}, {"id": "1334", "title": "Textile Finishing and Other Textile Product Manufacturing"}, {"id": "1340", "title": "Knitted Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1313",
+        "isic_title": "Finishing of textiles",
+        "anzsic_correspondence": [{"id": "1334", "title": "Textile Finishing and Other Textile Product Manufacturing"}, {"id": "1611", "title": "Printing"}]
+    },
+    {
+        "isic_id": "1709",
+        "isic_title": "Manufacture of other articles of paper and paperboard",
+        "anzsic_correspondence": [{"id": "1334", "title": "Textile Finishing and Other Textile Product Manufacturing"}, {"id": "1523", "title": "Paper Stationery Manufacturing"}, {"id": "1524", "title": "Sanitary Paper Product Manufacturing"}, {"id": "1529", "title": "Other Converted Paper Product Manufacturing"}, {"id": "2090", "title": "Other Non-Metallic Mineral Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2100",
+        "isic_title": "Manufacture of pharmaceuticals, medicinal chemical and botanical products",
+        "anzsic_correspondence": [{"id": "1334", "title": "Textile Finishing and Other Textile Product Manufacturing"}, {"id": "1813", "title": "Basic Inorganic Chemical Manufacturing"}, {"id": "1841", "title": "Human Pharmaceutical and Medicinal Product Manufacturing"}, {"id": "1842", "title": "Veterinary Pharmaceutical and Medicinal Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1391",
+        "isic_title": "Manufacture of knitted and crocheted fabrics",
+        "anzsic_correspondence": [{"id": "1340", "title": "Knitted Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1410",
+        "isic_title": "Manufacture of wearing apparel, except fur apparel",
+        "anzsic_correspondence": [{"id": "1340", "title": "Knitted Product Manufacturing"}, {"id": "1351", "title": "Clothing Manufacturing"}, {"id": "1919", "title": "Other Polymer Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1430",
+        "isic_title": "Manufacture of knitted and crocheted apparel",
+        "anzsic_correspondence": [{"id": "1340", "title": "Knitted Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2219",
+        "isic_title": "Manufacture of other rubber products",
+        "anzsic_correspondence": [{"id": "1351", "title": "Clothing Manufacturing"}, {"id": "1352", "title": "Footwear Manufacturing"}, {"id": "1919", "title": "Other Polymer Product Manufacturing"}, {"id": "1920", "title": "Natural Rubber Product Manufacturing"}, {"id": "2513", "title": "Mattress Manufacturing"}, {"id": "2599", "title": "Other Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "2220",
+        "isic_title": "Manufacture of plastics products",
+        "anzsic_correspondence": [{"id": "1351", "title": "Clothing Manufacturing"}, {"id": "1352", "title": "Footwear Manufacturing"}, {"id": "1911", "title": "Polymer Film and Sheet Packaging Material Manufacturing"}, {"id": "1912", "title": "Rigid and Semi-Rigid Polymer Product Manufacturing"}, {"id": "1913", "title": "Polymer Foam Product Manufacturing"}, {"id": "1919", "title": "Other Polymer Product Manufacturing"}, {"id": "2599", "title": "Other Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "3230",
+        "isic_title": "Manufacture of sports goods",
+        "anzsic_correspondence": [{"id": "1351", "title": "Clothing Manufacturing"}, {"id": "1352", "title": "Footwear Manufacturing"}, {"id": "2592", "title": "Toy, Sporting and Recreational Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1520",
+        "isic_title": "Manufacture of footwear",
+        "anzsic_correspondence": [{"id": "1352", "title": "Footwear Manufacturing"}]
+    },
+    {
+        "isic_id": "1629",
+        "isic_title": "Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",
+        "anzsic_correspondence": [{"id": "1352", "title": "Footwear Manufacturing"}, {"id": "1499", "title": "Other Wood Product Manufacturing (not elsewhere classified)."}, {"id": "2599", "title": "Other Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "1610",
+        "isic_title": "Sawmilling and planing of wood",
+        "anzsic_correspondence": [{"id": "1411", "title": "Log Sawmilling"}, {"id": "1412", "title": "Wood Chipping"}, {"id": "1413", "title": "Timber Resawing and Dressing"}]
+    },
+    {
+        "isic_id": "1622",
+        "isic_title": "Manufacture of builders' carpentry and joinery",
+        "anzsic_correspondence": [{"id": "1413", "title": "Timber Resawing and Dressing"}, {"id": "1491", "title": "Prefabricated Wooden Building Manufacturing"}, {"id": "1492", "title": "Wooden Structural Fitting and Component Manufacturing"}]
+    },
+    {
+        "isic_id": "4330",
+        "isic_title": "Building completion and finishing",
+        "anzsic_correspondence": [{"id": "1492", "title": "Wooden Structural Fitting and Component Manufacturing"}, {"id": "1913", "title": "Polymer Foam Product Manufacturing"}, {"id": "3239", "title": "Other Building Installation Services"}, {"id": "3241", "title": "Plastering and Ceiling Services"}, {"id": "3242", "title": "Carpentry Services"}, {"id": "3243", "title": "Tiling and Carpeting Services"}, {"id": "3244", "title": "Painting and Decorating Services"}, {"id": "3245", "title": "Glazing Services"}, {"id": "3291", "title": "Landscape Construction Services"}, {"id": "3299", "title": "Other Construction Services (not elsewhere classified)."}, {"id": "7311", "title": "Building and Other Industrial Cleaning Services"}]
+    },
+    {
+        "isic_id": "1621",
+        "isic_title": "Manufacture of veneer sheets and wood-based panels",
+        "anzsic_correspondence": [{"id": "1493", "title": "Veneer and Plywood Manufacturing"}, {"id": "1494", "title": "Reconstituted Wood Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1623",
+        "isic_title": "Manufacture of wooden containers",
+        "anzsic_correspondence": [{"id": "1499", "title": "Other Wood Product Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "1701",
+        "isic_title": "Manufacture of pulp, paper and paperboard",
+        "anzsic_correspondence": [{"id": "1510", "title": "Pulp, Paper and Paperboard Manufacturing"}, {"id": "2599", "title": "Other Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "1702",
+        "isic_title": "Manufacture of corrugated paper and paperboard and of containers of paper and paperboard",
+        "anzsic_correspondence": [{"id": "1521", "title": "Corrugated Paperboard and Paperboard Container Manufacturing"}, {"id": "1522", "title": "Paper Bag Manufacturing"}]
+    },
+    {
+        "isic_id": "3240",
+        "isic_title": "Manufacture of games and toys",
+        "anzsic_correspondence": [{"id": "1523", "title": "Paper Stationery Manufacturing"}, {"id": "2399", "title": "Other Transport Equipment Manufacturing (not elsewhere classified)."}, {"id": "2592", "title": "Toy, Sporting and Recreational Product Manufacturing"}, {"id": "2599", "title": "Other Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "3250",
+        "isic_title": "Manufacture of medical and dental instruments and supplies",
+        "anzsic_correspondence": [{"id": "1524", "title": "Sanitary Paper Product Manufacturing"}, {"id": "2411", "title": "Photographic, Optical and Ophthalmic Equipment Manufacturing"}, {"id": "2412", "title": "Medical and Surgical Equipment Manufacturing"}, {"id": "2499", "title": "Other Machinery and Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "1811",
+        "isic_title": "Printing",
+        "anzsic_correspondence": [{"id": "1611", "title": "Printing"}]
+    },
+    {
+        "isic_id": "1812",
+        "isic_title": "Service activities related to printing",
+        "anzsic_correspondence": [{"id": "1612", "title": "Printing Support Services"}]
+    },
+    {
+        "isic_id": "1820",
+        "isic_title": "Reproduction of recorded media",
+        "anzsic_correspondence": [{"id": "1620", "title": "Reproduction of Recorded Media"}]
+    },
+    {
+        "isic_id": "1920",
+        "isic_title": "Manufacture of refined petroleum products",
+        "anzsic_correspondence": [{"id": "1701", "title": "Petroleum Refining and Petroleum Fuel Manufacturing"}, {"id": "1709", "title": "Other Petroleum and Coal Product Manufacturing"}, {"id": "1811", "title": "Industrial Gas Manufacturing"}]
+    },
+    {
+        "isic_id": "1910",
+        "isic_title": "Manufacture of coke oven products",
+        "anzsic_correspondence": [{"id": "1709", "title": "Other Petroleum and Coal Product Manufacturing"}, {"id": "1811", "title": "Industrial Gas Manufacturing"}, {"id": "1812", "title": "Basic Organic Chemical Manufacturing"}]
+    },
+    {
+        "isic_id": "2011",
+        "isic_title": "Manufacture of basic chemicals",
+        "anzsic_correspondence": [{"id": "1709", "title": "Other Petroleum and Coal Product Manufacturing"}, {"id": "1811", "title": "Industrial Gas Manufacturing"}, {"id": "1812", "title": "Basic Organic Chemical Manufacturing"}, {"id": "1813", "title": "Basic Inorganic Chemical Manufacturing"}, {"id": "1891", "title": "Photographic Chemical Product Manufacturing"}, {"id": "1892", "title": "Explosive Manufacturing"}, {"id": "1899", "title": "Other Basic Chemical Product Manufacturing (not elsewhere classified)."}, {"id": "1916", "title": "Paint and Coatings Manufacturing"}]
+    },
+    {
+        "isic_id": "2029",
+        "isic_title": "Manufacture of other chemical products (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "1709", "title": "Other Petroleum and Coal Product Manufacturing"}, {"id": "1891", "title": "Photographic Chemical Product Manufacturing"}, {"id": "1892", "title": "Explosive Manufacturing"}, {"id": "1899", "title": "Other Basic Chemical Product Manufacturing (not elsewhere classified)."}, {"id": "1915", "title": "Adhesive Manufacturing"}, {"id": "1916", "title": "Paint and Coatings Manufacturing"}]
+    },
+    {
+        "isic_id": "2399",
+        "isic_title": "Manufacture of other non-metallic mineral products (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "1709", "title": "Other Petroleum and Coal Product Manufacturing"}, {"id": "2090", "title": "Other Non-Metallic Mineral Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2012",
+        "isic_title": "Manufacture of fertilizers and nitrogen compounds",
+        "anzsic_correspondence": [{"id": "1813", "title": "Basic Inorganic Chemical Manufacturing"}, {"id": "1831", "title": "Fertiliser Manufacturing"}, {"id": "1892", "title": "Explosive Manufacturing"}]
+    },
+    {
+        "isic_id": "2013",
+        "isic_title": "Manufacture of plastics and synthetic rubber in primary forms",
+        "anzsic_correspondence": [{"id": "1821", "title": "Synthetic Resin and Synthetic Rubber Manufacturing"}, {"id": "1829", "title": "Other Basic Polymer Manufacturing"}]
+    },
+    {
+        "isic_id": "2030",
+        "isic_title": "Manufacture of man-made fibres",
+        "anzsic_correspondence": [{"id": "1829", "title": "Other Basic Polymer Manufacturing"}]
+    },
+    {
+        "isic_id": "3821",
+        "isic_title": "Treatment and disposal of non-hazardous waste",
+        "anzsic_correspondence": [{"id": "1831", "title": "Fertiliser Manufacturing"}, {"id": "2619", "title": "Other Electricity Generation"}, {"id": "2921", "title": "Waste Treatment and Disposal Services"}, {"id": "2922", "title": "Waste Remediation and Materials Recovery Services"}]
+    },
+    {
+        "isic_id": "2021",
+        "isic_title": "Manufacture of pesticides and other agrochemical products",
+        "anzsic_correspondence": [{"id": "1832", "title": "Pesticide Manufacturing"}]
+    },
+    {
+        "isic_id": "2733",
+        "isic_title": "Manufacture of wiring devices",
+        "anzsic_correspondence": [{"id": "1912", "title": "Rigid and Semi-Rigid Polymer Product Manufacturing"}, {"id": "1913", "title": "Polymer Foam Product Manufacturing"}, {"id": "2313", "title": "Automotive Electrical Component Manufacturing"}, {"id": "2422", "title": "Communication Equipment Manufacturing"}, {"id": "2439", "title": "Other Electrical Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "3100",
+        "isic_title": "Manufacture of furniture",
+        "anzsic_correspondence": [{"id": "1912", "title": "Rigid and Semi-Rigid Polymer Product Manufacturing"}, {"id": "2399", "title": "Other Transport Equipment Manufacturing (not elsewhere classified)."}, {"id": "2511", "title": "Wooden Furniture and Upholstered Seat Manufacturing"}, {"id": "2512", "title": "Metal Furniture Manufacturing"}, {"id": "2513", "title": "Mattress Manufacturing"}, {"id": "2519", "title": "Other Furniture Manufacturing"}]
+    },
+    {
+        "isic_id": "2211",
+        "isic_title": "Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres",
+        "anzsic_correspondence": [{"id": "1914", "title": "Tyre Manufacturing"}]
+    },
+    {
+        "isic_id": "2022",
+        "isic_title": "Manufacture of paints, varnishes and similar coatings, printing ink and mastics",
+        "anzsic_correspondence": [{"id": "1916", "title": "Paint and Coatings Manufacturing"}]
+    },
+    {
+        "isic_id": "2930",
+        "isic_title": "Manufacture of parts and accessories for motor vehicles",
+        "anzsic_correspondence": [{"id": "1919", "title": "Other Polymer Product Manufacturing"}, {"id": "2313", "title": "Automotive Electrical Component Manufacturing"}, {"id": "2319", "title": "Other Motor Vehicle Parts Manufacturing"}, {"id": "2511", "title": "Wooden Furniture and Upholstered Seat Manufacturing"}, {"id": "2512", "title": "Metal Furniture Manufacturing"}]
+    },
+    {
+        "isic_id": "3011",
+        "isic_title": "Building of ships and floating structures",
+        "anzsic_correspondence": [{"id": "1919", "title": "Other Polymer Product Manufacturing"}, {"id": "2391", "title": "Shipbuilding and Repair Services"}, {"id": "2392", "title": "Boatbuilding and Repair Services"}, {"id": "2399", "title": "Other Transport Equipment Manufacturing (not elsewhere classified)."}, {"id": "2511", "title": "Wooden Furniture and Upholstered Seat Manufacturing"}, {"id": "2512", "title": "Metal Furniture Manufacturing"}]
+    },
+    {
+        "isic_id": "2310",
+        "isic_title": "Manufacture of glass and glass products",
+        "anzsic_correspondence": [{"id": "2010", "title": "Glass and Glass Product Manufacturing"}, {"id": "2090", "title": "Other Non-Metallic Mineral Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2392",
+        "isic_title": "Manufacture of clay building materials",
+        "anzsic_correspondence": [{"id": "2021", "title": "Clay Brick Manufacturing"}, {"id": "2029", "title": "Other Ceramic Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2391",
+        "isic_title": "Manufacture of refractory products",
+        "anzsic_correspondence": [{"id": "2029", "title": "Other Ceramic Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2393",
+        "isic_title": "Manufacture of other porcelain and ceramic products",
+        "anzsic_correspondence": [{"id": "2029", "title": "Other Ceramic Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2394",
+        "isic_title": "Manufacture of cement, lime and plaster",
+        "anzsic_correspondence": [{"id": "2031", "title": "Cement and Lime Manufacturing"}, {"id": "2032", "title": "Plaster Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2395",
+        "isic_title": "Manufacture of articles of concrete, cement and plaster",
+        "anzsic_correspondence": [{"id": "2032", "title": "Plaster Product Manufacturing"}, {"id": "2033", "title": "Ready-Mixed Concrete Manufacturing"}, {"id": "2034", "title": "Concrete Product Manufacturing"}, {"id": "2090", "title": "Other Non-Metallic Mineral Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2396",
+        "isic_title": "Cutting, shaping and finishing of stone",
+        "anzsic_correspondence": [{"id": "2090", "title": "Other Non-Metallic Mineral Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2410",
+        "isic_title": "Manufacture of basic iron and steel",
+        "anzsic_correspondence": [{"id": "2110", "title": "Iron Smelting and Steel Manufacturing"}, {"id": "2121", "title": "Iron and Steel Casting"}, {"id": "2122", "title": "Steel Pipe and Tube Manufacturing"}]
+    },
+    {
+        "isic_id": "2599",
+        "isic_title": "Manufacture of other fabricated metal products (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "2110", "title": "Iron Smelting and Steel Manufacturing"}, {"id": "2121", "title": "Iron and Steel Casting"}, {"id": "2142", "title": "Aluminium Rolling, Drawing, Extruding"}, {"id": "2149", "title": "Other Basic Non-Ferrous Metal Product Manufacturing"}, {"id": "2239", "title": "Other Metal Container Manufacturing"}, {"id": "2240", "title": "Sheet Metal Product Manufacturing (except Metal Structural and Container Products)"}, {"id": "2291", "title": "Spring and Wire Product Manufacturing"}, {"id": "2292", "title": "Nut, Bolt, Screw and Rivet Manufacturing"}, {"id": "2299", "title": "Other Fabricated Metal Product Manufacturing (not elsewhere classified)."}, {"id": "2591", "title": "Jewellery and Silverware Manufacturing"}, {"id": "2599", "title": "Other Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "2431",
+        "isic_title": "Casting of iron and steel",
+        "anzsic_correspondence": [{"id": "2121", "title": "Iron and Steel Casting"}]
+    },
+    {
+        "isic_id": "2420",
+        "isic_title": "Manufacture of basic precious and other non-ferrous metals",
+        "anzsic_correspondence": [{"id": "2131", "title": "Alumina Production"}, {"id": "2132", "title": "Aluminium Smelting"}, {"id": "2133", "title": "Copper, Silver, Lead and Zinc Smelting and Refining"}, {"id": "2139", "title": "Other Basic Non-Ferrous Metal Manufacturing"}, {"id": "2142", "title": "Aluminium Rolling, Drawing, Extruding"}, {"id": "2149", "title": "Other Basic Non-Ferrous Metal Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2432",
+        "isic_title": "Casting of non-ferrous metals",
+        "anzsic_correspondence": [{"id": "2141", "title": "Non-Ferrous Metal Casting"}]
+    },
+    {
+        "isic_id": "2591",
+        "isic_title": "Forging, pressing, stamping and roll-forming of metal; powder metallurgy",
+        "anzsic_correspondence": [{"id": "2142", "title": "Aluminium Rolling, Drawing, Extruding"}, {"id": "2149", "title": "Other Basic Non-Ferrous Metal Product Manufacturing"}, {"id": "2210", "title": "Iron and Steel Forging"}, {"id": "2240", "title": "Sheet Metal Product Manufacturing (except Metal Structural and Container Products)"}]
+    },
+    {
+        "isic_id": "2511",
+        "isic_title": "Manufacture of structural metal products",
+        "anzsic_correspondence": [{"id": "2221", "title": "Structural Steel Fabricating"}, {"id": "2222", "title": "Prefabricated Metal Building Manufacturing"}, {"id": "2223", "title": "Architectural Aluminium Product Manufacturing"}, {"id": "2224", "title": "Metal Roof and Guttering Manufacturing (except Aluminium)"}, {"id": "2229", "title": "Other Structural Metal Product Manufacturing"}, {"id": "2240", "title": "Sheet Metal Product Manufacturing (except Metal Structural and Container Products)"}, {"id": "2299", "title": "Other Fabricated Metal Product Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "2512",
+        "isic_title": "Manufacture of tanks, reservoirs and containers of metal",
+        "anzsic_correspondence": [{"id": "2231", "title": "Boiler, Tank and Other Heavy Gauge Metal Container Manufacturing"}]
+    },
+    {
+        "isic_id": "2513",
+        "isic_title": "Manufacture of steam generators, except central heating hot water boilers",
+        "anzsic_correspondence": [{"id": "2231", "title": "Boiler, Tank and Other Heavy Gauge Metal Container Manufacturing"}, {"id": "2499", "title": "Other Machinery and Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "3099",
+        "isic_title": "Manufacture of other transport equipment (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "2291", "title": "Spring and Wire Product Manufacturing"}, {"id": "2399", "title": "Other Transport Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "2592",
+        "isic_title": "Treatment and coating of metals; machining",
+        "anzsic_correspondence": [{"id": "2293", "title": "Metal Coating and Finishing"}]
+    },
+    {
+        "isic_id": "2520",
+        "isic_title": "Manufacture of weapons and ammunition",
+        "anzsic_correspondence": [{"id": "2299", "title": "Other Fabricated Metal Product Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "2593",
+        "isic_title": "Manufacture of cutlery, hand tools and general hardware",
+        "anzsic_correspondence": [{"id": "2299", "title": "Other Fabricated Metal Product Manufacturing (not elsewhere classified)."}, {"id": "2412", "title": "Medical and Surgical Equipment Manufacturing"}, {"id": "2463", "title": "Machine Tool and Parts Manufacturing"}, {"id": "2469", "title": "Other Specialised Machinery and Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2811",
+        "isic_title": "Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",
+        "anzsic_correspondence": [{"id": "2299", "title": "Other Fabricated Metal Product Manufacturing (not elsewhere classified)."}, {"id": "2319", "title": "Other Motor Vehicle Parts Manufacturing"}, {"id": "2391", "title": "Shipbuilding and Repair Services"}, {"id": "2392", "title": "Boatbuilding and Repair Services"}, {"id": "2393", "title": "Railway Rolling Stock Manufacturing and Repair Services"}, {"id": "2399", "title": "Other Transport Equipment Manufacturing (not elsewhere classified)."}, {"id": "2499", "title": "Other Machinery and Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "2812",
+        "isic_title": "Manufacture of fluid power equipment",
+        "anzsic_correspondence": [{"id": "2299", "title": "Other Fabricated Metal Product Manufacturing (not elsewhere classified)."}, {"id": "2451", "title": "Pump and Compressor Manufacturing"}, {"id": "2499", "title": "Other Machinery and Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "2813",
+        "isic_title": "Manufacture of other pumps, compressors, taps and valves",
+        "anzsic_correspondence": [{"id": "2299", "title": "Other Fabricated Metal Product Manufacturing (not elsewhere classified)."}, {"id": "2449", "title": "Other Domestic Appliance Manufacturing"}, {"id": "2451", "title": "Pump and Compressor Manufacturing"}, {"id": "2452", "title": "Fixed Space Heating, Cooling and Ventilation Equipment Manufacturing"}, {"id": "2499", "title": "Other Machinery and Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "2910",
+        "isic_title": "Manufacture of motor vehicles",
+        "anzsic_correspondence": [{"id": "2311", "title": "Motor Vehicle Manufacturing"}, {"id": "2319", "title": "Other Motor Vehicle Parts Manufacturing"}]
+    },
+    {
+        "isic_id": "2920",
+        "isic_title": "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers",
+        "anzsic_correspondence": [{"id": "2312", "title": "Motor Vehicle Body and Trailer Manufacturing"}]
+    },
+    {
+        "isic_id": "2740",
+        "isic_title": "Manufacture of electric lighting equipment",
+        "anzsic_correspondence": [{"id": "2313", "title": "Automotive Electrical Component Manufacturing"}, {"id": "2432", "title": "Electric Lighting Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2790",
+        "isic_title": "Manufacture of other electrical equipment",
+        "anzsic_correspondence": [{"id": "2313", "title": "Automotive Electrical Component Manufacturing"}, {"id": "2419", "title": "Other Professional and Scientific Equipment Manufacturing"}, {"id": "2422", "title": "Communication Equipment Manufacturing"}, {"id": "2429", "title": "Other Electronic Equipment Manufacturing"}, {"id": "2431", "title": "Electric Cable and Wire Manufacturing"}, {"id": "2432", "title": "Electric Lighting Equipment Manufacturing"}, {"id": "2439", "title": "Other Electrical Equipment Manufacturing"}, {"id": "2469", "title": "Other Specialised Machinery and Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "3012",
+        "isic_title": "Building of pleasure and sporting boats",
+        "anzsic_correspondence": [{"id": "2391", "title": "Shipbuilding and Repair Services"}, {"id": "2392", "title": "Boatbuilding and Repair Services"}, {"id": "2399", "title": "Other Transport Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "3312",
+        "isic_title": "Repair of machinery",
+        "anzsic_correspondence": [{"id": "2391", "title": "Shipbuilding and Repair Services"}, {"id": "2392", "title": "Boatbuilding and Repair Services"}, {"id": "2393", "title": "Railway Rolling Stock Manufacturing and Repair Services"}, {"id": "2399", "title": "Other Transport Equipment Manufacturing (not elsewhere classified)."}, {"id": "9422", "title": "Electronic (except Domestic Appliance) and Precision Equipment Repair and Maintenance"}, {"id": "9429", "title": "Other Machinery and Equipment Repair and Maintenance"}, {"id": "9499", "title": "Other Repair and Maintenance (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "3315",
+        "isic_title": "Repair of transport equipment, except motor vehicles",
+        "anzsic_correspondence": [{"id": "2391", "title": "Shipbuilding and Repair Services"}, {"id": "2392", "title": "Boatbuilding and Repair Services"}, {"id": "2393", "title": "Railway Rolling Stock Manufacturing and Repair Services"}, {"id": "2394", "title": "Aircraft Manufacturing and Repair Services"}, {"id": "2399", "title": "Other Transport Equipment Manufacturing (not elsewhere classified)."}, {"id": "9429", "title": "Other Machinery and Equipment Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "3830",
+        "isic_title": "Materials recovery",
+        "anzsic_correspondence": [{"id": "2391", "title": "Shipbuilding and Repair Services"}, {"id": "2922", "title": "Waste Remediation and Materials Recovery Services"}]
+    },
+    {
+        "isic_id": "3020",
+        "isic_title": "Manufacture of railway locomotives and rolling stock",
+        "anzsic_correspondence": [{"id": "2393", "title": "Railway Rolling Stock Manufacturing and Repair Services"}, {"id": "2419", "title": "Other Professional and Scientific Equipment Manufacturing"}, {"id": "2511", "title": "Wooden Furniture and Upholstered Seat Manufacturing"}, {"id": "2512", "title": "Metal Furniture Manufacturing"}]
+    },
+    {
+        "isic_id": "2651",
+        "isic_title": "Manufacture of measuring, testing, navigating and control equipment",
+        "anzsic_correspondence": [{"id": "2394", "title": "Aircraft Manufacturing and Repair Services"}, {"id": "2411", "title": "Photographic, Optical and Ophthalmic Equipment Manufacturing"}, {"id": "2412", "title": "Medical and Surgical Equipment Manufacturing"}, {"id": "2419", "title": "Other Professional and Scientific Equipment Manufacturing"}, {"id": "2422", "title": "Communication Equipment Manufacturing"}, {"id": "2429", "title": "Other Electronic Equipment Manufacturing"}, {"id": "2439", "title": "Other Electrical Equipment Manufacturing"}, {"id": "2449", "title": "Other Domestic Appliance Manufacturing"}, {"id": "2452", "title": "Fixed Space Heating, Cooling and Ventilation Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2829",
+        "isic_title": "Manufacture of other special-purpose machinery",
+        "anzsic_correspondence": [{"id": "2394", "title": "Aircraft Manufacturing and Repair Services"}, {"id": "2469", "title": "Other Specialised Machinery and Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "3030",
+        "isic_title": "Manufacture of air and spacecraft and related machinery",
+        "anzsic_correspondence": [{"id": "2394", "title": "Aircraft Manufacturing and Repair Services"}, {"id": "2511", "title": "Wooden Furniture and Upholstered Seat Manufacturing"}, {"id": "2512", "title": "Metal Furniture Manufacturing"}]
+    },
+    {
+        "isic_id": "3313",
+        "isic_title": "Repair of electronic and optical equipment",
+        "anzsic_correspondence": [{"id": "2394", "title": "Aircraft Manufacturing and Repair Services"}, {"id": "9422", "title": "Electronic (except Domestic Appliance) and Precision Equipment Repair and Maintenance"}, {"id": "9499", "title": "Other Repair and Maintenance (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "2816",
+        "isic_title": "Manufacture of lifting and handling equipment",
+        "anzsic_correspondence": [{"id": "2399", "title": "Other Transport Equipment Manufacturing (not elsewhere classified)."}, {"id": "2491", "title": "Lifting and Material Handling Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "3040",
+        "isic_title": "Manufacture of military fighting vehicles",
+        "anzsic_correspondence": [{"id": "2399", "title": "Other Transport Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "3091",
+        "isic_title": "Manufacture of motorcycles",
+        "anzsic_correspondence": [{"id": "2399", "title": "Other Transport Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "2620",
+        "isic_title": "Manufacture of computers and peripheral equipment",
+        "anzsic_correspondence": [{"id": "2411", "title": "Photographic, Optical and Ophthalmic Equipment Manufacturing"}, {"id": "2421", "title": "Computer and Electronic Office Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2670",
+        "isic_title": "Manufacture of optical instruments and photographic equipment",
+        "anzsic_correspondence": [{"id": "2411", "title": "Photographic, Optical and Ophthalmic Equipment Manufacturing"}, {"id": "2412", "title": "Medical and Surgical Equipment Manufacturing"}, {"id": "2419", "title": "Other Professional and Scientific Equipment Manufacturing"}, {"id": "2422", "title": "Communication Equipment Manufacturing"}, {"id": "2429", "title": "Other Electronic Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2660",
+        "isic_title": "Manufacture of irradiation, electromedical and electrotherapeutic equipment",
+        "anzsic_correspondence": [{"id": "2412", "title": "Medical and Surgical Equipment Manufacturing"}, {"id": "2419", "title": "Other Professional and Scientific Equipment Manufacturing"}, {"id": "2469", "title": "Other Specialised Machinery and Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2652",
+        "isic_title": "Manufacture of watches and clocks",
+        "anzsic_correspondence": [{"id": "2419", "title": "Other Professional and Scientific Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2731",
+        "isic_title": "Manufacture of fibre optic cables",
+        "anzsic_correspondence": [{"id": "2419", "title": "Other Professional and Scientific Equipment Manufacturing"}, {"id": "2431", "title": "Electric Cable and Wire Manufacturing"}]
+    },
+    {
+        "isic_id": "2819",
+        "isic_title": "Manufacture of other general-purpose machinery",
+        "anzsic_correspondence": [{"id": "2419", "title": "Other Professional and Scientific Equipment Manufacturing"}, {"id": "2449", "title": "Other Domestic Appliance Manufacturing"}, {"id": "2452", "title": "Fixed Space Heating, Cooling and Ventilation Equipment Manufacturing"}, {"id": "2463", "title": "Machine Tool and Parts Manufacturing"}, {"id": "2469", "title": "Other Specialised Machinery and Equipment Manufacturing"}, {"id": "2499", "title": "Other Machinery and Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "2610",
+        "isic_title": "Manufacture of electronic components and boards",
+        "anzsic_correspondence": [{"id": "2421", "title": "Computer and Electronic Office Equipment Manufacturing"}, {"id": "2422", "title": "Communication Equipment Manufacturing"}, {"id": "2429", "title": "Other Electronic Equipment Manufacturing"}, {"id": "2431", "title": "Electric Cable and Wire Manufacturing"}, {"id": "2439", "title": "Other Electrical Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2640",
+        "isic_title": "Manufacture of consumer electronics",
+        "anzsic_correspondence": [{"id": "2421", "title": "Computer and Electronic Office Equipment Manufacturing"}, {"id": "2429", "title": "Other Electronic Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2817",
+        "isic_title": "Manufacture of office machinery and equipment (except computers and peripheral equipment)",
+        "anzsic_correspondence": [{"id": "2421", "title": "Computer and Electronic Office Equipment Manufacturing"}, {"id": "2519", "title": "Other Furniture Manufacturing"}]
+    },
+    {
+        "isic_id": "2630",
+        "isic_title": "Manufacture of communication equipment",
+        "anzsic_correspondence": [{"id": "2422", "title": "Communication Equipment Manufacturing"}, {"id": "2429", "title": "Other Electronic Equipment Manufacturing"}, {"id": "2439", "title": "Other Electrical Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2680",
+        "isic_title": "Manufacture of magnetic and optical media",
+        "anzsic_correspondence": [{"id": "2429", "title": "Other Electronic Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2750",
+        "isic_title": "Manufacture of domestic appliances",
+        "anzsic_correspondence": [{"id": "2429", "title": "Other Electronic Equipment Manufacturing"}, {"id": "2441", "title": "Whiteware Appliance Manufacturing"}, {"id": "2449", "title": "Other Domestic Appliance Manufacturing"}]
+    },
+    {
+        "isic_id": "2732",
+        "isic_title": "Manufacture of other electronic and electric wires and cables",
+        "anzsic_correspondence": [{"id": "2431", "title": "Electric Cable and Wire Manufacturing"}]
+    },
+    {
+        "isic_id": "2710",
+        "isic_title": "Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",
+        "anzsic_correspondence": [{"id": "2439", "title": "Other Electrical Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2720",
+        "isic_title": "Manufacture of batteries and accumulators",
+        "anzsic_correspondence": [{"id": "2439", "title": "Other Electrical Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2815",
+        "isic_title": "Manufacture of ovens, furnaces and furnace burners",
+        "anzsic_correspondence": [{"id": "2439", "title": "Other Electrical Equipment Manufacturing"}, {"id": "2449", "title": "Other Domestic Appliance Manufacturing"}, {"id": "2452", "title": "Fixed Space Heating, Cooling and Ventilation Equipment Manufacturing"}, {"id": "2499", "title": "Other Machinery and Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "2826",
+        "isic_title": "Manufacture of machinery for textile, apparel and leather production",
+        "anzsic_correspondence": [{"id": "2449", "title": "Other Domestic Appliance Manufacturing"}, {"id": "2469", "title": "Other Specialised Machinery and Equipment Manufacturing"}, {"id": "2499", "title": "Other Machinery and Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "2821",
+        "isic_title": "Manufacture of agricultural and forestry machinery",
+        "anzsic_correspondence": [{"id": "2461", "title": "Agricultural Machinery and Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2825",
+        "isic_title": "Manufacture of machinery for food, beverage and tobacco processing",
+        "anzsic_correspondence": [{"id": "2461", "title": "Agricultural Machinery and Equipment Manufacturing"}, {"id": "2469", "title": "Other Specialised Machinery and Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2824",
+        "isic_title": "Manufacture of machinery for mining, quarrying and construction",
+        "anzsic_correspondence": [{"id": "2462", "title": "Mining and Construction Machinery Manufacturing"}]
+    },
+    {
+        "isic_id": "2818",
+        "isic_title": "Manufacture of power-driven hand tools",
+        "anzsic_correspondence": [{"id": "2463", "title": "Machine Tool and Parts Manufacturing"}]
+    },
+    {
+        "isic_id": "2822",
+        "isic_title": "Manufacture of metal-forming machinery and machine tools",
+        "anzsic_correspondence": [{"id": "2463", "title": "Machine Tool and Parts Manufacturing"}, {"id": "2499", "title": "Other Machinery and Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "2823",
+        "isic_title": "Manufacture of machinery for metallurgy",
+        "anzsic_correspondence": [{"id": "2463", "title": "Machine Tool and Parts Manufacturing"}]
+    },
+    {
+        "isic_id": "2814",
+        "isic_title": "Manufacture of bearings, gears, gearing and driving elements",
+        "anzsic_correspondence": [{"id": "2499", "title": "Other Machinery and Equipment Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "3211",
+        "isic_title": "Manufacture of jewellery and related articles",
+        "anzsic_correspondence": [{"id": "2591", "title": "Jewellery and Silverware Manufacturing"}, {"id": "7712", "title": "Investigation and Security Services"}]
+    },
+    {
+        "isic_id": "3212",
+        "isic_title": "Manufacture of imitation jewellery and related articles",
+        "anzsic_correspondence": [{"id": "2591", "title": "Jewellery and Silverware Manufacturing"}]
+    },
+    {
+        "isic_id": "3220",
+        "isic_title": "Manufacture of musical instruments",
+        "anzsic_correspondence": [{"id": "2599", "title": "Other Manufacturing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "3510",
+        "isic_title": "Electric power generation, transmission and distribution",
+        "anzsic_correspondence": [{"id": "2611", "title": "Fossil Fuel Electricity Generation"}, {"id": "2612", "title": "Hydro-Electricity Generation"}, {"id": "2619", "title": "Other Electricity Generation"}, {"id": "2620", "title": "Electricity Transmission"}, {"id": "2630", "title": "Electricity Distribution"}, {"id": "2640", "title": "On Selling Electricity and Electricity Market Operation"}]
+    },
+    {
+        "isic_id": "3520",
+        "isic_title": "Manufacture of gas; distribution of gaseous fuels through mains",
+        "anzsic_correspondence": [{"id": "2700", "title": "Gas Supply"}]
+    },
+    {
+        "isic_id": "3530",
+        "isic_title": "Steam and air conditioning supply",
+        "anzsic_correspondence": [{"id": "2811", "title": "Water Supply "}]
+    },
+    {
+        "isic_id": "3600",
+        "isic_title": "Water collection, treatment and supply",
+        "anzsic_correspondence": [{"id": "2811", "title": "Water Supply "}]
+    },
+    {
+        "isic_id": "4930",
+        "isic_title": "Transport via pipeline",
+        "anzsic_correspondence": [{"id": "2811", "title": "Water Supply "}, {"id": "5021", "title": "Pipeline Transport"}]
+    },
+    {
+        "isic_id": "3700",
+        "isic_title": "Sewerage",
+        "anzsic_correspondence": [{"id": "2812", "title": "Sewerage and Drainage Services"}, {"id": "2919", "title": "Other Waste Collection Services"}, {"id": "2921", "title": "Waste Treatment and Disposal Services"}]
+    },
+    {
+        "isic_id": "3811",
+        "isic_title": "Collection of non-hazardous waste",
+        "anzsic_correspondence": [{"id": "2911", "title": "Solid Waste Collection Services"}, {"id": "2919", "title": "Other Waste Collection Services"}, {"id": "2921", "title": "Waste Treatment and Disposal Services"}, {"id": "2922", "title": "Waste Remediation and Materials Recovery Services"}]
+    },
+    {
+        "isic_id": "3812",
+        "isic_title": "Collection of hazardous waste",
+        "anzsic_correspondence": [{"id": "2911", "title": "Solid Waste Collection Services"}, {"id": "2919", "title": "Other Waste Collection Services"}, {"id": "2921", "title": "Waste Treatment and Disposal Services"}, {"id": "2922", "title": "Waste Remediation and Materials Recovery Services"}]
+    },
+    {
+        "isic_id": "3822",
+        "isic_title": "Treatment and disposal of hazardous waste",
+        "anzsic_correspondence": [{"id": "2921", "title": "Waste Treatment and Disposal Services"}, {"id": "2922", "title": "Waste Remediation and Materials Recovery Services"}]
+    },
+    {
+        "isic_id": "3900",
+        "isic_title": "Remediation activities and other waste management services",
+        "anzsic_correspondence": [{"id": "2922", "title": "Waste Remediation and Materials Recovery Services"}]
+    },
+    {
+        "isic_id": "4100",
+        "isic_title": "Construction of buildings",
+        "anzsic_correspondence": [{"id": "3011", "title": "House Construction"}, {"id": "3019", "title": "Other Residential Building Construction"}, {"id": "3020", "title": "Non-Residential Building Construction"}]
+    },
+    {
+        "isic_id": "4210",
+        "isic_title": "Construction of roads and railways",
+        "anzsic_correspondence": [{"id": "3101", "title": "Road and Bridge Construction"}, {"id": "3109", "title": "Other Heavy and Civil Engineering Construction"}, {"id": "3299", "title": "Other Construction Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4290",
+        "isic_title": "Construction of other civil engineering projects",
+        "anzsic_correspondence": [{"id": "3101", "title": "Road and Bridge Construction"}, {"id": "3109", "title": "Other Heavy and Civil Engineering Construction"}, {"id": "3211", "title": "Land Development and Subdivision"}]
+    },
+    {
+        "isic_id": "3320",
+        "isic_title": "Installation of industrial machinery and equipment",
+        "anzsic_correspondence": [{"id": "3109", "title": "Other Heavy and Civil Engineering Construction"}, {"id": "3232", "title": "Electrical Services"}, {"id": "3239", "title": "Other Building Installation Services"}, {"id": "3299", "title": "Other Construction Services (not elsewhere classified)."}, {"id": "7000", "title": "Computer System Design and Related Services"}]
+    },
+    {
+        "isic_id": "4220",
+        "isic_title": "Construction of utility projects",
+        "anzsic_correspondence": [{"id": "3109", "title": "Other Heavy and Civil Engineering Construction"}]
+    },
+    {
+        "isic_id": "4390",
+        "isic_title": "Other specialized construction activities",
+        "anzsic_correspondence": [{"id": "3109", "title": "Other Heavy and Civil Engineering Construction"}, {"id": "3221", "title": "Concreting Services"}, {"id": "3222", "title": "Bricklaying Services"}, {"id": "3223", "title": "Roofing Services"}, {"id": "3224", "title": "Structural Steel Erection Services"}, {"id": "3239", "title": "Other Building Installation Services"}, {"id": "3291", "title": "Landscape Construction Services"}, {"id": "3292", "title": "Hire of Construction Machinery with Operator"}, {"id": "3299", "title": "Other Construction Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "6810",
+        "isic_title": "Real estate activities with own or leased property",
+        "anzsic_correspondence": [{"id": "3211", "title": "Land Development and Subdivision"}, {"id": "6711", "title": "Residential Property Operators "}, {"id": "6712", "title": "Non-Residential Property Operators "}]
+    },
+    {
+        "isic_id": "4311",
+        "isic_title": "Demolition",
+        "anzsic_correspondence": [{"id": "3212", "title": "Site Preparation Services"}]
+    },
+    {
+        "isic_id": "4312",
+        "isic_title": "Site preparation",
+        "anzsic_correspondence": [{"id": "3212", "title": "Site Preparation Services"}, {"id": "3292", "title": "Hire of Construction Machinery with Operator"}]
+    },
+    {
+        "isic_id": "4322",
+        "isic_title": "Plumbing, heat and air-conditioning installation",
+        "anzsic_correspondence": [{"id": "3231", "title": "Plumbing Services"}, {"id": "3233", "title": "Air Conditioning and Heating Services"}, {"id": "3234", "title": "Fire and Security Alarm Installation Services"}, {"id": "3291", "title": "Landscape Construction Services"}]
+    },
+    {
+        "isic_id": "4321",
+        "isic_title": "Electrical installation",
+        "anzsic_correspondence": [{"id": "3232", "title": "Electrical Services"}, {"id": "3234", "title": "Fire and Security Alarm Installation Services"}]
+    },
+    {
+        "isic_id": "4329",
+        "isic_title": "Other construction installation",
+        "anzsic_correspondence": [{"id": "3232", "title": "Electrical Services"}, {"id": "3239", "title": "Other Building Installation Services"}, {"id": "3299", "title": "Other Construction Services (not elsewhere classified)."}, {"id": "9429", "title": "Other Machinery and Equipment Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "8130",
+        "isic_title": "Landscape care and maintenance service activities",
+        "anzsic_correspondence": [{"id": "3291", "title": "Landscape Construction Services"}, {"id": "7313", "title": "Gardening Services"}]
+    },
+    {
+        "isic_id": "4620",
+        "isic_title": "Wholesale of agricultural raw materials and live animals",
+        "anzsic_correspondence": [{"id": "3311", "title": "Wool Wholesaling"}, {"id": "3312", "title": "Cereal Grain Wholesaling"}, {"id": "3319", "title": "Other Agricultural Product Wholesaling"}, {"id": "3606", "title": "Liquor and Tobacco Product Wholesaling"}, {"id": "3739", "title": "Other Goods Wholesaling (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4630",
+        "isic_title": "Wholesale of food, beverages and tobacco",
+        "anzsic_correspondence": [{"id": "3319", "title": "Other Agricultural Product Wholesaling"}, {"id": "3601", "title": "General Line Grocery Wholesaling"}, {"id": "3602", "title": "Meat, Poultry and Smallgoods Wholesaling"}, {"id": "3603", "title": "Dairy Produce Wholesaling"}, {"id": "3604", "title": "Fish and Seafood Wholesaling"}, {"id": "3605", "title": "Fruit and Vegetable Wholesaling"}, {"id": "3606", "title": "Liquor and Tobacco Product Wholesaling"}, {"id": "3609", "title": "Other Grocery Wholesaling"}, {"id": "3739", "title": "Other Goods Wholesaling (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4661",
+        "isic_title": "Wholesale of solid, liquid and gaseous fuels and related products",
+        "anzsic_correspondence": [{"id": "3321", "title": "Petroleum Product Wholesaling"}, {"id": "3322", "title": "Metal and Mineral Wholesaling"}, {"id": "3339", "title": "Other Hardware Goods Wholesaling"}, {"id": "3739", "title": "Other Goods Wholesaling (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4662",
+        "isic_title": "Wholesale of metals and metal ores",
+        "anzsic_correspondence": [{"id": "3322", "title": "Metal and Mineral Wholesaling"}, {"id": "3339", "title": "Other Hardware Goods Wholesaling"}]
+    },
+    {
+        "isic_id": "4669",
+        "isic_title": "Wholesale of waste and scrap and other products (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "3322", "title": "Metal and Mineral Wholesaling"}, {"id": "3323", "title": "Industrial and Agricultural Chemical Product Wholesaling"}, {"id": "3331", "title": "Timber Wholesaling"}, {"id": "3339", "title": "Other Hardware Goods Wholesaling"}, {"id": "3505", "title": "Motor Vehicle Dismantling and Used Parts Wholesaling"}, {"id": "3711", "title": "Textile Product Wholesaling"}, {"id": "3732", "title": "Jewellery and Watch Wholesaling"}, {"id": "3736", "title": "Paper Product Wholesaling"}, {"id": "3739", "title": "Other Goods Wholesaling (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4663",
+        "isic_title": "Wholesale of construction materials, hardware, plumbing and heating equipment and supplies",
+        "anzsic_correspondence": [{"id": "3331", "title": "Timber Wholesaling"}, {"id": "3332", "title": "Plumbing Goods Wholesaling"}, {"id": "3339", "title": "Other Hardware Goods Wholesaling"}, {"id": "3731", "title": "Furniture and Floor Covering Wholesaling"}, {"id": "3739", "title": "Other Goods Wholesaling (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4653",
+        "isic_title": "Wholesale of agricultural machinery, equipment and supplies",
+        "anzsic_correspondence": [{"id": "3411", "title": "Agricultural and Construction Machinery Wholesaling"}]
+    },
+    {
+        "isic_id": "4659",
+        "isic_title": "Wholesale of other machinery and equipment",
+        "anzsic_correspondence": [{"id": "3411", "title": "Agricultural and Construction Machinery Wholesaling"}, {"id": "3419", "title": "Other Specialised Industrial Machinery and Equipment Wholesaling"}, {"id": "3491", "title": "Professional and Scientific Goods Wholesaling"}, {"id": "3494", "title": "Other Electrical and Electronic Goods Wholesaling"}, {"id": "3499", "title": "Other Machinery and Equipment Wholesaling (not elsewhere classified)."}, {"id": "3731", "title": "Furniture and Floor Covering Wholesaling"}, {"id": "3739", "title": "Other Goods Wholesaling (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4649",
+        "isic_title": "Wholesale of other household goods",
+        "anzsic_correspondence": [{"id": "3492", "title": "Computer and Computer Peripheral Wholesaling"}, {"id": "3494", "title": "Other Electrical and Electronic Goods Wholesaling"}, {"id": "3499", "title": "Other Machinery and Equipment Wholesaling (not elsewhere classified)."}, {"id": "3720", "title": "Pharmaceutical and Toiletry Goods Wholesaling"}, {"id": "3731", "title": "Furniture and Floor Covering Wholesaling"}, {"id": "3732", "title": "Jewellery and Watch Wholesaling"}, {"id": "3733", "title": "Kitchen and Diningware Wholesaling"}, {"id": "3734", "title": "Toy and Sporting Goods Wholesaling"}, {"id": "3735", "title": "Book and Magazine Wholesaling"}, {"id": "3736", "title": "Paper Product Wholesaling"}, {"id": "3739", "title": "Other Goods Wholesaling (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4651",
+        "isic_title": "Wholesale of computers, computer peripheral equipment and software",
+        "anzsic_correspondence": [{"id": "3492", "title": "Computer and Computer Peripheral Wholesaling"}]
+    },
+    {
+        "isic_id": "4652",
+        "isic_title": "Wholesale of electronic and telecommunications equipment and parts",
+        "anzsic_correspondence": [{"id": "3492", "title": "Computer and Computer Peripheral Wholesaling"}, {"id": "3493", "title": "Telecommunication Goods Wholesaling"}, {"id": "3494", "title": "Other Electrical and Electronic Goods Wholesaling"}]
+    },
+    {
+        "isic_id": "4510",
+        "isic_title": "Sale of motor vehicles",
+        "anzsic_correspondence": [{"id": "3501", "title": "Car Wholesaling"}, {"id": "3502", "title": "Commercial Vehicle Wholesaling"}, {"id": "3503", "title": "Trailer and Other Motor Vehicle Wholesaling"}, {"id": "3800", "title": "Commission-Based Wholesaling"}, {"id": "3911", "title": "Car Retailing"}, {"id": "3913", "title": "Trailer and Other Motor Vehicle Retailing"}, {"id": "4245", "title": "Marine Equipment Retailing"}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4540",
+        "isic_title": "Sale, maintenance and repair of motorcycles and related parts and accessories",
+        "anzsic_correspondence": [{"id": "3503", "title": "Trailer and Other Motor Vehicle Wholesaling"}, {"id": "3504", "title": "Motor Vehicle New Parts Wholesaling"}, {"id": "3505", "title": "Motor Vehicle Dismantling and Used Parts Wholesaling"}, {"id": "3912", "title": "Motor Cycle Retailing"}, {"id": "3921", "title": "Motor Vehicle Parts Retailing"}, {"id": "3922", "title": "Tyre Retailing"}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}, {"id": "9411", "title": "Automotive Electrical Services"}, {"id": "9412", "title": "Automotive Body, Paint and Interior Repair"}, {"id": "9419", "title": "Other Automotive Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "4530",
+        "isic_title": "Sale of motor vehicle parts and accessories",
+        "anzsic_correspondence": [{"id": "3504", "title": "Motor Vehicle New Parts Wholesaling"}, {"id": "3505", "title": "Motor Vehicle Dismantling and Used Parts Wholesaling"}, {"id": "3921", "title": "Motor Vehicle Parts Retailing"}, {"id": "3922", "title": "Tyre Retailing"}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4641",
+        "isic_title": "Wholesale of textiles, clothing and footwear",
+        "anzsic_correspondence": [{"id": "3711", "title": "Textile Product Wholesaling"}, {"id": "3712", "title": "Clothing and Footwear Wholesaling"}, {"id": "3739", "title": "Other Goods Wholesaling (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4690",
+        "isic_title": "Non-specialized wholesale trade",
+        "anzsic_correspondence": [{"id": "3739", "title": "Other Goods Wholesaling (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4610",
+        "isic_title": "Wholesale on a fee or contract basis",
+        "anzsic_correspondence": [{"id": "3800", "title": "Commission-Based Wholesaling"}]
+    },
+    {
+        "isic_id": "4774",
+        "isic_title": "Retail sale of second-hand goods",
+        "anzsic_correspondence": [{"id": "3800", "title": "Commission-Based Wholesaling"}, {"id": "4273", "title": "Antique and Used Goods Retailing"}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "8299",
+        "isic_title": "Other business support service activities (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "3800", "title": "Commission-Based Wholesaling"}, {"id": "7291", "title": "Office Administrative Services"}, {"id": "7292", "title": "Document Preparation Services"}, {"id": "7293", "title": "Credit Reporting and Debt Collection Services"}, {"id": "7299", "title": "Other Administrative Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4730",
+        "isic_title": "Retail sale of automotive fuel in specialized stores",
+        "anzsic_correspondence": [{"id": "4000", "title": "Fuel Retailing"}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4773",
+        "isic_title": "Other retail sale of new goods in specialized stores",
+        "anzsic_correspondence": [{"id": "4000", "title": "Fuel Retailing"}, {"id": "4212", "title": "Floor Coverings Retailing"}, {"id": "4213", "title": "Houseware Retailing"}, {"id": "4214", "title": "Manchester and Other Textile Goods Retailing"}, {"id": "4221", "title": "Electrical, Electronic and Gas Appliance Retailing"}, {"id": "4229", "title": "Other Electrical and Electronic Goods Retailing"}, {"id": "4231", "title": "Hardware and Building Supplies Retailing"}, {"id": "4232", "title": "Garden Supplies Retailing"}, {"id": "4241", "title": "Sport and Camping Equipment Retailing"}, {"id": "4242", "title": "Entertainment Media Retailing"}, {"id": "4243", "title": "Toy and Game Retailing"}, {"id": "4245", "title": "Marine Equipment Retailing"}, {"id": "4253", "title": "Watch and Jewellery Retailing"}, {"id": "4259", "title": "Other Personal Accessory Retailing"}, {"id": "4272", "title": "Stationery Goods Retailing"}, {"id": "4274", "title": "Flower Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4711",
+        "isic_title": "Retail sale in non-specialized stores with food, beverages or tobacco predominating",
+        "anzsic_correspondence": [{"id": "4110", "title": "Supermarket and Grocery Stores"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4721",
+        "isic_title": "Retail sale of food in specialized stores",
+        "anzsic_correspondence": [{"id": "4121", "title": "Fresh Meat, Fish and Poultry Retailing"}, {"id": "4122", "title": "Fruit and Vegetable Retailing"}, {"id": "4129", "title": "Other Specialised Food Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4781",
+        "isic_title": "Retail sale via stalls and markets of food, beverages and tobacco products",
+        "anzsic_correspondence": [{"id": "4121", "title": "Fresh Meat, Fish and Poultry Retailing"}, {"id": "4122", "title": "Fruit and Vegetable Retailing"}, {"id": "4123", "title": "Liquor Retailing"}, {"id": "4129", "title": "Other Specialised Food Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4722",
+        "isic_title": "Retail sale of beverages in specialized stores",
+        "anzsic_correspondence": [{"id": "4123", "title": "Liquor Retailing"}, {"id": "4129", "title": "Other Specialised Food Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4759",
+        "isic_title": "Retail sale of electrical household appliances, furniture, lighting equipment and other household articles in specialized stores",
+        "anzsic_correspondence": [{"id": "4211", "title": "Furniture Retailing"}, {"id": "4213", "title": "Houseware Retailing"}, {"id": "4214", "title": "Manchester and Other Textile Goods Retailing"}, {"id": "4221", "title": "Electrical, Electronic and Gas Appliance Retailing"}, {"id": "4229", "title": "Other Electrical and Electronic Goods Retailing"}, {"id": "4231", "title": "Hardware and Building Supplies Retailing"}, {"id": "4232", "title": "Garden Supplies Retailing"}, {"id": "4242", "title": "Entertainment Media Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4752",
+        "isic_title": "Retail sale of hardware, paints and glass in specialized stores",
+        "anzsic_correspondence": [{"id": "4212", "title": "Floor Coverings Retailing"}, {"id": "4231", "title": "Hardware and Building Supplies Retailing"}, {"id": "4232", "title": "Garden Supplies Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4753",
+        "isic_title": "Retail sale of carpets, rugs, wall and floor coverings in specialized stores",
+        "anzsic_correspondence": [{"id": "4212", "title": "Floor Coverings Retailing"}, {"id": "4214", "title": "Manchester and Other Textile Goods Retailing"}, {"id": "4231", "title": "Hardware and Building Supplies Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4789",
+        "isic_title": "Retail sale via stalls and markets of other goods",
+        "anzsic_correspondence": [{"id": "4212", "title": "Floor Coverings Retailing"}, {"id": "4213", "title": "Houseware Retailing"}, {"id": "4214", "title": "Manchester and Other Textile Goods Retailing"}, {"id": "4221", "title": "Electrical, Electronic and Gas Appliance Retailing"}, {"id": "4222", "title": "Computer and Computer Peripheral Retailing"}, {"id": "4229", "title": "Other Electrical and Electronic Goods Retailing"}, {"id": "4231", "title": "Hardware and Building Supplies Retailing"}, {"id": "4232", "title": "Garden Supplies Retailing"}, {"id": "4241", "title": "Sport and Camping Equipment Retailing"}, {"id": "4242", "title": "Entertainment Media Retailing"}, {"id": "4243", "title": "Toy and Game Retailing"}, {"id": "4244", "title": "Newspaper and Book Retailing"}, {"id": "4245", "title": "Marine Equipment Retailing"}, {"id": "4253", "title": "Watch and Jewellery Retailing"}, {"id": "4259", "title": "Other Personal Accessory Retailing"}, {"id": "4271", "title": "Pharmaceutical, Cosmetic and Toiletry Goods Retailing"}, {"id": "4272", "title": "Stationery Goods Retailing"}, {"id": "4273", "title": "Antique and Used Goods Retailing"}, {"id": "4274", "title": "Flower Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4751",
+        "isic_title": "Retail sale of textiles in specialized stores",
+        "anzsic_correspondence": [{"id": "4214", "title": "Manchester and Other Textile Goods Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4782",
+        "isic_title": "Retail sale via stalls and markets of textiles, clothing and footwear",
+        "anzsic_correspondence": [{"id": "4214", "title": "Manchester and Other Textile Goods Retailing"}, {"id": "4241", "title": "Sport and Camping Equipment Retailing"}, {"id": "4251", "title": "Clothing Retailing"}, {"id": "4252", "title": "Footwear Retailing"}, {"id": "4259", "title": "Other Personal Accessory Retailing"}, {"id": "4273", "title": "Antique and Used Goods Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4741",
+        "isic_title": "Retail sale of computers, peripheral units, software and telecommunications equipment in specialized stores",
+        "anzsic_correspondence": [{"id": "4221", "title": "Electrical, Electronic and Gas Appliance Retailing"}, {"id": "4222", "title": "Computer and Computer Peripheral Retailing"}, {"id": "4242", "title": "Entertainment Media Retailing"}, {"id": "4245", "title": "Marine Equipment Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4742",
+        "isic_title": "Retail sale of audio and video equipment in specialized stores",
+        "anzsic_correspondence": [{"id": "4221", "title": "Electrical, Electronic and Gas Appliance Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4759",
+        "isic_title": "Retail sale of electrical household appliances, furniture, lighting equipment",
+        "anzsic_correspondence": [{"id": "4211", "title": "Furniture Retailing"}, {"id": "4213", "title": "Houseware Retailing"}, {"id": "4214", "title": "Manchester and Other Textile Goods Retailing"}, {"id": "4221", "title": "Electrical, Electronic and Gas Appliance Retailing"}, {"id": "4229", "title": "Other Electrical and Electronic Goods Retailing"}, {"id": "4231", "title": "Hardware and Building Supplies Retailing"}, {"id": "4232", "title": "Garden Supplies Retailing"}, {"id": "4242", "title": "Entertainment Media Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4763",
+        "isic_title": "Retail sale of sporting equipment in specialized stores",
+        "anzsic_correspondence": [{"id": "4241", "title": "Sport and Camping Equipment Retailing"}, {"id": "4245", "title": "Marine Equipment Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4771",
+        "isic_title": "Retail sale of clothing, footwear and leather articles in specialized stores",
+        "anzsic_correspondence": [{"id": "4241", "title": "Sport and Camping Equipment Retailing"}, {"id": "4251", "title": "Clothing Retailing"}, {"id": "4252", "title": "Footwear Retailing"}, {"id": "4259", "title": "Other Personal Accessory Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4762",
+        "isic_title": "Retail sale of music and video recordings in specialized stores",
+        "anzsic_correspondence": [{"id": "4242", "title": "Entertainment Media Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4764",
+        "isic_title": "Retail sale of games and toys in specialized stores",
+        "anzsic_correspondence": [{"id": "4243", "title": "Toy and Game Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4761",
+        "isic_title": "Retail sale of books, newspapers and stationary in specialized stores",
+        "anzsic_correspondence": [{"id": "4244", "title": "Newspaper and Book Retailing"}, {"id": "4272", "title": "Stationery Goods Retailing"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4719",
+        "isic_title": "Other retail sale in non-specialized stores",
+        "anzsic_correspondence": [{"id": "4260", "title": "Department Stores"}, {"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4772",
+        "isic_title": "Retail sale of pharmaceutical and medical goods, cosmetic and toilet articles in specialized stores",
+        "anzsic_correspondence": [{"id": "4271", "title": "Pharmaceutical, Cosmetic and Toiletry Goods Retailing"}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "6492",
+        "isic_title": "Other credit granting",
+        "anzsic_correspondence": [{"id": "4273", "title": "Antique and Used Goods Retailing"}, {"id": "6230", "title": "Non-Depository Financing"}]
+    },
+    {
+        "isic_id": "4723",
+        "isic_title": "Retail sale of tobacco products in specialized stores",
+        "anzsic_correspondence": [{"id": "4279", "title": "Other Store-Based Retailing (not elsewhere classified)."}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4791",
+        "isic_title": "Retail sale via mail order houses or via Internet",
+        "anzsic_correspondence": [{"id": "4310", "title": "Non-Store Retailing"}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "4799",
+        "isic_title": "Other retail sale not in stores, stalls or markets",
+        "anzsic_correspondence": [{"id": "4310", "title": "Non-Store Retailing"}, {"id": "4320", "title": "Retail Commission-Based Buying and/or Selling"}]
+    },
+    {
+        "isic_id": "5510",
+        "isic_title": "Short term accommodation activities",
+        "anzsic_correspondence": [{"id": "4400", "title": "Accommodation"}]
+    },
+    {
+        "isic_id": "5520",
+        "isic_title": "Camping grounds, recreational vehicle parks and trailer parks",
+        "anzsic_correspondence": [{"id": "4400", "title": "Accommodation"}]
+    },
+    {
+        "isic_id": "5590",
+        "isic_title": "Other accommodation",
+        "anzsic_correspondence": [{"id": "4400", "title": "Accommodation"}]
+    },
+    {
+        "isic_id": "5610",
+        "isic_title": "Restaurants and mobile food service activities",
+        "anzsic_correspondence": [{"id": "4511", "title": "Cafes and Restaurants"}, {"id": "4512", "title": "Takeaway Food Services"}, {"id": "4513", "title": "Catering Services"}, {"id": "4530", "title": "Clubs (Hospitality)"}, {"id": "8790", "title": "Other Social Assistance Services"}]
+    },
+    {
+        "isic_id": "5629",
+        "isic_title": "Other food service activities",
+        "anzsic_correspondence": [{"id": "4511", "title": "Cafes and Restaurants"}, {"id": "4512", "title": "Takeaway Food Services"}, {"id": "4513", "title": "Catering Services"}]
+    },
+    {
+        "isic_id": "5630",
+        "isic_title": "Beverage serving activities",
+        "anzsic_correspondence": [{"id": "4511", "title": "Cafes and Restaurants"}, {"id": "4512", "title": "Takeaway Food Services"}, {"id": "4520", "title": "Pubs, Taverns and Bars"}, {"id": "4530", "title": "Clubs (Hospitality)"}]
+    },
+    {
+        "isic_id": "5621",
+        "isic_title": "Event catering",
+        "anzsic_correspondence": [{"id": "4513", "title": "Catering Services"}]
+    },
+    {
+        "isic_id": "4923",
+        "isic_title": "Freight transport by road",
+        "anzsic_correspondence": [{"id": "4610", "title": "Road Freight Transport"}, {"id": "5299", "title": "Other Transport Support Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "5221",
+        "isic_title": "Service activities incidental to land transportation",
+        "anzsic_correspondence": [{"id": "4610", "title": "Road Freight Transport"}, {"id": "5299", "title": "Other Transport Support Services (not elsewhere classified)."}, {"id": "9419", "title": "Other Automotive Repair and Maintenance"}, {"id": "9533", "title": "Parking Services"}]
+    },
+    {
+        "isic_id": "4922",
+        "isic_title": "Other passenger land transport",
+        "anzsic_correspondence": [{"id": "4621", "title": "Interurban and Rural Bus Transport"}, {"id": "4622", "title": "Urban Bus Transport (Including Tramway)"}, {"id": "4623", "title": "Taxi and Other Road Transport"}, {"id": "5010", "title": "Scenic and Sightseeing Transport"}, {"id": "5029", "title": "Other Transport (not elsewhere classified)."}, {"id": "5299", "title": "Other Transport Support Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4921",
+        "isic_title": "Urban and suburban passenger land transport",
+        "anzsic_correspondence": [{"id": "4622", "title": "Urban Bus Transport (Including Tramway)"}, {"id": "4720", "title": "Rail Passenger Transport"}, {"id": "5010", "title": "Scenic and Sightseeing Transport"}, {"id": "5029", "title": "Other Transport (not elsewhere classified)."}, {"id": "5299", "title": "Other Transport Support Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4912",
+        "isic_title": "Freight rail transport",
+        "anzsic_correspondence": [{"id": "4710", "title": "Rail Freight Transport"}, {"id": "5299", "title": "Other Transport Support Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "4911",
+        "isic_title": "Passenger rail transport, interurban",
+        "anzsic_correspondence": [{"id": "4720", "title": "Rail Passenger Transport"}, {"id": "5299", "title": "Other Transport Support Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "5012",
+        "isic_title": "Sea and coastal freight water transport",
+        "anzsic_correspondence": [{"id": "4810", "title": "Water Freight Transport"}, {"id": "5299", "title": "Other Transport Support Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "5022",
+        "isic_title": "Inland freight water transport",
+        "anzsic_correspondence": [{"id": "4810", "title": "Water Freight Transport"}, {"id": "5299", "title": "Other Transport Support Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "5011",
+        "isic_title": "Sea and coastal passenger water transport",
+        "anzsic_correspondence": [{"id": "4820", "title": "Water Passenger Transport"}, {"id": "5010", "title": "Scenic and Sightseeing Transport"}, {"id": "5299", "title": "Other Transport Support Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "5021",
+        "isic_title": "Inland passenger water transport",
+        "anzsic_correspondence": [{"id": "4820", "title": "Water Passenger Transport"}, {"id": "5010", "title": "Scenic and Sightseeing Transport"}, {"id": "5299", "title": "Other Transport Support Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "5110",
+        "isic_title": "Passenger air transport",
+        "anzsic_correspondence": [{"id": "4900", "title": "Air and Space Transport"}, {"id": "5010", "title": "Scenic and Sightseeing Transport"}, {"id": "5299", "title": "Other Transport Support Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "5120",
+        "isic_title": "Freight air transport",
+        "anzsic_correspondence": [{"id": "4900", "title": "Air and Space Transport"}, {"id": "5299", "title": "Other Transport Support Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "5310",
+        "isic_title": "Postal activities",
+        "anzsic_correspondence": [{"id": "5101", "title": "Postal Services"}]
+    },
+    {
+        "isic_id": "8219",
+        "isic_title": "Photocopying, document preparation and other specialized office support activities",
+        "anzsic_correspondence": [{"id": "5101", "title": "Postal Services"}, {"id": "7291", "title": "Office Administrative Services"}, {"id": "7292", "title": "Document Preparation Services"}]
+    },
+    {
+        "isic_id": "5320",
+        "isic_title": "Courier activities",
+        "anzsic_correspondence": [{"id": "5102", "title": "Courier Pick-up and Delivery Services"}]
+    },
+    {
+        "isic_id": "5224",
+        "isic_title": "Cargo handling",
+        "anzsic_correspondence": [{"id": "5211", "title": "Stevedoring Services"}, {"id": "5219", "title": "Other Water Transport Support Services"}, {"id": "5220", "title": "Airport Operations and Other Air Transport Support Services"}]
+    },
+    {
+        "isic_id": "5222",
+        "isic_title": "Service activities incidental to water transportation",
+        "anzsic_correspondence": [{"id": "5212", "title": "Port and Water Transport Terminal Operations"}, {"id": "5219", "title": "Other Water Transport Support Services"}]
+    },
+    {
+        "isic_id": "5223",
+        "isic_title": "Service activities incidental to air transportation",
+        "anzsic_correspondence": [{"id": "5220", "title": "Airport Operations and Other Air Transport Support Services"}, {"id": "5299", "title": "Other Transport Support Services (not elsewhere classified)."}, {"id": "7713", "title": "Fire Protection and Other Emergency Services"}]
+    },
+    {
+        "isic_id": "5229",
+        "isic_title": "Other transportation support activities",
+        "anzsic_correspondence": [{"id": "5291", "title": "Customs Agency Services"}, {"id": "5292", "title": "Freight Forwarding Services"}, {"id": "5299", "title": "Other Transport Support Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "7490",
+        "isic_title": "Other professional, scientific and technical activities (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "5292", "title": "Freight Forwarding Services"}, {"id": "6411", "title": "Financial Asset Broking Services"}, {"id": "6923", "title": "Engineering Design and Engineering Consulting Services"}, {"id": "6962", "title": "Management Advice and Related Consulting Services"}, {"id": "6999", "title": "Other Professional, Scientific and Technical Services (not elsewhere classified)."}, {"id": "7211", "title": "Employment Placement and Recruitment Services"}]
+    },
+    {
+        "isic_id": "5210",
+        "isic_title": "Warehousing and storage",
+        "anzsic_correspondence": [{"id": "5301", "title": "Grain Storage Services"}, {"id": "5309", "title": "Other Warehousing and Storage Services"}]
+    },
+    {
+        "isic_id": "5813",
+        "isic_title": "Publishing of newspapers, journals and periodicals",
+        "anzsic_correspondence": [{"id": "5411", "title": "Newspaper Publishing"}, {"id": "5412", "title": "Magazine and Other Periodical Publishing"}, {"id": "5700", "title": "Internet Publishing and Broadcasting"}]
+    },
+    {
+        "isic_id": "5819",
+        "isic_title": "Other publishing activities",
+        "anzsic_correspondence": [{"id": "5412", "title": "Magazine and Other Periodical Publishing"}, {"id": "5419", "title": "Other Publishing (except Software, Music and Internet)"}, {"id": "5700", "title": "Internet Publishing and Broadcasting"}]
+    },
+    {
+        "isic_id": "5811",
+        "isic_title": "Book publishing",
+        "anzsic_correspondence": [{"id": "5413", "title": "Book Publishing"}, {"id": "5700", "title": "Internet Publishing and Broadcasting"}]
+    },
+    {
+        "isic_id": "5812",
+        "isic_title": "Publishing of directories and mailing lists",
+        "anzsic_correspondence": [{"id": "5414", "title": "Directory and Mailing List Publishing"}, {"id": "5700", "title": "Internet Publishing and Broadcasting"}]
+    },
+    {
+        "isic_id": "5820",
+        "isic_title": "Software publishing",
+        "anzsic_correspondence": [{"id": "5420", "title": "Software Publishing"}]
+    },
+    {
+        "isic_id": "5911",
+        "isic_title": "Motion picture, video and television programme production activities",
+        "anzsic_correspondence": [{"id": "5511", "title": "Motion Picture and Video Production"}]
+    },
+    {
+        "isic_id": "5912",
+        "isic_title": "Motion picture, video and television programme post-production activities",
+        "anzsic_correspondence": [{"id": "5512", "title": "Motion Picture and Video Distribution"}, {"id": "5514", "title": "Post-production Services and Other Motion Picture and Video Activities"}]
+    },
+    {
+        "isic_id": "5913",
+        "isic_title": "Motion picture, video and television programme distribution activities",
+        "anzsic_correspondence": [{"id": "5512", "title": "Motion Picture and Video Distribution"}]
+    },
+    {
+        "isic_id": "5914",
+        "isic_title": "Motion picture projection activities",
+        "anzsic_correspondence": [{"id": "5513", "title": "Motion Picture Exhibition"}]
+    },
+    {
+        "isic_id": "5920",
+        "isic_title": "Sound recording and music publishing activities",
+        "anzsic_correspondence": [{"id": "5521", "title": "Music Publishing"}, {"id": "5522", "title": "Music and Other Sound Recording Activities"}]
+    },
+    {
+        "isic_id": "6010",
+        "isic_title": "Radio broadcasting",
+        "anzsic_correspondence": [{"id": "5610", "title": "Radio Broadcasting"}, {"id": "5700", "title": "Internet Publishing and Broadcasting"}]
+    },
+    {
+        "isic_id": "6020",
+        "isic_title": "Television programming and broadcasting activities",
+        "anzsic_correspondence": [{"id": "5621", "title": "Free-to-Air Television Broadcasting"}, {"id": "5622", "title": "Cable and Other Subscription Broadcasting"}, {"id": "5700", "title": "Internet Publishing and Broadcasting"}]
+    },
+    {
+        "isic_id": "6110",
+        "isic_title": "Wired telecommunications activities",
+        "anzsic_correspondence": [{"id": "5801", "title": "Wired Telecommunications Network Operation"}, {"id": "5910", "title": "Internet Service Providers and Web Search Portals"}]
+    },
+    {
+        "isic_id": "6120",
+        "isic_title": "Wireless telecommunications activities",
+        "anzsic_correspondence": [{"id": "5802", "title": "Other Telecommunications Network Operation"}, {"id": "5910", "title": "Internet Service Providers and Web Search Portals"}]
+    },
+    {
+        "isic_id": "6130",
+        "isic_title": "Satellite telecommunications activities",
+        "anzsic_correspondence": [{"id": "5802", "title": "Other Telecommunications Network Operation"}, {"id": "5910", "title": "Internet Service Providers and Web Search Portals"}]
+    },
+    {
+        "isic_id": "6190",
+        "isic_title": "Other telecommunications activities",
+        "anzsic_correspondence": [{"id": "5809", "title": "Other Telecommunications Services"}, {"id": "5910", "title": "Internet Service Providers and Web Search Portals"}]
+    },
+    {
+        "isic_id": "6312",
+        "isic_title": "Web portals",
+        "anzsic_correspondence": [{"id": "5910", "title": "Internet Service Providers and Web Search Portals"}]
+    },
+    {
+        "isic_id": "6202",
+        "isic_title": "Computer consultancy and computer facilities management activities",
+        "anzsic_correspondence": [{"id": "5921", "title": "Data Processing and Web Hosting Services"}, {"id": "5922", "title": "Electronic Information Storage Services"}, {"id": "7000", "title": "Computer System Design and Related Services"}]
+    },
+    {
+        "isic_id": "6311",
+        "isic_title": "Data processing, hosting and related activities",
+        "anzsic_correspondence": [{"id": "5921", "title": "Data Processing and Web Hosting Services"}, {"id": "5922", "title": "Electronic Information Storage Services"}]
+    },
+    {
+        "isic_id": "7420",
+        "isic_title": "Photographic activities",
+        "anzsic_correspondence": [{"id": "5921", "title": "Data Processing and Web Hosting Services"}, {"id": "6991", "title": "Professional Photographic Services"}, {"id": "9002", "title": "Creative Artists, Musicians, Writers and Performers"}, {"id": "9532", "title": "Photographic Film Processing"}]
+    },
+    {
+        "isic_id": "9101",
+        "isic_title": "Library and archives activities",
+        "anzsic_correspondence": [{"id": "6010", "title": "Libraries and Archives"}]
+    },
+    {
+        "isic_id": "6391",
+        "isic_title": "News agency activities",
+        "anzsic_correspondence": [{"id": "6020", "title": "Other Information Services"}]
+    },
+    {
+        "isic_id": "6399",
+        "isic_title": "Other information service activities (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "6020", "title": "Other Information Services"}, {"id": "6962", "title": "Management Advice and Related Consulting Services"}]
+    },
+    {
+        "isic_id": "6411",
+        "isic_title": "Central banking",
+        "anzsic_correspondence": [{"id": "6210", "title": "Central Banking"}]
+    },
+    {
+        "isic_id": "6419",
+        "isic_title": "Other monetary intermediation",
+        "anzsic_correspondence": [{"id": "6221", "title": "Banking"}, {"id": "6222", "title": "Building Society Operation"}, {"id": "6223", "title": "Credit Union Operation"}, {"id": "6229", "title": "Other Depository Financial Intermediation"}]
+    },
+    {
+        "isic_id": "6491",
+        "isic_title": "Financial leasing",
+        "anzsic_correspondence": [{"id": "6230", "title": "Non-Depository Financing"}]
+    },
+    {
+        "isic_id": "6499",
+        "isic_title": "Other financial service activities, except insurance and pension funding activities (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "6230", "title": "Non-Depository Financing"}, {"id": "6240", "title": "Financial Asset Investing"}]
+    },
+    {
+        "isic_id": "6420",
+        "isic_title": "Activities of holding companies",
+        "anzsic_correspondence": [{"id": "6240", "title": "Financial Asset Investing"}]
+    },
+    {
+        "isic_id": "6430",
+        "isic_title": "Trusts, funds and similar financial entities",
+        "anzsic_correspondence": [{"id": "6240", "title": "Financial Asset Investing"}]
+    },
+    {
+        "isic_id": "6511",
+        "isic_title": "Life insurance",
+        "anzsic_correspondence": [{"id": "6310", "title": "Life Insurance"}]
+    },
+    {
+        "isic_id": "6520",
+        "isic_title": "Reinsurance",
+        "anzsic_correspondence": [{"id": "6310", "title": "Life Insurance"}, {"id": "6321", "title": "Health Insurance"}, {"id": "6322", "title": "General Insurance"}]
+    },
+    {
+        "isic_id": "6512",
+        "isic_title": "Non-life insurance",
+        "anzsic_correspondence": [{"id": "6321", "title": "Health Insurance"}, {"id": "6322", "title": "General Insurance"}]
+    },
+    {
+        "isic_id": "6530",
+        "isic_title": "Pension funding",
+        "anzsic_correspondence": [{"id": "6330", "title": "Superannuation Funds"}]
+    },
+    {
+        "isic_id": "8430",
+        "isic_title": "Compulsory social security activities",
+        "anzsic_correspondence": [{"id": "6330", "title": "Superannuation Funds"}, {"id": "7510", "title": "Central Government Administration"}]
+    },
+    {
+        "isic_id": "6612",
+        "isic_title": "Security and commodity contracts brokerage",
+        "anzsic_correspondence": [{"id": "6411", "title": "Financial Asset Broking Services"}, {"id": "6419", "title": "Other Auxiliary Finance and Investment Services"}]
+    },
+    {
+        "isic_id": "6611",
+        "isic_title": "Administration of financial markets",
+        "anzsic_correspondence": [{"id": "6419", "title": "Other Auxiliary Finance and Investment Services"}]
+    },
+    {
+        "isic_id": "6619",
+        "isic_title": "Other activities auxiliary to financial service activities",
+        "anzsic_correspondence": [{"id": "6419", "title": "Other Auxiliary Finance and Investment Services"}]
+    },
+    {
+        "isic_id": "6629",
+        "isic_title": "Other activities auxiliary to insurance and pension funding",
+        "anzsic_correspondence": [{"id": "6419", "title": "Other Auxiliary Finance and Investment Services"}, {"id": "6420", "title": "Auxiliary Insurance Services"}]
+    },
+    {
+        "isic_id": "6630",
+        "isic_title": "Fund management activities",
+        "anzsic_correspondence": [{"id": "6419", "title": "Other Auxiliary Finance and Investment Services"}]
+    },
+    {
+        "isic_id": "6621",
+        "isic_title": "Risk and damage evaluation",
+        "anzsic_correspondence": [{"id": "6420", "title": "Auxiliary Insurance Services"}]
+    },
+    {
+        "isic_id": "6622",
+        "isic_title": "Activities of insurance agents and brokers",
+        "anzsic_correspondence": [{"id": "6420", "title": "Auxiliary Insurance Services"}]
+    },
+    {
+        "isic_id": "7710",
+        "isic_title": "Renting and leasing of motor vehicles",
+        "anzsic_correspondence": [{"id": "6611", "title": "Passenger Car Rental and Hiring"}, {"id": "6619", "title": "Other Motor Vehicle and Transport Equipment Rental and Hiring"}]
+    },
+    {
+        "isic_id": "7721",
+        "isic_title": "Renting and leasing of recreational and sports goods",
+        "anzsic_correspondence": [{"id": "6619", "title": "Other Motor Vehicle and Transport Equipment Rental and Hiring"}, {"id": "6639", "title": "Other Goods and Equipment Rental and Hiring (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "7730",
+        "isic_title": "Renting and leasing of other machinery, equipment and tangible goods",
+        "anzsic_correspondence": [{"id": "6619", "title": "Other Motor Vehicle and Transport Equipment Rental and Hiring"}, {"id": "6620", "title": "Farm Animal and Bloodstock Leasing"}, {"id": "6631", "title": "Heavy Machinery and Scaffolding Rental and Hiring"}, {"id": "6639", "title": "Other Goods and Equipment Rental and Hiring (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "7722",
+        "isic_title": "Renting of video tapes and disks",
+        "anzsic_correspondence": [{"id": "6632", "title": "Video and Other Electronic Media Rental and Hiring"}]
+    },
+    {
+        "isic_id": "7729",
+        "isic_title": "Renting and leasing of other personal and household goods",
+        "anzsic_correspondence": [{"id": "6639", "title": "Other Goods and Equipment Rental and Hiring (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "7740",
+        "isic_title": "Leasing of intellectual property and similar products, except copyrighted works",
+        "anzsic_correspondence": [{"id": "6640", "title": "Non-Financial Intangible Assets (Except Copyrights) Leasing"}]
+    },
+    {
+        "isic_id": "6820",
+        "isic_title": "Real estate activities on a fee or contract basis",
+        "anzsic_correspondence": [{"id": "6720", "title": "Real Estate Services "}]
+    },
+    {
+        "isic_id": "8110",
+        "isic_title": "Combined facilities support activities",
+        "anzsic_correspondence": [{"id": "6720", "title": "Real Estate Services "}]
+    },
+    {
+        "isic_id": "7210",
+        "isic_title": "Research and experimental development on natural sciences and engineering",
+        "anzsic_correspondence": [{"id": "6910", "title": "Scientific Research Services"}]
+    },
+    {
+        "isic_id": "7220",
+        "isic_title": "Research and experimental development on social sciences and humanities",
+        "anzsic_correspondence": [{"id": "6910", "title": "Scientific Research Services"}]
+    },
+    {
+        "isic_id": "7110",
+        "isic_title": "Architectural and engineering activities and related technical consultancy",
+        "anzsic_correspondence": [{"id": "6921", "title": "Architectural Services"}, {"id": "6922", "title": "Surveying and Mapping Services"}, {"id": "6923", "title": "Engineering Design and Engineering Consulting Services"}, {"id": "6999", "title": "Other Professional, Scientific and Technical Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "7410",
+        "isic_title": "Specialized design activities",
+        "anzsic_correspondence": [{"id": "6923", "title": "Engineering Design and Engineering Consulting Services"}, {"id": "6924", "title": "Other Specialised Design Services"}]
+    },
+    {
+        "isic_id": "7310",
+        "isic_title": "Advertising",
+        "anzsic_correspondence": [{"id": "6924", "title": "Other Specialised Design Services"}, {"id": "6940", "title": "Advertising Services"}]
+    },
+    {
+        "isic_id": "7120",
+        "isic_title": "Technical testing and analysis",
+        "anzsic_correspondence": [{"id": "6925", "title": "Scientific Testing and Analysis Services"}, {"id": "7720", "title": "Regulatory Services"}]
+    },
+    {
+        "isic_id": "6910",
+        "isic_title": "Legal activities",
+        "anzsic_correspondence": [{"id": "6931", "title": "Legal Services"}]
+    },
+    {
+        "isic_id": "6920",
+        "isic_title": "Accounting, bookkeeping and auditing activities; tax consultancy",
+        "anzsic_correspondence": [{"id": "6932", "title": "Accounting Services"}]
+    },
+    {
+        "isic_id": "7320",
+        "isic_title": "Market research and public opinion polling",
+        "anzsic_correspondence": [{"id": "6950", "title": "Market Research and Statistical Services"}]
+    },
+    {
+        "isic_id": "8411",
+        "isic_title": "General public administration activities",
+        "anzsic_correspondence": [{"id": "6950", "title": "Market Research and Statistical Services"}, {"id": "7510", "title": "Central Government Administration"}, {"id": "7520", "title": "State Government Administration"}, {"id": "7530", "title": "Local Government Administration"}]
+    },
+    {
+        "isic_id": "7010",
+        "isic_title": "Activities of head offices",
+        "anzsic_correspondence": [{"id": "6961", "title": "Corporate Head Office Management Services"}]
+    },
+    {
+        "isic_id": "7020",
+        "isic_title": "Management consultancy activities",
+        "anzsic_correspondence": [{"id": "6962", "title": "Management Advice and Related Consulting Services"}]
+    },
+    {
+        "isic_id": "7830",
+        "isic_title": "Other human resources provision",
+        "anzsic_correspondence": [{"id": "6962", "title": "Management Advice and Related Consulting Services"}, {"id": "7291", "title": "Office Administrative Services"}]
+    },
+    {
+        "isic_id": "7500",
+        "isic_title": "Veterinary activities",
+        "anzsic_correspondence": [{"id": "6970", "title": "Veterinary Services"}]
+    },
+    {
+        "isic_id": "9609",
+        "isic_title": "Other personal service activities (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "6991", "title": "Professional Photographic Services"}, {"id": "9511", "title": "Hairdressing and Beauty Services"}, {"id": "9512", "title": "Diet and Weight Reduction Centre Operation"}, {"id": "9533", "title": "Parking Services"}, {"id": "9534", "title": "Brothel Keeping and Prostitution Services"}, {"id": "9539", "title": "Other Personal Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "6201",
+        "isic_title": "Computer programming activities",
+        "anzsic_correspondence": [{"id": "7000", "title": "Computer System Design and Related Services"}]
+    },
+    {
+        "isic_id": "6209",
+        "isic_title": "Other information technology and computer service activities",
+        "anzsic_correspondence": [{"id": "7000", "title": "Computer System Design and Related Services"}]
+    },
+    {
+        "isic_id": "7810",
+        "isic_title": "Activities of employment placement agencies",
+        "anzsic_correspondence": [{"id": "7211", "title": "Employment Placement and Recruitment Services"}]
+    },
+    {
+        "isic_id": "8550",
+        "isic_title": "Educational support activities",
+        "anzsic_correspondence": [{"id": "7211", "title": "Employment Placement and Recruitment Services"}, {"id": "8220", "title": "Educational Support Services"}]
+    },
+    {
+        "isic_id": "7820",
+        "isic_title": "Temporary employment agency activities",
+        "anzsic_correspondence": [{"id": "7212", "title": "Labour Supply Services"}]
+    },
+    {
+        "isic_id": "7911",
+        "isic_title": "Travel agency activities",
+        "anzsic_correspondence": [{"id": "7220", "title": "Travel Agency and Tour Arrangement Services"}, {"id": "7299", "title": "Other Administrative Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "7912",
+        "isic_title": "Tour operator activities",
+        "anzsic_correspondence": [{"id": "7220", "title": "Travel Agency and Tour Arrangement Services"}, {"id": "7299", "title": "Other Administrative Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "7990",
+        "isic_title": "Other reservation service and related activities",
+        "anzsic_correspondence": [{"id": "7220", "title": "Travel Agency and Tour Arrangement Services"}, {"id": "7299", "title": "Other Administrative Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "8211",
+        "isic_title": "Combined office administrative service activities",
+        "anzsic_correspondence": [{"id": "7291", "title": "Office Administrative Services"}]
+    },
+    {
+        "isic_id": "8291",
+        "isic_title": "Activities of collection agencies and credit bureaus",
+        "anzsic_correspondence": [{"id": "7293", "title": "Credit Reporting and Debt Collection Services"}]
+    },
+    {
+        "isic_id": "8220",
+        "isic_title": "Activities of call centres",
+        "anzsic_correspondence": [{"id": "7294", "title": "Call Centre Operation"}]
+    },
+    {
+        "isic_id": "8230",
+        "isic_title": "Organization of conventions and trade shows",
+        "anzsic_correspondence": [{"id": "7299", "title": "Other Administrative Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "9000",
+        "isic_title": "Creative, arts and entertainment activities",
+        "anzsic_correspondence": [{"id": "7299", "title": "Other Administrative Services (not elsewhere classified)."}, {"id": "8910", "title": "Museum Operation"}, {"id": "9001", "title": "Performing Arts Operation"}, {"id": "9002", "title": "Creative Artists, Musicians, Writers and Performers"}, {"id": "9003", "title": "Performing Arts Venue Operation"}]
+    },
+    {
+        "isic_id": "9319",
+        "isic_title": "Other sports activities",
+        "anzsic_correspondence": [{"id": "7299", "title": "Other Administrative Services (not elsewhere classified)."}, {"id": "9112", "title": "Sports and Physical Recreation Clubs and Sports Professionals"}, {"id": "9114", "title": "Sports and Physical Recreation Administrative Service"}, {"id": "9121", "title": "Horse and Dog Racing Administration and Track Operation"}, {"id": "9129", "title": "Other Horse and Dog Racing Activities"}, {"id": "9139", "title": "Amusement and Other Recreational Activities (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "9329",
+        "isic_title": "Other amusement and recreation activities (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "7299", "title": "Other Administrative Services (not elsewhere classified)."}, {"id": "9131", "title": "Amusement Parks and Centres Operation"}, {"id": "9139", "title": "Amusement and Other Recreational Activities (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "8121",
+        "isic_title": "General cleaning of buildings",
+        "anzsic_correspondence": [{"id": "7311", "title": "Building and Other Industrial Cleaning Services"}]
+    },
+    {
+        "isic_id": "8129",
+        "isic_title": "Other building and industrial cleaning activities",
+        "anzsic_correspondence": [{"id": "7311", "title": "Building and Other Industrial Cleaning Services"}, {"id": "7312", "title": "Building Pest Control Services"}]
+    },
+    {
+        "isic_id": "8292",
+        "isic_title": "Packaging activities",
+        "anzsic_correspondence": [{"id": "7320", "title": "Packaging Services"}]
+    },
+    {
+        "isic_id": "8412",
+        "isic_title": "Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security",
+        "anzsic_correspondence": [{"id": "7510", "title": "Central Government Administration"}, {"id": "7520", "title": "State Government Administration"}, {"id": "7530", "title": "Local Government Administration"}, {"id": "7720", "title": "Regulatory Services"}]
+    },
+    {
+        "isic_id": "8413",
+        "isic_title": "Regulation of and contribution to more efficient operation of businesses",
+        "anzsic_correspondence": [{"id": "7510", "title": "Central Government Administration"}, {"id": "7520", "title": "State Government Administration"}, {"id": "7530", "title": "Local Government Administration"}, {"id": "7720", "title": "Regulatory Services"}]
+    },
+    {
+        "isic_id": "8421",
+        "isic_title": "Foreign affairs",
+        "anzsic_correspondence": [{"id": "7510", "title": "Central Government Administration"}, {"id": "7551", "title": "Domestic Government Representation"}, {"id": "7600", "title": "Defence"}]
+    },
+    {
+        "isic_id": "8423",
+        "isic_title": "Public order and safety activities",
+        "anzsic_correspondence": [{"id": "7540", "title": "Justice"}, {"id": "7600", "title": "Defence"}, {"id": "7711", "title": "Police Services"}, {"id": "7713", "title": "Fire Protection and Other Emergency Services"}, {"id": "7714", "title": "Correctional and Detention Services"}, {"id": "7719", "title": "Other Public Order and Safety Services "}]
+    },
+    {
+        "isic_id": "9900",
+        "isic_title": "Activities of extraterritorial organizations and bodies",
+        "anzsic_correspondence": [{"id": "7552", "title": "Foreign Government Representation"}]
+    },
+    {
+        "isic_id": "8422",
+        "isic_title": "Defence activities",
+        "anzsic_correspondence": [{"id": "7600", "title": "Defence"}]
+    },
+    {
+        "isic_id": "8010",
+        "isic_title": "Private security activities",
+        "anzsic_correspondence": [{"id": "7712", "title": "Investigation and Security Services"}]
+    },
+    {
+        "isic_id": "8020",
+        "isic_title": "Security systems service activities",
+        "anzsic_correspondence": [{"id": "7712", "title": "Investigation and Security Services"}]
+    },
+    {
+        "isic_id": "8030",
+        "isic_title": "Investigation activities",
+        "anzsic_correspondence": [{"id": "7712", "title": "Investigation and Security Services"}]
+    },
+    {
+        "isic_id": "9529",
+        "isic_title": "Repair of other personal and household goods",
+        "anzsic_correspondence": [{"id": "7712", "title": "Investigation and Security Services"}, {"id": "9491", "title": "Clothing and Footwear Repair"}, {"id": "9499", "title": "Other Repair and Maintenance (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "8790",
+        "isic_title": "Other residential care activities",
+        "anzsic_correspondence": [{"id": "7714", "title": "Correctional and Detention Services"}, {"id": "8609", "title": "Other Residential Care Services"}]
+    },
+    {
+        "isic_id": "8510",
+        "isic_title": "Pre-primary and primary education",
+        "anzsic_correspondence": [{"id": "8010", "title": "Preschool Education"}, {"id": "8021", "title": "Primary Education"}, {"id": "8023", "title": "Combined Primary and Secondary Education"}, {"id": "8024", "title": "Special School Education"}]
+    },
+    {
+        "isic_id": "8521",
+        "isic_title": "General secondary education",
+        "anzsic_correspondence": [{"id": "8022", "title": "Secondary Education"}, {"id": "8023", "title": "Combined Primary and Secondary Education"}, {"id": "8024", "title": "Special School Education"}]
+    },
+    {
+        "isic_id": "8522",
+        "isic_title": "Technical and vocational secondary education",
+        "anzsic_correspondence": [{"id": "8024", "title": "Special School Education"}, {"id": "8101", "title": "Technical and Vocational Education and Training"}, {"id": "8219", "title": "Adult, Community and Other Education (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "8530",
+        "isic_title": "Higher education",
+        "anzsic_correspondence": [{"id": "8101", "title": "Technical and Vocational Education and Training"}, {"id": "8102", "title": "Higher Education"}]
+    },
+    {
+        "isic_id": "8549",
+        "isic_title": "Other education (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "8101", "title": "Technical and Vocational Education and Training"}, {"id": "8211", "title": "Sports and Physical Recreation Instruction"}, {"id": "8211", "title": "Sports and Physical Recreation Instruction"}, {"id": "8219", "title": "Adult, Community and Other Education (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "8541",
+        "isic_title": "Sports and recreation education",
+        "anzsic_correspondence": [{"id": "8211", "title": "Sports and Physical Recreation Instruction"}, {"id": "8219", "title": "Adult, Community and Other Education (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "8542",
+        "isic_title": "Cultural education",
+        "anzsic_correspondence": [{"id": "8212", "title": "Arts Education"}, {"id": "8219", "title": "Adult, Community and Other Education (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "8610",
+        "isic_title": "Hospital activities",
+        "anzsic_correspondence": [{"id": "8401", "title": "Hospitals (Except Psychiatric Hospitals)"}, {"id": "8402", "title": "Psychiatric Hospitals"}]
+    },
+    {
+        "isic_id": "8620",
+        "isic_title": "Medical and dental practice activities",
+        "anzsic_correspondence": [{"id": "8511", "title": "General Practice Medical Services"}, {"id": "8512", "title": "Specialist Medical Services"}, {"id": "8531", "title": "Dental Services"}]
+    },
+    {
+        "isic_id": "8690",
+        "isic_title": "Other human health activities",
+        "anzsic_correspondence": [{"id": "8520", "title": "Pathology and Diagnostic Imaging Services"}, {"id": "8532", "title": "Optometry and Optical Dispensing"}, {"id": "8533", "title": "Physiotherapy Services"}, {"id": "8534", "title": "Chiropractic and Osteopathic Services"}, {"id": "8539", "title": "Other Allied Health Services"}, {"id": "8591", "title": "Ambulance Services"}, {"id": "8599", "title": "Other Health Care Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "8710",
+        "isic_title": "Residential nursing care facilities",
+        "anzsic_correspondence": [{"id": "8601", "title": "Aged Care Residential Services"}, {"id": "8609", "title": "Other Residential Care Services"}]
+    },
+    {
+        "isic_id": "8730",
+        "isic_title": "Residential care activities for the elderly and disabled",
+        "anzsic_correspondence": [{"id": "8601", "title": "Aged Care Residential Services"}, {"id": "8609", "title": "Other Residential Care Services"}]
+    },
+    {
+        "isic_id": "8720",
+        "isic_title": "Residential care activities for mental retardation, mental health and substance abuse",
+        "anzsic_correspondence": [{"id": "8609", "title": "Other Residential Care Services"}]
+    },
+    {
+        "isic_id": "8890",
+        "isic_title": "Other social work activities without accommodation (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "8710", "title": "Child Care Services"}, {"id": "8790", "title": "Other Social Assistance Services"}]
+    },
+    {
+        "isic_id": "8810",
+        "isic_title": "Social work activities without accommodation for the elderly and disabled",
+        "anzsic_correspondence": [{"id": "8790", "title": "Other Social Assistance Services"}]
+    },
+    {
+        "isic_id": "9102",
+        "isic_title": "Museums activities and operation of historical sites and buildings",
+        "anzsic_correspondence": [{"id": "8910", "title": "Museum Operation"}]
+    },
+    {
+        "isic_id": "9103",
+        "isic_title": "Botanical and zoological gardens and nature reserves activities",
+        "anzsic_correspondence": [{"id": "8921", "title": "Zoological and Botanical Gardens Operation"}, {"id": "8922", "title": "Nature Reserves and Conservation Parks Operation"}]
+    },
+    {
+        "isic_id": "9311",
+        "isic_title": "Operation of sports facilities",
+        "anzsic_correspondence": [{"id": "9111", "title": "Health and Fitness Centres and Gymnasia Operation"}, {"id": "9113", "title": "Sports and Physical Recreation Venues, Grounds and Facilities Operation"}, {"id": "9121", "title": "Horse and Dog Racing Administration and Track Operation"}, {"id": "9139", "title": "Amusement and Other Recreational Activities (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "9312",
+        "isic_title": "Activities of sports clubs",
+        "anzsic_correspondence": [{"id": "9112", "title": "Sports and Physical Recreation Clubs and Sports Professionals"}, {"id": "9139", "title": "Amusement and Other Recreational Activities (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "9321",
+        "isic_title": "Activities of amusement parks and theme parks",
+        "anzsic_correspondence": [{"id": "9131", "title": "Amusement Parks and Centres Operation"}, {"id": "9139", "title": "Amusement and Other Recreational Activities (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "9200",
+        "isic_title": "Gambling and betting activities",
+        "anzsic_correspondence": [{"id": "9201", "title": "Casino Operation"}, {"id": "9202", "title": "Lottery Operation"}, {"id": "9209", "title": "Other Gambling Activities"}]
+    },
+    {
+        "isic_id": "4520",
+        "isic_title": "Maintenance and repair of motor vehicles",
+        "anzsic_correspondence": [{"id": "9411", "title": "Automotive Electrical Services"}, {"id": "9412", "title": "Automotive Body, Paint and Interior Repair"}, {"id": "9419", "title": "Other Automotive Repair and Maintenance"}, {"id": "9429", "title": "Other Machinery and Equipment Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "9521",
+        "isic_title": "Repair of consumer electronics",
+        "anzsic_correspondence": [{"id": "9421", "title": "Domestic Appliance Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "9522",
+        "isic_title": "Repair of household appliances and home and garden equipment",
+        "anzsic_correspondence": [{"id": "9421", "title": "Domestic Appliance Repair and Maintenance"}, {"id": "9499", "title": "Other Repair and Maintenance (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "3314",
+        "isic_title": "Repair of electrical equipment",
+        "anzsic_correspondence": [{"id": "9422", "title": "Electronic (except Domestic Appliance) and Precision Equipment Repair and Maintenance"}, {"id": "9429", "title": "Other Machinery and Equipment Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "9511",
+        "isic_title": "Repair of computers and peripheral equipment",
+        "anzsic_correspondence": [{"id": "9422", "title": "Electronic (except Domestic Appliance) and Precision Equipment Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "9512",
+        "isic_title": "Repair of communication equipment",
+        "anzsic_correspondence": [{"id": "9422", "title": "Electronic (except Domestic Appliance) and Precision Equipment Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "3311",
+        "isic_title": "Repair of fabricated metal products",
+        "anzsic_correspondence": [{"id": "9429", "title": "Other Machinery and Equipment Repair and Maintenance"}, {"id": "9499", "title": "Other Repair and Maintenance (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "3319",
+        "isic_title": "Repair of other equipment",
+        "anzsic_correspondence": [{"id": "9429", "title": "Other Machinery and Equipment Repair and Maintenance"}, {"id": "9499", "title": "Other Repair and Maintenance (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "9523",
+        "isic_title": "Repair of footwear and leather goods",
+        "anzsic_correspondence": [{"id": "9491", "title": "Clothing and Footwear Repair"}, {"id": "9499", "title": "Other Repair and Maintenance (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "9524",
+        "isic_title": "Repair of furniture and home furnishings",
+        "anzsic_correspondence": [{"id": "9499", "title": "Other Repair and Maintenance (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "9602",
+        "isic_title": "Hairdressing and other beauty treatment",
+        "anzsic_correspondence": [{"id": "9511", "title": "Hairdressing and Beauty Services"}]
+    },
+    {
+        "isic_id": "9603",
+        "isic_title": "Funeral and related activities",
+        "anzsic_correspondence": [{"id": "9520", "title": "Funeral, Crematorium and Cemetery Services"}]
+    },
+    {
+        "isic_id": "9601",
+        "isic_title": "Washing and (dry-) cleaning of textile and fur products",
+        "anzsic_correspondence": [{"id": "9531", "title": "Laundry and Dry-Cleaning Services"}]
+    },
+    {
+        "isic_id": "9491",
+        "isic_title": "Activities of religious organizations",
+        "anzsic_correspondence": [{"id": "9540", "title": "Religious Services"}]
+    },
+    {
+        "isic_id": "9411",
+        "isic_title": "Activities of business and employers membership organizations",
+        "anzsic_correspondence": [{"id": "9551", "title": "Business and Professional Association Services"}]
+    },
+    {
+        "isic_id": "9412",
+        "isic_title": "Activities of professional membership organizations",
+        "anzsic_correspondence": [{"id": "9551", "title": "Business and Professional Association Services"}]
+    },
+    {
+        "isic_id": "9420",
+        "isic_title": "Activities of trade unions",
+        "anzsic_correspondence": [{"id": "9552", "title": "Labour Association Services"}]
+    },
+    {
+        "isic_id": "9492",
+        "isic_title": "Activities of political organizations",
+        "anzsic_correspondence": [{"id": "9559", "title": "Other Interest Group Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "9499",
+        "isic_title": "Activities of other membership organizations (not elsewhere classified)",
+        "anzsic_correspondence": [{"id": "9559", "title": "Other Interest Group Services (not elsewhere classified)."}]
+    },
+    {
+        "isic_id": "9700",
+        "isic_title": "Activities of households as employers of domestic personnel",
+        "anzsic_correspondence": [{"id": "9601", "title": "Private Households Employing Staff"}]
+    },
+    {
+        "isic_id": "9810",
+        "isic_title": "Undifferentiated goods-producing activities of private households for own use",
+        "anzsic_correspondence": [{"id": "9602", "title": "Undifferentiated Goods-Producing Activities of Private Households for Own Use"}]
+    },
+    {
+        "isic_id": "9820",
+        "isic_title": "Undifferentiated service-producing activities of private households for own use",
+        "anzsic_correspondence": [{"id": "9603", "title": "Undifferentiated Service-Producing Activities of Private Households for Own Use"}]
+    }
+]
