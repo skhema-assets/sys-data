@@ -1,0 +1,2182 @@
+[
+    {
+        "isco_08_id": "0110",
+        "isco_title": "Commissioned armed forces officers",
+        "anzsco_22_correspondence": [{"id": "111212", "title": "Defence Force Senior Officer"}, {"id": "139111", "title": "Commissioned Defence Force Officer"}]
+    },
+    {
+        "isco_08_id": "0210",
+        "isco_title": "Non-commissioned armed forces officers",
+        "anzsco_22_correspondence": [{"id": "139211", "title": "Senior Non-commissioned Defence Force Member"}]
+    },
+    {
+        "isco_08_id": "0310",
+        "isco_title": "Armed forces occupations, other ranks",
+        "anzsco_22_correspondence": [{"id": "441111", "title": "Defence Force Member - Other Ranks"}]
+    },
+    {
+        "isco_08_id": "1111",
+        "isco_title": "Legislators",
+        "anzsco_22_correspondence": [{"id": "111311", "title": "Local Government Legislator"}, {"id": "111312", "title": "Member of Parliament"}, {"id": "111399", "title": "Legislators nec"}]
+    },
+    {
+        "isco_08_id": "1112",
+        "isco_title": "Senior government officials",
+        "anzsco_22_correspondence": [{"id": "111111", "title": "Chief Executive or Managing Director"}, {"id": "111211", "title": "Corporate General Manager"}, {"id": "139999", "title": "Specialist Managers nec"}]
+    },
+    {
+        "isco_08_id": "1113",
+        "isco_title": "Traditional chiefs and heads of villages",
+        "anzsco_22_correspondence": []
+    },
+    {
+        "isco_08_id": "1114",
+        "isco_title": "Senior officials of special-interest organizations",
+        "anzsco_22_correspondence": [{"id": "111111", "title": "Chief Executive or Managing Director"}, {"id": "111211", "title": "Corporate General Manager"}]
+    },
+    {
+        "isco_08_id": "1120",
+        "isco_title": "Managing directors and chief executives",
+        "anzsco_22_correspondence": [{"id": "111111", "title": "Chief Executive or Managing Director"}, {"id": "111211", "title": "Corporate General Manager"}]
+    },
+    {
+        "isco_08_id": "1211",
+        "isco_title": "Finance managers",
+        "anzsco_22_correspondence": [{"id": "132111", "title": "Corporate Services Manager"}, {"id": "132211", "title": "Finance Manager"}, {"id": "221211", "title": "Company Secretary"}, {"id": "221212", "title": "Corporate Treasurer"}]
+    },
+    {
+        "isco_08_id": "1212",
+        "isco_title": "Human resource managers",
+        "anzsco_22_correspondence": [{"id": "132311", "title": "Human Resource Manager"}]
+    },
+    {
+        "isco_08_id": "1213",
+        "isco_title": "Policy and planning managers",
+        "anzsco_22_correspondence": [{"id": "132411", "title": "Policy and Planning Manager"}, {"id": "139916", "title": "Quality Assurance Manager"}, {"id": "139917", "title": "Regulatory Affairs Manager"}]
+    },
+    {
+        "isco_08_id": "1219",
+        "isco_title": "Business services and administration managers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "132111", "title": "Corporate Services Manager"}, {"id": "149212", "title": "Customer Service Manager"}, {"id": "149913", "title": "Facilities Manager"}]
+    },
+    {
+        "isco_08_id": "1221",
+        "isco_title": "Sales and marketing managers",
+        "anzsco_22_correspondence": [{"id": "131112", "title": "Sales and Marketing Manager"}]
+    },
+    {
+        "isco_08_id": "1222",
+        "isco_title": "Advertising and public relations managers",
+        "anzsco_22_correspondence": [{"id": "131113", "title": "Advertising Manager"}, {"id": "131114", "title": "Public Relations Manager"}]
+    },
+    {
+        "isco_08_id": "1223",
+        "isco_title": "Research and development managers",
+        "anzsco_22_correspondence": [{"id": "132511", "title": "Research and Development Manager"}]
+    },
+    {
+        "isco_08_id": "1311",
+        "isco_title": "Agricultural and forestry production managers",
+        "anzsco_22_correspondence": [{"id": "121311", "title": "Apiarist"}, {"id": "121312", "title": "Beef Cattle Farmer"}, {"id": "121313", "title": "Dairy Cattle Farmer"}, {"id": "121314", "title": "Deer Farmer"}, {"id": "121315", "title": "Goat Farmer"}, {"id": "121316", "title": "Horse Breeder"}, {"id": "121318", "title": "Pig Farmer"}, {"id": "121321", "title": "Poultry Farmer"}, {"id": "121322", "title": "Sheep Farmer"}, {"id": "121323", "title": "Mixed Cattle and Sheep Farmer"}, {"id": "121399", "title": "Livestock Farmers nec"}, {"id": "121511", "title": "Cotton Grower"}, {"id": "121512", "title": "Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower"}, {"id": "121513", "title": "Sugar Cane Grower"}, {"id": "121599", "title": "Broadacre Crop Growers nec"}, {"id": "121611", "title": "Flower Grower"}, {"id": "121612", "title": "Fruit Grower"}, {"id": "121613", "title": "Nut Grower"}, {"id": "121616", "title": "Vegetable Grower (Aus) / Market Gardener (NZ)"}, {"id": "121699", "title": "Horticultural Crop Growers nec"}, {"id": "121711", "title": "Broadacre Crop and Livestock Farmer"}, {"id": "121799", "title": "Mixed Production Farmers nec"}, {"id": "133511", "title": "Production Manager (Forestry)"}]
+    },
+    {
+        "isco_08_id": "1312",
+        "isco_title": "Aquaculture and fisheries production managers",
+        "anzsco_22_correspondence": [{"id": "121111", "title": "Aquaculture Farmer"}]
+    },
+    {
+        "isco_08_id": "1321",
+        "isco_title": "Manufacturing managers",
+        "anzsco_22_correspondence": [{"id": "133411", "title": "Manufacturer"}, {"id": "133512", "title": "Production Manager (Manufacturing)"}, {"id": "139999", "title": "Specialist Managers nec"}]
+    },
+    {
+        "isco_08_id": "1322",
+        "isco_title": "Mining managers",
+        "anzsco_22_correspondence": [{"id": "133513", "title": "Production Manager (Mining)"}]
+    },
+    {
+        "isco_08_id": "1323",
+        "isco_title": "Construction managers",
+        "anzsco_22_correspondence": [{"id": "133111", "title": "Construction Project Manager"}, {"id": "133112", "title": "Project Builder"}]
+    },
+    {
+        "isco_08_id": "1324",
+        "isco_title": "Supply, distribution and related managers",
+        "anzsco_22_correspondence": [{"id": "133311", "title": "Importer or Exporter"}, {"id": "133611", "title": "Supply and Distribution Manager"}, {"id": "133612", "title": "Procurement Manager"}, {"id": "149411", "title": "Fleet Manager"}, {"id": "149412", "title": "Railway Station Manager"}, {"id": "149413", "title": "Transport Company Manager"}]
+    },
+    {
+        "isco_08_id": "1330",
+        "isco_title": "Information and communications technology service managers",
+        "anzsco_22_correspondence": [{"id": "135111", "title": "Chief Information Officer"}, {"id": "135112", "title": "ICT Project Manager"}, {"id": "135199", "title": "ICT Managers nec"}]
+    },
+    {
+        "isco_08_id": "1341",
+        "isco_title": "Child care service managers",
+        "anzsco_22_correspondence": [{"id": "134111", "title": "Child Care Centre Manager"}]
+    },
+    {
+        "isco_08_id": "1342",
+        "isco_title": "Health service managers",
+        "anzsco_22_correspondence": [{"id": "134211", "title": "Medical Administrator / Medical Superintendent"}, {"id": "134212", "title": "Nursing Clinical Director"}, {"id": "134213", "title": "Primary Health Organisation Manager"}, {"id": "134299", "title": "Health and Welfare Services Managers nec"}, {"id": "512211", "title": "Health Practice Manager"}]
+    },
+    {
+        "isco_08_id": "1343",
+        "isco_title": "Aged care service managers",
+        "anzsco_22_correspondence": [{"id": "134299", "title": "Health and Welfare Services Managers nec"}, {"id": "141912", "title": "Retirement Village Manager"}]
+    },
+    {
+        "isco_08_id": "1344",
+        "isco_title": "Social welfare managers",
+        "anzsco_22_correspondence": [{"id": "134214", "title": "Welfare Centre Manager"}, {"id": "134299", "title": "Health and Welfare Services Managers nec"}]
+    },
+    {
+        "isco_08_id": "1345",
+        "isco_title": "Education managers",
+        "anzsco_22_correspondence": [{"id": "134311", "title": "School Principal"}, {"id": "134411", "title": "Faculty Head"}, {"id": "134412", "title": "Regional Education Manager"}, {"id": "134499", "title": "Education Managers nec"}]
+    },
+    {
+        "isco_08_id": "1346",
+        "isco_title": "Financial and insurance services branch managers",
+        "anzsco_22_correspondence": [{"id": "149914", "title": "Financial Institution Branch Manager"}]
+    },
+    {
+        "isco_08_id": "1349",
+        "isco_title": "Professional services managers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "133211", "title": "Engineering Manager"}, {"id": "139112", "title": "Commissioned Fire Officer"}, {"id": "139113", "title": "Commissioned Police Officer"}, {"id": "139911", "title": "Arts Administrator or Manager"}, {"id": "139912", "title": "Environmental Manager"}, {"id": "139913", "title": "Laboratory Manager"}, {"id": "139915", "title": "Sports Administrator"}, {"id": "139999", "title": "Specialist Managers nec"}, {"id": "224611", "title": "Librarian"}]
+    },
+    {
+        "isco_08_id": "1411",
+        "isco_title": "Hotel managers",
+        "anzsco_22_correspondence": [{"id": "141311", "title": "Hotel or Motel Manager"}, {"id": "141999", "title": "Accommodation and Hospitality Managers nec"}]
+    },
+    {
+        "isco_08_id": "1412",
+        "isco_title": "Restaurant managers",
+        "anzsco_22_correspondence": [{"id": "141111", "title": "Cafe or Restaurant Manager"}]
+    },
+    {
+        "isco_08_id": "1420",
+        "isco_title": "Retail and wholesale trade managers",
+        "anzsco_22_correspondence": [{"id": "133312", "title": "Wholesaler"}, {"id": "142111", "title": "Retail Manager (General)"}, {"id": "142112", "title": "Antique Dealer"}, {"id": "142113", "title": "Betting Agency Manager"}, {"id": "142114", "title": "Hair or Beauty Salon Manager"}, {"id": "142115", "title": "Post Office Manager"}]
+    },
+    {
+        "isco_08_id": "1431",
+        "isco_title": "Sports, recreation and cultural centre managers",
+        "anzsco_22_correspondence": [{"id": "149111", "title": "Amusement Centre Manager"}, {"id": "149112", "title": "Fitness Centre Manager"}, {"id": "149113", "title": "Sports Centre Manager"}, {"id": "149912", "title": "Cinema or Theatre Manager"}]
+    },
+    {
+        "isco_08_id": "1439",
+        "isco_title": "Services managers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "141211", "title": "Caravan Park and Camping Ground Manager"}, {"id": "141411", "title": "Licensed Club Manager"}, {"id": "141999", "title": "Accommodation and Hospitality Managers nec"}, {"id": "142116", "title": "Travel Agency Manager"}, {"id": "149211", "title": "Call or Contact Centre Manager"}, {"id": "149212", "title": "Customer Service Manager"}, {"id": "149311", "title": "Conference and Event Organiser"}, {"id": "149911", "title": "Boarding Kennel or Cattery Operator"}, {"id": "149913", "title": "Facilities Manager"}, {"id": "149915", "title": "Equipment Hire Manager"}, {"id": "149999", "title": "Hospitality, Retail and Service Managers nec"}]
+    },
+    {
+        "isco_08_id": "2111",
+        "isco_title": "Physicists and astronomers",
+        "anzsco_22_correspondence": [{"id": "234914", "title": "Physicist"}]
+    },
+    {
+        "isco_08_id": "2112",
+        "isco_title": "Meteorologists",
+        "anzsco_22_correspondence": [{"id": "234913", "title": "Meteorologist"}]
+    },
+    {
+        "isco_08_id": "2113",
+        "isco_title": "Chemists",
+        "anzsco_22_correspondence": [{"id": "234211", "title": "Chemist"}]
+    },
+    {
+        "isco_08_id": "2114",
+        "isco_title": "Geologists and geophysicists",
+        "anzsco_22_correspondence": [{"id": "234411", "title": "Geologist"}, {"id": "234412", "title": "Geophysicist"}, {"id": "234413", "title": "Hydrogeologist"}]
+    },
+    {
+        "isco_08_id": "2120",
+        "isco_title": "Mathematicians, actuaries and statisticians",
+        "anzsco_22_correspondence": [{"id": "224111", "title": "Actuary"}, {"id": "224112", "title": "Mathematician"}, {"id": "224114", "title": "Data Analyst"}, {"id": "224115", "title": "Data Scientist"}, {"id": "224116", "title": "Statistician"}]
+    },
+    {
+        "isco_08_id": "2131",
+        "isco_title": "Biologists, botanists, zoologists and related professionals",
+        "anzsco_22_correspondence": [{"id": "234115", "title": "Agronomist"}, {"id": "234116", "title": "Aquaculture or Fisheries Scientist"}, {"id": "234511", "title": "Life Scientist (General)"}, {"id": "234513", "title": "Biochemist"}, {"id": "234514", "title": "Biotechnologist"}, {"id": "234515", "title": "Botanist"}, {"id": "234516", "title": "Marine Biologist"}, {"id": "234517", "title": "Microbiologist"}, {"id": "234521", "title": "Entomologist"}, {"id": "234522", "title": "Zoologist"}, {"id": "234599", "title": "Life Scientists nec"}, {"id": "234611", "title": "Medical Laboratory Scientist"}]
+    },
+    {
+        "isco_08_id": "2132",
+        "isco_title": "Farming, forestry and fisheries advisers",
+        "anzsco_22_correspondence": [{"id": "234111", "title": "Agricultural Consultant"}, {"id": "234113", "title": "Forester / Forest Scientist"}, {"id": "234114", "title": "Agricultural Research Scientist"}, {"id": "234115", "title": "Agronomist"}, {"id": "234116", "title": "Aquaculture or Fisheries Scientist"}, {"id": "234399", "title": "Environmental Scientists nec"}]
+    },
+    {
+        "isco_08_id": "2133",
+        "isco_title": "Environmental protection professionals",
+        "anzsco_22_correspondence": [{"id": "234311", "title": "Conservation Officer"}, {"id": "234312", "title": "Environmental Consultant"}, {"id": "234313", "title": "Environmental Research Scientist"}, {"id": "234314", "title": "Park Ranger"}, {"id": "234399", "title": "Environmental Scientists nec"}]
+    },
+    {
+        "isco_08_id": "2141",
+        "isco_title": "Industrial and production engineers",
+        "anzsco_22_correspondence": [{"id": "233511", "title": "Industrial Engineer"}, {"id": "233513", "title": "Production or Plant Engineer"}, {"id": "233914", "title": "Engineering Technologist"}]
+    },
+    {
+        "isco_08_id": "2142",
+        "isco_title": "Civil engineers",
+        "anzsco_22_correspondence": [{"id": "233211", "title": "Civil Engineer"}, {"id": "233212", "title": "Geotechnical Engineer"}, {"id": "233214", "title": "Structural Engineer"}, {"id": "233215", "title": "Transport Engineer"}, {"id": "233914", "title": "Engineering Technologist"}]
+    },
+    {
+        "isco_08_id": "2143",
+        "isco_title": "Environmental engineers",
+        "anzsco_22_correspondence": [{"id": "233915", "title": "Environmental Engineer"}]
+    },
+    {
+        "isco_08_id": "2144",
+        "isco_title": "Mechanical engineers",
+        "anzsco_22_correspondence": [{"id": "233512", "title": "Mechanical Engineer"}, {"id": "233911", "title": "Aeronautical Engineer"}, {"id": "233912", "title": "Agricultural Engineer"}, {"id": "233914", "title": "Engineering Technologist"}, {"id": "233916", "title": "Naval Architect / Marine Designer"}]
+    },
+    {
+        "isco_08_id": "2145",
+        "isco_title": "Chemical engineers",
+        "anzsco_22_correspondence": [{"id": "233111", "title": "Chemical Engineer"}, {"id": "233914", "title": "Engineering Technologist"}, {"id": "234212", "title": "Food Technologist"}, {"id": "234213", "title": "Wine Maker"}]
+    },
+    {
+        "isco_08_id": "2146",
+        "isco_title": "Mining engineers, metallurgists and related professionals",
+        "anzsco_22_correspondence": [{"id": "233611", "title": "Mining Engineer (excluding Petroleum)"}, {"id": "233612", "title": "Petroleum Engineer"}, {"id": "233914", "title": "Engineering Technologist"}, {"id": "234912", "title": "Metallurgist"}, {"id": "234999", "title": "Natural and Physical Science Professionals nec"}]
+    },
+    {
+        "isco_08_id": "2149",
+        "isco_title": "Engineering professionals not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "233112", "title": "Materials Engineer"}, {"id": "233213", "title": "Quantity Surveyor"}, {"id": "233511", "title": "Industrial Engineer"}, {"id": "233912", "title": "Agricultural Engineer"}, {"id": "233913", "title": "Biomedical Engineer"}, {"id": "233914", "title": "Engineering Technologist"}, {"id": "233999", "title": "Engineering Professionals nec"}, {"id": "312611", "title": "Safety Inspector"}]
+    },
+    {
+        "isco_08_id": "2151",
+        "isco_title": "Electrical engineers",
+        "anzsco_22_correspondence": [{"id": "233311", "title": "Electrical Engineer"}, {"id": "233914", "title": "Engineering Technologist"}]
+    },
+    {
+        "isco_08_id": "2152",
+        "isco_title": "Electronics engineers",
+        "anzsco_22_correspondence": [{"id": "233411", "title": "Electronics Engineer"}, {"id": "233914", "title": "Engineering Technologist"}]
+    },
+    {
+        "isco_08_id": "2153",
+        "isco_title": "Telecommunications engineers",
+        "anzsco_22_correspondence": [{"id": "263311", "title": "Telecommunications Engineer"}, {"id": "263312", "title": "Telecommunications Network Engineer"}]
+    },
+    {
+        "isco_08_id": "2161",
+        "isco_title": "Building architects",
+        "anzsco_22_correspondence": [{"id": "232111", "title": "Architect"}, {"id": "232511", "title": "Interior Designer"}]
+    },
+    {
+        "isco_08_id": "2162",
+        "isco_title": "Landscape architects",
+        "anzsco_22_correspondence": [{"id": "232112", "title": "Landscape Architect"}]
+    },
+    {
+        "isco_08_id": "2163",
+        "isco_title": "Product and garment designers",
+        "anzsco_22_correspondence": [{"id": "232311", "title": "Fashion Designer"}, {"id": "232312", "title": "Industrial Designer"}, {"id": "232313", "title": "Jewellery Designer"}]
+    },
+    {
+        "isco_08_id": "2164",
+        "isco_title": "Town and traffic planners",
+        "anzsco_22_correspondence": [{"id": "232611", "title": "Urban and Regional Planner"}]
+    },
+    {
+        "isco_08_id": "2165",
+        "isco_title": "Cartographers and surveyors",
+        "anzsco_22_correspondence": [{"id": "232212", "title": "Surveyor"}, {"id": "232213", "title": "Cartographer"}, {"id": "232214", "title": "Other Spatial Scientist"}]
+    },
+    {
+        "isco_08_id": "2166",
+        "isco_title": "Graphic and multimedia designers",
+        "anzsco_22_correspondence": [{"id": "232411", "title": "Graphic Designer"}, {"id": "232412", "title": "Illustrator"}, {"id": "232413", "title": "Multimedia Designer"}, {"id": "232414", "title": "Web Designer"}]
+    },
+    {
+        "isco_08_id": "2211",
+        "isco_title": "Generalist medical practitioners ",
+        "anzsco_22_correspondence": [{"id": "253111", "title": "General Practitioner"}, {"id": "253112", "title": "Resident Medical Officer"}]
+    },
+    {
+        "isco_08_id": "2212",
+        "isco_title": "Specialist medical practitioners ",
+        "anzsco_22_correspondence": [{"id": "253211", "title": "Anaesthetist"}, {"id": "253311", "title": "Specialist Physician (General Medicine)"}, {"id": "253312", "title": "Cardiologist"}, {"id": "253313", "title": "Clinical Haematologist"}, {"id": "253314", "title": "Medical Oncologist"}, {"id": "253315", "title": "Endocrinologist"}, {"id": "253316", "title": "Gastroenterologist"}, {"id": "253317", "title": "Intensive Care Specialist"}, {"id": "253318", "title": "Neurologist"}, {"id": "253321", "title": "Paediatrician"}, {"id": "253322", "title": "Renal Medicine Specialist"}, {"id": "253323", "title": "Rheumatologist"}, {"id": "253324", "title": "Thoracic Medicine Specialist"}, {"id": "253399", "title": "Specialist Physicians nec"}, {"id": "253411", "title": "Psychiatrist"}, {"id": "253511", "title": "Surgeon (General)"}, {"id": "253512", "title": "Cardiothoracic Surgeon"}, {"id": "253513", "title": "Neurosurgeon"}, {"id": "253514", "title": "Orthopaedic Surgeon"}, {"id": "253515", "title": "Otorhinolaryngologist"}, {"id": "253516", "title": "Paediatric Surgeon"}, {"id": "253517", "title": "Plastic and Reconstructive Surgeon"}, {"id": "253518", "title": "Urologist"}, {"id": "253521", "title": "Vascular Surgeon"}, {"id": "253911", "title": "Dermatologist"}, {"id": "253912", "title": "Emergency Medicine Specialist"}, {"id": "253913", "title": "Obstetrician and Gynaecologist"}, {"id": "253914", "title": "Ophthalmologist"}, {"id": "253915", "title": "Pathologist"}, {"id": "253917", "title": "Diagnostic and Interventional Radiologist"}, {"id": "253918", "title": "Radiation Oncologist"}, {"id": "253999", "title": "Medical Practitioners nec"}]
+    },
+    {
+        "isco_08_id": "2221",
+        "isco_title": "Nursing professionals",
+        "anzsco_22_correspondence": [{"id": "254211", "title": "Nurse Educator"}, {"id": "254212", "title": "Nurse Researcher"}, {"id": "254311", "title": "Nurse Manager"}, {"id": "254411", "title": "Nurse Practitioner"}, {"id": "254412", "title": "Registered Nurse (Aged Care)"}, {"id": "254413", "title": "Registered Nurse (Child and Family Health)"}, {"id": "254414", "title": "Registered Nurse (Community Health)"}, {"id": "254415", "title": "Registered Nurse (Critical Care and Emergency)"}, {"id": "254416", "title": "Registered Nurse (Developmental Disability)"}, {"id": "254417", "title": "Registered Nurse (Disability and Rehabilitation)"}, {"id": "254418", "title": "Registered Nurse (Medical)"}, {"id": "254421", "title": "Registered Nurse (Medical Practice)"}, {"id": "254422", "title": "Registered Nurse (Mental Health)"}, {"id": "254423", "title": "Registered Nurse (Perioperative)"}, {"id": "254424", "title": "Registered Nurse (Surgical)"}, {"id": "254425", "title": "Registered Nurse (Paediatrics)"}, {"id": "254499", "title": "Registered Nurses nec"}]
+    },
+    {
+        "isco_08_id": "2222",
+        "isco_title": "Midwifery professionals",
+        "anzsco_22_correspondence": [{"id": "254111", "title": "Midwife"}]
+    },
+    {
+        "isco_08_id": "2230",
+        "isco_title": "Traditional and complementary medicine professionals",
+        "anzsco_22_correspondence": [{"id": "252211", "title": "Acupuncturist"}, {"id": "252212", "title": "Homoeopath"}, {"id": "252213", "title": "Naturopath"}, {"id": "252214", "title": "Traditional Chinese Medicine Practitioner"}, {"id": "252215", "title": "Traditional Māori Health Practitioner"}, {"id": "252299", "title": "Complementary Health Therapists nec"}]
+    },
+    {
+        "isco_08_id": "2240",
+        "isco_title": "Paramedical practitioners",
+        "anzsco_22_correspondence": [{"id": "411112", "title": "Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)"}]
+    },
+    {
+        "isco_08_id": "2250",
+        "isco_title": "Veterinarians",
+        "anzsco_22_correspondence": [{"id": "234711", "title": "Veterinarian"}]
+    },
+    {
+        "isco_08_id": "2261",
+        "isco_title": "Dentists",
+        "anzsco_22_correspondence": [{"id": "252311", "title": "Dental Specialist"}, {"id": "252312", "title": "Dentist"}]
+    },
+    {
+        "isco_08_id": "2262",
+        "isco_title": "Pharmacists",
+        "anzsco_22_correspondence": [{"id": "251511", "title": "Hospital Pharmacist"}, {"id": "251512", "title": "Industrial Pharmacist"}, {"id": "251513", "title": "Retail Pharmacist"}]
+    },
+    {
+        "isco_08_id": "2263",
+        "isco_title": "Environmental and occupational health and hygiene professionals",
+        "anzsco_22_correspondence": [{"id": "251311", "title": "Environmental Health Officer"}, {"id": "251312", "title": "Occupational Health and Safety Adviser"}]
+    },
+    {
+        "isco_08_id": "2264",
+        "isco_title": "Physiotherapists ",
+        "anzsco_22_correspondence": [{"id": "252511", "title": "Physiotherapist"}]
+    },
+    {
+        "isco_08_id": "2265",
+        "isco_title": "Dieticians and nutritionists",
+        "anzsco_22_correspondence": [{"id": "251111", "title": "Dietitian"}, {"id": "251112", "title": "Nutritionist"}]
+    },
+    {
+        "isco_08_id": "2266",
+        "isco_title": "Audiologists and speech therapists",
+        "anzsco_22_correspondence": [{"id": "252711", "title": "Audiologist"}, {"id": "252712", "title": "Speech Pathologist / Speech Language Therapist"}]
+    },
+    {
+        "isco_08_id": "2267",
+        "isco_title": "Optometrists and ophthalmic opticians",
+        "anzsco_22_correspondence": [{"id": "251411", "title": "Optometrist"}, {"id": "251412", "title": "Orthoptist"}]
+    },
+    {
+        "isco_08_id": "2269",
+        "isco_title": "Health professionals not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "234612", "title": "Respiratory Scientist"}, {"id": "234915", "title": "Exercise Physiologist"}, {"id": "234999", "title": "Natural and Physical Science Professionals nec"}, {"id": "251999", "title": "Health Diagnostic and Promotion Professionals nec"}, {"id": "252111", "title": "Chiropractor"}, {"id": "252112", "title": "Osteopath"}, {"id": "252299", "title": "Complementary Health Therapists nec"}, {"id": "252411", "title": "Occupational Therapist"}, {"id": "252611", "title": "Podiatrist"}]
+    },
+    {
+        "isco_08_id": "2310",
+        "isco_title": "University and higher education teachers",
+        "anzsco_22_correspondence": [{"id": "242111", "title": "University Lecturer"}, {"id": "242112", "title": "University Tutor"}, {"id": "242211", "title": "Vocational Education Teacher / Polytechnic Teacher"}]
+    },
+    {
+        "isco_08_id": "2320",
+        "isco_title": "Vocational education teachers",
+        "anzsco_22_correspondence": [{"id": "242211", "title": "Vocational Education Teacher / Polytechnic Teacher"}]
+    },
+    {
+        "isco_08_id": "2330",
+        "isco_title": "Secondary education teachers",
+        "anzsco_22_correspondence": [{"id": "241311", "title": "Middle School Teacher / Intermediate School Teacher"}, {"id": "241411", "title": "Secondary School Teacher"}]
+    },
+    {
+        "isco_08_id": "2341",
+        "isco_title": "Primary school teachers",
+        "anzsco_22_correspondence": [{"id": "241211", "title": "Kaiako Kura Kaupapa Māori (Māori-medium Primary School Teacher)"}, {"id": "241212", "title": "Pouako Kura Kaupapa Māori (Māori-medium Primary School Senior Teacher)"}, {"id": "241213", "title": "Primary School Teacher"}, {"id": "241311", "title": "Middle School Teacher / Intermediate School Teacher"}, {"id": "422113", "title": "Kaiāwhina Kohanga Reo (Māori Language Nest Assistant)"}, {"id": "422114", "title": "Kaiāwhina Kura Kaupapa Māori (Māori-medium School Assistant)"}]
+    },
+    {
+        "isco_08_id": "2342",
+        "isco_title": "Early childhood educators",
+        "anzsco_22_correspondence": [{"id": "241111", "title": "Early Childhood (Pre-primary School) Teacher"}, {"id": "241112", "title": "Kaiako Kohanga Reo (Māori Language Nest Teacher)"}]
+    },
+    {
+        "isco_08_id": "2351",
+        "isco_title": "Education methods specialists",
+        "anzsco_22_correspondence": [{"id": "249111", "title": "Education Adviser"}, {"id": "249112", "title": "Education Reviewer"}]
+    },
+    {
+        "isco_08_id": "2352",
+        "isco_title": "Special needs teachers",
+        "anzsco_22_correspondence": [{"id": "241511", "title": "Special Needs Teacher"}, {"id": "241512", "title": "Teacher of the Hearing Impaired"}, {"id": "241513", "title": "Teacher of the Sight Impaired"}, {"id": "241599", "title": "Special Education Teachers nec"}]
+    },
+    {
+        "isco_08_id": "2353",
+        "isco_title": "Other language teachers",
+        "anzsco_22_correspondence": [{"id": "249299", "title": "Private Tutors and Teachers nec"}, {"id": "249311", "title": "Teacher of English to Speakers of Other Languages"}]
+    },
+    {
+        "isco_08_id": "2354",
+        "isco_title": "Other music teachers",
+        "anzsco_22_correspondence": [{"id": "249214", "title": "Music Teacher (Private Tuition)"}]
+    },
+    {
+        "isco_08_id": "2355",
+        "isco_title": "Other arts teachers",
+        "anzsco_22_correspondence": [{"id": "249211", "title": "Art Teacher (Private Tuition)"}, {"id": "249212", "title": "Dance Teacher (Private Tuition)"}, {"id": "249213", "title": "Drama Teacher (Private Tuition)"}]
+    },
+    {
+        "isco_08_id": "2356",
+        "isco_title": "Information technology trainers",
+        "anzsco_22_correspondence": [{"id": "223311", "title": "Training and Development Professional"}]
+    },
+    {
+        "isco_08_id": "2359",
+        "isco_title": "Teaching professionals not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "249299", "title": "Private Tutors and Teachers nec"}, {"id": "272115", "title": "Student Counsellor"}]
+    },
+    {
+        "isco_08_id": "2411",
+        "isco_title": "Accountants",
+        "anzsco_22_correspondence": [{"id": "221111", "title": "Accountant (General)"}, {"id": "221112", "title": "Management Accountant"}, {"id": "221113", "title": "Taxation Accountant"}, {"id": "221213", "title": "External Auditor"}, {"id": "221214", "title": "Internal Auditor"}]
+    },
+    {
+        "isco_08_id": "2412",
+        "isco_title": "Financial and investment advisers",
+        "anzsco_22_correspondence": [{"id": "222311", "title": "Financial Investment Adviser"}, {"id": "222312", "title": "Financial Investment Manager"}]
+    },
+    {
+        "isco_08_id": "2413",
+        "isco_title": "Financial analysts",
+        "anzsco_22_correspondence": [{"id": "222299", "title": "Financial Dealers nec"}]
+    },
+    {
+        "isco_08_id": "2421",
+        "isco_title": "Management and organisation analysts",
+        "anzsco_22_correspondence": [{"id": "139916", "title": "Quality Assurance Manager"}, {"id": "139917", "title": "Regulatory Affairs Manager"}, {"id": "224712", "title": "Organisation and Methods Analyst"}, {"id": "224713", "title": "Management Consultant"}, {"id": "224714", "title": "Supply Chain Analyst"}]
+    },
+    {
+        "isco_08_id": "2422",
+        "isco_title": "Policy administration professionals",
+        "anzsco_22_correspondence": [{"id": "224411", "title": "Intelligence Officer"}, {"id": "224412", "title": "Policy Analyst"}, {"id": "224911", "title": "Electorate Officer"}]
+    },
+    {
+        "isco_08_id": "2423",
+        "isco_title": "Personnel and career professionals",
+        "anzsco_22_correspondence": [{"id": "223111", "title": "Human Resource Adviser"}, {"id": "223112", "title": "Recruitment Consultant"}, {"id": "223113", "title": "Workplace Relations Adviser"}, {"id": "272111", "title": "Careers Counsellor"}]
+    },
+    {
+        "isco_08_id": "2424",
+        "isco_title": "Training and staff development professionals",
+        "anzsco_22_correspondence": [{"id": "223311", "title": "Training and Development Professional"}]
+    },
+    {
+        "isco_08_id": "2431",
+        "isco_title": "Advertising and marketing professionals",
+        "anzsco_22_correspondence": [{"id": "212411", "title": "Copywriter"}, {"id": "225111", "title": "Advertising Specialist"}, {"id": "225112", "title": "Market Research Analyst"}, {"id": "225113", "title": "Marketing Specialist"}, {"id": "225114", "title": "Content Creator (Marketing)"}, {"id": "225115", "title": "Digital Marketing Analyst"}]
+    },
+    {
+        "isco_08_id": "2432",
+        "isco_title": "Public relations professionals",
+        "anzsco_22_correspondence": [{"id": "212411", "title": "Copywriter"}, {"id": "224912", "title": "Liaison Officer"}, {"id": "225311", "title": "Public Relations Professional"}]
+    },
+    {
+        "isco_08_id": "2433",
+        "isco_title": "Technical and medical sales professionals (excluding ICT)",
+        "anzsco_22_correspondence": [{"id": "225411", "title": "Sales Representative (Industrial Products)"}, {"id": "225412", "title": "Sales Representative (Medical and Pharmaceutical Products)"}, {"id": "225499", "title": "Technical Sales Representatives nec"}, {"id": "234115", "title": "Agronomist"}]
+    },
+    {
+        "isco_08_id": "2434",
+        "isco_title": "Information and communication technology sales professionals",
+        "anzsco_22_correspondence": [{"id": "225211", "title": "ICT Account Manager"}, {"id": "225212", "title": "ICT Business Development Manager"}, {"id": "225213", "title": "ICT Sales Representative"}]
+    },
+    {
+        "isco_08_id": "2511",
+        "isco_title": "Systems analysts",
+        "anzsco_22_correspondence": [{"id": "261111", "title": "ICT Business Analyst"}, {"id": "261112", "title": "Systems Analyst"}]
+    },
+    {
+        "isco_08_id": "2512",
+        "isco_title": "Software developers",
+        "anzsco_22_correspondence": [{"id": "261311", "title": "Analyst Programmer"}, {"id": "261313", "title": "Software Engineer"}, {"id": "261315", "title": "Cyber Security Engineer"}, {"id": "261316", "title": "Devops Engineer"}]
+    },
+    {
+        "isco_08_id": "2513",
+        "isco_title": "Web and multimedia developers",
+        "anzsco_22_correspondence": [{"id": "261211", "title": "Multimedia Specialist"}, {"id": "261212", "title": "Web Developer"}]
+    },
+    {
+        "isco_08_id": "2514",
+        "isco_title": "Applications programmers",
+        "anzsco_22_correspondence": [{"id": "261312", "title": "Developer Programmer"}]
+    },
+    {
+        "isco_08_id": "2519",
+        "isco_title": "Software and applications developers and analysts not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "261113", "title": "User Experience Designer (ICT)"}, {"id": "261314", "title": "Software Tester"}, {"id": "261317", "title": "Penetration Tester"}, {"id": "261399", "title": "Software and Applications Programmers nec"}, {"id": "263211", "title": "ICT Quality Assurance Engineer"}, {"id": "263212", "title": "ICT Support Engineer"}, {"id": "263213", "title": "ICT Systems Test Engineer"}, {"id": "263299", "title": "ICT Support and Test Engineers nec"}]
+    },
+    {
+        "isco_08_id": "2521",
+        "isco_title": "Database designers and administrators",
+        "anzsco_22_correspondence": [{"id": "262111", "title": "Database Administrator"}]
+    },
+    {
+        "isco_08_id": "2522",
+        "isco_title": "Systems administrators",
+        "anzsco_22_correspondence": [{"id": "262113", "title": "Systems Administrator"}, {"id": "263112", "title": "Network Administrator"}]
+    },
+    {
+        "isco_08_id": "2523",
+        "isco_title": "Computer network professionals",
+        "anzsco_22_correspondence": [{"id": "263111", "title": "Computer Network and Systems Engineer"}, {"id": "263113", "title": "Network Analyst"}]
+    },
+    {
+        "isco_08_id": "2529",
+        "isco_title": "Database and network professionals not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "262114", "title": "Cyber Governance Risk and Compliance Specialist"}, {"id": "262115", "title": "Cyber Security Advice and Assessment Specialist"}, {"id": "262116", "title": "Cyber Security Analyst"}, {"id": "262117", "title": "Cyber Security Architect"}, {"id": "262118", "title": "Cyber Security Operations Coordinator"}]
+    },
+    {
+        "isco_08_id": "2611",
+        "isco_title": "Lawyers",
+        "anzsco_22_correspondence": [{"id": "271111", "title": "Barrister"}, {"id": "271214", "title": "Intellectual Property Lawyer"}, {"id": "271311", "title": "Solicitor"}]
+    },
+    {
+        "isco_08_id": "2612",
+        "isco_title": "Judges",
+        "anzsco_22_correspondence": [{"id": "271211", "title": "Judge"}, {"id": "271212", "title": "Magistrate"}]
+    },
+    {
+        "isco_08_id": "2619",
+        "isco_title": "Legal professionals not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "224913", "title": "Migration Agent / Immigration Consultant"}, {"id": "271213", "title": "Tribunal Member"}, {"id": "271299", "title": "Judicial and Other Legal Professionals nec"}]
+    },
+    {
+        "isco_08_id": "2621",
+        "isco_title": "Archivists and curators",
+        "anzsco_22_correspondence": [{"id": "224211", "title": "Archivist"}, {"id": "224212", "title": "Gallery or Museum Curator"}, {"id": "224214", "title": "Records Manager"}, {"id": "234911", "title": "Conservator"}]
+    },
+    {
+        "isco_08_id": "2622",
+        "isco_title": "Librarians and related information professionals",
+        "anzsco_22_correspondence": [{"id": "224214", "title": "Records Manager"}, {"id": "224611", "title": "Librarian"}, {"id": "224999", "title": "Information and Organisation Professionals nec"}]
+    },
+    {
+        "isco_08_id": "2631",
+        "isco_title": "Economists",
+        "anzsco_22_correspondence": [{"id": "224311", "title": "Economist"}, {"id": "224511", "title": "Land Economist"}]
+    },
+    {
+        "isco_08_id": "2632",
+        "isco_title": "Sociologists, anthropologists and related professionals",
+        "anzsco_22_correspondence": [{"id": "272414", "title": "Archaeologist"}, {"id": "272499", "title": "Social Professionals nec"}]
+    },
+    {
+        "isco_08_id": "2633",
+        "isco_title": "Philosophers, historians and political scientists",
+        "anzsco_22_correspondence": [{"id": "272411", "title": "Historian"}, {"id": "272499", "title": "Social Professionals nec"}]
+    },
+    {
+        "isco_08_id": "2634",
+        "isco_title": "Psychologists",
+        "anzsco_22_correspondence": [{"id": "272311", "title": "Clinical Psychologist"}, {"id": "272312", "title": "Educational Psychologist"}, {"id": "272313", "title": "Organisational Psychologist"}, {"id": "272314", "title": "Psychotherapist"}, {"id": "272399", "title": "Psychologists nec"}]
+    },
+    {
+        "isco_08_id": "2635",
+        "isco_title": "Social work and counselling professionals",
+        "anzsco_22_correspondence": [{"id": "272112", "title": "Drug and Alcohol Counsellor"}, {"id": "272113", "title": "Family and Marriage Counsellor"}, {"id": "272114", "title": "Rehabilitation Counsellor"}, {"id": "272199", "title": "Counsellors nec"}, {"id": "272511", "title": "Social Worker"}, {"id": "272611", "title": "Community Arts Worker"}, {"id": "272612", "title": "Recreation Officer / Recreation Coordinator"}, {"id": "272613", "title": "Welfare Worker"}, {"id": "411714", "title": "Parole or Probation Officer"}]
+    },
+    {
+        "isco_08_id": "2636",
+        "isco_title": "Religious professionals",
+        "anzsco_22_correspondence": [{"id": "139999", "title": "Specialist Managers nec"}, {"id": "272211", "title": "Minister of Religion"}]
+    },
+    {
+        "isco_08_id": "2641",
+        "isco_title": "Authors and related writers",
+        "anzsco_22_correspondence": [{"id": "212211", "title": "Author"}, {"id": "212212", "title": "Book or Script Editor"}, {"id": "212415", "title": "Technical Writer"}, {"id": "212499", "title": "Journalists and Other Writers nec"}]
+    },
+    {
+        "isco_08_id": "2642",
+        "isco_title": "Journalists",
+        "anzsco_22_correspondence": [{"id": "212412", "title": "Newspaper or Periodical Editor"}, {"id": "212413", "title": "Print Journalist"}, {"id": "212414", "title": "Radio Journalist"}, {"id": "212416", "title": "Television Journalist"}, {"id": "212499", "title": "Journalists and Other Writers nec"}]
+    },
+    {
+        "isco_08_id": "2643",
+        "isco_title": "Translators, interpreters and other linguists",
+        "anzsco_22_correspondence": [{"id": "272412", "title": "Interpreter"}, {"id": "272413", "title": "Translator"}, {"id": "272499", "title": "Social Professionals nec"}]
+    },
+    {
+        "isco_08_id": "2651",
+        "isco_title": "Visual artists",
+        "anzsco_22_correspondence": [{"id": "211411", "title": "Painter (Visual Arts)"}, {"id": "211412", "title": "Potter or Ceramic Artist"}, {"id": "211413", "title": "Sculptor"}, {"id": "232412", "title": "Illustrator"}]
+    },
+    {
+        "isco_08_id": "2652",
+        "isco_title": "Musicians, singers and composers",
+        "anzsco_22_correspondence": [{"id": "211113", "title": "Entertainer or Variety Artist"}, {"id": "211211", "title": "Composer"}, {"id": "211212", "title": "Music Director"}, {"id": "211213", "title": "Musician (Instrumental)"}, {"id": "211214", "title": "Singer"}, {"id": "211299", "title": "Music Professionals nec"}]
+    },
+    {
+        "isco_08_id": "2653",
+        "isco_title": "Dancers and choreographers",
+        "anzsco_22_correspondence": [{"id": "211112", "title": "Dancer or Choreographer"}]
+    },
+    {
+        "isco_08_id": "2654",
+        "isco_title": "Film, stage and related directors and producers",
+        "anzsco_22_correspondence": [{"id": "212111", "title": "Artistic Director"}, {"id": "212112", "title": "Media Producer (excluding Video)"}, {"id": "212311", "title": "Art Director (Film, Television or Stage)"}, {"id": "212312", "title": "Director (Film, Television, Radio or Stage)"}, {"id": "212313", "title": "Director of Photography"}, {"id": "212314", "title": "Film and Video Editor"}, {"id": "212315", "title": "Program Director (Television or Radio)"}, {"id": "212317", "title": "Technical Director"}, {"id": "212318", "title": "Video Producer"}, {"id": "212399", "title": "Film, Television, Radio and Stage Directors nec"}]
+    },
+    {
+        "isco_08_id": "2655",
+        "isco_title": "Actors",
+        "anzsco_22_correspondence": [{"id": "211111", "title": "Actor"}, {"id": "211199", "title": "Actors, Dancers and Other Entertainers nec"}]
+    },
+    {
+        "isco_08_id": "2656",
+        "isco_title": "Announcers on radio, television and other media",
+        "anzsco_22_correspondence": [{"id": "212113", "title": "Radio Presenter"}, {"id": "212114", "title": "Television Presenter"}]
+    },
+    {
+        "isco_08_id": "2659",
+        "isco_title": "Creative and performing artists not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "211113", "title": "Entertainer or Variety Artist"}, {"id": "211199", "title": "Actors, Dancers and Other Entertainers nec"}]
+    },
+    {
+        "isco_08_id": "3111",
+        "isco_title": "Chemical and physical science technicians",
+        "anzsco_22_correspondence": [{"id": "311411", "title": "Chemistry Technician"}, {"id": "311412", "title": "Earth Science Technician"}, {"id": "311414", "title": "School Laboratory Technician"}, {"id": "311415", "title": "Hydrographer"}, {"id": "311499", "title": "Science Technicians nec"}]
+    },
+    {
+        "isco_08_id": "3112",
+        "isco_title": "Civil engineering technicians",
+        "anzsco_22_correspondence": [{"id": "312112", "title": "Building Associate"}, {"id": "312113", "title": "Building Inspector"}, {"id": "312114", "title": "Construction Estimator"}, {"id": "312116", "title": "Surveying or Spatial Science Technician"}, {"id": "312212", "title": "Civil Engineering Technician"}]
+    },
+    {
+        "isco_08_id": "3113",
+        "isco_title": "Electrical engineering technicians",
+        "anzsco_22_correspondence": [{"id": "312312", "title": "Electrical Engineering Technician"}]
+    },
+    {
+        "isco_08_id": "3114",
+        "isco_title": "Electronics engineering technicians",
+        "anzsco_22_correspondence": [{"id": "312412", "title": "Electronic Engineering Technician"}]
+    },
+    {
+        "isco_08_id": "3115",
+        "isco_title": "Mechanical engineering technicians",
+        "anzsco_22_correspondence": [{"id": "231215", "title": "Marine Surveyor"}, {"id": "312512", "title": "Mechanical Engineering Technician"}]
+    },
+    {
+        "isco_08_id": "3116",
+        "isco_title": "Chemical engineering technicians",
+        "anzsco_22_correspondence": [{"id": "312999", "title": "Building and Engineering Technicians nec"}]
+    },
+    {
+        "isco_08_id": "3117",
+        "isco_title": "Mining and metallurgical technicians",
+        "anzsco_22_correspondence": [{"id": "312611", "title": "Safety Inspector"}, {"id": "312912", "title": "Metallurgical or Materials Technician"}, {"id": "312913", "title": "Mine Deputy"}]
+    },
+    {
+        "isco_08_id": "3118",
+        "isco_title": "Draughtspersons",
+        "anzsco_22_correspondence": [{"id": "312111", "title": "Architectural Draftsperson"}, {"id": "312116", "title": "Surveying or Spatial Science Technician"}, {"id": "312211", "title": "Civil Engineering Draftsperson"}, {"id": "312311", "title": "Electrical Engineering Draftsperson"}, {"id": "312411", "title": "Electronic Engineering Draftsperson"}, {"id": "312511", "title": "Mechanical Engineering Draftsperson"}, {"id": "312914", "title": "Other Draftsperson"}]
+    },
+    {
+        "isco_08_id": "3119",
+        "isco_title": "Physical and engineering science technicians not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "311499", "title": "Science Technicians nec"}, {"id": "312199", "title": "Architectural, Building and Surveying Technicians nec"}, {"id": "312912", "title": "Metallurgical or Materials Technician"}, {"id": "312999", "title": "Building and Engineering Technicians nec"}, {"id": "399916", "title": "Plastics Technician"}, {"id": "399918", "title": "Fire Protection Equipment Technician"}]
+    },
+    {
+        "isco_08_id": "3121",
+        "isco_title": "Mining supervisors",
+        "anzsco_22_correspondence": [{"id": "312913", "title": "Mine Deputy"}]
+    },
+    {
+        "isco_08_id": "3122",
+        "isco_title": "Manufacturing supervisors",
+        "anzsco_22_correspondence": [{"id": "133512", "title": "Production Manager (Manufacturing)"}]
+    },
+    {
+        "isco_08_id": "3123",
+        "isco_title": "Construction supervisors",
+        "anzsco_22_correspondence": [{"id": "133111", "title": "Construction Project Manager"}, {"id": "312112", "title": "Building Associate"}]
+    },
+    {
+        "isco_08_id": "3131",
+        "isco_title": "Power production plant operators",
+        "anzsco_22_correspondence": [{"id": "399212", "title": "Gas or Petroleum Operator"}, {"id": "399213", "title": "Power Generation Plant Operator"}]
+    },
+    {
+        "isco_08_id": "3132",
+        "isco_title": "Incinerator and water treatment plant operators",
+        "anzsco_22_correspondence": [{"id": "712921", "title": "Waste Water or Water Plant Operator"}, {"id": "712999", "title": "Stationary Plant Operators nec"}]
+    },
+    {
+        "isco_08_id": "3133",
+        "isco_title": "Chemical processing plant controllers",
+        "anzsco_22_correspondence": [{"id": "399211", "title": "Chemical Plant Operator"}]
+    },
+    {
+        "isco_08_id": "3134",
+        "isco_title": "Petroleum and natural gas refining plant operators",
+        "anzsco_22_correspondence": [{"id": "399212", "title": "Gas or Petroleum Operator"}]
+    },
+    {
+        "isco_08_id": "3135",
+        "isco_title": "Metal production process controllers",
+        "anzsco_22_correspondence": [{"id": "712311", "title": "Engineering Production Worker"}]
+    },
+    {
+        "isco_08_id": "3139",
+        "isco_title": "Process control technicians not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "712916", "title": "Paper and Pulp Mill Operator"}, {"id": "832211", "title": "Product Assembler"}]
+    },
+    {
+        "isco_08_id": "3141",
+        "isco_title": "Life science technicians (excluding medical)",
+        "anzsco_22_correspondence": [{"id": "311413", "title": "Life Science Technician"}]
+    },
+    {
+        "isco_08_id": "3142",
+        "isco_title": "Agricultural technicians",
+        "anzsco_22_correspondence": [{"id": "311112", "title": "Agricultural and Agritech Technician"}, {"id": "311113", "title": "Animal Husbandry Technician"}, {"id": "311114", "title": "Aquaculture or Fisheries Technician"}, {"id": "311115", "title": "Irrigation Designer"}]
+    },
+    {
+        "isco_08_id": "3143",
+        "isco_title": "Forestry technicians",
+        "anzsco_22_correspondence": [{"id": "311112", "title": "Agricultural and Agritech Technician"}, {"id": "311413", "title": "Life Science Technician"}]
+    },
+    {
+        "isco_08_id": "3151",
+        "isco_title": "Ships' engineers",
+        "anzsco_22_correspondence": [{"id": "231212", "title": "Ship's Engineer"}]
+    },
+    {
+        "isco_08_id": "3152",
+        "isco_title": "Ships' deck officers and pilots",
+        "anzsco_22_correspondence": [{"id": "231213", "title": "Ship's Master"}, {"id": "231214", "title": "Ship's Officer"}, {"id": "231299", "title": "Marine Transport Professionals nec"}]
+    },
+    {
+        "isco_08_id": "3153",
+        "isco_title": "Aircraft pilots and related associate professionals",
+        "anzsco_22_correspondence": [{"id": "231111", "title": "Aeroplane Pilot"}, {"id": "231113", "title": "Flying Instructor"}, {"id": "231114", "title": "Helicopter Pilot"}, {"id": "231199", "title": "Air Transport Professionals nec"}]
+    },
+    {
+        "isco_08_id": "3154",
+        "isco_title": "Air traffic controllers",
+        "anzsco_22_correspondence": [{"id": "231112", "title": "Air Traffic Controller"}]
+    },
+    {
+        "isco_08_id": "3155",
+        "isco_title": "Air traffic safety electronics technicians",
+        "anzsco_22_correspondence": [{"id": "312412", "title": "Electronic Engineering Technician"}, {"id": "313211", "title": "Radiocommunications Technician"}]
+    },
+    {
+        "isco_08_id": "3211",
+        "isco_title": "Medical imaging and therapeutic equipment technicians",
+        "anzsco_22_correspondence": [{"id": "251211", "title": "Medical Diagnostic Radiographer"}, {"id": "251212", "title": "Medical Radiation Therapist"}, {"id": "251213", "title": "Nuclear Medicine Technologist"}, {"id": "251214", "title": "Sonographer"}, {"id": "311212", "title": "Cardiac Technician"}]
+    },
+    {
+        "isco_08_id": "3212",
+        "isco_title": "Medical and pathology laboratory technicians",
+        "anzsco_22_correspondence": [{"id": "234611", "title": "Medical Laboratory Scientist"}, {"id": "311213", "title": "Medical Laboratory Technician"}]
+    },
+    {
+        "isco_08_id": "3213",
+        "isco_title": "Pharmaceutical technicians and assistants",
+        "anzsco_22_correspondence": [{"id": "311215", "title": "Pharmacy Technician"}]
+    },
+    {
+        "isco_08_id": "3214",
+        "isco_title": "Medical and dental prosthetic technicians",
+        "anzsco_22_correspondence": [{"id": "251912", "title": "Orthotist or Prosthetist"}, {"id": "311217", "title": "Respiratory Technician"}, {"id": "311299", "title": "Medical Technicians nec"}, {"id": "411212", "title": "Dental Prosthetist"}, {"id": "411213", "title": "Dental Technician"}]
+    },
+    {
+        "isco_08_id": "3221",
+        "isco_title": "Nursing associate professionals",
+        "anzsco_22_correspondence": [{"id": "411411", "title": "Enrolled Nurse"}]
+    },
+    {
+        "isco_08_id": "3222",
+        "isco_title": "Midwifery associate professionals",
+        "anzsco_22_correspondence": [{"id": "411412", "title": "Mothercraft Nurse"}]
+    },
+    {
+        "isco_08_id": "3230",
+        "isco_title": "Traditional and complementary medicine associate professionals",
+        "anzsco_22_correspondence": [{"id": "451511", "title": "Natural Remedy Consultant"}, {"id": "451513", "title": "Herbalist (Western)"}]
+    },
+    {
+        "isco_08_id": "3240",
+        "isco_title": "Veterinary technicians and assistants",
+        "anzsco_22_correspondence": [{"id": "311413", "title": "Life Science Technician"}, {"id": "361311", "title": "Veterinary Nurse"}]
+    },
+    {
+        "isco_08_id": "3251",
+        "isco_title": "Dental assistants and therapists",
+        "anzsco_22_correspondence": [{"id": "411211", "title": "Dental Hygienist"}, {"id": "411214", "title": "Dental Therapist"}, {"id": "423211", "title": "Dental Assistant"}]
+    },
+    {
+        "isco_08_id": "3252",
+        "isco_title": "Medical records and health information technicians",
+        "anzsco_22_correspondence": [{"id": "224213", "title": "Health Information Manager"}, {"id": "561311", "title": "Filing or Registry Clerk"}, {"id": "599915", "title": "Clinical Coder"}]
+    },
+    {
+        "isco_08_id": "3253",
+        "isco_title": "Community health workers",
+        "anzsco_22_correspondence": [{"id": "251911", "title": "Health Promotion Officer"}, {"id": "411511", "title": "Aboriginal and Torres Strait Islander Health Worker"}, {"id": "411512", "title": "Kaiāwhina (Hauora) (Māori Health Assistant)"}]
+    },
+    {
+        "isco_08_id": "3254",
+        "isco_title": "Dispensing opticians",
+        "anzsco_22_correspondence": [{"id": "399913", "title": "Optical Dispenser / Dispensing Optician"}]
+    },
+    {
+        "isco_08_id": "3255",
+        "isco_title": "Physiotherapy technicians and assistants",
+        "anzsco_22_correspondence": [{"id": "411611", "title": "Massage Therapist"}, {"id": "423314", "title": "Therapy Aide"}]
+    },
+    {
+        "isco_08_id": "3256",
+        "isco_title": "Medical assistants",
+        "anzsco_22_correspondence": [{"id": "311299", "title": "Medical Technicians nec"}]
+    },
+    {
+        "isco_08_id": "3257",
+        "isco_title": "Environmental and occupational health inspectors and associates",
+        "anzsco_22_correspondence": [{"id": "251311", "title": "Environmental Health Officer"}, {"id": "311312", "title": "Meat Inspector"}, {"id": "311314", "title": "Primary Products Quality Assurance Officer"}, {"id": "311399", "title": "Primary Products Assurance and Inspection Officers nec"}, {"id": "312611", "title": "Safety Inspector"}, {"id": "599514", "title": "Invasive Pest, Weed and Disease Inspector"}, {"id": "599521", "title": "Water Inspector"}, {"id": "599599", "title": "Inspectors and Regulatory Officers nec"}]
+    },
+    {
+        "isco_08_id": "3258",
+        "isco_title": "Ambulance workers",
+        "anzsco_22_correspondence": [{"id": "411111", "title": "Ambulance Officer"}, {"id": "411112", "title": "Intensive Care Ambulance Paramedic (Aus) / Ambulance Paramedic (NZ)"}]
+    },
+    {
+        "isco_08_id": "3259",
+        "isco_title": "Health associate professionals not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "252299", "title": "Complementary Health Therapists nec"}, {"id": "311211", "title": "Anaesthetic Technician"}, {"id": "311212", "title": "Cardiac Technician"}, {"id": "311214", "title": "Operating Theatre Technician"}, {"id": "311299", "title": "Medical Technicians nec"}, {"id": "411311", "title": "Diversional Therapist"}, {"id": "423314", "title": "Therapy Aide"}]
+    },
+    {
+        "isco_08_id": "3311",
+        "isco_title": "Securities and finance dealers and brokers",
+        "anzsco_22_correspondence": [{"id": "222112", "title": "Finance Broker"}, {"id": "222199", "title": "Financial Brokers nec"}, {"id": "222211", "title": "Financial Market Dealer"}, {"id": "222213", "title": "Stockbroking Dealer"}, {"id": "222299", "title": "Financial Dealers nec"}]
+    },
+    {
+        "isco_08_id": "3312",
+        "isco_title": "Credit and loans officers",
+        "anzsco_22_correspondence": [{"id": "552211", "title": "Credit or Loans Officer (Aus) / Finance Clerk (NZ)"}]
+    },
+    {
+        "isco_08_id": "3313",
+        "isco_title": "Accounting associate professionals",
+        "anzsco_22_correspondence": [{"id": "551211", "title": "Bookkeeper"}, {"id": "552314", "title": "Statistical Clerk"}]
+    },
+    {
+        "isco_08_id": "3314",
+        "isco_title": "Statistical, mathematical and related associate professionals",
+        "anzsco_22_correspondence": [{"id": "552314", "title": "Statistical Clerk"}]
+    },
+    {
+        "isco_08_id": "3315",
+        "isco_title": "Valuers and loss assessors",
+        "anzsco_22_correspondence": [{"id": "224512", "title": "Valuer"}, {"id": "599611", "title": "Insurance Investigator"}, {"id": "599612", "title": "Insurance Loss Adjuster"}, {"id": "599613", "title": "Insurance Risk Surveyor"}]
+    },
+    {
+        "isco_08_id": "3321",
+        "isco_title": "Insurance representatives",
+        "anzsco_22_correspondence": [{"id": "222113", "title": "Insurance Broker"}, {"id": "552312", "title": "Insurance Consultant"}, {"id": "611211", "title": "Insurance Agent"}]
+    },
+    {
+        "isco_08_id": "3322",
+        "isco_title": "Commercial sales representatives",
+        "anzsco_22_correspondence": [{"id": "611311", "title": "Sales Representative (Building and Plumbing Supplies)"}, {"id": "611312", "title": "Sales Representative (Business Services)"}, {"id": "611313", "title": "Sales Representative (Motor Vehicle Parts and Accessories)"}, {"id": "611314", "title": "Sales Representative (Personal and Household Goods)"}, {"id": "611399", "title": "Sales Representatives nec"}]
+    },
+    {
+        "isco_08_id": "3323",
+        "isco_title": "Buyers",
+        "anzsco_22_correspondence": [{"id": "639211", "title": "Retail Buyer"}, {"id": "639212", "title": "Wool Buyer"}, {"id": "639911", "title": "Other Sales Support Worker"}]
+    },
+    {
+        "isco_08_id": "3324",
+        "isco_title": "Trade brokers",
+        "anzsco_22_correspondence": [{"id": "149999", "title": "Hospitality, Retail and Service Managers nec"}, {"id": "222111", "title": "Commodities Trader"}, {"id": "222212", "title": "Futures Trader"}]
+    },
+    {
+        "isco_08_id": "3331",
+        "isco_title": "Clearing and forwarding agents",
+        "anzsco_22_correspondence": [{"id": "591212", "title": "Import-Export Clerk"}]
+    },
+    {
+        "isco_08_id": "3332",
+        "isco_title": "Conference and event planners",
+        "anzsco_22_correspondence": [{"id": "149311", "title": "Conference and Event Organiser"}]
+    },
+    {
+        "isco_08_id": "3333",
+        "isco_title": "Employment agents and contractors",
+        "anzsco_22_correspondence": [{"id": "223112", "title": "Recruitment Consultant"}]
+    },
+    {
+        "isco_08_id": "3334",
+        "isco_title": "Real estate agents and property managers",
+        "anzsco_22_correspondence": [{"id": "612111", "title": "Business Broker"}, {"id": "612112", "title": "Property Manager"}, {"id": "612113", "title": "Real Estate Agency Principal / Real Estate Agency Licensee"}, {"id": "612114", "title": "Real Estate Agent"}, {"id": "612115", "title": "Real Estate Representative"}]
+    },
+    {
+        "isco_08_id": "3339",
+        "isco_title": "Business service agents not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "222199", "title": "Financial Brokers nec"}, {"id": "223112", "title": "Recruitment Consultant"}, {"id": "224912", "title": "Liaison Officer"}, {"id": "224999", "title": "Information and Organisation Professionals nec"}, {"id": "442216", "title": "Security Consultant"}, {"id": "511111", "title": "Contract Administrator"}, {"id": "511112", "title": "Program or Project Administrator"}, {"id": "599916", "title": "Facilities Administrator"}, {"id": "611111", "title": "Auctioneer"}, {"id": "611112", "title": "Stock and Station Agent"}, {"id": "611312", "title": "Sales Representative (Business Services)"}]
+    },
+    {
+        "isco_08_id": "3341",
+        "isco_title": "Office supervisors",
+        "anzsco_22_correspondence": [{"id": "512111", "title": "Office Manager"}, {"id": "512299", "title": "Practice Managers nec"}, {"id": "541111", "title": "Call or Contact Centre Team Leader"}]
+    },
+    {
+        "isco_08_id": "3342",
+        "isco_title": "Legal secretaries",
+        "anzsco_22_correspondence": [{"id": "512299", "title": "Practice Managers nec"}, {"id": "521212", "title": "Legal Secretary"}]
+    },
+    {
+        "isco_08_id": "3343",
+        "isco_title": "Administrative and executive secretaries",
+        "anzsco_22_correspondence": [{"id": "521111", "title": "Personal Assistant"}, {"id": "521211", "title": "Secretary (General)"}, {"id": "532112", "title": "Machine Shorthand Reporter"}]
+    },
+    {
+        "isco_08_id": "3344",
+        "isco_title": "Medical secretaries",
+        "anzsco_22_correspondence": [{"id": "512211", "title": "Health Practice Manager"}, {"id": "542114", "title": "Medical Receptionist"}]
+    },
+    {
+        "isco_08_id": "3351",
+        "isco_title": "Customs and border inspectors",
+        "anzsco_22_correspondence": [{"id": "311313", "title": "Biosecurity Officer"}, {"id": "599511", "title": "Customs Officer"}, {"id": "599512", "title": "Immigration Officer"}]
+    },
+    {
+        "isco_08_id": "3352",
+        "isco_title": "Government tax and excise officials",
+        "anzsco_22_correspondence": [{"id": "599516", "title": "Taxation Inspector"}]
+    },
+    {
+        "isco_08_id": "3353",
+        "isco_title": "Government social benefits officials",
+        "anzsco_22_correspondence": [{"id": "599515", "title": "Social Security Assessor"}]
+    },
+    {
+        "isco_08_id": "3354",
+        "isco_title": "Government licensing officials",
+        "anzsco_22_correspondence": [{"id": "599513", "title": "Motor Vehicle Licence Examiner"}, {"id": "599599", "title": "Inspectors and Regulatory Officers nec"}, {"id": "599999", "title": "Clerical and Administrative Workers nec"}]
+    },
+    {
+        "isco_08_id": "3355",
+        "isco_title": "Police inspectors and detectives",
+        "anzsco_22_correspondence": [{"id": "441311", "title": "Detective"}]
+    },
+    {
+        "isco_08_id": "3359",
+        "isco_title": "Government regulatory associate professionals not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "224914", "title": "Patents Examiner"}, {"id": "311311", "title": "Fisheries Officer"}, {"id": "311313", "title": "Biosecurity Officer"}, {"id": "311314", "title": "Primary Products Quality Assurance Officer"}, {"id": "311399", "title": "Primary Products Assurance and Inspection Officers nec"}, {"id": "312115", "title": "Plumbing Inspector"}, {"id": "561913", "title": "Parking Inspector"}, {"id": "599517", "title": "Train Examiner"}, {"id": "599599", "title": "Inspectors and Regulatory Officers nec"}]
+    },
+    {
+        "isco_08_id": "3411",
+        "isco_title": "Legal and related associate professionals",
+        "anzsco_22_correspondence": [{"id": "442214", "title": "Private Investigator"}, {"id": "599111", "title": "Conveyancer"}, {"id": "599112", "title": "Legal Executive"}, {"id": "599211", "title": "Clerk of Court"}, {"id": "599212", "title": "Court Bailiff or Sheriff (Aus) / Court Collections Officer (NZ)"}, {"id": "599213", "title": "Court Orderly (Aus) / Court Registry Officer (NZ)"}, {"id": "599214", "title": "Law Clerk"}, {"id": "599215", "title": "Trust Officer"}]
+    },
+    {
+        "isco_08_id": "3412",
+        "isco_title": "Social work associate professionals",
+        "anzsco_22_correspondence": [{"id": "224912", "title": "Liaison Officer"}, {"id": "224999", "title": "Information and Organisation Professionals nec"}, {"id": "411711", "title": "Community Worker"}, {"id": "411712", "title": "Disabilities Services Officer"}, {"id": "411713", "title": "Family Support Worker"}, {"id": "411715", "title": "Residential Care Officer"}, {"id": "411716", "title": "Youth Worker"}, {"id": "423413", "title": "Refuge Worker"}]
+    },
+    {
+        "isco_08_id": "3413",
+        "isco_title": "Religious associate professionals",
+        "anzsco_22_correspondence": [{"id": "272211", "title": "Minister of Religion"}, {"id": "451816", "title": "Religious Assistant"}, {"id": "451899", "title": "Personal Service Workers nec"}]
+    },
+    {
+        "isco_08_id": "3421",
+        "isco_title": "Athletes and sports players",
+        "anzsco_22_correspondence": [{"id": "452411", "title": "Footballer"}, {"id": "452412", "title": "Golfer"}, {"id": "452413", "title": "Jockey"}, {"id": "452499", "title": "Sportspersons nec"}]
+    },
+    {
+        "isco_08_id": "3422",
+        "isco_title": "Sports coaches, instructors and officials",
+        "anzsco_22_correspondence": [{"id": "452311", "title": "Diving Instructor (Open Water)"}, {"id": "452312", "title": "Gymnastics Coach or Instructor"}, {"id": "452314", "title": "Snowsport Instructor"}, {"id": "452315", "title": "Swimming Coach or Instructor"}, {"id": "452316", "title": "Tennis Coach"}, {"id": "452317", "title": "Other Sports Coach or Instructor"}, {"id": "452318", "title": "Dog and Horse Racing Official"}, {"id": "452321", "title": "Sports Development Officer"}, {"id": "452322", "title": "Sports Umpire"}, {"id": "452323", "title": "Other Sports Official"}]
+    },
+    {
+        "isco_08_id": "3423",
+        "isco_title": "Fitness and recreation instructors and program leaders",
+        "anzsco_22_correspondence": [{"id": "452111", "title": "Fitness Instructor"}, {"id": "452211", "title": "Bungy Jump Master"}, {"id": "452212", "title": "Fishing Guide"}, {"id": "452213", "title": "Hunting Guide"}, {"id": "452214", "title": "Mountain or Glacier Guide"}, {"id": "452215", "title": "Outdoor Adventure Instructor"}, {"id": "452216", "title": "Trekking Guide"}, {"id": "452217", "title": "Whitewater Rafting Guide"}, {"id": "452299", "title": "Outdoor Adventure Guides nec"}, {"id": "452313", "title": "Horse Riding Coach or Instructor"}]
+    },
+    {
+        "isco_08_id": "3431",
+        "isco_title": "Photographers",
+        "anzsco_22_correspondence": [{"id": "211311", "title": "Photographer"}, {"id": "399915", "title": "Photographer's Assistant"}]
+    },
+    {
+        "isco_08_id": "3432",
+        "isco_title": "Interior designers and decorators",
+        "anzsco_22_correspondence": [{"id": "232511", "title": "Interior Designer"}, {"id": "399912", "title": "Interior Decorator"}, {"id": "639511", "title": "Visual Merchandiser"}]
+    },
+    {
+        "isco_08_id": "3433",
+        "isco_title": "Gallery, museum and library technicians",
+        "anzsco_22_correspondence": [{"id": "399311", "title": "Gallery or Museum Technician"}, {"id": "399312", "title": "Library Technician"}]
+    },
+    {
+        "isco_08_id": "3434",
+        "isco_title": "Chefs",
+        "anzsco_22_correspondence": [{"id": "351311", "title": "Chef"}]
+    },
+    {
+        "isco_08_id": "3435",
+        "isco_title": "Artistic and cultural associate professionals not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "211199", "title": "Actors, Dancers and Other Entertainers nec"}, {"id": "212316", "title": "Stage Manager"}, {"id": "399513", "title": "Light Technician"}, {"id": "399516", "title": "Sound Technician"}, {"id": "399599", "title": "Performing Arts Technicians nec"}, {"id": "451814", "title": "Body Artist"}]
+    },
+    {
+        "isco_08_id": "3511",
+        "isco_title": "Information and communications technology operations technicians",
+        "anzsco_22_correspondence": [{"id": "313199", "title": "ICT Support Technicians nec"}]
+    },
+    {
+        "isco_08_id": "3512",
+        "isco_title": "Information and communications technology user support technicians",
+        "anzsco_22_correspondence": [{"id": "313112", "title": "ICT Customer Support Officer"}]
+    },
+    {
+        "isco_08_id": "3513",
+        "isco_title": "Computer network and systems technicians",
+        "anzsco_22_correspondence": [{"id": "313112", "title": "ICT Customer Support Officer"}]
+    },
+    {
+        "isco_08_id": "3514",
+        "isco_title": "Web technicians",
+        "anzsco_22_correspondence": [{"id": "313113", "title": "Web Administrator"}]
+    },
+    {
+        "isco_08_id": "3521",
+        "isco_title": "Broadcasting and audio-visual technicians",
+        "anzsco_22_correspondence": [{"id": "342312", "title": "Communications Operator"}, {"id": "399511", "title": "Broadcast Transmitter Operator"}, {"id": "399512", "title": "Camera Operator (Film, Television or Video)"}, {"id": "399516", "title": "Sound Technician"}, {"id": "399517", "title": "Television Equipment Operator"}, {"id": "399599", "title": "Performing Arts Technicians nec"}, {"id": "599912", "title": "Production Assistant (Film, Television, Radio or Stage)"}, {"id": "711912", "title": "Motion Picture Projectionist"}]
+    },
+    {
+        "isco_08_id": "3522",
+        "isco_title": "Telecommunications engineering technicians",
+        "anzsco_22_correspondence": [{"id": "313211", "title": "Radiocommunications Technician"}, {"id": "313212", "title": "Telecommunications Field Engineer"}, {"id": "313213", "title": "Telecommunications Network Planner"}, {"id": "313214", "title": "Telecommunications Technical Officer or Technologist"}]
+    },
+    {
+        "isco_08_id": "4110",
+        "isco_title": "General office clerks",
+        "anzsco_22_correspondence": [{"id": "531111", "title": "General Clerk"}, {"id": "599213", "title": "Court Orderly (Aus) / Court Registry Officer (NZ)"}]
+    },
+    {
+        "isco_08_id": "4120",
+        "isco_title": "Secretaries (general)",
+        "anzsco_22_correspondence": [{"id": "521211", "title": "Secretary (General)"}]
+    },
+    {
+        "isco_08_id": "4131",
+        "isco_title": "Typists and word processing operators",
+        "anzsco_22_correspondence": [{"id": "532113", "title": "Word Processing Operator"}]
+    },
+    {
+        "isco_08_id": "4132",
+        "isco_title": "Data entry clerks",
+        "anzsco_22_correspondence": [{"id": "532111", "title": "Data Entry Operator"}]
+    },
+    {
+        "isco_08_id": "4211",
+        "isco_title": "Bank tellers and related clerks",
+        "anzsco_22_correspondence": [{"id": "552111", "title": "Bank Worker"}, {"id": "621111", "title": "Sales Assistant (General)"}]
+    },
+    {
+        "isco_08_id": "4212",
+        "isco_title": "Bookmakers, croupiers and related gaming workers",
+        "anzsco_22_correspondence": [{"id": "431311", "title": "Gaming Worker"}, {"id": "552311", "title": "Bookmaker"}, {"id": "561111", "title": "Betting Agency Counter Clerk"}, {"id": "561112", "title": "Bookmaker's Clerk"}, {"id": "561113", "title": "Telephone Betting Clerk"}, {"id": "561199", "title": "Betting Clerks nec"}]
+    },
+    {
+        "isco_08_id": "4213",
+        "isco_title": "Pawnbrokers and money-lenders",
+        "anzsco_22_correspondence": [{"id": "621111", "title": "Sales Assistant (General)"}]
+    },
+    {
+        "isco_08_id": "4214",
+        "isco_title": "Debt-collectors and related workers",
+        "anzsco_22_correspondence": [{"id": "599311", "title": "Debt Collector"}]
+    },
+    {
+        "isco_08_id": "4221",
+        "isco_title": "Travel consultants and clerks",
+        "anzsco_22_correspondence": [{"id": "451611", "title": "Tourist Information Officer"}, {"id": "451612", "title": "Travel Consultant"}, {"id": "639411", "title": "Ticket Seller"}]
+    },
+    {
+        "isco_08_id": "4222",
+        "isco_title": "Contact centre information clerks",
+        "anzsco_22_correspondence": [{"id": "541112", "title": "Call or Contact Centre Operator"}]
+    },
+    {
+        "isco_08_id": "4223",
+        "isco_title": "Telephone switchboard operators",
+        "anzsco_22_correspondence": [{"id": "561611", "title": "Switchboard Operator"}]
+    },
+    {
+        "isco_08_id": "4224",
+        "isco_title": "Hotel receptionists",
+        "anzsco_22_correspondence": [{"id": "542113", "title": "Hotel or Motel Receptionist"}]
+    },
+    {
+        "isco_08_id": "4225",
+        "isco_title": "Enquiry clerks",
+        "anzsco_22_correspondence": [{"id": "541211", "title": "Information Officer"}]
+    },
+    {
+        "isco_08_id": "4226",
+        "isco_title": "Receptionists (general)",
+        "anzsco_22_correspondence": [{"id": "542111", "title": "Receptionist (General)"}, {"id": "542114", "title": "Medical Receptionist"}]
+    },
+    {
+        "isco_08_id": "4227",
+        "isco_title": "Survey and market research interviewers",
+        "anzsco_22_correspondence": [{"id": "561511", "title": "Survey Interviewer"}]
+    },
+    {
+        "isco_08_id": "4229",
+        "isco_title": "Client information workers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "542112", "title": "Admissions Clerk"}, {"id": "599914", "title": "Radio Despatcher"}]
+    },
+    {
+        "isco_08_id": "4311",
+        "isco_title": "Accounting and bookkeeping clerks",
+        "anzsco_22_correspondence": [{"id": "551111", "title": "Accounts Clerk"}, {"id": "551112", "title": "Cost Clerk"}, {"id": "551211", "title": "Bookkeeper"}]
+    },
+    {
+        "isco_08_id": "4312",
+        "isco_title": "Statistical, finance and insurance clerks",
+        "anzsco_22_correspondence": [{"id": "552312", "title": "Insurance Consultant"}, {"id": "552313", "title": "Money Market Clerk"}, {"id": "552314", "title": "Statistical Clerk"}]
+    },
+    {
+        "isco_08_id": "4313",
+        "isco_title": "Payroll clerks",
+        "anzsco_22_correspondence": [{"id": "551311", "title": "Payroll Clerk"}]
+    },
+    {
+        "isco_08_id": "4321",
+        "isco_title": "Stock clerks",
+        "anzsco_22_correspondence": [{"id": "591113", "title": "Purchasing Officer"}, {"id": "591115", "title": "Stock Clerk"}, {"id": "591116", "title": "Warehouse Administrator"}, {"id": "591117", "title": "Order Clerk"}, {"id": "591211", "title": "Despatching and Receiving Clerk"}, {"id": "712922", "title": "Weighbridge Operator"}, {"id": "741111", "title": "Storeperson"}]
+    },
+    {
+        "isco_08_id": "4322",
+        "isco_title": "Production clerks",
+        "anzsco_22_correspondence": [{"id": "312911", "title": "Maintenance Planner"}, {"id": "591112", "title": "Production Clerk"}]
+    },
+    {
+        "isco_08_id": "4323",
+        "isco_title": "Transport clerks",
+        "anzsco_22_correspondence": [{"id": "591211", "title": "Despatching and Receiving Clerk"}, {"id": "599518", "title": "Transport Operations Inspector"}, {"id": "599999", "title": "Clerical and Administrative Workers nec"}]
+    },
+    {
+        "isco_08_id": "4411",
+        "isco_title": "Library clerks",
+        "anzsco_22_correspondence": [{"id": "599711", "title": "Library Assistant"}]
+    },
+    {
+        "isco_08_id": "4412",
+        "isco_title": "Mail carriers and sorting clerks",
+        "anzsco_22_correspondence": [{"id": "561212", "title": "Postal Delivery Officer"}, {"id": "561411", "title": "Mail Clerk"}, {"id": "561412", "title": "Postal Sorting Officer"}]
+    },
+    {
+        "isco_08_id": "4413",
+        "isco_title": "Coding, proof-reading and related clerks",
+        "anzsco_22_correspondence": [{"id": "599913", "title": "Proof Reader"}, {"id": "599999", "title": "Clerical and Administrative Workers nec"}]
+    },
+    {
+        "isco_08_id": "4414",
+        "isco_title": "Scribes and related workers",
+        "anzsco_22_correspondence": [{"id": "599999", "title": "Clerical and Administrative Workers nec"}]
+    },
+    {
+        "isco_08_id": "4415",
+        "isco_title": "Filing and copying clerks",
+        "anzsco_22_correspondence": [{"id": "561311", "title": "Filing or Registry Clerk"}]
+    },
+    {
+        "isco_08_id": "4416",
+        "isco_title": "Personnel clerks",
+        "anzsco_22_correspondence": [{"id": "599411", "title": "Human Resource Clerk"}]
+    },
+    {
+        "isco_08_id": "4419",
+        "isco_title": "Clerical support workers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "561911", "title": "Classified Advertising Clerk"}, {"id": "561999", "title": "Clerical and Office Support Workers nec"}, {"id": "599999", "title": "Clerical and Administrative Workers nec"}]
+    },
+    {
+        "isco_08_id": "5111",
+        "isco_title": "Travel attendants and travel stewards",
+        "anzsco_22_correspondence": [{"id": "451711", "title": "Flight Attendant"}, {"id": "451799", "title": "Travel Attendants nec"}]
+    },
+    {
+        "isco_08_id": "5112",
+        "isco_title": "Transport conductors",
+        "anzsco_22_correspondence": [{"id": "639412", "title": "Transport Conductor"}]
+    },
+    {
+        "isco_08_id": "5113",
+        "isco_title": "Travel guides",
+        "anzsco_22_correspondence": [{"id": "451411", "title": "Gallery or Museum Guide"}, {"id": "451412", "title": "Tour Guide"}]
+    },
+    {
+        "isco_08_id": "5120",
+        "isco_title": "Cooks",
+        "anzsco_22_correspondence": [{"id": "351411", "title": "Cook"}]
+    },
+    {
+        "isco_08_id": "5131",
+        "isco_title": "Waiters",
+        "anzsco_22_correspondence": [{"id": "431211", "title": "Cafe Worker"}, {"id": "431511", "title": "Waiter"}]
+    },
+    {
+        "isco_08_id": "5132",
+        "isco_title": "Bartenders",
+        "anzsco_22_correspondence": [{"id": "431111", "title": "Bar Attendant"}, {"id": "431112", "title": "Barista"}]
+    },
+    {
+        "isco_08_id": "5141",
+        "isco_title": "Hairdressers",
+        "anzsco_22_correspondence": [{"id": "391111", "title": "Hairdresser"}]
+    },
+    {
+        "isco_08_id": "5142",
+        "isco_title": "Beauticians and related workers",
+        "anzsco_22_correspondence": [{"id": "399514", "title": "Make Up Artist"}, {"id": "451111", "title": "Beauty Therapist"}, {"id": "451512", "title": "Weight Loss Consultant"}, {"id": "451812", "title": "Hair or Beauty Salon Assistant"}, {"id": "621111", "title": "Sales Assistant (General)"}]
+    },
+    {
+        "isco_08_id": "5151",
+        "isco_title": "Cleaning and housekeeping supervisors in offices, hotels and other establishments",
+        "anzsco_22_correspondence": [{"id": "431411", "title": "Hotel Service Manager"}, {"id": "811211", "title": "Commercial Cleaner"}, {"id": "811411", "title": "Commercial Housekeeper"}]
+    },
+    {
+        "isco_08_id": "5152",
+        "isco_title": "Domestic housekeepers",
+        "anzsco_22_correspondence": [{"id": "141911", "title": "Bed and Breakfast Operator"}, {"id": "451899", "title": "Personal Service Workers nec"}, {"id": "811412", "title": "Domestic Housekeeper"}]
+    },
+    {
+        "isco_08_id": "5153",
+        "isco_title": "Building caretakers",
+        "anzsco_22_correspondence": [{"id": "899111", "title": "Caretaker"}]
+    },
+    {
+        "isco_08_id": "5161",
+        "isco_title": "Astrologers, fortune-tellers and related workers",
+        "anzsco_22_correspondence": [{"id": "451899", "title": "Personal Service Workers nec"}]
+    },
+    {
+        "isco_08_id": "5162",
+        "isco_title": "Companion and valets",
+        "anzsco_22_correspondence": [{"id": "423111", "title": "Aged or Disabled Carer"}]
+    },
+    {
+        "isco_08_id": "5163",
+        "isco_title": "Undertakers and embalmers",
+        "anzsco_22_correspondence": [{"id": "451311", "title": "Funeral Director"}, {"id": "451399", "title": "Funeral Workers nec"}]
+    },
+    {
+        "isco_08_id": "5164",
+        "isco_title": "Pet groomers and animal care workers",
+        "anzsco_22_correspondence": [{"id": "361111", "title": "Dog Handler or Trainer"}, {"id": "361112", "title": "Horse Trainer"}, {"id": "361113", "title": "Pet Groomer"}, {"id": "361114", "title": "Zookeeper"}, {"id": "361115", "title": "Kennel Hand"}, {"id": "361199", "title": "Animal Attendants and Trainers nec"}, {"id": "361311", "title": "Veterinary Nurse"}]
+    },
+    {
+        "isco_08_id": "5165",
+        "isco_title": "Driving instructors",
+        "anzsco_22_correspondence": [{"id": "451211", "title": "Driving Instructor"}]
+    },
+    {
+        "isco_08_id": "5169",
+        "isco_title": "Personal services workers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "431999", "title": "Hospitality Workers nec"}, {"id": "451811", "title": "Civil Celebrant"}, {"id": "451813", "title": "Sex Worker or Escort"}, {"id": "451815", "title": "First Aid Trainer"}, {"id": "451899", "title": "Personal Service Workers nec"}]
+    },
+    {
+        "isco_08_id": "5211",
+        "isco_title": "Stall and market salespersons",
+        "anzsco_22_correspondence": [{"id": "621713", "title": "Street Vendor"}]
+    },
+    {
+        "isco_08_id": "5212",
+        "isco_title": "Street food salespersons",
+        "anzsco_22_correspondence": [{"id": "621713", "title": "Street Vendor"}]
+    },
+    {
+        "isco_08_id": "5221",
+        "isco_title": "Shopkeepers",
+        "anzsco_22_correspondence": [{"id": "142111", "title": "Retail Manager (General)"}, {"id": "142112", "title": "Antique Dealer"}, {"id": "142113", "title": "Betting Agency Manager"}, {"id": "142114", "title": "Hair or Beauty Salon Manager"}, {"id": "142115", "title": "Post Office Manager"}]
+    },
+    {
+        "isco_08_id": "5222",
+        "isco_title": "Shop supervisors",
+        "anzsco_22_correspondence": [{"id": "621511", "title": "Retail Supervisor"}]
+    },
+    {
+        "isco_08_id": "5223",
+        "isco_title": "Shop sales assistants",
+        "anzsco_22_correspondence": [{"id": "621111", "title": "Sales Assistant (General)"}, {"id": "621211", "title": "ICT Sales Assistant"}, {"id": "621311", "title": "Motor Vehicle or Caravan Salesperson"}, {"id": "621312", "title": "Motor Vehicle Parts Interpreter / Automotive Parts Salesperson"}, {"id": "621411", "title": "Pharmacy Sales Assistant"}]
+    },
+    {
+        "isco_08_id": "5230",
+        "isco_title": "Cashiers and ticket clerks",
+        "anzsco_22_correspondence": [{"id": "631111", "title": "Checkout Operator"}, {"id": "631112", "title": "Office Cashier"}, {"id": "639411", "title": "Ticket Seller"}]
+    },
+    {
+        "isco_08_id": "5241",
+        "isco_title": "Fashion and other models",
+        "anzsco_22_correspondence": [{"id": "639111", "title": "Model"}]
+    },
+    {
+        "isco_08_id": "5242",
+        "isco_title": "Sales demonstrators",
+        "anzsco_22_correspondence": [{"id": "639112", "title": "Sales Demonstrator"}]
+    },
+    {
+        "isco_08_id": "5243",
+        "isco_title": "Door to door salespersons",
+        "anzsco_22_correspondence": [{"id": "621712", "title": "Door-to-door Salesperson"}]
+    },
+    {
+        "isco_08_id": "5244",
+        "isco_title": "Contact centre salespersons",
+        "anzsco_22_correspondence": [{"id": "639311", "title": "Telemarketer"}]
+    },
+    {
+        "isco_08_id": "5245",
+        "isco_title": "Service station attendants",
+        "anzsco_22_correspondence": [{"id": "621611", "title": "Service Station Attendant"}]
+    },
+    {
+        "isco_08_id": "5246",
+        "isco_title": "Food service counter attendants",
+        "anzsco_22_correspondence": [{"id": "431211", "title": "Cafe Worker"}, {"id": "621111", "title": "Sales Assistant (General)"}]
+    },
+    {
+        "isco_08_id": "5249",
+        "isco_title": "Sales workers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "621711", "title": "Cash Van Salesperson"}, {"id": "621912", "title": "Rental Salesperson"}, {"id": "621999", "title": "Sales Assistants and Salespersons nec"}, {"id": "639911", "title": "Other Sales Support Worker"}]
+    },
+    {
+        "isco_08_id": "5311",
+        "isco_title": "Child care workers",
+        "anzsco_22_correspondence": [{"id": "421111", "title": "Child Care Worker"}, {"id": "421112", "title": "Family Day Care Worker"}, {"id": "421113", "title": "Nanny"}, {"id": "421114", "title": "Out of School Hours Care Worker"}, {"id": "423411", "title": "Child or Youth Residential Care Assistant"}, {"id": "423412", "title": "Hostel Parent"}]
+    },
+    {
+        "isco_08_id": "5312",
+        "isco_title": "Teachers' aides",
+        "anzsco_22_correspondence": [{"id": "422111", "title": "Aboriginal and Torres Strait Islander Education Worker"}, {"id": "422112", "title": "Integration Aide"}, {"id": "422113", "title": "Kaiāwhina Kohanga Reo (Māori Language Nest Assistant)"}, {"id": "422114", "title": "Kaiāwhina Kura Kaupapa Māori (Māori-medium School Assistant)"}, {"id": "422115", "title": "Preschool Aide"}, {"id": "422116", "title": "Teachers' Aide"}]
+    },
+    {
+        "isco_08_id": "5321",
+        "isco_title": "Health care assistants",
+        "anzsco_22_correspondence": [{"id": "423312", "title": "Nursing Support Worker"}, {"id": "423313", "title": "Personal Care Assistant"}]
+    },
+    {
+        "isco_08_id": "5322",
+        "isco_title": "Home-based personal care workers",
+        "anzsco_22_correspondence": [{"id": "423111", "title": "Aged or Disabled Carer"}]
+    },
+    {
+        "isco_08_id": "5329",
+        "isco_title": "Personal care workers in health services not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "311216", "title": "Pathology Collector / Phlebotomist"}, {"id": "423211", "title": "Dental Assistant"}, {"id": "423311", "title": "Hospital Orderly"}, {"id": "451899", "title": "Personal Service Workers nec"}, {"id": "711411", "title": "Photographic Developer and Printer"}, {"id": "711914", "title": "Sterilisation Technician"}]
+    },
+    {
+        "isco_08_id": "5411",
+        "isco_title": "Fire fighters",
+        "anzsco_22_correspondence": [{"id": "441212", "title": "Fire Fighter"}]
+    },
+    {
+        "isco_08_id": "5412",
+        "isco_title": "Police officers",
+        "anzsco_22_correspondence": [{"id": "441312", "title": "Police Officer"}]
+    },
+    {
+        "isco_08_id": "5413",
+        "isco_title": "Prison guards",
+        "anzsco_22_correspondence": [{"id": "442111", "title": "Prison Officer"}]
+    },
+    {
+        "isco_08_id": "5414",
+        "isco_title": "Security guards",
+        "anzsco_22_correspondence": [{"id": "442211", "title": "Alarm, Security or Surveillance Monitor"}, {"id": "442212", "title": "Armoured Car Escort"}, {"id": "442213", "title": "Crowd Controller"}, {"id": "442215", "title": "Retail Loss Prevention Officer"}, {"id": "442217", "title": "Security Officer"}, {"id": "442299", "title": "Security Officers and Guards nec"}]
+    },
+    {
+        "isco_08_id": "5419",
+        "isco_title": "Protective services workers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "234314", "title": "Park Ranger"}, {"id": "441211", "title": "Emergency Service Worker"}, {"id": "442299", "title": "Security Officers and Guards nec"}, {"id": "452414", "title": "Lifeguard"}, {"id": "599599", "title": "Inspectors and Regulatory Officers nec"}, {"id": "899913", "title": "Crossing Supervisor"}, {"id": "899923", "title": "Road Traffic Controller"}]
+    },
+    {
+        "isco_08_id": "6111",
+        "isco_title": "Field crop and vegetable growers",
+        "anzsco_22_correspondence": [{"id": "121511", "title": "Cotton Grower"}, {"id": "121512", "title": "Grain, Oilseed, Pulse or Pasture Grower / Field Crop Grower"}, {"id": "121513", "title": "Sugar Cane Grower"}, {"id": "121599", "title": "Broadacre Crop Growers nec"}, {"id": "121616", "title": "Vegetable Grower (Aus) / Market Gardener (NZ)"}, {"id": "363116", "title": "Senior Broadacre Crop Farm Worker"}, {"id": "363114", "title": "Horticultural Supervisor or Specialist"}, {"id": "363199", "title": "Senior Aquaculture, Crop and Forestry Workers nec"}]
+    },
+    {
+        "isco_08_id": "6112",
+        "isco_title": "Tree and shrub crop growers",
+        "anzsco_22_correspondence": [{"id": "121599", "title": "Broadacre Crop Growers nec"}, {"id": "121612", "title": "Fruit Grower"}, {"id": "121613", "title": "Nut Grower"}, {"id": "121699", "title": "Horticultural Crop Growers nec"}, {"id": "363114", "title": "Horticultural Supervisor or Specialist"}, {"id": "363117", "title": "Vineyard Supervisor"}, {"id": "363199", "title": "Senior Aquaculture, Crop and Forestry Workers nec"}]
+    },
+    {
+        "isco_08_id": "6113",
+        "isco_title": "Gardeners, horticultural and nursery growers",
+        "anzsco_22_correspondence": [{"id": "121611", "title": "Flower Grower"}, {"id": "121614", "title": "Production Nursery Grower"}, {"id": "121615", "title": "Turf Grower"}, {"id": "121616", "title": "Vegetable Grower (Aus) / Market Gardener (NZ)"}, {"id": "121699", "title": "Horticultural Crop Growers nec"}, {"id": "362312", "title": "Sports Turf Manager"}, {"id": "362313", "title": "Sports Turf Trades Worker"}, {"id": "362411", "title": "Nurseryperson"}, {"id": "362511", "title": "Arborist"}, {"id": "362512", "title": "Tree Worker"}, {"id": "362611", "title": "Gardener (General)"}, {"id": "362711", "title": "Landscape Gardener"}, {"id": "362712", "title": "Irrigation Technician"}, {"id": "363114", "title": "Horticultural Supervisor or Specialist"}]
+    },
+    {
+        "isco_08_id": "6114",
+        "isco_title": "Mixed crop growers",
+        "anzsco_22_correspondence": [{"id": "121699", "title": "Horticultural Crop Growers nec"}, {"id": "121799", "title": "Mixed Production Farmers nec"}, {"id": "363114", "title": "Horticultural Supervisor or Specialist"}, {"id": "363199", "title": "Senior Aquaculture, Crop and Forestry Workers nec"}]
+    },
+    {
+        "isco_08_id": "6121",
+        "isco_title": "Livestock and dairy producers",
+        "anzsco_22_correspondence": [{"id": "121312", "title": "Beef Cattle Farmer"}, {"id": "121313", "title": "Dairy Cattle Farmer"}, {"id": "121314", "title": "Deer Farmer"}, {"id": "121315", "title": "Goat Farmer"}, {"id": "121316", "title": "Horse Breeder"}, {"id": "121318", "title": "Pig Farmer"}, {"id": "121322", "title": "Sheep Farmer"}, {"id": "121323", "title": "Mixed Cattle and Sheep Farmer"}, {"id": "121399", "title": "Livestock Farmers nec"}, {"id": "361116", "title": "Track Rider"}, {"id": "363211", "title": "Senior Beef Cattle Station Worker"}, {"id": "363212", "title": "Senior Cattle and Sheep Farm Worker"}, {"id": "363213", "title": "Senior Dairy Cattle Farm Worker"}, {"id": "363214", "title": "Senior Piggery Stockperson"}, {"id": "363215", "title": "Senior Sheep Farm Worker"}, {"id": "363299", "title": "Senior Livestock Farm Workers nec"}, {"id": "363311", "title": "Shearer"}]
+    },
+    {
+        "isco_08_id": "6122",
+        "isco_title": "Poultry producers",
+        "anzsco_22_correspondence": [{"id": "121321", "title": "Poultry Farmer"}, {"id": "363299", "title": "Senior Livestock Farm Workers nec"}]
+    },
+    {
+        "isco_08_id": "6123",
+        "isco_title": "Apiarists and sericulturists",
+        "anzsco_22_correspondence": [{"id": "121311", "title": "Apiarist"}, {"id": "121399", "title": "Livestock Farmers nec"}]
+    },
+    {
+        "isco_08_id": "6129",
+        "isco_title": "Animal producers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "121399", "title": "Livestock Farmers nec"}, {"id": "363299", "title": "Senior Livestock Farm Workers nec"}]
+    },
+    {
+        "isco_08_id": "6130",
+        "isco_title": "Mixed crop and animal producers",
+        "anzsco_22_correspondence": [{"id": "121711", "title": "Broadacre Crop and Livestock Farmer"}, {"id": "121799", "title": "Mixed Production Farmers nec"}, {"id": "363115", "title": "Senior Broadacre Crop and Livestock Farm Worker"}]
+    },
+    {
+        "isco_08_id": "6210",
+        "isco_title": "Forestry and related workers",
+        "anzsco_22_correspondence": [{"id": "363113", "title": "Forestry Operations Supervisor"}, {"id": "363199", "title": "Senior Aquaculture, Crop and Forestry Workers nec"}, {"id": "843111", "title": "Forestry Worker"}, {"id": "843112", "title": "Logging Assistant"}, {"id": "843113", "title": "Tree Faller"}, {"id": "899999", "title": "Labourers nec"}]
+    },
+    {
+        "isco_08_id": "6221",
+        "isco_title": "Aquaculture workers",
+        "anzsco_22_correspondence": [{"id": "121111", "title": "Aquaculture Farmer"}, {"id": "363111", "title": "Aquaculture Supervisor"}]
+    },
+    {
+        "isco_08_id": "6222",
+        "isco_title": "Inland and coastal waters fishery workers",
+        "anzsco_22_correspondence": [{"id": "231211", "title": "Master Fisher"}, {"id": "363112", "title": "Fishing Leading Hand"}, {"id": "899212", "title": "Fishing Hand"}]
+    },
+    {
+        "isco_08_id": "6223",
+        "isco_title": "Deep-sea fishery workers",
+        "anzsco_22_correspondence": [{"id": "231211", "title": "Master Fisher"}, {"id": "363112", "title": "Fishing Leading Hand"}, {"id": "899212", "title": "Fishing Hand"}]
+    },
+    {
+        "isco_08_id": "6224",
+        "isco_title": "Hunters and trappers",
+        "anzsco_22_correspondence": [{"id": "843911", "title": "Hunter-Trapper"}]
+    },
+    {
+        "isco_08_id": "6310",
+        "isco_title": "Subsistence crop farmers",
+        "anzsco_22_correspondence": []
+    },
+    {
+        "isco_08_id": "6320",
+        "isco_title": "Subsistence livestock farmers",
+        "anzsco_22_correspondence": []
+    },
+    {
+        "isco_08_id": "6330",
+        "isco_title": "Subsistence mixed crop and livestock farmers",
+        "anzsco_22_correspondence": []
+    },
+    {
+        "isco_08_id": "6340",
+        "isco_title": "Subsistence fishers, hunters, trappers and gatherers",
+        "anzsco_22_correspondence": []
+    },
+    {
+        "isco_08_id": "7111",
+        "isco_title": "House builders",
+        "anzsco_22_correspondence": [{"id": "133112", "title": "Project Builder"}, {"id": "331212", "title": "Carpenter"}, {"id": "821412", "title": "Home Improvement Installer"}]
+    },
+    {
+        "isco_08_id": "7112",
+        "isco_title": "Bricklayers and related workers",
+        "anzsco_22_correspondence": [{"id": "331111", "title": "Bricklayer"}]
+    },
+    {
+        "isco_08_id": "7113",
+        "isco_title": "Stonemasons, stone cutters, splitters and carvers",
+        "anzsco_22_correspondence": [{"id": "331112", "title": "Stonemason"}]
+    },
+    {
+        "isco_08_id": "7114",
+        "isco_title": "Concrete placers, concrete finishers and related workers",
+        "anzsco_22_correspondence": [{"id": "332111", "title": "Floor Finisher"}, {"id": "821211", "title": "Concreter"}]
+    },
+    {
+        "isco_08_id": "7115",
+        "isco_title": "Carpenters and joiners",
+        "anzsco_22_correspondence": [{"id": "331211", "title": "Carpenter and Joiner"}, {"id": "331212", "title": "Carpenter"}, {"id": "331213", "title": "Joiner"}, {"id": "399111", "title": "Boat Builder and Repairer"}, {"id": "399112", "title": "Shipwright"}, {"id": "821412", "title": "Home Improvement Installer"}]
+    },
+    {
+        "isco_08_id": "7119",
+        "isco_title": "Building frame and related trades workers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "821712", "title": "Scaffolder"}]
+    },
+    {
+        "isco_08_id": "7121",
+        "isco_title": "Roofers",
+        "anzsco_22_correspondence": [{"id": "333311", "title": "Roof Tiler"}, {"id": "334115", "title": "Roof Plumber"}]
+    },
+    {
+        "isco_08_id": "7122",
+        "isco_title": "Floor layers and tile setters",
+        "anzsco_22_correspondence": [{"id": "332111", "title": "Floor Finisher"}, {"id": "333411", "title": "Wall and Floor Tiler"}]
+    },
+    {
+        "isco_08_id": "7123",
+        "isco_title": "Plasterers",
+        "anzsco_22_correspondence": [{"id": "333211", "title": "Plasterer (Wall and Ceiling)"}, {"id": "333212", "title": "Renderer (Solid Plaster)"}]
+    },
+    {
+        "isco_08_id": "7124",
+        "isco_title": "Insulation workers",
+        "anzsco_22_correspondence": [{"id": "821411", "title": "Building Insulation Installer"}, {"id": "821913", "title": "Lagger"}]
+    },
+    {
+        "isco_08_id": "7125",
+        "isco_title": "Glaziers",
+        "anzsco_22_correspondence": [{"id": "333111", "title": "Glazier"}, {"id": "899412", "title": "Autoglazier"}]
+    },
+    {
+        "isco_08_id": "7126",
+        "isco_title": "Plumbers and pipe fitters",
+        "anzsco_22_correspondence": [{"id": "334112", "title": "Airconditioning and Mechanical Services Plumber"}, {"id": "334113", "title": "Drainer"}, {"id": "334114", "title": "Gasfitter"}, {"id": "334115", "title": "Roof Plumber"}, {"id": "334116", "title": "Plumber (General)"}, {"id": "334117", "title": "Fire Protection Plumber"}]
+    },
+    {
+        "isco_08_id": "7127",
+        "isco_title": "Air conditioning and refrigeration mechanics",
+        "anzsco_22_correspondence": [{"id": "342111", "title": "Airconditioning and Refrigeration Mechanic"}]
+    },
+    {
+        "isco_08_id": "7131",
+        "isco_title": "Painters and related workers",
+        "anzsco_22_correspondence": [{"id": "332211", "title": "Painter"}]
+    },
+    {
+        "isco_08_id": "7132",
+        "isco_title": "Spray painters and varnishers",
+        "anzsco_22_correspondence": [{"id": "324311", "title": "Vehicle Painter"}, {"id": "711211", "title": "Industrial Spraypainter"}]
+    },
+    {
+        "isco_08_id": "7133",
+        "isco_title": "Building structure cleaners",
+        "anzsco_22_correspondence": [{"id": "711913", "title": "Sand Blaster"}, {"id": "811211", "title": "Commercial Cleaner"}, {"id": "811699", "title": "Cleaners nec"}]
+    },
+    {
+        "isco_08_id": "7211",
+        "isco_title": "Metal moulders and coremakers",
+        "anzsco_22_correspondence": [{"id": "322114", "title": "Metal Casting Trades Worker"}]
+    },
+    {
+        "isco_08_id": "7212",
+        "isco_title": "Welders and flamecutters",
+        "anzsco_22_correspondence": [{"id": "322311", "title": "Metal Fabricator"}, {"id": "322312", "title": "Pressure Welder"}, {"id": "322313", "title": "Welder (First Class) (Aus) / Welder (NZ)"}, {"id": "323213", "title": "Fitter-Welder"}, {"id": "712311", "title": "Engineering Production Worker"}]
+    },
+    {
+        "isco_08_id": "7213",
+        "isco_title": "Sheet metal workers",
+        "anzsco_22_correspondence": [{"id": "322211", "title": "Sheetmetal Worker"}, {"id": "322311", "title": "Metal Fabricator"}, {"id": "323113", "title": "Aircraft Maintenance Engineer (Structures)"}, {"id": "324111", "title": "Panelbeater"}, {"id": "324211", "title": "Vehicle Body Builder"}, {"id": "399111", "title": "Boat Builder and Repairer"}, {"id": "712311", "title": "Engineering Production Worker"}]
+    },
+    {
+        "isco_08_id": "7214",
+        "isco_title": "Structural metal preparers and erectors",
+        "anzsco_22_correspondence": [{"id": "322311", "title": "Metal Fabricator"}, {"id": "399112", "title": "Shipwright"}, {"id": "821714", "title": "Structural Steel Erector"}]
+    },
+    {
+        "isco_08_id": "7215",
+        "isco_title": "Riggers and cable splicers",
+        "anzsco_22_correspondence": [{"id": "399111", "title": "Boat Builder and Repairer"}, {"id": "399112", "title": "Shipwright"}, {"id": "821711", "title": "Construction Rigger"}]
+    },
+    {
+        "isco_08_id": "7221",
+        "isco_title": "Blacksmiths, hammersmiths and forging press workers",
+        "anzsco_22_correspondence": [{"id": "322111", "title": "Blacksmith"}, {"id": "322113", "title": "Farrier"}]
+    },
+    {
+        "isco_08_id": "7222",
+        "isco_title": "Toolmakers and related workers",
+        "anzsco_22_correspondence": [{"id": "323312", "title": "Gunsmith"}, {"id": "323313", "title": "Locksmith"}, {"id": "323315", "title": "Saw Doctor"}, {"id": "323411", "title": "Engineering Patternmaker"}, {"id": "323412", "title": "Toolmaker"}]
+    },
+    {
+        "isco_08_id": "7223",
+        "isco_title": "Metal working machine tool setters and operators",
+        "anzsco_22_correspondence": [{"id": "323211", "title": "Fitter (General)"}, {"id": "323212", "title": "Fitter and Turner"}, {"id": "323214", "title": "Metal Machinist (First Class)"}, {"id": "712311", "title": "Engineering Production Worker"}]
+    },
+    {
+        "isco_08_id": "7224",
+        "isco_title": "Metal polishers, wheel grinders and tool sharpeners",
+        "anzsco_22_correspondence": [{"id": "322115", "title": "Metal Polisher"}, {"id": "323315", "title": "Saw Doctor"}, {"id": "712311", "title": "Engineering Production Worker"}]
+    },
+    {
+        "isco_08_id": "7231",
+        "isco_title": "Motor vehicle mechanics and repairers",
+        "anzsco_22_correspondence": [{"id": "321211", "title": "Motor Mechanic (General)"}, {"id": "321212", "title": "Diesel Motor Mechanic"}, {"id": "321213", "title": "Motorcycle Mechanic"}, {"id": "321214", "title": "Small Engine Mechanic"}, {"id": "899411", "title": "Motor Vehicle Parts and Accessories Fitter (General)"}, {"id": "899413", "title": "Exhaust and Muffler Repairer"}, {"id": "899414", "title": "Radiator Repairer"}, {"id": "899415", "title": "Tyre Fitter"}]
+    },
+    {
+        "isco_08_id": "7232",
+        "isco_title": "Aircraft engine mechanics and repairers",
+        "anzsco_22_correspondence": [{"id": "323112", "title": "Aircraft Maintenance Engineer (Mechanical)"}]
+    },
+    {
+        "isco_08_id": "7233",
+        "isco_title": "Agricultural and industrial machinery mechanics and repairers",
+        "anzsco_22_correspondence": [{"id": "323211", "title": "Fitter (General)"}, {"id": "323215", "title": "Textile, Clothing and Footwear Mechanic"}, {"id": "323299", "title": "Metal Fitters and Machinists nec"}, {"id": "399999", "title": "Technicians and Trades Workers nec"}]
+    },
+    {
+        "isco_08_id": "7234",
+        "isco_title": "Bicycle and related workers",
+        "anzsco_22_correspondence": [{"id": "399999", "title": "Technicians and Trades Workers nec"}, {"id": "899911", "title": "Bicycle Mechanic"}]
+    },
+    {
+        "isco_08_id": "7311",
+        "isco_title": "Precision-instrument makers and repairers",
+        "anzsco_22_correspondence": [{"id": "323314", "title": "Precision Instrument Maker and Repairer"}, {"id": "323316", "title": "Watch and Clock Maker and Repairer"}]
+    },
+    {
+        "isco_08_id": "7312",
+        "isco_title": "Musical instrument makers and repairers",
+        "anzsco_22_correspondence": [{"id": "399515", "title": "Musical Instrument Maker or Repairer"}]
+    },
+    {
+        "isco_08_id": "7313",
+        "isco_title": "Jewellery and precious metal workers",
+        "anzsco_22_correspondence": [{"id": "399411", "title": "Jeweller"}]
+    },
+    {
+        "isco_08_id": "7314",
+        "isco_title": "Potters and related workers",
+        "anzsco_22_correspondence": [{"id": "211412", "title": "Potter or Ceramic Artist"}]
+    },
+    {
+        "isco_08_id": "7315",
+        "isco_title": "Glass makers, cutters, grinders and finishers",
+        "anzsco_22_correspondence": [{"id": "399914", "title": "Optical Mechanic"}, {"id": "399999", "title": "Technicians and Trades Workers nec"}]
+    },
+    {
+        "isco_08_id": "7316",
+        "isco_title": "Sign writers, decorative painters, engravers and etchers",
+        "anzsco_22_correspondence": [{"id": "323311", "title": "Engraver"}, {"id": "399611", "title": "Signwriter"}]
+    },
+    {
+        "isco_08_id": "7317",
+        "isco_title": "Handicraft workers in wood, basketry and related materials",
+        "anzsco_22_correspondence": [{"id": "211499", "title": "Visual Arts and Crafts Professionals nec"}, {"id": "394299", "title": "Wood Machinists and Other Wood Trades Workers nec"}]
+    },
+    {
+        "isco_08_id": "7318",
+        "isco_title": "Handicraft workers in textile, leather and related materials",
+        "anzsco_22_correspondence": [{"id": "211499", "title": "Visual Arts and Crafts Professionals nec"}]
+    },
+    {
+        "isco_08_id": "7319",
+        "isco_title": "Handicraft workers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "211499", "title": "Visual Arts and Crafts Professionals nec"}]
+    },
+    {
+        "isco_08_id": "7321",
+        "isco_title": "Pre-press technicians",
+        "anzsco_22_correspondence": [{"id": "392211", "title": "Graphic Pre-press Trades Worker"}]
+    },
+    {
+        "isco_08_id": "7322",
+        "isco_title": "Printers ",
+        "anzsco_22_correspondence": [{"id": "392112", "title": "Screen Printer"}, {"id": "392311", "title": "Printing Machinist"}, {"id": "392312", "title": "Small Offset Printer"}]
+    },
+    {
+        "isco_08_id": "7323",
+        "isco_title": "Print finishing and binding workers",
+        "anzsco_22_correspondence": [{"id": "392111", "title": "Print Finisher"}, {"id": "899512", "title": "Printing Table Worker"}]
+    },
+    {
+        "isco_08_id": "7411",
+        "isco_title": "Building and related electricians",
+        "anzsco_22_correspondence": [{"id": "341111", "title": "Electrician (General)"}, {"id": "341112", "title": "Electrician (Special Class)"}]
+    },
+    {
+        "isco_08_id": "7412",
+        "isco_title": "Electrical mechanics and fitters",
+        "anzsco_22_correspondence": [{"id": "321111", "title": "Automotive Electrician"}, {"id": "341111", "title": "Electrician (General)"}, {"id": "341113", "title": "Lift Mechanic"}]
+    },
+    {
+        "isco_08_id": "7413",
+        "isco_title": "Electrical line installers and repairers ",
+        "anzsco_22_correspondence": [{"id": "342211", "title": "Electrical Linesworker / Electrical Line Mechanic"}, {"id": "342212", "title": "Technical Cable Jointer"}]
+    },
+    {
+        "isco_08_id": "7421",
+        "isco_title": "Electronics mechanics and servicers",
+        "anzsco_22_correspondence": [{"id": "323111", "title": "Aircraft Maintenance Engineer (Avionics)"}, {"id": "342311", "title": "Business Machine Mechanic"}, {"id": "342313", "title": "Electronic Equipment Trades Worker"}, {"id": "342314", "title": "Electronic Instrument Trades Worker (General)"}, {"id": "342315", "title": "Electronic Instrument Trades Worker (Special Class)"}]
+    },
+    {
+        "isco_08_id": "7422",
+        "isco_title": "Information and communications technology installers and servicers",
+        "anzsco_22_correspondence": [{"id": "313111", "title": "Hardware Technician"}, {"id": "313199", "title": "ICT Support Technicians nec"}, {"id": "342411", "title": "Cabler (Data and Telecommunications)"}, {"id": "342412", "title": "Telecommunications Cable Jointer"}, {"id": "342413", "title": "Telecommunications Linesworker / Telecommunications Line Mechanic"}, {"id": "342414", "title": "Telecommunications Technician"}]
+    },
+    {
+        "isco_08_id": "7511",
+        "isco_title": "Butchers, fishmongers and related food preparers",
+        "anzsco_22_correspondence": [{"id": "351211", "title": "Butcher or Smallgoods Maker"}, {"id": "831211", "title": "Meat Boner and Slicer"}, {"id": "831212", "title": "Slaughterer"}, {"id": "831311", "title": "Meat Process Worker"}, {"id": "831312", "title": "Poultry Process Worker"}, {"id": "831313", "title": "Seafood Process Worker"}]
+    },
+    {
+        "isco_08_id": "7512",
+        "isco_title": "Bakers, pastry-cooks and confectionery makers",
+        "anzsco_22_correspondence": [{"id": "351111", "title": "Baker"}, {"id": "351112", "title": "Pastrycook"}, {"id": "831113", "title": "Confectionery Maker"}]
+    },
+    {
+        "isco_08_id": "7513",
+        "isco_title": "Dairy products makers",
+        "anzsco_22_correspondence": [{"id": "831114", "title": "Dairy Products Maker"}]
+    },
+    {
+        "isco_08_id": "7514",
+        "isco_title": "Fruit, vegetable and related preservers",
+        "anzsco_22_correspondence": [{"id": "831199", "title": "Food and Drink Factory Workers nec"}]
+    },
+    {
+        "isco_08_id": "7515",
+        "isco_title": "Food and beverage tasters and graders",
+        "anzsco_22_correspondence": [{"id": "831199", "title": "Food and Drink Factory Workers nec"}, {"id": "839312", "title": "Product Grader"}, {"id": "839313", "title": "Product Tester"}]
+    },
+    {
+        "isco_08_id": "7516",
+        "isco_title": "Tobacco preparers and tobacco makers",
+        "anzsco_22_correspondence": [{"id": "831199", "title": "Food and Drink Factory Workers nec"}]
+    },
+    {
+        "isco_08_id": "7521",
+        "isco_title": "Wood treaters",
+        "anzsco_22_correspondence": [{"id": "712999", "title": "Stationary Plant Operators nec"}]
+    },
+    {
+        "isco_08_id": "7522",
+        "isco_title": "Cabinet-makers and related workers",
+        "anzsco_22_correspondence": [{"id": "394112", "title": "Cabinet Maker"}, {"id": "394113", "title": "Furniture Maker"}, {"id": "394211", "title": "Furniture Finisher"}, {"id": "394212", "title": "Picture Framer"}]
+    },
+    {
+        "isco_08_id": "7523",
+        "isco_title": "Woodworking machine tool setters and operators",
+        "anzsco_22_correspondence": [{"id": "394213", "title": "Wood Machinist"}, {"id": "394214", "title": "Wood Turner"}]
+    },
+    {
+        "isco_08_id": "7531",
+        "isco_title": "Tailors, dressmakers, furriers and hatters",
+        "anzsco_22_correspondence": [{"id": "393213", "title": "Dressmaker or Tailor"}, {"id": "393299", "title": "Clothing Trades Workers nec"}]
+    },
+    {
+        "isco_08_id": "7532",
+        "isco_title": "Garment and related patternmakers and cutters",
+        "anzsco_22_correspondence": [{"id": "393211", "title": "Apparel Cutter"}, {"id": "393212", "title": "Clothing Patternmaker"}]
+    },
+    {
+        "isco_08_id": "7533",
+        "isco_title": "Sewing, embroidery and related workers",
+        "anzsco_22_correspondence": [{"id": "393111", "title": "Canvas Goods Fabricator"}, {"id": "393112", "title": "Leather Goods Maker"}, {"id": "393113", "title": "Sail Maker"}]
+    },
+    {
+        "isco_08_id": "7534",
+        "isco_title": "Upholsterers and related workers",
+        "anzsco_22_correspondence": [{"id": "324212", "title": "Vehicle Trimmer"}, {"id": "393311", "title": "Upholsterer"}]
+    },
+    {
+        "isco_08_id": "7535",
+        "isco_title": "Pelt dressers, tanners and fellmongers",
+        "anzsco_22_correspondence": [{"id": "399999", "title": "Technicians and Trades Workers nec"}, {"id": "711712", "title": "Hide and Skin Processing Machine Operator"}, {"id": "839917", "title": "Hide and Skin Processing Worker"}]
+    },
+    {
+        "isco_08_id": "7536",
+        "isco_title": "Shoemakers and related workers",
+        "anzsco_22_correspondence": [{"id": "393112", "title": "Leather Goods Maker"}, {"id": "393114", "title": "Shoemaker"}]
+    },
+    {
+        "isco_08_id": "7541",
+        "isco_title": "Underwater divers",
+        "anzsco_22_correspondence": [{"id": "399911", "title": "Diver"}]
+    },
+    {
+        "isco_08_id": "7542",
+        "isco_title": "Shotfirers and blasters",
+        "anzsco_22_correspondence": [{"id": "712213", "title": "Shot Firer"}]
+    },
+    {
+        "isco_08_id": "7543",
+        "isco_title": "Product graders and testers (excluding foods and beverages)",
+        "anzsco_22_correspondence": [{"id": "363312", "title": "Wool Classer"}, {"id": "399999", "title": "Technicians and Trades Workers nec"}, {"id": "839311", "title": "Product Examiner"}, {"id": "839312", "title": "Product Grader"}, {"id": "839313", "title": "Product Tester"}]
+    },
+    {
+        "isco_08_id": "7544",
+        "isco_title": "Fumigators and other pest and weed controllers",
+        "anzsco_22_correspondence": [{"id": "843411", "title": "Pest Control Technician"}, {"id": "843912", "title": "Irrigation Assistant"}, {"id": "843999", "title": "Forestry and Garden Workers nec"}]
+    },
+    {
+        "isco_08_id": "7549",
+        "isco_title": "Craft and related workers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "362111", "title": "Florist"}, {"id": "399914", "title": "Optical Mechanic"}, {"id": "399999", "title": "Technicians and Trades Workers nec"}]
+    },
+    {
+        "isco_08_id": "8111",
+        "isco_title": "Miners and quarriers",
+        "anzsco_22_correspondence": [{"id": "712211", "title": "Driller"}, {"id": "712212", "title": "Miner"}]
+    },
+    {
+        "isco_08_id": "8112",
+        "isco_title": "Mineral and stone processing plant operators",
+        "anzsco_22_correspondence": [{"id": "712999", "title": "Stationary Plant Operators nec"}]
+    },
+    {
+        "isco_08_id": "8113",
+        "isco_title": "Well drillers and borers and related workers",
+        "anzsco_22_correspondence": [{"id": "712211", "title": "Driller"}]
+    },
+    {
+        "isco_08_id": "8114",
+        "isco_title": "Cement, stone and other mineral products machine operators",
+        "anzsco_22_correspondence": [{"id": "711112", "title": "Concrete Products Machine Operator"}, {"id": "711114", "title": "Stone Processing Machine Operator"}, {"id": "711199", "title": "Clay, Concrete, Glass and Stone Processing Machine Operators nec"}, {"id": "712913", "title": "Cement Production Plant Operator"}, {"id": "712914", "title": "Concrete Batching Plant Operator"}, {"id": "712915", "title": "Concrete Pump Operator"}]
+    },
+    {
+        "isco_08_id": "8121",
+        "isco_title": "Metal processing plant operators",
+        "anzsco_22_correspondence": [{"id": "712311", "title": "Engineering Production Worker"}]
+    },
+    {
+        "isco_08_id": "8122",
+        "isco_title": "Metal finishing, plating and coating machine operators",
+        "anzsco_22_correspondence": [{"id": "322112", "title": "Electroplater"}, {"id": "711913", "title": "Sand Blaster"}, {"id": "712311", "title": "Engineering Production Worker"}]
+    },
+    {
+        "isco_08_id": "8131",
+        "isco_title": "Chemical products plant and machine operators",
+        "anzsco_22_correspondence": [{"id": "711911", "title": "Chemical Production Machine Operator"}, {"id": "712999", "title": "Stationary Plant Operators nec"}]
+    },
+    {
+        "isco_08_id": "8132",
+        "isco_title": "Photographic products machine operators",
+        "anzsco_22_correspondence": [{"id": "399915", "title": "Photographer's Assistant"}, {"id": "711411", "title": "Photographic Developer and Printer"}, {"id": "711999", "title": "Machine Operators nec"}]
+    },
+    {
+        "isco_08_id": "8141",
+        "isco_title": "Rubber products machine operators",
+        "anzsco_22_correspondence": [{"id": "711516", "title": "Rubber Production Machine Operator"}]
+    },
+    {
+        "isco_08_id": "8142",
+        "isco_title": "Plastic products machine operators",
+        "anzsco_22_correspondence": [{"id": "399111", "title": "Boat Builder and Repairer"}, {"id": "711511", "title": "Plastic Cablemaking Machine Operator"}, {"id": "711512", "title": "Plastic Compounding and Reclamation Machine Operator"}, {"id": "711513", "title": "Plastics Fabricator or Welder"}, {"id": "711514", "title": "Plastics Production Machine Operator (General)"}, {"id": "711515", "title": "Reinforced Plastic and Composite Production Worker"}, {"id": "711599", "title": "Plastics and Rubber Production Machine Operators nec"}]
+    },
+    {
+        "isco_08_id": "8143",
+        "isco_title": "Paper products machine operators",
+        "anzsco_22_correspondence": [{"id": "711311", "title": "Paper Products Machine Operator"}]
+    },
+    {
+        "isco_08_id": "8151",
+        "isco_title": "Fibre preparing, spinning and winding machine operators",
+        "anzsco_22_correspondence": [{"id": "711716", "title": "Yarn Carding and Spinning Machine Operator"}, {"id": "711799", "title": "Textile and Footwear Production Machine Operators nec"}]
+    },
+    {
+        "isco_08_id": "8152",
+        "isco_title": "Weaving and knitting machine operators",
+        "anzsco_22_correspondence": [{"id": "711713", "title": "Knitting Machine Operator"}, {"id": "711715", "title": "Weaving Machine Operator"}, {"id": "711799", "title": "Textile and Footwear Production Machine Operators nec"}]
+    },
+    {
+        "isco_08_id": "8153",
+        "isco_title": "Sewing machine operators",
+        "anzsco_22_correspondence": [{"id": "711611", "title": "Sewing Machinist"}]
+    },
+    {
+        "isco_08_id": "8154",
+        "isco_title": "Bleaching, dyeing and fabric cleaning machine operators",
+        "anzsco_22_correspondence": [{"id": "711714", "title": "Textile Dyeing and Finishing Machine Operator"}]
+    },
+    {
+        "isco_08_id": "8155",
+        "isco_title": "Fur and leather preparing machine operators",
+        "anzsco_22_correspondence": [{"id": "711712", "title": "Hide and Skin Processing Machine Operator"}]
+    },
+    {
+        "isco_08_id": "8156",
+        "isco_title": "Shoemaking and related machine operators",
+        "anzsco_22_correspondence": [{"id": "711711", "title": "Footwear Production Machine Operator"}]
+    },
+    {
+        "isco_08_id": "8157",
+        "isco_title": "Laundry machine operators",
+        "anzsco_22_correspondence": [{"id": "811511", "title": "Laundry Worker (General)"}, {"id": "811512", "title": "Drycleaner"}, {"id": "811513", "title": "Ironer or Presser"}]
+    },
+    {
+        "isco_08_id": "8159",
+        "isco_title": "Textile, fur and leather products machine operators not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "711799", "title": "Textile and Footwear Production Machine Operators nec"}]
+    },
+    {
+        "isco_08_id": "8160",
+        "isco_title": "Food and related products machine operators",
+        "anzsco_22_correspondence": [{"id": "712999", "title": "Stationary Plant Operators nec"}, {"id": "831111", "title": "Baking Factory Worker"}, {"id": "831112", "title": "Brewery Worker"}, {"id": "831113", "title": "Confectionery Maker"}, {"id": "831114", "title": "Dairy Products Maker"}, {"id": "831115", "title": "Fruit and Vegetable Factory Worker"}, {"id": "831116", "title": "Grain Mill Worker"}, {"id": "831117", "title": "Sugar Mill Worker"}, {"id": "831118", "title": "Winery Cellar Hand"}, {"id": "831199", "title": "Food and Drink Factory Workers nec"}, {"id": "831311", "title": "Meat Process Worker"}, {"id": "831312", "title": "Poultry Process Worker"}, {"id": "831313", "title": "Seafood Process Worker"}]
+    },
+    {
+        "isco_08_id": "8171",
+        "isco_title": "Pulp and papermaking plant operators",
+        "anzsco_22_correspondence": [{"id": "712916", "title": "Paper and Pulp Mill Operator"}]
+    },
+    {
+        "isco_08_id": "8172",
+        "isco_title": "Wood processing plant operators",
+        "anzsco_22_correspondence": [{"id": "711313", "title": "Sawmilling Operator"}, {"id": "711314", "title": "Other Wood Processing Machine Operator"}, {"id": "712999", "title": "Stationary Plant Operators nec"}]
+    },
+    {
+        "isco_08_id": "8181",
+        "isco_title": "Glass and ceramic plant operators",
+        "anzsco_22_correspondence": [{"id": "711111", "title": "Clay Products Machine Operator"}, {"id": "711113", "title": "Glass Production Machine Operator"}]
+    },
+    {
+        "isco_08_id": "8182",
+        "isco_title": "Steam engine and boiler operators",
+        "anzsco_22_correspondence": [{"id": "712911", "title": "Boiler or Engine Operator"}]
+    },
+    {
+        "isco_08_id": "8183",
+        "isco_title": "Packing, bottling and labelling machine operators",
+        "anzsco_22_correspondence": [{"id": "832111", "title": "Chocolate Packer"}, {"id": "832112", "title": "Container Filler"}, {"id": "832113", "title": "Fruit and Vegetable Packer"}, {"id": "832114", "title": "Meat Packer"}, {"id": "832115", "title": "Seafood Packer"}, {"id": "832199", "title": "Packers nec"}]
+    },
+    {
+        "isco_08_id": "8189",
+        "isco_title": "Stationary plant and machine operators not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "711999", "title": "Machine Operators nec"}, {"id": "712999", "title": "Stationary Plant Operators nec"}, {"id": "721912", "title": "Linemarker"}]
+    },
+    {
+        "isco_08_id": "8211",
+        "isco_title": "Mechanical machinery assemblers",
+        "anzsco_22_correspondence": [{"id": "832211", "title": "Product Assembler"}]
+    },
+    {
+        "isco_08_id": "8212",
+        "isco_title": "Electrical and electronic equipment assemblers",
+        "anzsco_22_correspondence": [{"id": "832211", "title": "Product Assembler"}]
+    },
+    {
+        "isco_08_id": "8219",
+        "isco_title": "Assemblers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "832211", "title": "Product Assembler"}]
+    },
+    {
+        "isco_08_id": "8311",
+        "isco_title": "Locomotive engine drivers",
+        "anzsco_22_correspondence": [{"id": "731311", "title": "Train Driver"}]
+    },
+    {
+        "isco_08_id": "8312",
+        "isco_title": "Railway brake, signal and switch operators",
+        "anzsco_22_correspondence": [{"id": "712917", "title": "Railway Signal Operator"}, {"id": "712918", "title": "Train Controller"}]
+    },
+    {
+        "isco_08_id": "8321",
+        "isco_title": "Motorcycle drivers",
+        "anzsco_22_correspondence": [{"id": "561211", "title": "Courier"}]
+    },
+    {
+        "isco_08_id": "8322",
+        "isco_title": "Car, taxi and van drivers",
+        "anzsco_22_correspondence": [{"id": "411111", "title": "Ambulance Officer"}, {"id": "561211", "title": "Courier"}, {"id": "731111", "title": "Chauffeur"}, {"id": "731112", "title": "Taxi Driver"}, {"id": "731199", "title": "Automobile Drivers nec"}, {"id": "732111", "title": "Delivery Driver"}]
+    },
+    {
+        "isco_08_id": "8331",
+        "isco_title": "Bus and tram drivers",
+        "anzsco_22_correspondence": [{"id": "731211", "title": "Bus Driver"}, {"id": "731212", "title": "Charter and Tour Bus Driver"}, {"id": "731213", "title": "Passenger Coach Driver"}, {"id": "731312", "title": "Tram Driver"}]
+    },
+    {
+        "isco_08_id": "8332",
+        "isco_title": "Heavy truck and lorry drivers",
+        "anzsco_22_correspondence": [{"id": "733111", "title": "Truck Driver (General)"}, {"id": "733112", "title": "Aircraft Refueller"}, {"id": "733113", "title": "Furniture Removalist"}, {"id": "733114", "title": "Tanker Driver"}, {"id": "733115", "title": "Tow Truck Driver"}]
+    },
+    {
+        "isco_08_id": "8341",
+        "isco_title": "Mobile farm and forestry plant operators",
+        "anzsco_22_correspondence": [{"id": "721111", "title": "Agricultural and Horticultural Mobile Plant Operator"}, {"id": "721112", "title": "Logging Plant Operator"}]
+    },
+    {
+        "isco_08_id": "8342",
+        "isco_title": "Earthmoving and related plant operators",
+        "anzsco_22_correspondence": [{"id": "721211", "title": "Earthmoving Plant Operator (General)"}, {"id": "721212", "title": "Backhoe Operator"}, {"id": "721213", "title": "Bulldozer Operator"}, {"id": "721214", "title": "Excavator Operator"}, {"id": "721215", "title": "Grader Operator"}, {"id": "721216", "title": "Loader Operator"}, {"id": "721913", "title": "Paving Plant Operator"}, {"id": "721914", "title": "Railway Track Plant Operator"}, {"id": "721915", "title": "Road Roller Operator"}, {"id": "721916", "title": "Streetsweeper Operator"}, {"id": "721999", "title": "Mobile Plant Operators nec"}]
+    },
+    {
+        "isco_08_id": "8343",
+        "isco_title": "Crane, hoist and related plant operators",
+        "anzsco_22_correspondence": [{"id": "712111", "title": "Crane, Hoist or Lift Operator"}, {"id": "712999", "title": "Stationary Plant Operators nec"}, {"id": "721999", "title": "Mobile Plant Operators nec"}]
+    },
+    {
+        "isco_08_id": "8344",
+        "isco_title": "Lifting truck operators",
+        "anzsco_22_correspondence": [{"id": "721311", "title": "Forklift Driver"}]
+    },
+    {
+        "isco_08_id": "8350",
+        "isco_title": "Ships' deck crews and related workers",
+        "anzsco_22_correspondence": [{"id": "899211", "title": "Deck Hand"}]
+    },
+    {
+        "isco_08_id": "9111",
+        "isco_title": "Domestic cleaners and helpers",
+        "anzsco_22_correspondence": [{"id": "811311", "title": "Domestic Cleaner"}]
+    },
+    {
+        "isco_08_id": "9112",
+        "isco_title": "Cleaners and helpers in offices, hotels and other establishments",
+        "anzsco_22_correspondence": [{"id": "431911", "title": "Bar Useful or Busser"}, {"id": "811211", "title": "Commercial Cleaner"}, {"id": "811411", "title": "Commercial Housekeeper"}]
+    },
+    {
+        "isco_08_id": "9121",
+        "isco_title": "Hand launderers and pressers",
+        "anzsco_22_correspondence": [{"id": "811511", "title": "Laundry Worker (General)"}, {"id": "811512", "title": "Drycleaner"}, {"id": "811513", "title": "Ironer or Presser"}]
+    },
+    {
+        "isco_08_id": "9122",
+        "isco_title": "Vehicle cleaners",
+        "anzsco_22_correspondence": [{"id": "811111", "title": "Car Detailer"}]
+    },
+    {
+        "isco_08_id": "9123",
+        "isco_title": "Window cleaners",
+        "anzsco_22_correspondence": [{"id": "811612", "title": "Window Cleaner"}]
+    },
+    {
+        "isco_08_id": "9129",
+        "isco_title": "Other cleaning workers",
+        "anzsco_22_correspondence": [{"id": "811611", "title": "Carpet Cleaner"}, {"id": "811699", "title": "Cleaners nec"}]
+    },
+    {
+        "isco_08_id": "9211",
+        "isco_title": "Crop farm labourers",
+        "anzsco_22_correspondence": [{"id": "842211", "title": "Cotton Farm Worker"}, {"id": "842212", "title": "Fruit Farm Worker"}, {"id": "842213", "title": "Fruit Picker"}, {"id": "842214", "title": "Grain, Oilseed, Pulse and Pasture Farm Worker (Aus) / Field Farm Worker (NZ)"}, {"id": "842215", "title": "Mushroom Picker"}, {"id": "842216", "title": "Nut Farm Worker"}, {"id": "842217", "title": "Sugar Cane Farm Worker"}, {"id": "842218", "title": "Vegetable Farm Worker (Aus) / Market Garden Worker (NZ)"}, {"id": "842221", "title": "Vegetable Picker"}, {"id": "842222", "title": "Vineyard Worker"}, {"id": "842299", "title": "Crop Farm Workers nec"}]
+    },
+    {
+        "isco_08_id": "9212",
+        "isco_title": "Livestock farm labourers",
+        "anzsco_22_correspondence": [{"id": "842311", "title": "Beef Cattle Farm Worker"}, {"id": "842312", "title": "Cattle and Sheep Farm Worker"}, {"id": "842313", "title": "Dairy Cattle Farm Worker"}, {"id": "842314", "title": "Livestock Husbandry Worker"}, {"id": "842315", "title": "Piggery Farm Worker"}, {"id": "842316", "title": "Poultry Farm Worker"}, {"id": "842317", "title": "Sheep Farm Worker"}, {"id": "842318", "title": "Stablehand"}, {"id": "842321", "title": "Wool Handler"}, {"id": "842399", "title": "Livestock Farm Workers nec"}]
+    },
+    {
+        "isco_08_id": "9213",
+        "isco_title": "Mixed crop and livestock farm labourers",
+        "anzsco_22_correspondence": [{"id": "842411", "title": "Broadacre Crop and Livestock Farm Worker"}, {"id": "842499", "title": "Mixed Production Farm Workers nec"}]
+    },
+    {
+        "isco_08_id": "9214",
+        "isco_title": "Garden and horticultural labourers",
+        "anzsco_22_correspondence": [{"id": "843211", "title": "Garden Labourer"}, {"id": "843311", "title": "Horticultural Nursery Assistant"}]
+    },
+    {
+        "isco_08_id": "9215",
+        "isco_title": "Forestry labourers",
+        "anzsco_22_correspondence": [{"id": "843111", "title": "Forestry Worker"}, {"id": "843112", "title": "Logging Assistant"}, {"id": "843113", "title": "Tree Faller"}]
+    },
+    {
+        "isco_08_id": "9216",
+        "isco_title": "Fishery and aquaculture labourers",
+        "anzsco_22_correspondence": [{"id": "842111", "title": "Aquaculture Worker"}]
+    },
+    {
+        "isco_08_id": "9311",
+        "isco_title": "Mining and quarrying labourers",
+        "anzsco_22_correspondence": [{"id": "821912", "title": "Driller's Assistant"}, {"id": "821914", "title": "Mining Support Worker"}]
+    },
+    {
+        "isco_08_id": "9312",
+        "isco_title": "Civil engineering labourers",
+        "anzsco_22_correspondence": [{"id": "821112", "title": "Drainage, Sewerage and Stormwater Labourer"}, {"id": "821113", "title": "Earthmoving Labourer"}, {"id": "821511", "title": "Paving and Surfacing Labourer"}, {"id": "821611", "title": "Railway Track Worker"}, {"id": "821915", "title": "Surveyor's Assistant"}]
+    },
+    {
+        "isco_08_id": "9313",
+        "isco_title": "Building construction labourers",
+        "anzsco_22_correspondence": [{"id": "821111", "title": "Builder's Labourer"}, {"id": "821114", "title": "Plumber's Assistant"}, {"id": "821211", "title": "Concreter"}, {"id": "821311", "title": "Fencer"}, {"id": "821412", "title": "Home Improvement Installer"}, {"id": "821713", "title": "Steel Fixer"}, {"id": "821911", "title": "Crane Chaser"}, {"id": "899914", "title": "Electrical or Telecommunications Trades Assistant"}]
+    },
+    {
+        "isco_08_id": "9321",
+        "isco_title": "Hand packers",
+        "anzsco_22_correspondence": [{"id": "832111", "title": "Chocolate Packer"}, {"id": "832112", "title": "Container Filler"}, {"id": "832113", "title": "Fruit and Vegetable Packer"}, {"id": "832114", "title": "Meat Packer"}, {"id": "832115", "title": "Seafood Packer"}, {"id": "832199", "title": "Packers nec"}]
+    },
+    {
+        "isco_08_id": "9329",
+        "isco_title": "Manufacturing labourers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "741111", "title": "Storeperson"}, {"id": "839111", "title": "Metal Engineering Process Worker"}, {"id": "839211", "title": "Plastics Factory Worker"}, {"id": "839212", "title": "Rubber Factory Worker"}, {"id": "839411", "title": "Paper and Pulp Mill Worker"}, {"id": "839412", "title": "Sawmill or Timber Yard Worker"}, {"id": "839413", "title": "Wood and Wood Products Factory Worker"}, {"id": "839911", "title": "Cement and Concrete Plant Worker"}, {"id": "839912", "title": "Chemical Plant Worker"}, {"id": "839913", "title": "Clay Processing Factory Worker"}, {"id": "839914", "title": "Fabric and Textile Factory Worker"}, {"id": "839915", "title": "Footwear Factory Worker"}, {"id": "839916", "title": "Glass Processing Worker"}, {"id": "839999", "title": "Factory Process Workers nec"}, {"id": "899511", "title": "Printer's Assistant"}, {"id": "899512", "title": "Printing Table Worker"}]
+    },
+    {
+        "isco_08_id": "9331",
+        "isco_title": "Hand and pedal vehicle drivers",
+        "anzsco_22_correspondence": [{"id": "561211", "title": "Courier"}]
+    },
+    {
+        "isco_08_id": "9332",
+        "isco_title": "Drivers of animal-drawn vehicles and machinery",
+        "anzsco_22_correspondence": [{"id": "899999", "title": "Labourers nec"}]
+    },
+    {
+        "isco_08_id": "9333",
+        "isco_title": "Freight handlers",
+        "anzsco_22_correspondence": [{"id": "712912", "title": "Bulk Materials Handling Plant Operator"}, {"id": "721911", "title": "Aircraft Baggage Handler and Airline Ground Crew"}, {"id": "741111", "title": "Storeperson"}, {"id": "891111", "title": "Freight Handler (Rail or Road)"}, {"id": "891112", "title": "Truck Driver's Offsider"}, {"id": "891113", "title": "Waterside Worker"}]
+    },
+    {
+        "isco_08_id": "9334",
+        "isco_title": "Shelf fillers",
+        "anzsco_22_correspondence": [{"id": "891211", "title": "Shelf Filler"}]
+    },
+    {
+        "isco_08_id": "9411",
+        "isco_title": "Fast food preparers",
+        "anzsco_22_correspondence": [{"id": "851111", "title": "Fast Food Cook"}]
+    },
+    {
+        "isco_08_id": "9412",
+        "isco_title": "Kitchen helpers",
+        "anzsco_22_correspondence": [{"id": "851211", "title": "Pastrycook's Assistant"}, {"id": "851299", "title": "Food Trades Assistants nec"}, {"id": "851311", "title": "Kitchenhand"}]
+    },
+    {
+        "isco_08_id": "9510",
+        "isco_title": "Street and related service workers",
+        "anzsco_22_correspondence": [{"id": "899999", "title": "Labourers nec"}]
+    },
+    {
+        "isco_08_id": "9520",
+        "isco_title": "Street vendors (excluding food)",
+        "anzsco_22_correspondence": [{"id": "621711", "title": "Cash Van Salesperson"}, {"id": "621713", "title": "Street Vendor"}]
+    },
+    {
+        "isco_08_id": "9611",
+        "isco_title": "Garbage and recycling collectors",
+        "anzsco_22_correspondence": [{"id": "899611", "title": "Recycling or Rubbish Collector"}]
+    },
+    {
+        "isco_08_id": "9612",
+        "isco_title": "Refuse sorters",
+        "anzsco_22_correspondence": [{"id": "621911", "title": "Materials Recycler"}, {"id": "839918", "title": "Recycling Worker"}]
+    },
+    {
+        "isco_08_id": "9613",
+        "isco_title": "Sweepers and related labourers",
+        "anzsco_22_correspondence": [{"id": "811699", "title": "Cleaners nec"}]
+    },
+    {
+        "isco_08_id": "9621",
+        "isco_title": "Messengers, package deliverers and luggage porters",
+        "anzsco_22_correspondence": [{"id": "431912", "title": "Doorperson or Luggage Porter"}, {"id": "561211", "title": "Courier"}, {"id": "899915", "title": "Leaflet or Newspaper Deliverer"}]
+    },
+    {
+        "isco_08_id": "9622",
+        "isco_title": "Odd job persons",
+        "anzsco_22_correspondence": [{"id": "899311", "title": "Handyperson"}]
+    },
+    {
+        "isco_08_id": "9623",
+        "isco_title": "Meter readers and vending-machine collectors",
+        "anzsco_22_correspondence": [{"id": "561912", "title": "Meter Reader"}, {"id": "899711", "title": "Vending Machine Attendant"}]
+    },
+    {
+        "isco_08_id": "9624",
+        "isco_title": "Water and firewood collectors",
+        "anzsco_22_correspondence": [{"id": "843999", "title": "Forestry and Garden Workers nec"}]
+    },
+    {
+        "isco_08_id": "9629",
+        "isco_title": "Elementary workers not elsewhere classified",
+        "anzsco_22_correspondence": [{"id": "431999", "title": "Hospitality Workers nec"}, {"id": "899912", "title": "Car Park Attendant"}, {"id": "899916", "title": "Mechanic's Assistant"}, {"id": "899917", "title": "Railways Assistant"}, {"id": "899918", "title": "Sign Erector"}, {"id": "899921", "title": "Ticket Collector or Usher"}, {"id": "899922", "title": "Trolley Collector"}, {"id": "899999", "title": "Labourers nec"}]
+    }
+]
