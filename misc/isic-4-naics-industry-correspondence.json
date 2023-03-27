@@ -1,0 +1,2102 @@
+[
+    {
+        "isic_id": "0111",
+        "isic_title": "Growing of cereals (except rice), leguminous crops and oil seeds",
+        "naics_correspondence": [{"id": "111110", "title": "Soybean Farming"},{"id": "111120", "title": "Oilseed (except Soybean) Farming"},{"id": "111130", "title": "Dry Pea and Bean Farming"},{"id": "111140", "title": "Wheat Farming"},{"id": "111150", "title": "Corn Farming"},{"id": "111191", "title": "Oilseed and Grain Combination Farming"},{"id": "111199", "title": "All Other Grain Farming"},{"id": "111992", "title": "Peanut Farming"},{"id": "111998", "title": "All Other Miscellaneous Crop Farming"}]
+    },
+    {
+        "isic_id": "0112",
+        "isic_title": "Growing of rice",
+        "naics_correspondence": [{"id": "111160", "title": "Rice Farming"}]
+    },
+    {
+        "isic_id": "0113",
+        "isic_title": "Growing of vegetables and melons, roots and tubers",
+        "naics_correspondence": [{"id": "111211", "title": "Potato Farming"},{"id": "111219", "title": "Other Vegetable (except Potato) and Melon Farming"},{"id": "111411", "title": "Mushroom Production"},{"id": "111419", "title": "Other Food Crops Grown Under Cover"},{"id": "111991", "title": "Sugar Beet Farming"}]
+    },
+    {
+        "isic_id": "0114",
+        "isic_title": "Growing of sugar cane",
+        "naics_correspondence": [{"id": "111930", "title": "Sugarcane Farming"}]
+    },
+    {
+        "isic_id": "0115",
+        "isic_title": "Growing of tobacco",
+        "naics_correspondence": [{"id": "111910", "title": "Tobacco Farming"}]
+    },
+    {
+        "isic_id": "0116",
+        "isic_title": "Growing of fibre crops",
+        "naics_correspondence": [{"id": "111920", "title": "Cotton Farming"},{"id": "111998", "title": "All Other Miscellaneous Crop Farming"}]
+    },
+    {
+        "isic_id": "0119",
+        "isic_title": "Growing of other non-perennial crops",
+        "naics_correspondence": [{"id": "111219", "title": "Other Vegetable (except Potato) and Melon Farming"},{"id": "111422", "title": "Floriculture Production"},{"id": "111940", "title": "Hay Farming"}]
+    },
+    {
+        "isic_id": "012",
+        "isic_title": "Growing of perennial crops",
+        "naics_correspondence": [{"id": "111336", "title": "Fruit and Tree Nut Combination Farming"},{"id": "111998", "title": "All Other Miscellaneous Crop Farming"}]
+    },
+    {
+        "isic_id": "0121",
+        "isic_title": "Growing of grapes",
+        "naics_correspondence": [{"id": "111332", "title": "Grape Vineyards"}]
+    },
+    {
+        "isic_id": "0122",
+        "isic_title": "Growing of tropical and subtropical fruits",
+        "naics_correspondence": [{"id": "111339", "title": "Other Noncitrus Fruit Farming"},{"id": "111419", "title": "Other Food Crops Grown Under Cover"}]
+    },
+    {
+        "isic_id": "0123",
+        "isic_title": "Growing of citrus fruits",
+        "naics_correspondence": [{"id": "111310", "title": "Orange Groves"},{"id": "111320", "title": "Citrus (except Orange) Groves"}]
+    },
+    {
+        "isic_id": "0124",
+        "isic_title": "Growing of pome fruits and stone fruits",
+        "naics_correspondence": [{"id": "111331", "title": "Apple Orchards"},{"id": "111339", "title": "Other Noncitrus Fruit Farming"}]
+    },
+    {
+        "isic_id": "0125",
+        "isic_title": "Growing of other tree and bush fruits and nuts",
+        "naics_correspondence": [{"id": "111333", "title": "Strawberry Farming"},{"id": "111334", "title": "Berry (except Strawberry) Farming"},{"id": "111335", "title": "Tree Nut Farming"},{"id": "111339", "title": "Other Noncitrus Fruit Farming"}]
+    },
+    {
+        "isic_id": "0126",
+        "isic_title": "Growing of oleaginous fruits",
+        "naics_correspondence": [{"id": "111335", "title": "Tree Nut Farming"},{"id": "111339", "title": "Other Noncitrus Fruit Farming"}]
+    },
+    {
+        "isic_id": "0127",
+        "isic_title": "Growing of beverage crops",
+        "naics_correspondence": [{"id": "111339", "title": "Other Noncitrus Fruit Farming"},{"id": "111998", "title": "All Other Miscellaneous Crop Farming"}]
+    },
+    {
+        "isic_id": "0128",
+        "isic_title": "Growing of spices, aromatic, drug and pharmaceutical crops",
+        "naics_correspondence": [{"id": "111219", "title": "Other Vegetable (except Potato) and Melon Farming"},{"id": "111419", "title": "Other Food Crops Grown Under Cover"},{"id": "111998", "title": "All Other Miscellaneous Crop Farming"}]
+    },
+    {
+        "isic_id": "0129",
+        "isic_title": "Growing of other perennial crops",
+        "naics_correspondence": [{"id": "111421", "title": "Nursery and Tree Production"},{"id": "111998", "title": "All Other Miscellaneous Crop Farming"}]
+    },
+    {
+        "isic_id": "0130",
+        "isic_title": "Plant propagation",
+        "naics_correspondence": [{"id": "111421", "title": "Nursery and Tree Production"}]
+    },
+    {
+        "isic_id": "014",
+        "isic_title": "Animal production",
+        "naics_correspondence": [{"id": "112990", "title": "All Other Animal Production"}]
+    },
+    {
+        "isic_id": "0141",
+        "isic_title": "Raising of cattle and buffaloes",
+        "naics_correspondence": [{"id": "112111", "title": "Beef Cattle Ranching and Farming"},{"id": "112112", "title": "Cattle Feedlots"},{"id": "112120", "title": "Dairy Cattle and Milk Production"},{"id": "112130", "title": "Dual-Purpose Cattle Ranching and Farming"}]
+    },
+    {
+        "isic_id": "0142",
+        "isic_title": "Raising of horses and other equines",
+        "naics_correspondence": [{"id": "112920", "title": "Horses and Other Equine Production"}]
+    },
+    {
+        "isic_id": "0143",
+        "isic_title": "Raising of camels and camelids",
+        "naics_correspondence": [{"id": "112990", "title": "All Other Animal Production"}]
+    },
+    {
+        "isic_id": "0144",
+        "isic_title": "Raising of sheep and goats",
+        "naics_correspondence": [{"id": "112410", "title": "Sheep Farming"},{"id": "112420", "title": "Goat Farming"}]
+    },
+    {
+        "isic_id": "0145",
+        "isic_title": "Raising of swine/pigs",
+        "naics_correspondence": [{"id": "112210", "title": "Hog and Pig Farming"}]
+    },
+    {
+        "isic_id": "0146",
+        "isic_title": "Raising of poultry",
+        "naics_correspondence": [{"id": "112310", "title": "Chicken Egg Production"},{"id": "112320", "title": "Broilers and Other Meat Type Chicken Production"},{"id": "112330", "title": "Turkey Production"},{"id": "112340", "title": "Poultry Hatcheries"},{"id": "112390", "title": "Other Poultry Production"}]
+    },
+    {
+        "isic_id": "0149",
+        "isic_title": "Raising of other animals",
+        "naics_correspondence": [{"id": "112390", "title": "Other Poultry Production"},{"id": "112910", "title": "Apiculture"},{"id": "112930", "title": "Fur-Bearing Animal and Rabbit Production"},{"id": "112990", "title": "All Other Animal Production"}]
+    },
+    {
+        "isic_id": "0150",
+        "isic_title": "Mixed farming",
+        "naics_correspondence": [{"id": "111998", "title": "All Other Miscellaneous Crop Farming"},{"id": "112990", "title": "All Other Animal Production"}]
+    },
+    {
+        "isic_id": "0161",
+        "isic_title": "Support activities for crop production",
+        "naics_correspondence": [{"id": "115112", "title": "Soil Preparation, Planting, and Cultivating"},{"id": "115113", "title": "Crop Harvesting, Primarily by Machine"},{"id": "115115", "title": "Farm Labor Contractors and Crew Leaders"},{"id": "115116", "title": "Farm Management Services"}]
+    },
+    {
+        "isic_id": "0162",
+        "isic_title": "Support activities for animal production",
+        "naics_correspondence": [{"id": "115116", "title": "Farm Management Services"},{"id": "115210", "title": "Support Activities for Animal Production"}]
+    },
+    {
+        "isic_id": "0163",
+        "isic_title": "Post-harvest crop activities",
+        "naics_correspondence": [{"id": "115111", "title": "Cotton Ginning"},{"id": "115114", "title": "Postharvest Crop Activities (except Cotton Ginning)"}]
+    },
+    {
+        "isic_id": "0164",
+        "isic_title": "Seed processing for propagation",
+        "naics_correspondence": [{"id": "115114", "title": "Postharvest Crop Activities (except Cotton Ginning)"}]
+    },
+    {
+        "isic_id": "0170",
+        "isic_title": "Hunting, trapping and related service activities",
+        "naics_correspondence": [{"id": "114210", "title": "Hunting and Trapping"}]
+    },
+    {
+        "isic_id": "0210",
+        "isic_title": "Silviculture and other forestry activities",
+        "naics_correspondence": [{"id": "113110", "title": "Timber Tract Operations"},{"id": "113210", "title": "Forest Nurseries and Gathering of Forest Products"}]
+    },
+    {
+        "isic_id": "0220",
+        "isic_title": "Logging",
+        "naics_correspondence": [{"id": "113310", "title": "Logging"}]
+    },
+    {
+        "isic_id": "0230",
+        "isic_title": "Gathering of non-wood forest products",
+        "naics_correspondence": [{"id": "111998", "title": "All Other Miscellaneous Crop Farming"},{"id": "113210", "title": "Forest Nurseries and Gathering of Forest Products"}]
+    },
+    {
+        "isic_id": "0240",
+        "isic_title": "Support services to forestry",
+        "naics_correspondence": [{"id": "113310", "title": "Logging"},{"id": "115310", "title": "Support Activities for Forestry"}]
+    },
+    {
+        "isic_id": "0311",
+        "isic_title": "Marine fishing",
+        "naics_correspondence": [{"id": "114111", "title": "Finfish Fishing"},{"id": "114112", "title": "Shellfish Fishing"},{"id": "114119", "title": "Other Marine Fishing"},{"id": "311710", "title": "Seafood Product Preparation and Packaging"}]
+    },
+    {
+        "isic_id": "0312",
+        "isic_title": "Freshwater fishing",
+        "naics_correspondence": [{"id": "114111", "title": "Finfish Fishing"},{"id": "114112", "title": "Shellfish Fishing"},{"id": "114119", "title": "Other Marine Fishing"}]
+    },
+    {
+        "isic_id": "0321",
+        "isic_title": "Marine aquaculture",
+        "naics_correspondence": [{"id": "112511", "title": "Finfish Farming and Fish Hatcheries"},{"id": "112512", "title": "Shellfish Farming"},{"id": "112519", "title": "Other Aquaculture"}]
+    },
+    {
+        "isic_id": "0322",
+        "isic_title": "Freshwater aquaculture",
+        "naics_correspondence": [{"id": "111419", "title": "Other Food Crops Grown Under Cover"},{"id": "112511", "title": "Finfish Farming and Fish Hatcheries"},{"id": "112512", "title": "Shellfish Farming"},{"id": "112519", "title": "Other Aquaculture"}]
+    },
+    {
+        "isic_id": "0510",
+        "isic_title": "Mining of hard coal",
+        "naics_correspondence": [{"id": "211130", "title": "Natural Gas Extraction"},{"id": "212115", "title": "Underground Coal Mining"}]
+    },
+    {
+        "isic_id": "0520",
+        "isic_title": "Mining of lignite",
+        "naics_correspondence": [{"id": "212114", "title": "Surface Coal Mining"},{"id": "212115", "title": "Underground Coal Mining"}]
+    },
+    {
+        "isic_id": "0610",
+        "isic_title": "Extraction of crude petroleum",
+        "naics_correspondence": [{"id": "211120", "title": "Crude Petroleum Extraction"}]
+    },
+    {
+        "isic_id": "0620",
+        "isic_title": "Extraction of natural gas",
+        "naics_correspondence": [{"id": "211130", "title": "Natural Gas Extraction"}]
+    },
+    {
+        "isic_id": "0710",
+        "isic_title": "Mining of iron ores",
+        "naics_correspondence": [{"id": "212210", "title": "Iron Ore Mining"}]
+    },
+    {
+        "isic_id": "0721",
+        "isic_title": "Mining of uranium and thorium ores",
+        "naics_correspondence": [{"id": "212290", "title": "Other Metal Ore Mining"}]
+    },
+    {
+        "isic_id": "0729",
+        "isic_title": "Mining of other non-ferrous metal ores",
+        "naics_correspondence": [{"id": "212220", "title": "Gold Ore and Silver Ore Mining"},{"id": "212230", "title": "Copper, Nickel, Lead, and Zinc Mining"},{"id": "212290", "title": "Other Metal Ore Mining"}]
+    },
+    {
+        "isic_id": "0810",
+        "isic_title": "Quarrying of stone, sand and clay",
+        "naics_correspondence": [{"id": "212311", "title": "Dimension Stone Mining and Quarrying"},{"id": "212312", "title": "Crushed and Broken Limestone Mining and Quarrying"},{"id": "212313", "title": "Crushed and Broken Granite Mining and Quarrying"},{"id": "212319", "title": "Other Crushed and Broken Stone Mining and Quarrying"},{"id": "212321", "title": "Construction Sand and Gravel Mining"},{"id": "212322", "title": "Industrial Sand Mining"},{"id": "212323", "title": "Kaolin, Clay, and Ceramic and Refractory Minerals Mining"},{"id": "212390", "title": "Other Nonmetallic Mineral Mining and Quarrying"}]
+    },
+    {
+        "isic_id": "0891",
+        "isic_title": "Mining of chemical and fertilizer minerals",
+        "naics_correspondence": [{"id": "212312", "title": "Crushed and Broken Limestone Mining and Quarrying"},{"id": "212390", "title": "Other Nonmetallic Mineral Mining and Quarrying"}]
+    },
+    {
+        "isic_id": "0892",
+        "isic_title": "Extraction of peat",
+        "naics_correspondence": [{"id": "212390", "title": "Other Nonmetallic Mineral Mining and Quarrying"}]
+    },
+    {
+        "isic_id": "0893",
+        "isic_title": "Extraction of salt",
+        "naics_correspondence": [{"id": "311942", "title": "Spice and Extract Manufacturing"}]
+    },
+    {
+        "isic_id": "0899",
+        "isic_title": "Other mining and quarrying (not elsewhere classified)",
+        "naics_correspondence": [{"id": "212323", "title": "Kaolin, Clay, and Ceramic and Refractory Minerals Mining"},{"id": "212390", "title": "Other Nonmetallic Mineral Mining and Quarrying"}]
+    },
+    {
+        "isic_id": "0910",
+        "isic_title": "Support activities for petroleum and natural gas extraction",
+        "naics_correspondence": [{"id": "213111", "title": "Drilling Oil and Gas Wells"},{"id": "213112", "title": "Support Activities for Oil and Gas Operations"},{"id": "488999", "title": "All Other Support Activities for Transportation"}]
+    },
+    {
+        "isic_id": "0990",
+        "isic_title": "Support activities for other mining and quarrying",
+        "naics_correspondence": [{"id": "213113", "title": "Support Activities for Coal Mining"},{"id": "213114", "title": "Support Activities for Metal Mining"},{"id": "213115", "title": "Support Activities for Nonmetallic Minerals (except Fuels) Mining"}]
+    },
+    {
+        "isic_id": "1010",
+        "isic_title": "Processing and preserving of meat",
+        "naics_correspondence": [{"id": "311412", "title": "Frozen Specialty Food Manufacturing"},{"id": "311611", "title": "Animal (except Poultry) Slaughtering"},{"id": "311612", "title": "Meat Processed from Carcasses"},{"id": "311613", "title": "Rendering and Meat Byproduct Processing"},{"id": "311615", "title": "Poultry Processing"},{"id": "311710", "title": "Seafood Product Preparation and Packaging"}]
+    },
+    {
+        "isic_id": "1020",
+        "isic_title": "Processing and preserving of fish, crustaceans and molluscs",
+        "naics_correspondence": [{"id": "311710", "title": "Seafood Product Preparation and Packaging"}]
+    },
+    {
+        "isic_id": "1030",
+        "isic_title": "Processing and preserving of fruit and vegetables",
+        "naics_correspondence": [{"id": "311211", "title": "Flour Milling"},{"id": "311411", "title": "Frozen Fruit, Juice, and Vegetable Manufacturing"},{"id": "311421", "title": "Fruit and Vegetable Canning"},{"id": "311423", "title": "Dried and Dehydrated Food Manufacturing"},{"id": "311911", "title": "Roasted Nuts and Peanut Butter Manufacturing"},{"id": "311919", "title": "Other Snack Food Manufacturing"},{"id": "311930", "title": "Flavoring Syrup and Concentrate Manufacturing"},{"id": "311941", "title": "Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing"},{"id": "311942", "title": "Spice and Extract Manufacturing"},{"id": "311991", "title": "Perishable Prepared Food Manufacturing"},{"id": "311999", "title": "All Other Miscellaneous Food Manufacturing"}]
+    },
+    {
+        "isic_id": "1040",
+        "isic_title": "Manufacture of vegetable and animal oils and fats",
+        "naics_correspondence": [{"id": "311221", "title": "Wet Corn Milling and Starch Manufacturing"},{"id": "311224", "title": "Soybean and Other Oilseed Processing"},{"id": "311225", "title": "Fats and Oils Refining and Blending"},{"id": "311710", "title": "Seafood Product Preparation and Packaging"}]
+    },
+    {
+        "isic_id": "1050",
+        "isic_title": "Manufacture of dairy products",
+        "naics_correspondence": [{"id": "311511", "title": "Fluid Milk Manufacturing"},{"id": "311512", "title": "Creamery Butter Manufacturing"},{"id": "311513", "title": "Cheese Manufacturing"},{"id": "311514", "title": "Dry, Condensed, and Evaporated Dairy Product Manufacturing"},{"id": "311520", "title": "Ice Cream and Frozen Dessert Manufacturing"}]
+    },
+    {
+        "isic_id": "1061",
+        "isic_title": "Manufacture of grain mill products",
+        "naics_correspondence": [{"id": "311211", "title": "Flour Milling"},{"id": "311212", "title": "Rice Milling"},{"id": "311230", "title": "Breakfast Cereal Manufacturing"},{"id": "311824", "title": "Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour"}]
+    },
+    {
+        "isic_id": "1062",
+        "isic_title": "Manufacture of starches and starch products",
+        "naics_correspondence": [{"id": "311221", "title": "Wet Corn Milling and Starch Manufacturing"},{"id": "311225", "title": "Fats and Oils Refining and Blending"}]
+    },
+    {
+        "isic_id": "1071",
+        "isic_title": "Manufacture of bakery products",
+        "naics_correspondence": [{"id": "311412", "title": "Frozen Specialty Food Manufacturing"},{"id": "311811", "title": "Retail Bakeries"},{"id": "311812", "title": "Commercial Bakeries"},{"id": "311813", "title": "Frozen Cakes, Pies, and Other Pastries Manufacturing"},{"id": "311821", "title": "Cookie and Cracker Manufacturing"},{"id": "311830", "title": "Tortilla Manufacturing"},{"id": "311919", "title": "Other Snack Food Manufacturing"}]
+    },
+    {
+        "isic_id": "1072",
+        "isic_title": "Manufacture of sugar",
+        "naics_correspondence": [{"id": "111998", "title": "All Other Miscellaneous Crop Farming"},{"id": "311313", "title": "Beet Sugar Manufacturing"},{"id": "311314", "title": "Cane Sugar Manufacturing"}]
+    },
+    {
+        "isic_id": "1073",
+        "isic_title": "Manufacture of cocoa, chocolate and sugar confectionery",
+        "naics_correspondence": [{"id": "311340", "title": "Nonchocolate Confectionery Manufacturing"},{"id": "311351", "title": "Chocolate and Confectionery Manufacturing from Cacao Beans"},{"id": "311352", "title": "Confectionery Manufacturing from Purchased Chocolate"}]
+    },
+    {
+        "isic_id": "1074",
+        "isic_title": "Manufacture of macaroni, noodles, couscous and similar farinaceous products",
+        "naics_correspondence": [{"id": "311412", "title": "Frozen Specialty Food Manufacturing"},{"id": "311422", "title": "Specialty Canning"},{"id": "311824", "title": "Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour"},{"id": "311991", "title": "Perishable Prepared Food Manufacturing"}]
+    },
+    {
+        "isic_id": "1075",
+        "isic_title": "Manufacture of prepared meals and dishes",
+        "naics_correspondence": [{"id": "311412", "title": "Frozen Specialty Food Manufacturing"},{"id": "311422", "title": "Specialty Canning"},{"id": "311710", "title": "Seafood Product Preparation and Packaging"},{"id": "311824", "title": "Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour"},{"id": "311999", "title": "All Other Miscellaneous Food Manufacturing"}]
+    },
+    {
+        "isic_id": "1079",
+        "isic_title": "Manufacture of other food products (not elsewhere classified)",
+        "naics_correspondence": [{"id": "311412", "title": "Frozen Specialty Food Manufacturing"},{"id": "311421", "title": "Fruit and Vegetable Canning"},{"id": "311422", "title": "Specialty Canning"},{"id": "311423", "title": "Dried and Dehydrated Food Manufacturing"},{"id": "311511", "title": "Fluid Milk Manufacturing"},{"id": "311513", "title": "Cheese Manufacturing"},{"id": "311514", "title": "Dry, Condensed, and Evaporated Dairy Product Manufacturing"},{"id": "311612", "title": "Meat Processed from Carcasses"},{"id": "311710", "title": "Seafood Product Preparation and Packaging"},{"id": "311920", "title": "Coffee and Tea Manufacturing"},{"id": "311930", "title": "Flavoring Syrup and Concentrate Manufacturing"},{"id": "311941", "title": "Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing"},{"id": "311942", "title": "Spice and Extract Manufacturing"},{"id": "311991", "title": "Perishable Prepared Food Manufacturing"},{"id": "311999", "title": "All Other Miscellaneous Food Manufacturing"}]
+    },
+    {
+        "isic_id": "1080",
+        "isic_title": "Manufacture of prepared animal feeds",
+        "naics_correspondence": [{"id": "311111", "title": "Dog and Cat Food Manufacturing"},{"id": "311119", "title": "Other Animal Food Manufacturing"}]
+    },
+    {
+        "isic_id": "1101",
+        "isic_title": "Distilling, rectifying and blending of spirits",
+        "naics_correspondence": [{"id": "312130", "title": "Wineries"},{"id": "312140", "title": "Distilleries"}]
+    },
+    {
+        "isic_id": "1102",
+        "isic_title": "Manufacture of wines",
+        "naics_correspondence": [{"id": "312130", "title": "Wineries"}]
+    },
+    {
+        "isic_id": "1103",
+        "isic_title": "Manufacture of malt liquors and malt",
+        "naics_correspondence": [{"id": "311213", "title": "Malt Manufacturing"},{"id": "312120", "title": "Breweries"}]
+    },
+    {
+        "isic_id": "1104",
+        "isic_title": "Manufacture of soft drinks; production of mineral waters and other bottled waters",
+        "naics_correspondence": [{"id": "312111", "title": "Soft Drink Manufacturing"},{"id": "312112", "title": "Bottled Water Manufacturing"}]
+    },
+    {
+        "isic_id": "1200",
+        "isic_title": "Manufacture of tobacco products",
+        "naics_correspondence": [{"id": "312230", "title": "Tobacco Manufacturing"}]
+    },
+    {
+        "isic_id": "1311",
+        "isic_title": "Preparation and spinning of textile fibres",
+        "naics_correspondence": [{"id": "313110", "title": "Fiber, Yarn, and Thread Mills"},{"id": "313310", "title": "Textile and Fabric Finishing Mills"},{"id": "314999", "title": "All Other Miscellaneous Textile Product Mills"}]
+    },
+    {
+        "isic_id": "1312",
+        "isic_title": "Weaving of textiles",
+        "naics_correspondence": [{"id": "313210", "title": "Broadwoven Fabric Mills"}]
+    },
+    {
+        "isic_id": "1313",
+        "isic_title": "Finishing of textiles",
+        "naics_correspondence": [{"id": "313310", "title": "Textile and Fabric Finishing Mills"},{"id": "313320", "title": "Fabric Coating Mills"},{"id": "314999", "title": "All Other Miscellaneous Textile Product Mills"},{"id": "323113", "title": "Commercial Screen Printing"},{"id": "561990", "title": "All Other Support Services"}]
+    },
+    {
+        "isic_id": "1391",
+        "isic_title": "Manufacture of knitted and crocheted fabrics",
+        "naics_correspondence": [{"id": "313240", "title": "Knit Fabric Mills"}]
+    },
+    {
+        "isic_id": "1392",
+        "isic_title": "Manufacture of made-up textile articles, except apparel",
+        "naics_correspondence": [{"id": "314120", "title": "Curtain and Linen Mills"},{"id": "314910", "title": "Textile Bag and Canvas Mills"},{"id": "314999", "title": "All Other Miscellaneous Textile Product Mills"},{"id": "336360", "title": "Motor Vehicle Seating and Interior Trim Manufacturing"},{"id": "337920", "title": "Blind and Shade Manufacturing"}]
+    },
+    {
+        "isic_id": "1393",
+        "isic_title": "Manufacture of carpets and rugs",
+        "naics_correspondence": [{"id": "314110", "title": "Carpet and Rug Mills"},{"id": "314999", "title": "All Other Miscellaneous Textile Product Mills"}]
+    },
+    {
+        "isic_id": "1394",
+        "isic_title": "Manufacture of cordage, rope, twine and netting",
+        "naics_correspondence": [{"id": "314994", "title": "Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills"},{"id": "314999", "title": "All Other Miscellaneous Textile Product Mills"}]
+    },
+    {
+        "isic_id": "1399",
+        "isic_title": "Manufacture of other textiles (not elsewhere classified)",
+        "naics_correspondence": [{"id": "313220", "title": "Narrow Fabric Mills and Schiffli Machine Embroidery"},{"id": "313230", "title": "Nonwoven Fabric Mills"},{"id": "313240", "title": "Knit Fabric Mills"},{"id": "314994", "title": "Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills"},{"id": "314999", "title": "All Other Miscellaneous Textile Product Mills"},{"id": "315990", "title": "Apparel Accessories and Other Apparel Manufacturing"},{"id": "322220", "title": "Paper Bag and Coated and Treated Paper Manufacturing"},{"id": "336360", "title": "Motor Vehicle Seating and Interior Trim Manufacturing"},{"id": "339940", "title": "Office Supplies (except Paper) Manufacturing"},{"id": "339991", "title": "Gasket, Packing, and Sealing Device Manufacturing"}]
+    },
+    {
+        "isic_id": "1410",
+        "isic_title": "Manufacture of wearing apparel, except fur apparel",
+        "naics_correspondence": [{"id": "314999", "title": "All Other Miscellaneous Textile Product Mills"},{"id": "315210", "title": "Cut and Sew Apparel Contractors"},{"id": "315250", "title": "Cut and Sew Apparel Manufacturing (except Contractors)"},{"id": "315990", "title": "Apparel Accessories and Other Apparel Manufacturing"},{"id": "316990", "title": "Other Leather and Allied Product Manufacturing"},{"id": "339999", "title": "All Other Miscellaneous Manufacturing"}]
+    },
+    {
+        "isic_id": "1420",
+        "isic_title": "Manufacture of articles of fur",
+        "naics_correspondence": [{"id": "313210", "title": "Broadwoven Fabric Mills"},{"id": "313240", "title": "Knit Fabric Mills"},{"id": "315210", "title": "Cut and Sew Apparel Contractors"},{"id": "315250", "title": "Cut and Sew Apparel Manufacturing (except Contractors)"},{"id": "315990", "title": "Apparel Accessories and Other Apparel Manufacturing"}]
+    },
+    {
+        "isic_id": "1430",
+        "isic_title": "Manufacture of knitted and crocheted apparel",
+        "naics_correspondence": [{"id": "315120", "title": "Apparel Knitting Mills"}]
+    },
+    {
+        "isic_id": "1511",
+        "isic_title": "Tanning and dressing of leather; dressing and dyeing of fur",
+        "naics_correspondence": [{"id": "316110", "title": "Leather and Hide Tanning and Finishing"}]
+    },
+    {
+        "isic_id": "1512",
+        "isic_title": "Manufacture of luggage, handbags and the like, saddlery and harness",
+        "naics_correspondence": [{"id": "314910", "title": "Textile Bag and Canvas Mills"},{"id": "316990", "title": "Other Leather and Allied Product Manufacturing"},{"id": "339991", "title": "Gasket, Packing, and Sealing Device Manufacturing"}]
+    },
+    {
+        "isic_id": "1520",
+        "isic_title": "Manufacture of footwear",
+        "naics_correspondence": [{"id": "316210", "title": "Footwear Manufacturing"},{"id": "316990", "title": "Other Leather and Allied Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1610",
+        "isic_title": "Sawmilling and planing of wood",
+        "naics_correspondence": [{"id": "113310", "title": "Logging"},{"id": "321113", "title": "Sawmills"},{"id": "321114", "title": "Wood Preservation"},{"id": "321912", "title": "Cut Stock, Resawing Lumber, and Planing"},{"id": "321918", "title": "Other Millwork (including Flooring)"},{"id": "321999", "title": "All Other Miscellaneous Wood Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1621",
+        "isic_title": "Manufacture of veneer sheets and wood-based panels",
+        "naics_correspondence": [{"id": "321211", "title": "Hardwood Veneer and Plywood Manufacturing"},{"id": "321212", "title": "Softwood Veneer and Plywood Manufacturing"},{"id": "321215", "title": "Engineered Wood Member Manufacturing"},{"id": "321219", "title": "Reconstituted Wood Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1622",
+        "isic_title": "Manufacture of builders' carpentry and joinery",
+        "naics_correspondence": [{"id": "321113", "title": "Sawmills"},{"id": "321215", "title": "Engineered Wood Member Manufacturing"},{"id": "321911", "title": "Wood Window and Door Manufacturing"},{"id": "321912", "title": "Cut Stock, Resawing Lumber, and Planing"},{"id": "321918", "title": "Other Millwork (including Flooring)"},{"id": "321991", "title": "Manufactured Home (Mobile Home) Manufacturing"},{"id": "321992", "title": "Prefabricated Wood Building Manufacturing"},{"id": "337215", "title": "Showcase, Partition, Shelving, and Locker Manufacturing"}]
+    },
+    {
+        "isic_id": "1623",
+        "isic_title": "Manufacture of wooden containers",
+        "naics_correspondence": [{"id": "321920", "title": "Wood Container and Pallet Manufacturing"},{"id": "321999", "title": "All Other Miscellaneous Wood Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1629",
+        "isic_title": "Manufacture of other products of wood; manufacture of articles of cork, straw and plaiting materials",
+        "naics_correspondence": [{"id": "321912", "title": "Cut Stock, Resawing Lumber, and Planing"},{"id": "321920", "title": "Wood Container and Pallet Manufacturing"},{"id": "321999", "title": "All Other Miscellaneous Wood Product Manufacturing"},{"id": "324199", "title": "All Other Petroleum and Coal Products Manufacturing"},{"id": "337920", "title": "Blind and Shade Manufacturing"},{"id": "339940", "title": "Office Supplies (except Paper) Manufacturing"},{"id": "339950", "title": "Sign Manufacturing"},{"id": "339991", "title": "Gasket, Packing, and Sealing Device Manufacturing"},{"id": "339999", "title": "All Other Miscellaneous Manufacturing"}]
+    },
+    {
+        "isic_id": "1701",
+        "isic_title": "Manufacture of pulp, paper and paperboard",
+        "naics_correspondence": [{"id": "322110", "title": "Pulp Mills"},{"id": "322120", "title": "Paper Mills"},{"id": "322130", "title": "Paperboard Mills"},{"id": "322220", "title": "Paper Bag and Coated and Treated Paper Manufacturing"},{"id": "322299", "title": "All Other Converted Paper Product Manufacturing"},{"id": "339940", "title": "Office Supplies (except Paper) Manufacturing"}]
+    },
+    {
+        "isic_id": "1702",
+        "isic_title": "Manufacture of corrugated paper and paperboard and of containers of paper and paperboard",
+        "naics_correspondence": [{"id": "322120", "title": "Paper Mills"},{"id": "322130", "title": "Paperboard Mills"},{"id": "322211", "title": "Corrugated and Solid Fiber Box Manufacturing"},{"id": "322212", "title": "Folding Paperboard Box Manufacturing"},{"id": "322219", "title": "Other Paperboard Container Manufacturing"},{"id": "322220", "title": "Paper Bag and Coated and Treated Paper Manufacturing"},{"id": "322299", "title": "All Other Converted Paper Product Manufacturing"}]
+    },
+    {
+        "isic_id": "1709",
+        "isic_title": "Manufacture of other articles of paper and paperboard",
+        "naics_correspondence": [{"id": "322120", "title": "Paper Mills"},{"id": "322130", "title": "Paperboard Mills"},{"id": "322219", "title": "Other Paperboard Container Manufacturing"},{"id": "322220", "title": "Paper Bag and Coated and Treated Paper Manufacturing"},{"id": "322230", "title": "Stationery Product Manufacturing"},{"id": "322291", "title": "Sanitary Paper Product Manufacturing"},{"id": "322299", "title": "All Other Converted Paper Product Manufacturing"},{"id": "323111", "title": "Commercial Printing (except Screen and Books)"},{"id": "332992", "title": "Small Arms Ammunition Manufacturing"},{"id": "339940", "title": "Office Supplies (except Paper) Manufacturing"},{"id": "339991", "title": "Gasket, Packing, and Sealing Device Manufacturing"}]
+    },
+    {
+        "isic_id": "1811",
+        "isic_title": "Printing",
+        "naics_correspondence": [{"id": "323111", "title": "Commercial Printing (except Screen and Books)"},{"id": "323113", "title": "Commercial Screen Printing"},{"id": "323117", "title": "Books Printing"},{"id": "339950", "title": "Sign Manufacturing"}]
+    },
+    {
+        "isic_id": "1812",
+        "isic_title": "Service activities related to printing",
+        "naics_correspondence": [{"id": "323120", "title": "Support Activities for Printing"}]
+    },
+    {
+        "isic_id": "1820",
+        "isic_title": "Reproduction of recorded media",
+        "naics_correspondence": [{"id": "334610", "title": "Manufacturing and Reproducing Magnetic and Optical Media"}]
+    },
+    {
+        "isic_id": "1910",
+        "isic_title": "Manufacture of coke oven products",
+        "naics_correspondence": [{"id": "324199", "title": "All Other Petroleum and Coal Products Manufacturing"},{"id": "325194", "title": "Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing"}]
+    },
+    {
+        "isic_id": "1920",
+        "isic_title": "Manufacture of refined petroleum products",
+        "naics_correspondence": [{"id": "324110", "title": "Petroleum Refineries"},{"id": "324191", "title": "Petroleum Lubricating Oil and Grease Manufacturing"},{"id": "324199", "title": "All Other Petroleum and Coal Products Manufacturing"},{"id": "325110", "title": "Petrochemical Manufacturing"}]
+    },
+    {
+        "isic_id": "2011",
+        "isic_title": "Manufacture of basic chemicals",
+        "naics_correspondence": [{"id": "312140", "title": "Distilleries"},{"id": "325110", "title": "Petrochemical Manufacturing"},{"id": "325120", "title": "Industrial Gas Manufacturing"},{"id": "325130", "title": "Synthetic Dye and Pigment Manufacturing"},{"id": "325180", "title": "Other Basic Inorganic Chemical Manufacturing"},{"id": "325193", "title": "Ethyl Alcohol Manufacturing"},{"id": "325194", "title": "Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing"},{"id": "325199", "title": "All Other Basic Organic Chemical Manufacturing"},{"id": "325312", "title": "Phosphatic Fertilizer Manufacturing"},{"id": "325612", "title": "Polish and Other Sanitation Good Manufacturing"},{"id": "325998", "title": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"}]
+    },
+    {
+        "isic_id": "2012",
+        "isic_title": "Manufacture of fertilizers and nitrogen compounds",
+        "naics_correspondence": [{"id": "325180", "title": "Other Basic Inorganic Chemical Manufacturing"},{"id": "325311", "title": "Nitrogenous Fertilizer Manufacturing"},{"id": "325312", "title": "Phosphatic Fertilizer Manufacturing"},{"id": "325314", "title": "Fertilizer (Mixing Only) Manufacturing"}]
+    },
+    {
+        "isic_id": "2013",
+        "isic_title": "Manufacture of plastics and synthetic rubber in primary forms",
+        "naics_correspondence": [{"id": "325211", "title": "Plastics Material and Resin Manufacturing"},{"id": "325212", "title": "Synthetic Rubber Manufacturing"},{"id": "325991", "title": "Custom Compounding of Purchased Resins"}]
+    },
+    {
+        "isic_id": "2021",
+        "isic_title": "Manufacture of pesticides and other agrochemical products",
+        "naics_correspondence": [{"id": "325320", "title": "Pesticide and Other Agricultural Chemical Manufacturing"},{"id": "325612", "title": "Polish and Other Sanitation Good Manufacturing"}]
+    },
+    {
+        "isic_id": "2022",
+        "isic_title": "Manufacture of paints, varnishes and similar coatings, printing ink and mastics",
+        "naics_correspondence": [{"id": "325194", "title": "Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing"},{"id": "325510", "title": "Paint and Coating Manufacturing"},{"id": "325520", "title": "Adhesive Manufacturing"},{"id": "325910", "title": "Printing Ink Manufacturing"},{"id": "325998", "title": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"},{"id": "339940", "title": "Office Supplies (except Paper) Manufacturing"}]
+    },
+    {
+        "isic_id": "2023",
+        "isic_title": "Manufacture of soap and detergents, cleaning and polishing preparations, perfumes, and toilet preparations",
+        "naics_correspondence": [{"id": "325611", "title": "Soap and Other Detergent Manufacturing"},{"id": "325612", "title": "Polish and Other Sanitation Good Manufacturing"},{"id": "325613", "title": "Surface Active Agent Manufacturing"},{"id": "325620", "title": "Toilet Preparation Manufacturing"},{"id": "325998", "title": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"},{"id": "332999", "title": "All Other Miscellaneous Fabricated Metal Product Manufacturing"},{"id": "339999", "title": "All Other Miscellaneous Manufacturing"}]
+    },
+    {
+        "isic_id": "2029",
+        "isic_title": "Manufacture of other chemical products (not elsewhere classified)",
+        "naics_correspondence": [{"id": "325199", "title": "All Other Basic Organic Chemical Manufacturing"},{"id": "325413", "title": "In-Vitro Diagnostic Substance Manufacturing"},{"id": "325520", "title": "Adhesive Manufacturing"},{"id": "325612", "title": "Polish and Other Sanitation Good Manufacturing"},{"id": "325613", "title": "Surface Active Agent Manufacturing"},{"id": "325920", "title": "Explosives Manufacturing"},{"id": "325992", "title": "Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing"},{"id": "325998", "title": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"},{"id": "332992", "title": "Small Arms Ammunition Manufacturing"},{"id": "332993", "title": "Ammunition (except Small Arms) Manufacturing"}]
+    },
+    {
+        "isic_id": "2030",
+        "isic_title": "Manufacture of man-made fibres",
+        "naics_correspondence": [{"id": "325220", "title": "Artificial and Synthetic Fibers and Filaments Manufacturing"}]
+    },
+    {
+        "isic_id": "2100",
+        "isic_title": "Manufacture of pharmaceuticals, medicinal chemical and botanical products",
+        "naics_correspondence": [{"id": "325199", "title": "All Other Basic Organic Chemical Manufacturing"},{"id": "325411", "title": "Medicinal and Botanical Manufacturing"},{"id": "325412", "title": "Pharmaceutical Preparation Manufacturing"},{"id": "325413", "title": "In-Vitro Diagnostic Substance Manufacturing"},{"id": "325414", "title": "Biological Product (except Diagnostic) Manufacturing"},{"id": "339113", "title": "Surgical Appliance and Supplies Manufacturing"}]
+    },
+    {
+        "isic_id": "2211",
+        "isic_title": "Manufacture of rubber tyres and tubes; retreading and rebuilding of rubber tyres",
+        "naics_correspondence": [{"id": "326211", "title": "Tire Manufacturing (except Retreading)"},{"id": "326212", "title": "Tire Retreading"}]
+    },
+    {
+        "isic_id": "2219",
+        "isic_title": "Manufacture of other rubber products",
+        "naics_correspondence": [{"id": "313320", "title": "Fabric Coating Mills"},{"id": "315990", "title": "Apparel Accessories and Other Apparel Manufacturing"},{"id": "326211", "title": "Tire Manufacturing (except Retreading)"},{"id": "326220", "title": "Rubber and Plastics Hoses and Belting Manufacturing"},{"id": "326291", "title": "Rubber Product Manufacturing for Mechanical Use"},{"id": "326299", "title": "All Other Rubber Product Manufacturing"},{"id": "337910", "title": "Mattress Manufacturing"},{"id": "339920", "title": "Sporting and Athletic Goods Manufacturing"},{"id": "339991", "title": "Gasket, Packing, and Sealing Device Manufacturing"}]
+    },
+    {
+        "isic_id": "2220",
+        "isic_title": "Manufacture of plastics products",
+        "naics_correspondence": [{"id": "314120", "title": "Curtain and Linen Mills"},{"id": "314910", "title": "Textile Bag and Canvas Mills"},{"id": "321999", "title": "All Other Miscellaneous Wood Product Manufacturing"},{"id": "322220", "title": "Paper Bag and Coated and Treated Paper Manufacturing"},{"id": "325220", "title": "Artificial and Synthetic Fibers and Filaments Manufacturing"},{"id": "326111", "title": "Plastics Bag and Pouch Manufacturing"},{"id": "326112", "title": "Plastics Packaging Film and Sheet (including Laminated) Manufacturing"},{"id": "326113", "title": "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing"},{"id": "326121", "title": "Unlaminated Plastics Profile Shape Manufacturing"},{"id": "326122", "title": "Plastics Pipe and Pipe Fitting Manufacturing"},{"id": "326130", "title": "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing"},{"id": "326140", "title": "Polystyrene Foam Product Manufacturing"},{"id": "326150", "title": "Urethane and Other Foam Product (except Polystyrene) Manufacturing"},{"id": "326160", "title": "Plastics Bottle Manufacturing"},{"id": "326191", "title": "Plastics Plumbing Fixture Manufacturing"},{"id": "326199", "title": "All Other Plastics Product Manufacturing"},{"id": "326220", "title": "Rubber and Plastics Hoses and Belting Manufacturing"},{"id": "332913", "title": "Plumbing Fixture Fitting and Trim Manufacturing"},{"id": "336360", "title": "Motor Vehicle Seating and Interior Trim Manufacturing"},{"id": "337215", "title": "Showcase, Partition, Shelving, and Locker Manufacturing"},{"id": "337910", "title": "Mattress Manufacturing"},{"id": "337920", "title": "Blind and Shade Manufacturing"},{"id": "339950", "title": "Sign Manufacturing"},{"id": "339991", "title": "Gasket, Packing, and Sealing Device Manufacturing"},{"id": "339999", "title": "All Other Miscellaneous Manufacturing"}]
+    },
+    {
+        "isic_id": "2310",
+        "isic_title": "Manufacture of glass and glass products",
+        "naics_correspondence": [{"id": "327211", "title": "Flat Glass Manufacturing"},{"id": "327212", "title": "Other Pressed and Blown Glass and Glassware Manufacturing"},{"id": "327213", "title": "Glass Container Manufacturing"},{"id": "327215", "title": "Glass Product Manufacturing Made of Purchased Glass"},{"id": "327993", "title": "Mineral Wool Manufacturing"}]
+    },
+    {
+        "isic_id": "2391",
+        "isic_title": "Manufacture of refractory products",
+        "naics_correspondence": [{"id": "327120", "title": "Clay Building Material and Refractories Manufacturing"}]
+    },
+    {
+        "isic_id": "2392",
+        "isic_title": "Manufacture of clay building materials",
+        "naics_correspondence": [{"id": "327110", "title": "Pottery, Ceramics, and Plumbing Fixture Manufacturing"},{"id": "327120", "title": "Clay Building Material and Refractories Manufacturing"}]
+    },
+    {
+        "isic_id": "2393",
+        "isic_title": "Manufacture of other porcelain and ceramic products",
+        "naics_correspondence": [{"id": "327110", "title": "Pottery, Ceramics, and Plumbing Fixture Manufacturing"}]
+    },
+    {
+        "isic_id": "2394",
+        "isic_title": "Manufacture of cement, lime and plaster",
+        "naics_correspondence": [{"id": "327310", "title": "Cement Manufacturing"},{"id": "327410", "title": "Lime Manufacturing"},{"id": "327420", "title": "Gypsum Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2395",
+        "isic_title": "Manufacture of articles of concrete, cement and plaster",
+        "naics_correspondence": [{"id": "327120", "title": "Clay Building Material and Refractories Manufacturing"},{"id": "327320", "title": "Ready-Mix Concrete Manufacturing"},{"id": "327331", "title": "Concrete Block and Brick Manufacturing"},{"id": "327332", "title": "Concrete Pipe Manufacturing"},{"id": "327390", "title": "Other Concrete Product Manufacturing"},{"id": "327420", "title": "Gypsum Product Manufacturing"},{"id": "327999", "title": "All Other Miscellaneous Nonmetallic Mineral Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2396",
+        "isic_title": "Cutting, shaping and finishing of stone",
+        "naics_correspondence": [{"id": "327991", "title": "Cut Stone and Stone Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2399",
+        "isic_title": "Manufacture of other non-metallic mineral products (not elsewhere classified)",
+        "naics_correspondence": [{"id": "322120", "title": "Paper Mills"},{"id": "324121", "title": "Asphalt Paving Mixture and Block Manufacturing"},{"id": "324122", "title": "Asphalt Shingle and Coating Materials Manufacturing"},{"id": "325998", "title": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"},{"id": "327910", "title": "Abrasive Product Manufacturing"},{"id": "327992", "title": "Ground or Treated Mineral and Earth Manufacturing"},{"id": "327993", "title": "Mineral Wool Manufacturing"},{"id": "327999", "title": "All Other Miscellaneous Nonmetallic Mineral Product Manufacturing"},{"id": "335991", "title": "Carbon and Graphite Product Manufacturing"},{"id": "336340", "title": "Motor Vehicle Brake System Manufacturing"},{"id": "336350", "title": "Motor Vehicle Transmission and Power Train Parts Manufacturing"},{"id": "339991", "title": "Gasket, Packing, and Sealing Device Manufacturing"}]
+    },
+    {
+        "isic_id": "2410",
+        "isic_title": "Manufacture of basic iron and steel",
+        "naics_correspondence": [{"id": "331110", "title": "Iron and Steel Mills and Ferroalloy Manufacturing"},{"id": "331221", "title": "Rolled Steel Shape Manufacturing"},{"id": "331222", "title": "Steel Wire Drawing"},{"id": "332912", "title": "Fluid Power Valve and Hose Fitting Manufacturing"},{"id": "332919", "title": "Other Metal Valve and Pipe Fitting Manufacturing"},{"id": "332996", "title": "Fabricated Pipe and Pipe Fitting Manufacturing"}]
+    },
+    {
+        "isic_id": "2420",
+        "isic_title": "Manufacture of basic precious and other non-ferrous metals",
+        "naics_correspondence": [{"id": "322220", "title": "Paper Bag and Coated and Treated Paper Manufacturing"},{"id": "331313", "title": "Alumina Refining and Primary Aluminum Production"},{"id": "331314", "title": "Secondary Smelting and Alloying of Aluminum"},{"id": "331315", "title": "Aluminum Sheet, Plate, and Foil Manufacturing"},{"id": "331318", "title": "Other Aluminum Rolling, Drawing, and Extruding"},{"id": "331410", "title": "Nonferrous Metal (except Aluminum) Smelting and Refining"},{"id": "331420", "title": "Copper Rolling, Drawing, Extruding, and Alloying"},{"id": "331491", "title": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding"},{"id": "331492", "title": "Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)"},{"id": "332912", "title": "Fluid Power Valve and Hose Fitting Manufacturing"},{"id": "332913", "title": "Plumbing Fixture Fitting and Trim Manufacturing"},{"id": "332996", "title": "Fabricated Pipe and Pipe Fitting Manufacturing"},{"id": "332999", "title": "All Other Miscellaneous Fabricated Metal Product Manufacturing"}]
+    },
+    {
+        "isic_id": "2431",
+        "isic_title": "Casting of iron and steel",
+        "naics_correspondence": [{"id": "331210", "title": "Iron and Steel Pipe and Tube Manufacturing from Purchased Steel"},{"id": "331511", "title": "Iron Foundries"},{"id": "331512", "title": "Steel Investment Foundries"},{"id": "331513", "title": "Steel Foundries (except Investment)"}]
+    },
+    {
+        "isic_id": "2432",
+        "isic_title": "Casting of non-ferrous metals",
+        "naics_correspondence": [{"id": "331523", "title": "Nonferrous Metal Die-Casting Foundries"},{"id": "331524", "title": "Aluminum Foundries (except Die-Casting)"},{"id": "331529", "title": "Other Nonferrous Metal Foundries (except Die-Casting)"}]
+    },
+    {
+        "isic_id": "2511",
+        "isic_title": "Manufacture of structural metal products",
+        "naics_correspondence": [{"id": "332311", "title": "Prefabricated Metal Building and Component Manufacturing"},{"id": "332312", "title": "Fabricated Structural Metal Manufacturing"},{"id": "332313", "title": "Plate Work Manufacturing"},{"id": "332321", "title": "Metal Window and Door Manufacturing"},{"id": "332322", "title": "Sheet Metal Work Manufacturing"},{"id": "332323", "title": "Ornamental and Architectural Metal Work Manufacturing"},{"id": "337215", "title": "Showcase, Partition, Shelving, and Locker Manufacturing"}]
+    },
+    {
+        "isic_id": "2512",
+        "isic_title": "Manufacture of tanks, reservoirs and containers of metal",
+        "naics_correspondence": [{"id": "332313", "title": "Plate Work Manufacturing"},{"id": "332420", "title": "Metal Tank (Heavy Gauge) Manufacturing"},{"id": "332439", "title": "Other Metal Container Manufacturing"},{"id": "333414", "title": "Heating Equipment (except Warm Air Furnaces) Manufacturing"}]
+    },
+    {
+        "isic_id": "2513",
+        "isic_title": "Manufacture of steam generators, except central heating hot water boilers",
+        "naics_correspondence": [{"id": "332313", "title": "Plate Work Manufacturing"},{"id": "332410", "title": "Power Boiler and Heat Exchanger Manufacturing"}]
+    },
+    {
+        "isic_id": "2520",
+        "isic_title": "Manufacture of weapons and ammunition",
+        "naics_correspondence": [{"id": "332992", "title": "Small Arms Ammunition Manufacturing"},{"id": "332993", "title": "Ammunition (except Small Arms) Manufacturing"},{"id": "332994", "title": "Small Arms, Ordnance, and Ordnance Accessories Manufacturing"}]
+    },
+    {
+        "isic_id": "2591",
+        "isic_title": "Forging, pressing, stamping and roll-forming or metal; powder metallurgy",
+        "naics_correspondence": [{"id": "332111", "title": "Iron and Steel Forging"},{"id": "332112", "title": "Nonferrous Forging"},{"id": "332114", "title": "Custom Roll Forming"},{"id": "332117", "title": "Powder Metallurgy Part Manufacturing"},{"id": "332119", "title": "Metal Crown, Closure, and Other Metal Stamping (except Automotive)"},{"id": "336370", "title": "Motor Vehicle Metal Stamping"}]
+    },
+    {
+        "isic_id": "2592",
+        "isic_title": "Treatment and coating of metals; machining",
+        "naics_correspondence": [{"id": "332710", "title": "Machine Shops"},{"id": "332811", "title": "Metal Heat Treating"},{"id": "332812", "title": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers"},{"id": "332813", "title": "Electroplating, Plating, Polishing, Anodizing, and Coloring"},{"id": "339910", "title": "Jewelry and Silverware Manufacturing"}]
+    },
+    {
+        "isic_id": "2593",
+        "isic_title": "Manufacture of cutlery, hand tools and general hardware",
+        "naics_correspondence": [{"id": "332215", "title": "Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing"},{"id": "332216", "title": "Saw Blade and Handtool Manufacturing"},{"id": "332510", "title": "Hardware Manufacturing"},{"id": "332999", "title": "All Other Miscellaneous Fabricated Metal Product Manufacturing"},{"id": "333120", "title": "Construction Machinery Manufacturing"},{"id": "333131", "title": "Mining Machinery and Equipment Manufacturing"},{"id": "333511", "title": "Industrial Mold Manufacturing"},{"id": "333514", "title": "Special Die and Tool, Die Set, Jig, and Fixture Manufacturing"},{"id": "333515", "title": "Cutting Tool and Machine Tool Accessory Manufacturing"},{"id": "337920", "title": "Blind and Shade Manufacturing"}]
+    },
+    {
+        "isic_id": "2599",
+        "isic_title": "Manufacture of other fabricated metal products (not elsewhere classified)",
+        "naics_correspondence": [{"id": "322220", "title": "Paper Bag and Coated and Treated Paper Manufacturing"},{"id": "323111", "title": "Commercial Printing (except Screen and Books)"},{"id": "331222", "title": "Steel Wire Drawing"},{"id": "331318", "title": "Other Aluminum Rolling, Drawing, and Extruding"},{"id": "331420", "title": "Copper Rolling, Drawing, Extruding, and Alloying"},{"id": "331491", "title": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding"},{"id": "332119", "title": "Metal Crown, Closure, and Other Metal Stamping (except Automotive)"},{"id": "332215", "title": "Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing"},{"id": "332322", "title": "Sheet Metal Work Manufacturing"},{"id": "332323", "title": "Ornamental and Architectural Metal Work Manufacturing"},{"id": "332431", "title": "Metal Can Manufacturing"},{"id": "332439", "title": "Other Metal Container Manufacturing"},{"id": "332613", "title": "Spring Manufacturing"},{"id": "332618", "title": "Other Fabricated Wire Product Manufacturing"},{"id": "332721", "title": "Precision Turned Product Manufacturing"},{"id": "332722", "title": "Bolt, Nut, Screw, Rivet, and Washer Manufacturing"},{"id": "332999", "title": "All Other Miscellaneous Fabricated Metal Product Manufacturing"},{"id": "333992", "title": "Welding and Soldering Equipment Manufacturing"},{"id": "333998", "title": "All Other Miscellaneous General Purpose Machinery Manufacturing"},{"id": "337920", "title": "Blind and Shade Manufacturing"},{"id": "339910", "title": "Jewelry and Silverware Manufacturing"},{"id": "339950", "title": "Sign Manufacturing"},{"id": "339993", "title": "Fastener, Button, Needle, and Pin Manufacturing"},{"id": "339999", "title": "All Other Miscellaneous Manufacturing"}]
+    },
+    {
+        "isic_id": "2610",
+        "isic_title": "Manufacture of electronic components and boards",
+        "naics_correspondence": [{"id": "334412", "title": "Bare Printed Circuit Board Manufacturing"},{"id": "334413", "title": "Semiconductor and Related Device Manufacturing"},{"id": "334416", "title": "Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing"},{"id": "334417", "title": "Electronic Connector Manufacturing"},{"id": "334418", "title": "Printed Circuit Assembly (Electronic Assembly) Manufacturing"},{"id": "334419", "title": "Other Electronic Component Manufacturing"}]
+    },
+    {
+        "isic_id": "2620",
+        "isic_title": "Manufacture of computers and peripheral equipment",
+        "naics_correspondence": [{"id": "334111", "title": "Electronic Computer Manufacturing"},{"id": "334112", "title": "Computer Storage Device Manufacturing"},{"id": "334118", "title": "Computer Terminal and Other Computer Peripheral Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2630",
+        "isic_title": "Manufacture of communication equipment",
+        "naics_correspondence": [{"id": "334210", "title": "Telephone Apparatus Manufacturing"},{"id": "334220", "title": "Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing"},{"id": "334290", "title": "Other Communications Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2640",
+        "isic_title": "Manufacture of consumer electronics",
+        "naics_correspondence": [{"id": "334310", "title": "Audio and Video Equipment Manufacturing"},{"id": "339930", "title": "Doll, Toy, and Game Manufacturing"}]
+    },
+    {
+        "isic_id": "2651",
+        "isic_title": "Manufacture of measuring, testing, navigating, and control equipment",
+        "naics_correspondence": [{"id": "333998", "title": "All Other Miscellaneous General Purpose Machinery Manufacturing"},{"id": "334220", "title": "Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing"},{"id": "334290", "title": "Other Communications Equipment Manufacturing"},{"id": "334511", "title": "Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing"},{"id": "334512", "title": "Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use"},{"id": "334513", "title": "Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables"},{"id": "334514", "title": "Totalizing Fluid Meter and Counting Device Manufacturing"},{"id": "334515", "title": "Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals"},{"id": "334516", "title": "Analytical Laboratory Instrument Manufacturing"},{"id": "334519", "title": "Other Measuring and Controlling Device Manufacturing"}]
+    },
+    {
+        "isic_id": "2652",
+        "isic_title": "Manufacture of watches and clocks",
+        "naics_correspondence": [{"id": "334514", "title": "Totalizing Fluid Meter and Counting Device Manufacturing"},{"id": "334519", "title": "Other Measuring and Controlling Device Manufacturing"}]
+    },
+    {
+        "isic_id": "2660",
+        "isic_title": "Manufacture of irradiation, electromedical and electrotherapeutic equipment",
+        "naics_correspondence": [{"id": "334510", "title": "Electromedical and Electrotherapeutic Apparatus Manufacturing"},{"id": "334517", "title": "Irradiation Apparatus Manufacturing"}]
+    },
+    {
+        "isic_id": "2670",
+        "isic_title": "Manufacture of optical instruments and photographic equipment",
+        "naics_correspondence": [{"id": "339115", "title": "Ophthalmic Goods Manufacturing"},{"id": "333310", "title": "Commercial and Service Industry Machinery Manufacturing"}]
+    },
+    {
+        "isic_id": "2680",
+        "isic_title": "Manufacture of magnetic and optical media",
+        "naics_correspondence": [{"id": "334610", "title": "Manufacturing and Reproducing Magnetic and Optical Media"}]
+    },
+    {
+        "isic_id": "2710",
+        "isic_title": "Manufacture of electric motors, generators, transformers and electricity distribution and control apparatus",
+        "naics_correspondence": [{"id": "333992", "title": "Welding and Soldering Equipment Manufacturing"},{"id": "335311", "title": "Power, Distribution, and Specialty Transformer Manufacturing"},{"id": "335312", "title": "Motor and Generator Manufacturing"},{"id": "335313", "title": "Switchgear and Switchboard Apparatus Manufacturing"},{"id": "335314", "title": "Relay and Industrial Control Manufacturing"}]
+    },
+    {
+        "isic_id": "2720",
+        "isic_title": "Manufacture of batteries and accumulators",
+        "naics_correspondence": [{"id": "326199", "title": "All Other Plastics Product Manufacturing"},{"id": "326299", "title": "All Other Rubber Product Manufacturing"},{"id": "335910", "title": "Battery Manufacturing"}]
+    },
+    {
+        "isic_id": "2731",
+        "isic_title": "Manufacture of fibre optic cables",
+        "naics_correspondence": [{"id": "335921", "title": "Fiber Optic Cable Manufacturing"}]
+    },
+    {
+        "isic_id": "2732",
+        "isic_title": "Manufacture of other electronic and electric wires and cables",
+        "naics_correspondence": [{"id": "331222", "title": "Steel Wire Drawing"},{"id": "331318", "title": "Other Aluminum Rolling, Drawing, and Extruding"},{"id": "331420", "title": "Copper Rolling, Drawing, Extruding, and Alloying"},{"id": "335929", "title": "Other Communication and Energy Wire Manufacturing"}]
+    },
+    {
+        "isic_id": "2733",
+        "isic_title": "Manufacture of wiring devices",
+        "naics_correspondence": [{"id": "335931", "title": "Current-Carrying Wiring Device Manufacturing"},{"id": "335932", "title": "Noncurrent-Carrying Wiring Device Manufacturing"}]
+    },
+    {
+        "isic_id": "2740",
+        "isic_title": "Manufacture of electric lighting equipment",
+        "naics_correspondence": [{"id": "335139", "title": "Electric Lamp Bulb and Other Lighting Equipment Manufacturing"},{"id": "335131", "title": "Residential Electric Lighting Fixture Manufacturing"},{"id": "335132", "title": "Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing"},{"id": "336320", "title": "Motor Vehicle Electrical and Electronic Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2750",
+        "isic_title": "Manufacture of domestic appliances",
+        "naics_correspondence": [{"id": "335210", "title": "Small Electrical Appliance Manufacturing"},{"id": "335220", "title": "Major Household Appliance Manufacturing"}]
+    },
+    {
+        "isic_id": "2790",
+        "isic_title": "Manufacture of other electrical equipment",
+        "naics_correspondence": [{"id": "332216", "title": "Saw Blade and Handtool Manufacturing"},{"id": "333310", "title": "Commercial and Service Industry Machinery Manufacturing"},{"id": "333618", "title": "Other Engine Equipment Manufacturing"},{"id": "333992", "title": "Welding and Soldering Equipment Manufacturing"},{"id": "334290", "title": "Other Communications Equipment Manufacturing"},{"id": "335314", "title": "Relay and Industrial Control Manufacturing"},{"id": "335991", "title": "Carbon and Graphite Product Manufacturing"},{"id": "335999", "title": "All Other Miscellaneous Electrical Equipment and Component Manufacturing"},{"id": "339950", "title": "Sign Manufacturing"}]
+    },
+    {
+        "isic_id": "2811",
+        "isic_title": "Manufacture of engines and turbines, except aircraft, vehicle and cycle engines",
+        "naics_correspondence": [{"id": "333611", "title": "Turbine and Turbine Generator Set Units Manufacturing"},{"id": "333618", "title": "Other Engine Equipment Manufacturing"},{"id": "336310", "title": "Motor Vehicle Gasoline Engine and Engine Parts Manufacturing"}]
+    },
+    {
+        "isic_id": "2812",
+        "isic_title": "Manufacture of fluid power equipment",
+        "naics_correspondence": [{"id": "332912", "title": "Fluid Power Valve and Hose Fitting Manufacturing"},{"id": "333995", "title": "Fluid Power Cylinder and Actuator Manufacturing"},{"id": "333996", "title": "Fluid Power Pump and Motor Manufacturing"}]
+    },
+    {
+        "isic_id": "2813",
+        "isic_title": "Manufacture of other pumps, compressors, taps and valves",
+        "naics_correspondence": [{"id": "332911", "title": "Industrial Valve Manufacturing"},{"id": "332913", "title": "Plumbing Fixture Fitting and Trim Manufacturing"},{"id": "332919", "title": "Other Metal Valve and Pipe Fitting Manufacturing"},{"id": "333111", "title": "Farm Machinery and Equipment Manufacturing"},{"id": "333415", "title": "Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing"},{"id": "333912", "title": "Air and Gas Compressor Manufacturing"},{"id": "333914", "title": "Measuring, Dispensing, and Other Pumping Equipment Manufacturing"},{"id": "336310", "title": "Motor Vehicle Gasoline Engine and Engine Parts Manufacturing"},{"id": "336320", "title": "Motor Vehicle Electrical and Electronic Equipment Manufacturing"},{"id": "336330", "title": "Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing"},{"id": "336340", "title": "Motor Vehicle Brake System Manufacturing"},{"id": "336390", "title": "Other Motor Vehicle Parts Manufacturing"},{"id": "336412", "title": "Aircraft Engine and Engine Parts Manufacturing"},{"id": "339113", "title": "Surgical Appliance and Supplies Manufacturing"}]
+    },
+    {
+        "isic_id": "2814",
+        "isic_title": "Manufacture of bearings, gears, gearing and driving elements",
+        "naics_correspondence": [{"id": "332991", "title": "Ball and Roller Bearing Manufacturing"},{"id": "333612", "title": "Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing"},{"id": "333613", "title": "Mechanical Power Transmission Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2815",
+        "isic_title": "Manufacture of ovens, furnaces and furnace burners",
+        "naics_correspondence": [{"id": "333310", "title": "Commercial and Service Industry Machinery Manufacturing"},{"id": "333414", "title": "Heating Equipment (except Warm Air Furnaces) Manufacturing"},{"id": "333415", "title": "Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing"},{"id": "333994", "title": "Industrial Process Furnace and Oven Manufacturing"},{"id": "333998", "title": "All Other Miscellaneous General Purpose Machinery Manufacturing"}]
+    },
+    {
+        "isic_id": "2816",
+        "isic_title": "Manufacture of lifting and handling equipment",
+        "naics_correspondence": [{"id": "332216", "title": "Saw Blade and Handtool Manufacturing"},{"id": "332313", "title": "Plate Work Manufacturing"},{"id": "333120", "title": "Construction Machinery Manufacturing"},{"id": "333131", "title": "Mining Machinery and Equipment Manufacturing"},{"id": "333921", "title": "Elevator and Moving Stairway Manufacturing"},{"id": "333922", "title": "Conveyor and Conveying Equipment Manufacturing"},{"id": "333923", "title": "Overhead Traveling Crane, Hoist, and Monorail System Manufacturing"},{"id": "333924", "title": "Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing"},{"id": "333998", "title": "All Other Miscellaneous General Purpose Machinery Manufacturing"},{"id": "336211", "title": "Motor Vehicle Body Manufacturing"}]
+    },
+    {
+        "isic_id": "2817",
+        "isic_title": "Manufacture of office machinery and equipment (except computers and peripheral equipment)",
+        "naics_correspondence": [{"id": "325992", "title": "Photographic Film, Paper, Plate, Chemical, and Copy Toner Manufacturing"},{"id": "333310", "title": "Commercial and Service Industry Machinery Manufacturing"},{"id": "339940", "title": "Office Supplies (except Paper) Manufacturing"}]
+    },
+    {
+        "isic_id": "2818",
+        "isic_title": "Manufacture of power-driven hand tools",
+        "naics_correspondence": [{"id": "333111", "title": "Farm Machinery and Equipment Manufacturing"},{"id": "333112", "title": "Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing"},{"id": "333120", "title": "Construction Machinery Manufacturing"},{"id": "333131", "title": "Mining Machinery and Equipment Manufacturing"},{"id": "333991", "title": "Power-Driven Handtool Manufacturing"}]
+    },
+    {
+        "isic_id": "2819",
+        "isic_title": "Manufacture of other general-purpose machinery",
+        "naics_correspondence": [{"id": "332216", "title": "Saw Blade and Handtool Manufacturing"},{"id": "332410", "title": "Power Boiler and Heat Exchanger Manufacturing"},{"id": "332420", "title": "Metal Tank (Heavy Gauge) Manufacturing"},{"id": "332919", "title": "Other Metal Valve and Pipe Fitting Manufacturing"},{"id": "333120", "title": "Construction Machinery Manufacturing"},{"id": "333241", "title": "Food Product Machinery Manufacturing"},{"id": "333248", "title": "All Other Industrial Machinery Manufacturing"},{"id": "333310", "title": "Commercial and Service Industry Machinery Manufacturing"},{"id": "333413", "title": "Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing"},{"id": "333415", "title": "Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing"},{"id": "333912", "title": "Air and Gas Compressor Manufacturing"},{"id": "333991", "title": "Power-Driven Handtool Manufacturing"},{"id": "333992", "title": "Welding and Soldering Equipment Manufacturing"},{"id": "333993", "title": "Packaging Machinery Manufacturing"},{"id": "333998", "title": "All Other Miscellaneous General Purpose Machinery Manufacturing"},{"id": "336390", "title": "Other Motor Vehicle Parts Manufacturing"},{"id": "339940", "title": "Office Supplies (except Paper) Manufacturing"},{"id": "339991", "title": "Gasket, Packing, and Sealing Device Manufacturing"},{"id": "339999", "title": "All Other Miscellaneous Manufacturing"}]
+    },
+    {
+        "isic_id": "2821",
+        "isic_title": "Manufacture of agricultural and forestry machinery",
+        "naics_correspondence": [{"id": "332216", "title": "Saw Blade and Handtool Manufacturing"},{"id": "333111", "title": "Farm Machinery and Equipment Manufacturing"},{"id": "333112", "title": "Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing"},{"id": "333120", "title": "Construction Machinery Manufacturing"},{"id": "333243", "title": "Sawmill, Woodworking, and Paper Machinery Manufacturing"}]
+    },
+    {
+        "isic_id": "2822",
+        "isic_title": "Manufacture of metal-forming machinery and machine tools",
+        "naics_correspondence": [{"id": "333243", "title": "Sawmill, Woodworking, and Paper Machinery Manufacturing"},{"id": "333248", "title": "All Other Industrial Machinery Manufacturing"},{"id": "333310", "title": "Commercial and Service Industry Machinery Manufacturing"},{"id": "333514", "title": "Special Die and Tool, Die Set, Jig, and Fixture Manufacturing"},{"id": "333515", "title": "Cutting Tool and Machine Tool Accessory Manufacturing"},{"id": "333517", "title": "Machine Tool Manufacturing"},{"id": "333519", "title": "Rolling Mill and Other Metalworking Machinery Manufacturing"}]
+    },
+    {
+        "isic_id": "2823",
+        "isic_title": "Manufacture of machinery for metallurgy",
+        "naics_correspondence": [{"id": "331511", "title": "Iron Foundries"},{"id": "332313", "title": "Plate Work Manufacturing"},{"id": "332420", "title": "Metal Tank (Heavy Gauge) Manufacturing"},{"id": "333248", "title": "All Other Industrial Machinery Manufacturing"},{"id": "333517", "title": "Machine Tool Manufacturing"},{"id": "333519", "title": "Rolling Mill and Other Metalworking Machinery Manufacturing"}]
+    },
+    {
+        "isic_id": "2824",
+        "isic_title": "Manufacture of machinery for mining, quarrying and construction",
+        "naics_correspondence": [{"id": "333120", "title": "Construction Machinery Manufacturing"},{"id": "333131", "title": "Mining Machinery and Equipment Manufacturing"},{"id": "333132", "title": "Oil and Gas Field Machinery and Equipment Manufacturing"},{"id": "333922", "title": "Conveyor and Conveying Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2825",
+        "isic_title": "Manufacture of machinery for food, beverage and tobacco processing",
+        "naics_correspondence": [{"id": "333111", "title": "Farm Machinery and Equipment Manufacturing"},{"id": "333241", "title": "Food Product Machinery Manufacturing"},{"id": "333248", "title": "All Other Industrial Machinery Manufacturing"},{"id": "333310", "title": "Commercial and Service Industry Machinery Manufacturing"}]
+    },
+    {
+        "isic_id": "2826",
+        "isic_title": "Manufacture of machinery for textile, apparel and leather production",
+        "naics_correspondence": [{"id": "333111", "title": "Farm Machinery and Equipment Manufacturing"},{"id": "333248", "title": "All Other Industrial Machinery Manufacturing"},{"id": "333310", "title": "Commercial and Service Industry Machinery Manufacturing"},{"id": "339993", "title": "Fastener, Button, Needle, and Pin Manufacturing"}]
+    },
+    {
+        "isic_id": "2829",
+        "isic_title": "Manufacture of other special-purpose machinery",
+        "naics_correspondence": [{"id": "333242", "title": "Semiconductor Machinery Manufacturing"},{"id": "333243", "title": "Sawmill, Woodworking, and Paper Machinery Manufacturing"},{"id": "333248", "title": "All Other Industrial Machinery Manufacturing"},{"id": "333310", "title": "Commercial and Service Industry Machinery Manufacturing"},{"id": "333998", "title": "All Other Miscellaneous General Purpose Machinery Manufacturing"},{"id": "339920", "title": "Sporting and Athletic Goods Manufacturing"}]
+    },
+    {
+        "isic_id": "2910",
+        "isic_title": "Manufacture of motor vehicles",
+        "naics_correspondence": [{"id": "333618", "title": "Other Engine Equipment Manufacturing"},{"id": "336110", "title": "Automobile and Light Duty Motor Vehicle Manufacturing"},{"id": "336120", "title": "Heavy Duty Truck Manufacturing"},{"id": "336211", "title": "Motor Vehicle Body Manufacturing"},{"id": "336213", "title": "Motor Home Manufacturing"},{"id": "336310", "title": "Motor Vehicle Gasoline Engine and Engine Parts Manufacturing"},{"id": "336510", "title": "Railroad Rolling Stock Manufacturing"},{"id": "336999", "title": "All Other Transportation Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "2920",
+        "isic_title": "Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers",
+        "naics_correspondence": [{"id": "326199", "title": "All Other Plastics Product Manufacturing"},{"id": "332420", "title": "Metal Tank (Heavy Gauge) Manufacturing"},{"id": "332439", "title": "Other Metal Container Manufacturing"},{"id": "336211", "title": "Motor Vehicle Body Manufacturing"},{"id": "336212", "title": "Truck Trailer Manufacturing"},{"id": "336214", "title": "Travel Trailer and Camper Manufacturing"},{"id": "811121", "title": "Automotive Body, Paint, and Interior Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "2930",
+        "isic_title": "Manufacture of parts and accessories for motor vehicles",
+        "naics_correspondence": [{"id": "336211", "title": "Motor Vehicle Body Manufacturing"},{"id": "336310", "title": "Motor Vehicle Gasoline Engine and Engine Parts Manufacturing"},{"id": "336320", "title": "Motor Vehicle Electrical and Electronic Equipment Manufacturing"},{"id": "336330", "title": "Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing"},{"id": "336340", "title": "Motor Vehicle Brake System Manufacturing"},{"id": "336350", "title": "Motor Vehicle Transmission and Power Train Parts Manufacturing"},{"id": "336360", "title": "Motor Vehicle Seating and Interior Trim Manufacturing"},{"id": "336390", "title": "Other Motor Vehicle Parts Manufacturing"},{"id": "336999", "title": "All Other Transportation Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "3011",
+        "isic_title": "Building of ships and floating structures",
+        "naics_correspondence": [{"id": "332312", "title": "Fabricated Structural Metal Manufacturing"},{"id": "332313", "title": "Plate Work Manufacturing"},{"id": "336360", "title": "Motor Vehicle Seating and Interior Trim Manufacturing"},{"id": "336611", "title": "Ship Building and Repairing"}]
+    },
+    {
+        "isic_id": "3012",
+        "isic_title": "Building of pleasure and sporting boats",
+        "naics_correspondence": [{"id": "332312", "title": "Fabricated Structural Metal Manufacturing"},{"id": "336612", "title": "Boat Building"},{"id": "336999", "title": "All Other Transportation Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "3020",
+        "isic_title": "Manufacture of railway locomotives and rolling stock",
+        "naics_correspondence": [{"id": "333131", "title": "Mining Machinery and Equipment Manufacturing"},{"id": "333923", "title": "Overhead Traveling Crane, Hoist, and Monorail System Manufacturing"},{"id": "334290", "title": "Other Communications Equipment Manufacturing"},{"id": "336360", "title": "Motor Vehicle Seating and Interior Trim Manufacturing"},{"id": "336510", "title": "Railroad Rolling Stock Manufacturing"}]
+    },
+    {
+        "isic_id": "3030",
+        "isic_title": "Manufacture of air and spacecraft and related machinery",
+        "naics_correspondence": [{"id": "333310", "title": "Commercial and Service Industry Machinery Manufacturing"},{"id": "334220", "title": "Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing"},{"id": "336360", "title": "Motor Vehicle Seating and Interior Trim Manufacturing"},{"id": "336411", "title": "Aircraft Manufacturing"},{"id": "336412", "title": "Aircraft Engine and Engine Parts Manufacturing"},{"id": "336413", "title": "Other Aircraft Parts and Auxiliary Equipment Manufacturing"},{"id": "336414", "title": "Guided Missile and Space Vehicle Manufacturing"},{"id": "336415", "title": "Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing"},{"id": "336419", "title": "Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "3040",
+        "isic_title": "Manufacture of military fighting vehicles",
+        "naics_correspondence": [{"id": "336992", "title": "Military Armored Vehicle, Tank, and Tank Component Manufacturing"}]
+    },
+    {
+        "isic_id": "3091",
+        "isic_title": "Manufacture of motorcycles",
+        "naics_correspondence": [{"id": "333618", "title": "Other Engine Equipment Manufacturing"},{"id": "336991", "title": "Motorcycle, Bicycle, and Parts Manufacturing"}]
+    },
+    {
+        "isic_id": "3092",
+        "isic_title": "Manufacture of bicycles and invalid carriages",
+        "naics_correspondence": [{"id": "336991", "title": "Motorcycle, Bicycle, and Parts Manufacturing"},{"id": "339113", "title": "Surgical Appliance and Supplies Manufacturing"},{"id": "339930", "title": "Doll, Toy, and Game Manufacturing"}]
+    },
+    {
+        "isic_id": "3099",
+        "isic_title": "Manufacture of other transport equipment (not elsewhere classified)",
+        "naics_correspondence": [{"id": "331222", "title": "Steel Wire Drawing"},{"id": "333112", "title": "Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing"},{"id": "333924", "title": "Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing"},{"id": "336999", "title": "All Other Transportation Equipment Manufacturing"}]
+    },
+    {
+        "isic_id": "3100",
+        "isic_title": "Manufacture of furniture",
+        "naics_correspondence": [{"id": "321999", "title": "All Other Miscellaneous Wood Product Manufacturing"},{"id": "326199", "title": "All Other Plastics Product Manufacturing"},{"id": "337110", "title": "Wood Kitchen Cabinet and Countertop Manufacturing"},{"id": "337121", "title": "Upholstered Household Furniture Manufacturing"},{"id": "337122", "title": "Nonupholstered Wood Household Furniture Manufacturing"},{"id": "337126", "title": "Household Furniture (except Wood and Upholstered) Manufacturing"},{"id": "337127", "title": "Institutional Furniture Manufacturing"},{"id": "337211", "title": "Wood Office Furniture Manufacturing"},{"id": "337212", "title": "Custom Architectural Woodwork and Millwork Manufacturing"},{"id": "337214", "title": "Office Furniture (except Wood) Manufacturing"},{"id": "337215", "title": "Showcase, Partition, Shelving, and Locker Manufacturing"},{"id": "337910", "title": "Mattress Manufacturing"}]
+    },
+    {
+        "isic_id": "3211",
+        "isic_title": "Manufacture of jewellery and related articles",
+        "naics_correspondence": [{"id": "327999", "title": "All Other Miscellaneous Nonmetallic Mineral Product Manufacturing"},{"id": "339910", "title": "Jewelry and Silverware Manufacturing"}]
+    },
+    {
+        "isic_id": "3212",
+        "isic_title": "Manufacture of imitation jewellery and related articles",
+        "naics_correspondence": [{"id": "339910", "title": "Jewelry and Silverware Manufacturing"}]
+    },
+    {
+        "isic_id": "3220",
+        "isic_title": "Manufacture of musical instruments",
+        "naics_correspondence": [{"id": "339920", "title": "Sporting and Athletic Goods Manufacturing"},{"id": "339992", "title": "Musical Instrument Manufacturing"},{"id": "339999", "title": "All Other Miscellaneous Manufacturing"}]
+    },
+    {
+        "isic_id": "3230",
+        "isic_title": "Manufacture of sports goods",
+        "naics_correspondence": [{"id": "339920", "title": "Sporting and Athletic Goods Manufacturing"},{"id": "339930", "title": "Doll, Toy, and Game Manufacturing"}]
+    },
+    {
+        "isic_id": "3240",
+        "isic_title": "Manufacture of games and toys",
+        "naics_correspondence": [{"id": "339920", "title": "Sporting and Athletic Goods Manufacturing"},{"id": "339930", "title": "Doll, Toy, and Game Manufacturing"},{"id": "339999", "title": "All Other Miscellaneous Manufacturing"}]
+    },
+    {
+        "isic_id": "3250",
+        "isic_title": "Manufacture of medical and dental instruments and supplies",
+        "naics_correspondence": [{"id": "333248", "title": "All Other Industrial Machinery Manufacturing"},{"id": "333998", "title": "All Other Miscellaneous General Purpose Machinery Manufacturing"},{"id": "337127", "title": "Institutional Furniture Manufacturing"},{"id": "339112", "title": "Surgical and Medical Instrument Manufacturing"},{"id": "339113", "title": "Surgical Appliance and Supplies Manufacturing"},{"id": "339114", "title": "Dental Equipment and Supplies Manufacturing"},{"id": "339115", "title": "Ophthalmic Goods Manufacturing"},{"id": "339116", "title": "Dental Laboratories"}]
+    },
+    {
+        "isic_id": "3290",
+        "isic_title": "Other manufacturing (not elsewhere classified)",
+        "naics_correspondence": [{"id": "332215", "title": "Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing"},{"id": "332618", "title": "Other Fabricated Wire Product Manufacturing"},{"id": "333310", "title": "Commercial and Service Industry Machinery Manufacturing"},{"id": "339113", "title": "Surgical Appliance and Supplies Manufacturing"},{"id": "339940", "title": "Office Supplies (except Paper) Manufacturing"},{"id": "339993", "title": "Fastener, Button, Needle, and Pin Manufacturing"},{"id": "339994", "title": "Broom, Brush, and Mop Manufacturing"},{"id": "339995", "title": "Burial Casket Manufacturing"},{"id": "339999", "title": "All Other Miscellaneous Manufacturing"},{"id": "711510", "title": "Independent Artists, Writers, and Performers"}]
+    },
+    {
+        "isic_id": "3311",
+        "isic_title": "Repair of fabricated metal products, machinery and equipment",
+        "naics_correspondence": [{"id": "238290", "title": "Other Building Equipment Contractors"},{"id": "811310", "title": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"},{"id": "811490", "title": "Other Personal and Household Goods Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "3311",
+        "isic_title": "Repair of fabricated metal products",
+        "naics_correspondence": [{"id": "238290", "title": "Other Building Equipment Contractors"},{"id": "811310", "title": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"},{"id": "811490", "title": "Other Personal and Household Goods Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "3312",
+        "isic_title": "Repair of machinery",
+        "naics_correspondence": [{"id": "811210", "title": "Electronic and Precision Equipment Repair and Maintenance"},{"id": "811310", "title": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"},{"id": "811411", "title": "Home and Garden Equipment Repair and Maintenance"},{"id": "811490", "title": "Other Personal and Household Goods Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "3313",
+        "isic_title": "Repair of electronic and optical equipment",
+        "naics_correspondence": [{"id": "811210", "title": "Electronic and Precision Equipment Repair and Maintenance"},{"id": "811310", "title": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "3314",
+        "isic_title": "Repair of electrical equipment",
+        "naics_correspondence": [{"id": "811310", "title": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "3315",
+        "isic_title": "Repair of transport equipment, except motor vehicles",
+        "naics_correspondence": [{"id": "336611", "title": "Ship Building and Repairing"},{"id": "441222", "title": "Boat Dealers"},{"id": "488190", "title": "Other Support Activities for Air Transportation"},{"id": "488210", "title": "Support Activities for Rail Transportation"},{"id": "488390", "title": "Other Support Activities for Water Transportation"},{"id": "811310", "title": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"},{"id": "811490", "title": "Other Personal and Household Goods Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "3319",
+        "isic_title": "Repair of other equipment ",
+        "naics_correspondence": [{"id": "711510", "title": "Independent Artists, Writers, and Performers"},{"id": "811310", "title": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"},{"id": "811490", "title": "Other Personal and Household Goods Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "3320",
+        "isic_title": "Installation of industrial machinery and equipment",
+        "naics_correspondence": [{"id": "238220", "title": "Plumbing, Heating, and Air-Conditioning Contractors"},{"id": "238290", "title": "Other Building Equipment Contractors"}]
+    },
+    {
+        "isic_id": "3510",
+        "isic_title": "Electric power generation, transmission and distribution",
+        "naics_correspondence": [{"id": "221111", "title": "Hydroelectric Power Generation"},{"id": "221112", "title": "Fossil Fuel Electric Power Generation"},{"id": "221113", "title": "Nuclear Electric Power Generation"},{"id": "221114", "title": "Solar Electric Power Generation"},{"id": "221115", "title": "Wind Electric Power Generation"},{"id": "221116", "title": "Geothermal Electric Power Generation"},{"id": "221117", "title": "Biomass Electric Power Generation"},{"id": "221118", "title": "Other Electric Power Generation"},{"id": "221121", "title": "Electric Bulk Power Transmission and Control"},{"id": "221122", "title": "Electric Power Distribution"}]
+    },
+    {
+        "isic_id": "3520",
+        "isic_title": "Manufacture of gas; distribution of gaseous fuels through mains",
+        "naics_correspondence": [{"id": "221210", "title": "Natural Gas Distribution"}]
+    },
+    {
+        "isic_id": "3530",
+        "isic_title": "Steam and air conditioning supply",
+        "naics_correspondence": [{"id": "221330", "title": "Steam and Air-Conditioning Supply"},{"id": "312113", "title": "Ice Manufacturing"}]
+    },
+    {
+        "isic_id": "3600",
+        "isic_title": "Water collection, treatment and supply",
+        "naics_correspondence": [{"id": "221310", "title": "Water Supply and Irrigation Systems"}]
+    },
+    {
+        "isic_id": "3700",
+        "isic_title": "Sewerage",
+        "naics_correspondence": [{"id": "221320", "title": "Sewage Treatment Facilities"},{"id": "562219", "title": "Other Nonhazardous Waste Treatment and Disposal"},{"id": "562991", "title": "Septic Tank and Related Services"},{"id": "562998", "title": "All Other Miscellaneous Waste Management Services"}]
+    },
+    {
+        "isic_id": "3811",
+        "isic_title": "Collection of non-hazardous waste",
+        "naics_correspondence": [{"id": "562111", "title": "Solid Waste Collection"},{"id": "562119", "title": "Other Waste Collection"}]
+    },
+    {
+        "isic_id": "3812",
+        "isic_title": "Collection of hazardous waste",
+        "naics_correspondence": [{"id": "562112", "title": "Hazardous Waste Collection"}]
+    },
+    {
+        "isic_id": "3821",
+        "isic_title": "Treatment and disposal of non-hazardous waste",
+        "naics_correspondence": [{"id": "562212", "title": "Solid Waste Landfill"},{"id": "562213", "title": "Solid Waste Combustors and Incinerators"},{"id": "562219", "title": "Other Nonhazardous Waste Treatment and Disposal"}]
+    },
+    {
+        "isic_id": "3822",
+        "isic_title": "Treatment and disposal of hazardous waste",
+        "naics_correspondence": [{"id": "562211", "title": "Hazardous Waste Treatment and Disposal"}]
+    },
+    {
+        "isic_id": "3830",
+        "isic_title": "Materials recovery",
+        "naics_correspondence": [{"id": "488390", "title": "Other Support Activities for Water Transportation"},{"id": "562920", "title": "Materials Recovery Facilities"}]
+    },
+    {
+        "isic_id": "3900",
+        "isic_title": "Remediation activities and other waste management services",
+        "naics_correspondence": [{"id": "562910", "title": "Remediation Services"}]
+    },
+    {
+        "isic_id": "4100",
+        "isic_title": "Construction of buildings",
+        "naics_correspondence": [{"id": "236115", "title": "New Single-Family Housing Construction (except For-Sale Builders)"},{"id": "236116", "title": "New Multifamily Housing Construction (except For-Sale Builders)"},{"id": "236117", "title": "New Housing For-Sale Builders"},{"id": "236118", "title": "Residential Remodelers"},{"id": "236210", "title": "Industrial Building Construction"},{"id": "236220", "title": "Commercial and Institutional Building Construction"}]
+    },
+    {
+        "isic_id": "4210",
+        "isic_title": "Construction of roads and railways",
+        "naics_correspondence": [{"id": "237310", "title": "Highway, Street, and Bridge Construction"},{"id": "237990", "title": "Other Heavy and Civil Engineering Construction"},{"id": "238990", "title": "All Other Specialty Trade Contractors"}]
+    },
+    {
+        "isic_id": "4220",
+        "isic_title": "Construction of utility projects",
+        "naics_correspondence": [{"id": "237110", "title": "Water and Sewer Line and Related Structures Construction"},{"id": "237120", "title": "Oil and Gas Pipeline and Related Structures Construction"},{"id": "237130", "title": "Power and Communication Line and Related Structures Construction"},{"id": "237990", "title": "Other Heavy and Civil Engineering Construction"}]
+    },
+    {
+        "isic_id": "4290",
+        "isic_title": "Construction of other civil engineering projects",
+        "naics_correspondence": [{"id": "236210", "title": "Industrial Building Construction"},{"id": "236220", "title": "Commercial and Institutional Building Construction"},{"id": "237120", "title": "Oil and Gas Pipeline and Related Structures Construction"},{"id": "237210", "title": "Land Subdivision"},{"id": "237990", "title": "Other Heavy and Civil Engineering Construction"}]
+    },
+    {
+        "isic_id": "4311",
+        "isic_title": "Demolition",
+        "naics_correspondence": [{"id": "238910", "title": "Site Preparation Contractors"}]
+    },
+    {
+        "isic_id": "4312",
+        "isic_title": "Site preparation",
+        "naics_correspondence": [{"id": "213113", "title": "Support Activities for Coal Mining"},{"id": "213114", "title": "Support Activities for Metal Mining"},{"id": "213115", "title": "Support Activities for Nonmetallic Minerals (except Fuels) Mining"},{"id": "237990", "title": "Other Heavy and Civil Engineering Construction"},{"id": "238910", "title": "Site Preparation Contractors"}]
+    },
+    {
+        "isic_id": "4321",
+        "isic_title": "Electrical installation",
+        "naics_correspondence": [{"id": "237310", "title": "Highway, Street, and Bridge Construction"},{"id": "238210", "title": "Electrical Contractors and Other Wiring Installation Contractors"},{"id": "238290", "title": "Other Building Equipment Contractors"}]
+    },
+    {
+        "isic_id": "4322",
+        "isic_title": "Plumbing, heat and air-conditioning installation",
+        "naics_correspondence": [{"id": "238220", "title": "Plumbing, Heating, and Air-Conditioning Contractors"}]
+    },
+    {
+        "isic_id": "4329",
+        "isic_title": "Other construction installation",
+        "naics_correspondence": [{"id": "238290", "title": "Other Building Equipment Contractors"},{"id": "238310", "title": "Drywall and Insulation Contractors"}]
+    },
+    {
+        "isic_id": "4330",
+        "isic_title": "Building completion and finishing",
+        "naics_correspondence": [{"id": "238140", "title": "Masonry Contractors"},{"id": "238150", "title": "Glass and Glazing Contractors"},{"id": "238320", "title": "Painting and Wall Covering Contractors"},{"id": "238330", "title": "Flooring Contractors"},{"id": "238340", "title": "Tile and Terrazzo Contractors"},{"id": "238350", "title": "Finish Carpentry Contractors"},{"id": "238390", "title": "Other Building Finishing Contractors"},{"id": "238310", "title": "Drywall and Insulation Contractors"}]
+    },
+    {
+        "isic_id": "4330",
+        "isic_title": "Building completion and finishing\n\n",
+        "naics_correspondence": [{"id": "238140", "title": "Masonry Contractors"},{"id": "238150", "title": "Glass and Glazing Contractors"},{"id": "238320", "title": "Painting and Wall Covering Contractors"},{"id": "238330", "title": "Flooring Contractors"},{"id": "238340", "title": "Tile and Terrazzo Contractors"},{"id": "238350", "title": "Finish Carpentry Contractors"},{"id": "238390", "title": "Other Building Finishing Contractors"},{"id": "238310", "title": "Drywall and Insulation Contractors"}]
+    },
+    {
+        "isic_id": "4390",
+        "isic_title": "Other specialized construction activities",
+        "naics_correspondence": [{"id": "236210", "title": "Industrial Building Construction"},{"id": "238110", "title": "Poured Concrete Foundation and Structure Contractors"},{"id": "238120", "title": "Structural Steel and Precast Concrete Contractors"},{"id": "238130", "title": "Framing Contractors"},{"id": "238140", "title": "Masonry Contractors"},{"id": "238160", "title": "Roofing Contractors"},{"id": "238170", "title": "Siding Contractors"},{"id": "238190", "title": "Other Foundation, Structure, and Building Exterior Contractors"},{"id": "238220", "title": "Plumbing, Heating, and Air-Conditioning Contractors"},{"id": "238310", "title": "Drywall and Insulation Contractors"},{"id": "238390", "title": "Other Building Finishing Contractors"},{"id": "238910", "title": "Site Preparation Contractors"},{"id": "238990", "title": "All Other Specialty Trade Contractors"},{"id": "561790", "title": "Other Services to Buildings and Dwellings"}]
+    },
+    {
+        "isic_id": "4510",
+        "isic_title": "Sale of motor vehicles",
+        "naics_correspondence": [{"id": "423110", "title": "Automobile and Other Motor Vehicle Merchant Wholesalers"},{"id": "423910", "title": "Sporting and Recreational Goods and Supplies Merchant Wholesalers"},{"id": "425120", "title": "Wholesale Trade Agents and Brokers"},{"id": "441110", "title": "New Car Dealers"},{"id": "441120", "title": "Used Car Dealers"},{"id": "441210", "title": "Recreational Vehicle Dealers"},{"id": "441227", "title": "Motorcycle, ATV, and All Other Motor Vehicle Dealers"}]
+    },
+    {
+        "isic_id": "4520",
+        "isic_title": "Maintenance and repair of motor vehicles",
+        "naics_correspondence": [{"id": "811111", "title": "General Automotive Repair"},{"id": "811114", "title": "Specialized Automotive Repair"},{"id": "811198", "title": "All Other Automotive Repair and Maintenance"},{"id": "811121", "title": "Automotive Body, Paint, and Interior Repair and Maintenance"},{"id": "811122", "title": "Automotive Glass Replacement Shops"},{"id": "811191", "title": "Automotive Oil Change and Lubrication Shops"},{"id": "811192", "title": "Car Washes"},{"id": "811310", "title": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "4530",
+        "isic_title": "Sale of motor vehicle parts and accessories",
+        "naics_correspondence": [{"id": "423110", "title": "Automobile and Other Motor Vehicle Merchant Wholesalers"},{"id": "423120", "title": "Motor Vehicle Supplies and New Parts Merchant Wholesalers"},{"id": "423130", "title": "Tire and Tube Merchant Wholesalers"},{"id": "423140", "title": "Motor Vehicle Parts (Used) Merchant Wholesalers"},{"id": "423730", "title": "Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers"},{"id": "425120", "title": "Wholesale Trade Agents and Brokers"},{"id": "441210", "title": "Recreational Vehicle Dealers"},{"id": "441330", "title": "Automotive Parts and Accessories Retailers"},{"id": "441340", "title": "Tire Dealers"},{"id": "455219", "title": "All Other General Merchandise Retailers"}]
+    },
+    {
+        "isic_id": "4540",
+        "isic_title": "Sale, maintenance and repair of motorcycles and related parts and accessories",
+        "naics_correspondence": [{"id": "423110", "title": "Automobile and Other Motor Vehicle Merchant Wholesalers"},{"id": "423120", "title": "Motor Vehicle Supplies and New Parts Merchant Wholesalers"},{"id": "423130", "title": "Tire and Tube Merchant Wholesalers"},{"id": "423140", "title": "Motor Vehicle Parts (Used) Merchant Wholesalers"},{"id": "425120", "title": "Wholesale Trade Agents and Brokers"},{"id": "441227", "title": "Motorcycle, ATV, and All Other Motor Vehicle Dealers"},{"id": "441340", "title": "Tire Dealers"},{"id": "811490", "title": "Other Personal and Household Goods Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "4610",
+        "isic_title": "Wholesale on a fee or contract basis",
+        "naics_correspondence": [{"id": "425120", "title": "Wholesale Trade Agents and Brokers"}]
+    },
+    {
+        "isic_id": "4620",
+        "isic_title": "Wholesale of agricultural raw materials and live animals",
+        "naics_correspondence": [{"id": "424440", "title": "Poultry and Poultry Product Merchant Wholesalers"},{"id": "424510", "title": "Grain and Field Bean Merchant Wholesalers"},{"id": "424520", "title": "Livestock Merchant Wholesalers"},{"id": "424590", "title": "Other Farm Product Raw Material Merchant Wholesalers"},{"id": "424910", "title": "Farm Supplies Merchant Wholesalers"},{"id": "424930", "title": "Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers"},{"id": "424990", "title": "Other Miscellaneous Nondurable Goods Merchant Wholesalers"}]
+    },
+    {
+        "isic_id": "4630",
+        "isic_title": "Wholesale of food, beverages and tobacco",
+        "naics_correspondence": [{"id": "424410", "title": "General Line Grocery Merchant Wholesalers"},{"id": "424420", "title": "Packaged Frozen Food Merchant Wholesalers"},{"id": "424430", "title": "Dairy Product (except Dried or Canned) Merchant Wholesalers"},{"id": "424440", "title": "Poultry and Poultry Product Merchant Wholesalers"},{"id": "424450", "title": "Confectionery Merchant Wholesalers"},{"id": "424460", "title": "Fish and Seafood Merchant Wholesalers"},{"id": "424470", "title": "Meat and Meat Product Merchant Wholesalers"},{"id": "424480", "title": "Fresh Fruit and Vegetable Merchant Wholesalers"},{"id": "424490", "title": "Other Grocery and Related Products Merchant Wholesalers"},{"id": "424590", "title": "Other Farm Product Raw Material Merchant Wholesalers"},{"id": "424810", "title": "Beer and Ale Merchant Wholesalers"},{"id": "424820", "title": "Wine and Distilled Alcoholic Beverage Merchant Wholesalers"},{"id": "424940", "title": "Tobacco Product and Electronic Cigarette Merchant Wholesalers"},{"id": "424990", "title": "Other Miscellaneous Nondurable Goods Merchant Wholesalers"}]
+    },
+    {
+        "isic_id": "4641",
+        "isic_title": "Wholesale of textiles, clothing and footwear",
+        "naics_correspondence": [{"id": "423220", "title": "Home Furnishing Merchant Wholesalers"},{"id": "424310", "title": "Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers"},{"id": "424350", "title": "Clothing and Clothing Accessories Merchant Wholesalers"},{"id": "424340", "title": "Footwear Merchant Wholesalers"},{"id": "424990", "title": "Other Miscellaneous Nondurable Goods Merchant Wholesalers"}]
+    },
+    {
+        "isic_id": "4649",
+        "isic_title": "Wholesale of other household goods",
+        "naics_correspondence": [{"id": "423210", "title": "Furniture Merchant Wholesalers"},{"id": "423220", "title": "Home Furnishing Merchant Wholesalers"},{"id": "423310", "title": "Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers"},{"id": "423410", "title": "Photographic Equipment and Supplies Merchant Wholesalers"},{"id": "423450", "title": "Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers"},{"id": "423460", "title": "Ophthalmic Goods Merchant Wholesalers"},{"id": "423610", "title": "Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers"},{"id": "423620", "title": "Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers"},{"id": "423850", "title": "Service Establishment Equipment and Supplies Merchant Wholesalers"},{"id": "423910", "title": "Sporting and Recreational Goods and Supplies Merchant Wholesalers"},{"id": "423920", "title": "Toy and Hobby Goods and Supplies Merchant Wholesalers"},{"id": "423940", "title": "Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers"},{"id": "423990", "title": "Other Miscellaneous Durable Goods Merchant Wholesalers"},{"id": "424120", "title": "Stationery and Office Supplies Merchant Wholesalers"},{"id": "424130", "title": "Industrial and Personal Service Paper Merchant Wholesalers"},{"id": "424210", "title": "Drugs and Druggists' Sundries Merchant Wholesalers"},{"id": "424690", "title": "Other Chemical and Allied Products Merchant Wholesalers"},{"id": "424920", "title": "Book, Periodical, and Newspaper Merchant Wholesalers"},{"id": "424990", "title": "Other Miscellaneous Nondurable Goods Merchant Wholesalers"}]
+    },
+    {
+        "isic_id": "4651",
+        "isic_title": "Wholesale of computers, computer peripheral equipment and software",
+        "naics_correspondence": [{"id": "423430", "title": "Computer and Computer Peripheral Equipment and Software Merchant Wholesalers"}]
+    },
+    {
+        "isic_id": "4652",
+        "isic_title": "Wholesale of electronic and telecommunications equipment and parts",
+        "naics_correspondence": [{"id": "423610", "title": "Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers"},{"id": "423690", "title": "Other Electronic Parts and Equipment Merchant Wholesalers"}]
+    },
+    {
+        "isic_id": "4653",
+        "isic_title": "Wholesale of agricultural machinery, equipment and supplies",
+        "naics_correspondence": [{"id": "423820", "title": "Farm and Garden Machinery and Equipment Merchant Wholesalers"}]
+    },
+    {
+        "isic_id": "4659",
+        "isic_title": "Wholesale of other machinery and equipment",
+        "naics_correspondence": [{"id": "423120", "title": "Motor Vehicle Supplies and New Parts Merchant Wholesalers"},{"id": "423210", "title": "Furniture Merchant Wholesalers"},{"id": "423410", "title": "Photographic Equipment and Supplies Merchant Wholesalers"},{"id": "423420", "title": "Office Equipment Merchant Wholesalers"},{"id": "423440", "title": "Other Commercial Equipment Merchant Wholesalers"},{"id": "423450", "title": "Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers"},{"id": "423490", "title": "Other Professional Equipment and Supplies Merchant Wholesalers"},{"id": "423610", "title": "Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers"},{"id": "423690", "title": "Other Electronic Parts and Equipment Merchant Wholesalers"},{"id": "423720", "title": "Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers"},{"id": "423740", "title": "Refrigeration Equipment and Supplies Merchant Wholesalers"},{"id": "423810", "title": "Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers"},{"id": "423830", "title": "Industrial Machinery and Equipment Merchant Wholesalers"},{"id": "423840", "title": "Industrial Supplies Merchant Wholesalers"},{"id": "423850", "title": "Service Establishment Equipment and Supplies Merchant Wholesalers"},{"id": "423860", "title": "Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers"},{"id": "423990", "title": "Other Miscellaneous Durable Goods Merchant Wholesalers"}]
+    },
+    {
+        "isic_id": "4661",
+        "isic_title": "Wholesale of solid, liquid and gaseous fuels and related products",
+        "naics_correspondence": [{"id": "423520", "title": "Coal and Other Mineral and Ore Merchant Wholesalers"},{"id": "423990", "title": "Other Miscellaneous Durable Goods Merchant Wholesalers"},{"id": "424710", "title": "Petroleum Bulk Stations and Terminals"},{"id": "424720", "title": "Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)"},{"id": "424990", "title": "Other Miscellaneous Nondurable Goods Merchant Wholesalers"}]
+    },
+    {
+        "isic_id": "4662",
+        "isic_title": "Wholesale of metals and metal ores",
+        "naics_correspondence": [{"id": "423510", "title": "Metal Service Centers and Other Metal Merchant Wholesalers"},{"id": "423520", "title": "Coal and Other Mineral and Ore Merchant Wholesalers"}]
+    },
+    {
+        "isic_id": "4663",
+        "isic_title": "Wholesale of construction materials, hardware, plumbing and heating equipment and supplies",
+        "naics_correspondence": [{"id": "423120", "title": "Motor Vehicle Supplies and New Parts Merchant Wholesalers"},{"id": "423220", "title": "Home Furnishing Merchant Wholesalers"},{"id": "423310", "title": "Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers"},{"id": "423320", "title": "Brick, Stone, and Related Construction Material Merchant Wholesalers"},{"id": "423330", "title": "Roofing, Siding, and Insulation Material Merchant Wholesalers"},{"id": "423390", "title": "Other Construction Material Merchant Wholesalers"},{"id": "423710", "title": "Hardware Merchant Wholesalers"},{"id": "423720", "title": "Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers"},{"id": "423730", "title": "Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers"},{"id": "423830", "title": "Industrial Machinery and Equipment Merchant Wholesalers"},{"id": "423910", "title": "Sporting and Recreational Goods and Supplies Merchant Wholesalers"},{"id": "423990", "title": "Other Miscellaneous Durable Goods Merchant Wholesalers"},{"id": "424690", "title": "Other Chemical and Allied Products Merchant Wholesalers"},{"id": "424950", "title": "Paint, Varnish, and Supplies Merchant Wholesalers"}]
+    },
+    {
+        "isic_id": "4669",
+        "isic_title": "Wholesale of waste and scrap and other products (not elsewhere classified)",
+        "naics_correspondence": [{"id": "423840", "title": "Industrial Supplies Merchant Wholesalers"},{"id": "423930", "title": "Recyclable Material Merchant Wholesalers"},{"id": "423940", "title": "Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers"},{"id": "424110", "title": "Printing and Writing Paper Merchant Wholesalers"},{"id": "424130", "title": "Industrial and Personal Service Paper Merchant Wholesalers"},{"id": "424490", "title": "Other Grocery and Related Products Merchant Wholesalers"},{"id": "424610", "title": "Plastics Materials and Basic Forms and Shapes Merchant Wholesalers"},{"id": "424690", "title": "Other Chemical and Allied Products Merchant Wholesalers"},{"id": "424910", "title": "Farm Supplies Merchant Wholesalers"},{"id": "424950", "title": "Paint, Varnish, and Supplies Merchant Wholesalers"},{"id": "424990", "title": "Other Miscellaneous Nondurable Goods Merchant Wholesalers"}]
+    },
+    {
+        "isic_id": "4690",
+        "isic_title": "Non-specialized wholesale trade",
+        "naics_correspondence": [{"id": "423990", "title": "Other Miscellaneous Durable Goods Merchant Wholesalers"},{"id": "424990", "title": "Other Miscellaneous Nondurable Goods Merchant Wholesalers"}]
+    },
+    {
+        "isic_id": "4711",
+        "isic_title": "Retail sale in non-specialized stores with food, beverages or tobacco predominating",
+        "naics_correspondence": [{"id": "445110", "title": "Supermarkets and Other Grocery Retailers (except Convenience Retailers)"},{"id": "445131", "title": "Convenience Retailers"},{"id": "457110", "title": "Gasoline Stations with Convenience Stores"},{"id": "455211", "title": "Warehouse Clubs and Supercenters"}]
+    },
+    {
+        "isic_id": "4719",
+        "isic_title": "Other retail sale in non-specialized stores",
+        "naics_correspondence": [{"id": "455110", "title": "Department Stores"},{"id": "455211", "title": "Warehouse Clubs and Supercenters"},{"id": "455219", "title": "All Other General Merchandise Retailers"}]
+    },
+    {
+        "isic_id": "4721",
+        "isic_title": "Retail sale of food in specialized stores",
+        "naics_correspondence": [{"id": "445240", "title": "Meat Retailers"},{"id": "445250", "title": "Fish and Seafood Retailers"},{"id": "445230", "title": "Fruit and Vegetable Retailers"},{"id": "445291", "title": "Baked Goods Retailers"},{"id": "445292", "title": "Confectionery and Nut Retailers"},{"id": "445298", "title": "All Other Specialty Food Retailers"},{"id": "456191", "title": "Food (Health) Supplement Retailers"}]
+    },
+    {
+        "isic_id": "4722",
+        "isic_title": "Retail sale of beverages in specialized stores",
+        "naics_correspondence": [{"id": "445298", "title": "All Other Specialty Food Retailers"},{"id": "445320", "title": "Beer, Wine, and Liquor Retailers"}]
+    },
+    {
+        "isic_id": "4723",
+        "isic_title": "Retail sale of tobacco products in specialized stores",
+        "naics_correspondence": [{"id": "459991", "title": "Tobacco, Electronic Cigarette, and Other Smoking Supplies Retailers"}]
+    },
+    {
+        "isic_id": "4730",
+        "isic_title": "Retail sale of automotive fuel in specialized stores",
+        "naics_correspondence": [{"id": "457110", "title": "Gasoline Stations with Convenience Stores"},{"id": "457120", "title": "Other Gasoline Stations"}]
+    },
+    {
+        "isic_id": "4741",
+        "isic_title": "Retail sale of computers, peripheral units, software and telecommunications equipment in specialized stores",
+        "naics_correspondence": [{"id": "449210", "title": "Electronics and Appliance Retailers"}]
+    },
+    {
+        "isic_id": "4742",
+        "isic_title": "Retail sale of audio and video equipment in specialized stores",
+        "naics_correspondence": [{"id": "441330", "title": "Automotive Parts and Accessories Retailers"},{"id": "449210", "title": "Electronics and Appliance Retailers"}]
+    },
+    {
+        "isic_id": "4751",
+        "isic_title": "Retail sale of textiles in specialized stores",
+        "naics_correspondence": [{"id": "459130", "title": "Sewing, Needlework, and Piece Goods Retailers"}]
+    },
+    {
+        "isic_id": "4752",
+        "isic_title": "Retail sale of hardware, paints and glass in specialized stores",
+        "naics_correspondence": [{"id": "444110", "title": "Home Centers"},{"id": "444120", "title": "Paint and Wallpaper Retailers"},{"id": "444140", "title": "Hardware Retailers"},{"id": "444180", "title": "Other Building Material Dealers"},{"id": "444230", "title": "Outdoor Power Equipment Retailers"},{"id": "459999", "title": "All Other Miscellaneous Retailers"}]
+    },
+    {
+        "isic_id": "4753",
+        "isic_title": "Retail sale of carpets, rugs, wall and floor coverings in specialized stores",
+        "naics_correspondence": [{"id": "449121", "title": "Floor Covering Retailers"},{"id": "449122", "title": "Window Treatment Retailers"},{"id": "444120", "title": "Paint and Wallpaper Retailers"}]
+    },
+    {
+        "isic_id": "4759",
+        "isic_title": "Retail sale of electrical household appliances, furniture, lighting equipment and other household articles in specialized stores",
+        "naics_correspondence": [{"id": "449110", "title": "Furniture Retailers"},{"id": "449129", "title": "All Other Home Furnishings Retailers"},{"id": "449210", "title": "Electronics and Appliance Retailers"},{"id": "444180", "title": "Other Building Material Dealers"},{"id": "459140", "title": "Musical Instrument and Supplies Retailers"},{"id": "459999", "title": "All Other Miscellaneous Retailers"}]
+    },
+    {
+        "isic_id": "4761",
+        "isic_title": "Retail sale of books, newspapers and stationary in specialized stores",
+        "naics_correspondence": [{"id": "459210", "title": "Book Retailers and News Dealers"},{"id": "459410", "title": "Office Supplies and Stationery Retailers"}]
+    },
+    {
+        "isic_id": "4762",
+        "isic_title": "Retail sale of music and video recordings in specialized stores",
+        "naics_correspondence": [{"id": "449210", "title": "Electronics and Appliance Retailers"}]
+    },
+    {
+        "isic_id": "4763",
+        "isic_title": "Retail sale of sporting equipment in specialized stores",
+        "naics_correspondence": [{"id": "441222", "title": "Boat Dealers"},{"id": "459110", "title": "Sporting Goods Retailers"}]
+    },
+    {
+        "isic_id": "4764",
+        "isic_title": "Retail sale of games and toys in specialized stores",
+        "naics_correspondence": [{"id": "459120", "title": "Hobby, Toy, and Game Retailers"}]
+    },
+    {
+        "isic_id": "4771",
+        "isic_title": "Retail sale of clothing, footwear and leather articles in specialized stores",
+        "naics_correspondence": [{"id": "458110", "title": "Clothing and Clothing Accessories Retailers"},{"id": "458210", "title": "Shoe Retailers"},{"id": "458320", "title": "Luggage and Leather Goods Retailers"}]
+    },
+    {
+        "isic_id": "4772",
+        "isic_title": "Retail sale of pharmaceutical and medical goods, cosmetic and toilet articles in specialized stores",
+        "naics_correspondence": [{"id": "456110", "title": "Pharmacies and Drug Retailers"},{"id": "456120", "title": "Cosmetics, Beauty Supplies, and Perfume Retailers"},{"id": "456199", "title": "All Other Health and Personal Care Retailers"}]
+    },
+    {
+        "isic_id": "4773",
+        "isic_title": "Other retail sale of new goods in specialized stores",
+        "naics_correspondence": [{"id": "441227", "title": "Motorcycle, ATV, and All Other Motor Vehicle Dealers"},{"id": "449129", "title": "All Other Home Furnishings Retailers"},{"id": "449210", "title": "Electronics and Appliance Retailers"},{"id": "444240", "title": "Nursery, Garden Center, and Farm Supply Retailers"},{"id": "456130", "title": "Optical Goods Retailers"},{"id": "458110", "title": "Clothing and Clothing Accessories Retailers"},{"id": "458310", "title": "Jewelry Retailers"},{"id": "459310", "title": "Florists"},{"id": "459420", "title": "Gift, Novelty, and Souvenir Retailers"},{"id": "459910", "title": "Pet and Pet Supplies Retailers"},{"id": "459920", "title": "Art Dealers"},{"id": "459930", "title": "Manufactured (Mobile) Home Dealers"},{"id": "459999", "title": "All Other Miscellaneous Retailers"}]
+    },
+    {
+        "isic_id": "4774",
+        "isic_title": "Retail sale of second-hand goods",
+        "naics_correspondence": [{"id": "459510", "title": "Used Merchandise Retailers"},{"id": "459999", "title": "All Other Miscellaneous Retailers"}]
+    },
+    {
+        "isic_id": "4781",
+        "isic_title": "Retail sale via stalls and markets of food, beverages and tobacco products",
+        "naics_correspondence": [{"id": "445230", "title": "Fruit and Vegetable Retailers"}]
+    },
+    {
+        "isic_id": "4791",
+        "isic_title": "Retail sale via mail order houses or via Internet",
+        "naics_correspondence": [{"id": "459999", "title": "All Other Miscellaneous Retailers"}]
+    },
+    {
+        "isic_id": "4799",
+        "isic_title": "Other retail sale not in stores, stalls or markets",
+        "naics_correspondence": [{"id": "445132", "title": "Vending Machine Operators"},{"id": "457210", "title": "Fuel Dealers"},{"id": "459999", "title": "All Other Miscellaneous Retailers"}]
+    },
+    {
+        "isic_id": "4911",
+        "isic_title": "Passenger rail transport, interurban",
+        "naics_correspondence": [{"id": "482111", "title": "Line-Haul Railroads"},{"id": "487110", "title": "Scenic and Sightseeing Transportation, Land"}]
+    },
+    {
+        "isic_id": "4912",
+        "isic_title": "Freight rail transport",
+        "naics_correspondence": [{"id": "482111", "title": "Line-Haul Railroads"},{"id": "482112", "title": "Short Line Railroads"}]
+    },
+    {
+        "isic_id": "4921",
+        "isic_title": "Urban and suburban passenger land transport",
+        "naics_correspondence": [{"id": "485111", "title": "Mixed Mode Transit Systems"},{"id": "485112", "title": "Commuter Rail Systems"},{"id": "485113", "title": "Bus and Other Motor Vehicle Transit Systems"},{"id": "485119", "title": "Other Urban Transit Systems"}]
+    },
+    {
+        "isic_id": "4922",
+        "isic_title": "Other passenger land transport",
+        "naics_correspondence": [{"id": "485210", "title": "Interurban and Rural Bus Transportation"},{"id": "485310", "title": "Taxi and Ridesharing Services"},{"id": "485320", "title": "Limousine Service"},{"id": "485410", "title": "School and Employee Bus Transportation"},{"id": "485510", "title": "Charter Bus Industry"},{"id": "485991", "title": "Special Needs Transportation"},{"id": "485999", "title": "All Other Transit and Ground Passenger Transportation"},{"id": "487110", "title": "Scenic and Sightseeing Transportation, Land"},{"id": "487990", "title": "Scenic and Sightseeing Transportation, Other"},{"id": "713920", "title": "Skiing Facilities"}]
+    },
+    {
+        "isic_id": "4923",
+        "isic_title": "Freight transport by road",
+        "naics_correspondence": [{"id": "484110", "title": "General Freight Trucking, Local"},{"id": "484121", "title": "General Freight Trucking, Long-Distance, Truckload"},{"id": "484122", "title": "General Freight Trucking, Long-Distance, Less Than Truckload"},{"id": "484210", "title": "Used Household and Office Goods Moving"},{"id": "484220", "title": "Specialized Freight (except Used Goods) Trucking, Local"},{"id": "484230", "title": "Specialized Freight (except Used Goods) Trucking, Long-Distance"}]
+    },
+    {
+        "isic_id": "4930",
+        "isic_title": "Transport via pipeline",
+        "naics_correspondence": [{"id": "221310", "title": "Water Supply and Irrigation Systems"},{"id": "486110", "title": "Pipeline Transportation of Crude Oil"},{"id": "486210", "title": "Pipeline Transportation of Natural Gas"},{"id": "486910", "title": "Pipeline Transportation of Refined Petroleum Products"},{"id": "486990", "title": "All Other Pipeline Transportation"}]
+    },
+    {
+        "isic_id": "5011",
+        "isic_title": "Sea and coastal passenger water transport",
+        "naics_correspondence": [{"id": "483112", "title": "Deep Sea Passenger Transportation"},{"id": "483114", "title": "Coastal and Great Lakes Passenger Transportation"},{"id": "487210", "title": "Scenic and Sightseeing Transportation, Water"}]
+    },
+    {
+        "isic_id": "5012",
+        "isic_title": "Sea and coastal freight water transport",
+        "naics_correspondence": [{"id": "483111", "title": "Deep Sea Freight Transportation"},{"id": "483113", "title": "Coastal and Great Lakes Freight Transportation"}]
+    },
+    {
+        "isic_id": "5021",
+        "isic_title": "Inland passenger water transport",
+        "naics_correspondence": [{"id": "483212", "title": "Inland Water Passenger Transportation"},{"id": "487210", "title": "Scenic and Sightseeing Transportation, Water"}]
+    },
+    {
+        "isic_id": "5022",
+        "isic_title": "Inland freight water transport",
+        "naics_correspondence": [{"id": "483211", "title": "Inland Water Freight Transportation"}]
+    },
+    {
+        "isic_id": "5110",
+        "isic_title": "Passenger air transport",
+        "naics_correspondence": [{"id": "481111", "title": "Scheduled Passenger Air Transportation"},{"id": "481211", "title": "Nonscheduled Chartered Passenger Air Transportation"},{"id": "481219", "title": "Other Nonscheduled Air Transportation"},{"id": "487990", "title": "Scenic and Sightseeing Transportation, Other"}]
+    },
+    {
+        "isic_id": "5120",
+        "isic_title": "Freight air transport",
+        "naics_correspondence": [{"id": "481112", "title": "Scheduled Freight Air Transportation"},{"id": "481212", "title": "Nonscheduled Chartered Freight Air Transportation"},{"id": "927110", "title": "Space Research and Technology"}]
+    },
+    {
+        "isic_id": "5210",
+        "isic_title": "Warehousing and storage",
+        "naics_correspondence": [{"id": "493110", "title": "General Warehousing and Storage"},{"id": "493120", "title": "Refrigerated Warehousing and Storage"},{"id": "493130", "title": "Farm Product Warehousing and Storage"},{"id": "493190", "title": "Other Warehousing and Storage"}]
+    },
+    {
+        "isic_id": "5221",
+        "isic_title": "Service activities incidental to land transportation",
+        "naics_correspondence": [{"id": "488210", "title": "Support Activities for Rail Transportation"},{"id": "488410", "title": "Motor Vehicle Towing"},{"id": "488490", "title": "Other Support Activities for Road Transportation"},{"id": "488999", "title": "All Other Support Activities for Transportation"},{"id": "812930", "title": "Parking Lots and Garages"}]
+    },
+    {
+        "isic_id": "5222",
+        "isic_title": "Service activities incidental to water transportation",
+        "naics_correspondence": [{"id": "488310", "title": "Port and Harbor Operations"},{"id": "488330", "title": "Navigational Services to Shipping"},{"id": "488390", "title": "Other Support Activities for Water Transportation"}]
+    },
+    {
+        "isic_id": "5223",
+        "isic_title": "Service activities incidental to air transportation",
+        "naics_correspondence": [{"id": "488111", "title": "Air Traffic Control"},{"id": "488119", "title": "Other Airport Operations"},{"id": "488190", "title": "Other Support Activities for Air Transportation"},{"id": "488999", "title": "All Other Support Activities for Transportation"}]
+    },
+    {
+        "isic_id": "5224",
+        "isic_title": "Cargo handling",
+        "naics_correspondence": [{"id": "488119", "title": "Other Airport Operations"},{"id": "488210", "title": "Support Activities for Rail Transportation"},{"id": "488320", "title": "Marine Cargo Handling"},{"id": "488490", "title": "Other Support Activities for Road Transportation"}]
+    },
+    {
+        "isic_id": "5229",
+        "isic_title": "Other transportation support activities",
+        "naics_correspondence": [{"id": "488390", "title": "Other Support Activities for Water Transportation"},{"id": "488490", "title": "Other Support Activities for Road Transportation"},{"id": "488510", "title": "Freight Transportation Arrangement"},{"id": "488991", "title": "Packing and Crating"},{"id": "488999", "title": "All Other Support Activities for Transportation"}]
+    },
+    {
+        "isic_id": "5310",
+        "isic_title": "Postal activities",
+        "naics_correspondence": [{"id": "491110", "title": "Postal Service"}]
+    },
+    {
+        "isic_id": "5320",
+        "isic_title": "Courier activities",
+        "naics_correspondence": [{"id": "492110", "title": "Couriers and Express Delivery Services"},{"id": "492210", "title": "Local Messengers and Local Delivery"}]
+    },
+    {
+        "isic_id": "5510",
+        "isic_title": "Short term accommodation activities",
+        "naics_correspondence": [{"id": "721110", "title": "Hotels (except Casino Hotels) and Motels"},{"id": "721120", "title": "Casino Hotels"},{"id": "721191", "title": "Bed-and-Breakfast Inns"},{"id": "721199", "title": "All Other Traveler Accommodation"}]
+    },
+    {
+        "isic_id": "5520",
+        "isic_title": "Camping grounds, recreational vehicle parks and trailer parks",
+        "naics_correspondence": [{"id": "721211", "title": "RV (Recreational Vehicle) Parks and Campgrounds"},{"id": "721214", "title": "Recreational and Vacation Camps (except Campgrounds)"}]
+    },
+    {
+        "isic_id": "5590",
+        "isic_title": "Other accommodation",
+        "naics_correspondence": [{"id": "721110", "title": "Hotels (except Casino Hotels) and Motels"},{"id": "721310", "title": "Rooming and Boarding Houses, Dormitories, and Workers' Camps"}]
+    },
+    {
+        "isic_id": "5610",
+        "isic_title": "Restaurants and mobile food service activities",
+        "naics_correspondence": [{"id": "722330", "title": "Mobile Food Services"},{"id": "722511", "title": "Full-Service Restaurants"},{"id": "722513", "title": "Limited-Service Restaurants"},{"id": "722514", "title": "Cafeterias, Grill Buffets, and Buffets"},{"id": "722515", "title": "Snack and Nonalcoholic Beverage Bars"}]
+    },
+    {
+        "isic_id": "5621",
+        "isic_title": "Event catering",
+        "naics_correspondence": [{"id": "722320", "title": "Caterers"}]
+    },
+    {
+        "isic_id": "5629",
+        "isic_title": "Other food service activities",
+        "naics_correspondence": [{"id": "722310", "title": "Food Service Contractors"}]
+    },
+    {
+        "isic_id": "5630",
+        "isic_title": "Beverage serving activities",
+        "naics_correspondence": [{"id": "722330", "title": "Mobile Food Services"},{"id": "722410", "title": "Drinking Places (Alcoholic Beverages)"},{"id": "722515", "title": "Snack and Nonalcoholic Beverage Bars"}]
+    },
+    {
+        "isic_id": "5811",
+        "isic_title": "Book publishing",
+        "naics_correspondence": [{"id": "513130", "title": "Book Publishers"},{"id": "513199", "title": "All Other Publishers"},{"id": "519290", "title": "Web Search Portals and All Other Information Services"}]
+    },
+    {
+        "isic_id": "5812",
+        "isic_title": "Publishing of directories and mailing lists",
+        "naics_correspondence": [{"id": "513140", "title": "Directory and Mailing List Publishers"},{"id": "519290", "title": "Web Search Portals and All Other Information Services"}]
+    },
+    {
+        "isic_id": "5813",
+        "isic_title": "Publishing of newspapers, journals and periodicals",
+        "naics_correspondence": [{"id": "513110", "title": "Newspaper Publishers"},{"id": "513120", "title": "Periodical Publishers"},{"id": "519290", "title": "Web Search Portals and All Other Information Services"}]
+    },
+    {
+        "isic_id": "5819",
+        "isic_title": "Other publishing activities",
+        "naics_correspondence": [{"id": "513191", "title": "Greeting Card Publishers"},{"id": "513199", "title": "All Other Publishers"},{"id": "519290", "title": "Web Search Portals and All Other Information Services"}]
+    },
+    {
+        "isic_id": "5820",
+        "isic_title": "Software publishing",
+        "naics_correspondence": [{"id": "513210", "title": "Software Publishers"}]
+    },
+    {
+        "isic_id": "5911",
+        "isic_title": "Motion picture, video and television programme production activities",
+        "naics_correspondence": [{"id": "512110", "title": "Motion Picture and Video Production"}]
+    },
+    {
+        "isic_id": "5912",
+        "isic_title": "Motion picture, video and television programme post-production activities",
+        "naics_correspondence": [{"id": "512191", "title": "Teleproduction and Other Postproduction Services"},{"id": "512199", "title": "Other Motion Picture and Video Industries"}]
+    },
+    {
+        "isic_id": "5913",
+        "isic_title": "Motion picture, video and television programme distribution activities",
+        "naics_correspondence": [{"id": "512120", "title": "Motion Picture and Video Distribution"},{"id": "512199", "title": "Other Motion Picture and Video Industries"}]
+    },
+    {
+        "isic_id": "5914",
+        "isic_title": "Motion picture projection activities",
+        "naics_correspondence": [{"id": "512131", "title": "Motion Picture Theaters (except Drive-Ins)"},{"id": "512132", "title": "Drive-In Motion Picture Theaters"}]
+    },
+    {
+        "isic_id": "5920",
+        "isic_title": "Sound recording and music publishing activities",
+        "naics_correspondence": [{"id": "512230", "title": "Music Publishers"},{"id": "512240", "title": "Sound Recording Studios"},{"id": "512250", "title": "Record Production and Distribution"},{"id": "512290", "title": "Other Sound Recording Industries"},{"id": "516210", "title": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers"}]
+    },
+    {
+        "isic_id": "6010",
+        "isic_title": "Radio broadcasting",
+        "naics_correspondence": [{"id": "516110", "title": "Radio Broadcasting Stations"},{"id": "516210", "title": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers"}]
+    },
+    {
+        "isic_id": "6020",
+        "isic_title": "Television programming and broadcasting activities",
+        "naics_correspondence": [{"id": "516120", "title": "Television Broadcasting Stations"},{"id": "517410", "title": "Satellite Telecommunications"},{"id": "516210", "title": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers"}]
+    },
+    {
+        "isic_id": "6110",
+        "isic_title": "Wired telecommunications activities",
+        "naics_correspondence": [{"id": "517111", "title": "Wired Telecommunications Carriers"}]
+    },
+    {
+        "isic_id": "6120",
+        "isic_title": "Wireless telecommunications activities",
+        "naics_correspondence": [{"id": "516110", "title": "Radio Broadcasting Stations"},{"id": "516120", "title": "Television Broadcasting Stations"},{"id": "516210", "title": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers"},{"id": "517112", "title": "Wireless Telecommunications Carriers (except Satellite)"}]
+    },
+    {
+        "isic_id": "6130",
+        "isic_title": "Satellite telecommunications activities",
+        "naics_correspondence": [{"id": "517111", "title": "Wired Telecommunications Carriers"},{"id": "517410", "title": "Satellite Telecommunications"}]
+    },
+    {
+        "isic_id": "6190",
+        "isic_title": "Other telecommunications activities",
+        "naics_correspondence": [{"id": "517410", "title": "Satellite Telecommunications"},{"id": "517121", "title": "Telecommunications Resellers"},{"id": "517810", "title": "All Other Telecommunications"},{"id": "812990", "title": "All Other Personal Services"}]
+    },
+    {
+        "isic_id": "6201",
+        "isic_title": "Computer programming activities",
+        "naics_correspondence": [{"id": "541511", "title": "Custom Computer Programming Services"}]
+    },
+    {
+        "isic_id": "6202",
+        "isic_title": "Computer consultancy and computer facilities management services",
+        "naics_correspondence": [{"id": "541512", "title": "Computer Systems Design Services"},{"id": "541513", "title": "Computer Facilities Management Services"}]
+    },
+    {
+        "isic_id": "6209",
+        "isic_title": "Other information technology and computer service activities",
+        "naics_correspondence": [{"id": "541519", "title": "Other Computer Related Services"}]
+    },
+    {
+        "isic_id": "6311",
+        "isic_title": "Data processing, hosting and related activities",
+        "naics_correspondence": [{"id": "518210", "title": "Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services"}]
+    },
+    {
+        "isic_id": "6312",
+        "isic_title": "Web portals",
+        "naics_correspondence": [{"id": "516210", "title": "Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers"}]
+    },
+    {
+        "isic_id": "6391",
+        "isic_title": "News agency activities",
+        "naics_correspondence": [{"id": "459210", "title": "Book Retailers and News Dealers"}]
+    },
+    {
+        "isic_id": "6399",
+        "isic_title": "Other information service activities (not elsewhere classified)",
+        "naics_correspondence": [{"id": "519290", "title": "Web Search Portals and All Other Information Services"}]
+    },
+    {
+        "isic_id": "6411",
+        "isic_title": "Central banking",
+        "naics_correspondence": [{"id": "521110", "title": "Monetary Authorities-Central Bank"},{"id": "522299", "title": "International, Secondary Market, and All Other Nondepository Credit Intermediation"}]
+    },
+    {
+        "isic_id": "6419",
+        "isic_title": "Other monetary intermediation",
+        "naics_correspondence": [{"id": "522110", "title": "Commercial Banking"},{"id": "522180", "title": "Savings Institutions and Other Depository Credit Intermediation"},{"id": "522130", "title": "Credit Unions"},{"id": "522390", "title": "Other Activities Related to Credit Intermediation"}]
+    },
+    {
+        "isic_id": "6420",
+        "isic_title": "Activities of holding companies",
+        "naics_correspondence": [{"id": "551111", "title": "Offices of Bank Holding Companies"},{"id": "551112", "title": "Offices of Other Holding Companies"}]
+    },
+    {
+        "isic_id": "6430",
+        "isic_title": "Trusts, funds and similar financial entities",
+        "naics_correspondence": [{"id": "525120", "title": "Health and Welfare Funds"},{"id": "525190", "title": "Other Insurance Funds"},{"id": "525910", "title": "Open-End Investment Funds"},{"id": "525920", "title": "Trusts, Estates, and Agency Accounts"},{"id": "525990", "title": "Other Financial Vehicles"}]
+    },
+    {
+        "isic_id": "6491",
+        "isic_title": "Financial leasing",
+        "naics_correspondence": [{"id": "522220", "title": "Sales Financing"}]
+    },
+    {
+        "isic_id": "6492",
+        "isic_title": "Other credit granting",
+        "naics_correspondence": [{"id": "522210", "title": "Credit Card Issuing"},{"id": "522220", "title": "Sales Financing"},{"id": "522291", "title": "Consumer Lending"},{"id": "522292", "title": "Real Estate Credit"},{"id": "522299", "title": "International, Secondary Market, and All Other Nondepository Credit Intermediation"}]
+    },
+    {
+        "isic_id": "6499",
+        "isic_title": "Other financial service activities, except insurance and pension funding activities, (not elsewhere classified)",
+        "naics_correspondence": [{"id": "522299", "title": "International, Secondary Market, and All Other Nondepository Credit Intermediation"},{"id": "523150", "title": "Investment Banking and Securities Intermediation"},{"id": "523160", "title": "Commodity Contracts Intermediation"},{"id": "523910", "title": "Miscellaneous Intermediation"}]
+    },
+    {
+        "isic_id": "6511",
+        "isic_title": "Life insurance",
+        "naics_correspondence": [{"id": "524113", "title": "Direct Life Insurance Carriers"}]
+    },
+    {
+        "isic_id": "6512",
+        "isic_title": "Non-life insurance",
+        "naics_correspondence": [{"id": "524114", "title": "Direct Health and Medical Insurance Carriers"},{"id": "524126", "title": "Direct Property and Casualty Insurance Carriers"},{"id": "524127", "title": "Direct Title Insurance Carriers"},{"id": "524128", "title": "Other Direct Insurance (except Life, Health, and Medical) Carriers"}]
+    },
+    {
+        "isic_id": "6520",
+        "isic_title": "Reinsurance",
+        "naics_correspondence": [{"id": "524130", "title": "Reinsurance Carriers"}]
+    },
+    {
+        "isic_id": "6530",
+        "isic_title": "Pension funding",
+        "naics_correspondence": [{"id": "525110", "title": "Pension Funds"}]
+    },
+    {
+        "isic_id": "6611",
+        "isic_title": "Administration of financial markets",
+        "naics_correspondence": [{"id": "523210", "title": "Securities and Commodity Exchanges"}]
+    },
+    {
+        "isic_id": "6612",
+        "isic_title": "Security and commodity contracts brokerage",
+        "naics_correspondence": [{"id": "523150", "title": "Investment Banking and Securities Intermediation"},{"id": "523160", "title": "Commodity Contracts Intermediation"},{"id": "523999", "title": "Miscellaneous Financial Investment Activities"}]
+    },
+    {
+        "isic_id": "6619",
+        "isic_title": "Other activities auxiliary to financial service activities",
+        "naics_correspondence": [{"id": "522310", "title": "Mortgage and Nonmortgage Loan Brokers"},{"id": "522320", "title": "Financial Transactions Processing, Reserve, and Clearinghouse Activities"},{"id": "523940", "title": "Portfolio Management and Investment Advice"},{"id": "523991", "title": "Trust, Fiduciary, and Custody Activities"},{"id": "523999", "title": "Miscellaneous Financial Investment Activities"}]
+    },
+    {
+        "isic_id": "6621",
+        "isic_title": "Risk and damage evaluation",
+        "naics_correspondence": [{"id": "524291", "title": "Claims Adjusting"}]
+    },
+    {
+        "isic_id": "6622",
+        "isic_title": "Activities of insurance agents and brokers",
+        "naics_correspondence": [{"id": "524210", "title": "Insurance Agencies and Brokerages"}]
+    },
+    {
+        "isic_id": "6629",
+        "isic_title": "Other activities auxiliary to insurance and pension funding",
+        "naics_correspondence": [{"id": "524292", "title": "Pharmacy Benefit Management and Other Third Party Administration of Insurance and Pension Funds"},{"id": "524298", "title": "All Other Insurance Related Activities"},{"id": "541612", "title": "Human Resources Consulting Services"}]
+    },
+    {
+        "isic_id": "6630",
+        "isic_title": "Fund management activities",
+        "naics_correspondence": [{"id": "523940", "title": "Portfolio Management and Investment Advice"}]
+    },
+    {
+        "isic_id": "6810",
+        "isic_title": "Real estate activities with own or leased property",
+        "naics_correspondence": [{"id": "523910", "title": "Miscellaneous Intermediation"},{"id": "531110", "title": "Lessors of Residential Buildings and Dwellings"},{"id": "531120", "title": "Lessors of Nonresidential Buildings (except Miniwarehouses)"},{"id": "531130", "title": "Lessors of Miniwarehouses and Self-Storage Units"},{"id": "531190", "title": "Lessors of Other Real Estate Property"}]
+    },
+    {
+        "isic_id": "6820",
+        "isic_title": "Real estate activities on a fee or contract basis",
+        "naics_correspondence": [{"id": "531210", "title": "Offices of Real Estate Agents and Brokers"},{"id": "531311", "title": "Residential Property Managers"},{"id": "531312", "title": "Nonresidential Property Managers"},{"id": "531320", "title": "Offices of Real Estate Appraisers"},{"id": "531390", "title": "Other Activities Related to Real Estate"}]
+    },
+    {
+        "isic_id": "6910",
+        "isic_title": "Legal activities",
+        "naics_correspondence": [{"id": "541110", "title": "Offices of Lawyers"},{"id": "541120", "title": "Offices of Notaries"},{"id": "541191", "title": "Title Abstract and Settlement Offices"},{"id": "541199", "title": "All Other Legal Services"},{"id": "541990", "title": "All Other Professional, Scientific, and Technical Services"}]
+    },
+    {
+        "isic_id": "6920",
+        "isic_title": "Accounting, bookkeeping and auditing activities; tax consultancy",
+        "naics_correspondence": [{"id": "541211", "title": "Offices of Certified Public Accountants"},{"id": "541213", "title": "Tax Preparation Services"},{"id": "541214", "title": "Payroll Services"},{"id": "541219", "title": "Other Accounting Services"}]
+    },
+    {
+        "isic_id": "7010",
+        "isic_title": "Activities of head offices",
+        "naics_correspondence": [{"id": "551114", "title": "Corporate, Subsidiary, and Regional Managing Offices"}]
+    },
+    {
+        "isic_id": "7020",
+        "isic_title": "Management consultancy activities",
+        "naics_correspondence": [{"id": "541611", "title": "Administrative Management and General Management Consulting Services"},{"id": "541612", "title": "Human Resources Consulting Services"},{"id": "541613", "title": "Marketing Consulting Services"},{"id": "541614", "title": "Process, Physical Distribution, and Logistics Consulting Services"},{"id": "541820", "title": "Public Relations Agencies"}]
+    },
+    {
+        "isic_id": "7110",
+        "isic_title": "Architectural and engineering activities and related technical consultancy",
+        "naics_correspondence": [{"id": "541310", "title": "Architectural Services"},{"id": "541320", "title": "Landscape Architectural Services"},{"id": "541330", "title": "Engineering Services"},{"id": "541340", "title": "Drafting Services"},{"id": "541350", "title": "Building Inspection Services"},{"id": "541360", "title": "Geophysical Surveying and Mapping Services"},{"id": "541370", "title": "Surveying and Mapping (except Geophysical) Services"}]
+    },
+    {
+        "isic_id": "7120",
+        "isic_title": "Technical testing and analysis",
+        "naics_correspondence": [{"id": "541380", "title": "Testing Laboratories and Services"},{"id": "811198", "title": "All Other Automotive Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "7210",
+        "isic_title": "Research and experimental development on natural sciences and engineering",
+        "naics_correspondence": [{"id": "541713", "title": "Research and Development in Nanotechnology"},{"id": "541714", "title": "Research and Development in Biotechnology (except Nanobiotechnology)"},{"id": "541715", "title": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)"}]
+    },
+    {
+        "isic_id": "7220",
+        "isic_title": "Research and experimental development on social sciences and humanities",
+        "naics_correspondence": [{"id": "541720", "title": "Research and Development in the Social Sciences and Humanities"}]
+    },
+    {
+        "isic_id": "7310",
+        "isic_title": "Advertising",
+        "naics_correspondence": [{"id": "541810", "title": "Advertising Agencies"},{"id": "541830", "title": "Media Buying Agencies"},{"id": "541840", "title": "Media Representatives"},{"id": "541850", "title": "Indoor and Outdoor Display Advertising"},{"id": "541860", "title": "Direct Mail Advertising"},{"id": "541870", "title": "Advertising Material Distribution Services"},{"id": "541890", "title": "Other Services Related to Advertising"}]
+    },
+    {
+        "isic_id": "7320",
+        "isic_title": "Market research and public opinion polling",
+        "naics_correspondence": [{"id": "541910", "title": "Marketing Research and Public Opinion Polling"}]
+    },
+    {
+        "isic_id": "7410",
+        "isic_title": "Specialized design activities",
+        "naics_correspondence": [{"id": "541410", "title": "Interior Design Services"},{"id": "541420", "title": "Industrial Design Services"},{"id": "541430", "title": "Graphic Design Services"},{"id": "541490", "title": "Other Specialized Design Services"}]
+    },
+    {
+        "isic_id": "7420",
+        "isic_title": "Photographic activities",
+        "naics_correspondence": [{"id": "518210", "title": "Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services"},{"id": "541921", "title": "Photography Studios, Portrait"},{"id": "541922", "title": "Commercial Photography"},{"id": "711510", "title": "Independent Artists, Writers, and Performers"},{"id": "812921", "title": "Photofinishing Laboratories (except One-Hour)"},{"id": "812922", "title": "One-Hour Photofinishing"}]
+    },
+    {
+        "isic_id": "7490",
+        "isic_title": "Other professional, scientific and technical activities (not elsewhere classified)",
+        "naics_correspondence": [{"id": "541614", "title": "Process, Physical Distribution, and Logistics Consulting Services"},{"id": "541618", "title": "Other Management Consulting Services"},{"id": "541620", "title": "Environmental Consulting Services"},{"id": "541690", "title": "Other Scientific and Technical Consulting Services"},{"id": "541930", "title": "Translation and Interpretation Services"},{"id": "541990", "title": "All Other Professional, Scientific, and Technical Services"},{"id": "711410", "title": "Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"}]
+    },
+    {
+        "isic_id": "7500",
+        "isic_title": "Veterinary activities",
+        "naics_correspondence": [{"id": "115210", "title": "Support Activities for Animal Production"},{"id": "541940", "title": "Veterinary Services"}]
+    },
+    {
+        "isic_id": "7710",
+        "isic_title": "Renting and leasing of motor vehicles",
+        "naics_correspondence": [{"id": "532111", "title": "Passenger Car Rental"},{"id": "532112", "title": "Passenger Car Leasing"},{"id": "532120", "title": "Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"}]
+    },
+    {
+        "isic_id": "7721",
+        "isic_title": "Renting and leasing of recreational and sports goods",
+        "naics_correspondence": [{"id": "532284", "title": "Recreational Goods Rental"}]
+    },
+    {
+        "isic_id": "7722",
+        "isic_title": "Renting of video tapes and disks",
+        "naics_correspondence": [{"id": "532282", "title": "Video Tape and Disc Rental"}]
+    },
+    {
+        "isic_id": "7729",
+        "isic_title": "Renting and leasing of other personal and household goods",
+        "naics_correspondence": [{"id": "532210", "title": "Consumer Electronics and Appliances Rental"},{"id": "532281", "title": "Formal Wear and Costume Rental"},{"id": "532283", "title": "Home Health Equipment Rental"},{"id": "532289", "title": "All Other Consumer Goods Rental"},{"id": "532310", "title": "General Rental Centers"}]
+    },
+    {
+        "isic_id": "7730",
+        "isic_title": "Renting and leasing of other machinery, equipment and tangible goods",
+        "naics_correspondence": [{"id": "532120", "title": "Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"},{"id": "532284", "title": "Recreational Goods Rental"},{"id": "532310", "title": "General Rental Centers"},{"id": "532411", "title": "Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing"},{"id": "532412", "title": "Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing"},{"id": "532420", "title": "Office Machinery and Equipment Rental and Leasing"},{"id": "532490", "title": "Other Commercial and Industrial Machinery and Equipment Rental and Leasing"}]
+    },
+    {
+        "isic_id": "7740",
+        "isic_title": "Leasing of intellectual property and similar products, except copyrighted works",
+        "naics_correspondence": [{"id": "533110", "title": "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)"}]
+    },
+    {
+        "isic_id": "7810",
+        "isic_title": "Activities of employment placement agencies",
+        "naics_correspondence": [{"id": "561311", "title": "Employment Placement Agencies"},{"id": "561312", "title": "Executive Search Services"}]
+    },
+    {
+        "isic_id": "7820",
+        "isic_title": "Temporary employment agency activities",
+        "naics_correspondence": [{"id": "561320", "title": "Temporary Help Services"}]
+    },
+    {
+        "isic_id": "7830",
+        "isic_title": "Other human resources provision",
+        "naics_correspondence": [{"id": "561330", "title": "Professional Employer Organizations"}]
+    },
+    {
+        "isic_id": "7911",
+        "isic_title": "Travel agency activities",
+        "naics_correspondence": [{"id": "561510", "title": "Travel Agencies"}]
+    },
+    {
+        "isic_id": "7912",
+        "isic_title": "Tour operator activities",
+        "naics_correspondence": [{"id": "561520", "title": "Tour Operators"}]
+    },
+    {
+        "isic_id": "7990",
+        "isic_title": "Other reservation service and related activities",
+        "naics_correspondence": [{"id": "561591", "title": "Convention and Visitors Bureaus"},{"id": "561599", "title": "All Other Travel Arrangement and Reservation Services"},{"id": "713990", "title": "All Other Amusement and Recreation Industries"},{"id": "926110", "title": "Administration of General Economic Programs"}]
+    },
+    {
+        "isic_id": "8010",
+        "isic_title": "Private security activities",
+        "naics_correspondence": [{"id": "561611", "title": "Investigation and Personal Background Check Services"},{"id": "561612", "title": "Security Guards and Patrol Services"},{"id": "561613", "title": "Armored Car Services"}]
+    },
+    {
+        "isic_id": "8020",
+        "isic_title": "Security systems service activities",
+        "naics_correspondence": [{"id": "561621", "title": "Security Systems Services (except Locksmiths)"},{"id": "561622", "title": "Locksmiths"}]
+    },
+    {
+        "isic_id": "8030",
+        "isic_title": "Investigation activities",
+        "naics_correspondence": [{"id": "541990", "title": "All Other Professional, Scientific, and Technical Services"},{"id": "561611", "title": "Investigation and Personal Background Check Services"}]
+    },
+    {
+        "isic_id": "8110",
+        "isic_title": "Combined facilities support services",
+        "naics_correspondence": [{"id": "561210", "title": "Facilities Support Services"}]
+    },
+    {
+        "isic_id": "8121",
+        "isic_title": "General cleaning of buildings",
+        "naics_correspondence": [{"id": "561720", "title": "Janitorial Services"}]
+    },
+    {
+        "isic_id": "8129",
+        "isic_title": "Other building and industrial cleaning activities",
+        "naics_correspondence": [{"id": "238220", "title": "Plumbing, Heating, and Air-Conditioning Contractors"},{"id": "488119", "title": "Other Airport Operations"},{"id": "488210", "title": "Support Activities for Rail Transportation"},{"id": "488320", "title": "Marine Cargo Handling"},{"id": "488490", "title": "Other Support Activities for Road Transportation"},{"id": "561710", "title": "Exterminating and Pest Control Services"},{"id": "561720", "title": "Janitorial Services"},{"id": "561790", "title": "Other Services to Buildings and Dwellings"},{"id": "811310", "title": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "8130",
+        "isic_title": "Landscape care and maintenance service activities",
+        "naics_correspondence": [{"id": "561730", "title": "Landscaping Services"}]
+    },
+    {
+        "isic_id": "8211",
+        "isic_title": "Combined office administrative service activities",
+        "naics_correspondence": [{"id": "561110", "title": "Office Administrative Services"}]
+    },
+    {
+        "isic_id": "8219",
+        "isic_title": "Photocopying, document preparation and other specialized office support activities",
+        "naics_correspondence": [{"id": "323111", "title": "Commercial Printing (except Screen and Books)"},{"id": "561410", "title": "Document Preparation Services"},{"id": "561431", "title": "Private Mail Centers"},{"id": "561439", "title": "Other Business Service Centers (including Copy Shops)"}]
+    },
+    {
+        "isic_id": "8220",
+        "isic_title": "Activities of call centres",
+        "naics_correspondence": [{"id": "561421", "title": "Telephone Answering Services"},{"id": "561422", "title": "Telemarketing Bureaus and Other Contact Centers"}]
+    },
+    {
+        "isic_id": "8230",
+        "isic_title": "Organization of conventions and trade shows",
+        "naics_correspondence": [{"id": "561920", "title": "Convention and Trade Show Organizers"}]
+    },
+    {
+        "isic_id": "8291",
+        "isic_title": "Activities of collection agencies and credit bureaus",
+        "naics_correspondence": [{"id": "561440", "title": "Collection Agencies"},{"id": "561450", "title": "Credit Bureaus"}]
+    },
+    {
+        "isic_id": "8292",
+        "isic_title": "Packaging activities",
+        "naics_correspondence": [{"id": "325998", "title": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"},{"id": "561499", "title": "All Other Business Support Services"},{"id": "561910", "title": "Packaging and Labeling Services"}]
+    },
+    {
+        "isic_id": "8299",
+        "isic_title": "Other business support service activities (not elsewhere classified)",
+        "naics_correspondence": [{"id": "561491", "title": "Repossession Services"},{"id": "561492", "title": "Court Reporting and Stenotype Services"},{"id": "561499", "title": "All Other Business Support Services"},{"id": "561990", "title": "All Other Support Services"}]
+    },
+    {
+        "isic_id": "8411",
+        "isic_title": "General public administration activities",
+        "naics_correspondence": [{"id": "561440", "title": "Collection Agencies"},{"id": "921110", "title": "Executive Offices"},{"id": "921120", "title": "Legislative Bodies"},{"id": "921130", "title": "Public Finance Activities"},{"id": "921140", "title": "Executive and Legislative Offices, Combined"},{"id": "921150", "title": "American Indian and Alaska Native Tribal Governments"},{"id": "921190", "title": "Other General Government Support"},{"id": "922190", "title": "Other Justice, Public Order, and Safety Activities"},{"id": "923110", "title": "Administration of Education Programs"},{"id": "923120", "title": "Administration of Public Health Programs"},{"id": "926110", "title": "Administration of General Economic Programs"}]
+    },
+    {
+        "isic_id": "8412",
+        "isic_title": "Regulation of the activities of providing health care, education, cultural services and other social services, excluding social security",
+        "naics_correspondence": [{"id": "923110", "title": "Administration of Education Programs"},{"id": "923120", "title": "Administration of Public Health Programs"},{"id": "923130", "title": "Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)"},{"id": "923140", "title": "Administration of Veterans' Affairs"},{"id": "924110", "title": "Administration of Air and Water Resource and Solid Waste Management Programs"},{"id": "924120", "title": "Administration of Conservation Programs"},{"id": "925110", "title": "Administration of Housing Programs"},{"id": "926110", "title": "Administration of General Economic Programs"}]
+    },
+    {
+        "isic_id": "8413",
+        "isic_title": "Regulation of and contribution to more efficient operation of businesses",
+        "naics_correspondence": [{"id": "561990", "title": "All Other Support Services"},{"id": "924120", "title": "Administration of Conservation Programs"},{"id": "925120", "title": "Administration of Urban Planning and Community and Rural Development"},{"id": "926110", "title": "Administration of General Economic Programs"},{"id": "926120", "title": "Regulation and Administration of Transportation Programs"},{"id": "926130", "title": "Regulation and Administration of Communications, Electric, Gas, and Other Utilities"},{"id": "926140", "title": "Regulation of Agricultural Marketing and Commodities"},{"id": "926150", "title": "Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors"},{"id": "927110", "title": "Space Research and Technology"}]
+    },
+    {
+        "isic_id": "8421",
+        "isic_title": "Foreign affairs",
+        "naics_correspondence": [{"id": "926110", "title": "Administration of General Economic Programs"},{"id": "928110", "title": "National Security"},{"id": "928120", "title": "International Affairs"}]
+    },
+    {
+        "isic_id": "8422",
+        "isic_title": "Defense activities",
+        "naics_correspondence": [{"id": "922190", "title": "Other Justice, Public Order, and Safety Activities"},{"id": "928110", "title": "National Security"}]
+    },
+    {
+        "isic_id": "8423",
+        "isic_title": "Public order and safety activities",
+        "naics_correspondence": [{"id": "561210", "title": "Facilities Support Services"},{"id": "561990", "title": "All Other Support Services"},{"id": "921150", "title": "American Indian and Alaska Native Tribal Governments"},{"id": "922110", "title": "Courts"},{"id": "922120", "title": "Police Protection"},{"id": "922130", "title": "Legal Counsel and Prosecution"},{"id": "922140", "title": "Correctional Institutions"},{"id": "922150", "title": "Parole Offices and Probation Offices"},{"id": "922160", "title": "Fire Protection"},{"id": "922190", "title": "Other Justice, Public Order, and Safety Activities"},{"id": "924120", "title": "Administration of Conservation Programs"},{"id": "926120", "title": "Regulation and Administration of Transportation Programs"},{"id": "928110", "title": "National Security"},{"id": "928120", "title": "International Affairs"}]
+    },
+    {
+        "isic_id": "8430",
+        "isic_title": "Compulsory social security activities",
+        "naics_correspondence": [{"id": "923130", "title": "Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs)"}]
+    },
+    {
+        "isic_id": "8510",
+        "isic_title": "Pre-primary and primary education",
+        "naics_correspondence": [{"id": "611110", "title": "Elementary and Secondary Schools"},{"id": "611691", "title": "Exam Preparation and Tutoring"}]
+    },
+    {
+        "isic_id": "8521",
+        "isic_title": "General secondary education",
+        "naics_correspondence": [{"id": "611110", "title": "Elementary and Secondary Schools"}]
+    },
+    {
+        "isic_id": "8522",
+        "isic_title": "Technical and vocational secondary education",
+        "naics_correspondence": [{"id": "611110", "title": "Elementary and Secondary Schools"},{"id": "611410", "title": "Business and Secretarial Schools"},{"id": "611511", "title": "Cosmetology and Barber Schools"},{"id": "611512", "title": "Flight Training"},{"id": "611513", "title": "Apprenticeship Training"},{"id": "611519", "title": "Other Technical and Trade Schools"}]
+    },
+    {
+        "isic_id": "8530",
+        "isic_title": "Higher education",
+        "naics_correspondence": [{"id": "611210", "title": "Junior Colleges"},{"id": "611310", "title": "Colleges, Universities, and Professional Schools"}]
+    },
+    {
+        "isic_id": "8541",
+        "isic_title": "Sports and recreation education",
+        "naics_correspondence": [{"id": "611620", "title": "Sports and Recreation Instruction"},{"id": "611699", "title": "All Other Miscellaneous Schools and Instruction"}]
+    },
+    {
+        "isic_id": "8542",
+        "isic_title": "Cultural education",
+        "naics_correspondence": [{"id": "611610", "title": "Fine Arts Schools"}]
+    },
+    {
+        "isic_id": "8549",
+        "isic_title": "Other education (not elsewhere classified)",
+        "naics_correspondence": [{"id": "611420", "title": "Computer Training"},{"id": "611430", "title": "Professional and Management Development Training"},{"id": "611512", "title": "Flight Training"},{"id": "611630", "title": "Language Schools"},{"id": "611691", "title": "Exam Preparation and Tutoring"},{"id": "611692", "title": "Automobile Driving Schools"},{"id": "611699", "title": "All Other Miscellaneous Schools and Instruction"}]
+    },
+    {
+        "isic_id": "8550",
+        "isic_title": "Educational support services",
+        "naics_correspondence": [{"id": "611710", "title": "Educational Support Services"}]
+    },
+    {
+        "isic_id": "8610",
+        "isic_title": "Hospital activities",
+        "naics_correspondence": [{"id": "622110", "title": "General Medical and Surgical Hospitals"},{"id": "622210", "title": "Psychiatric and Substance Abuse Hospitals"},{"id": "622310", "title": "Specialty (except Psychiatric and Substance Abuse) Hospitals"}]
+    },
+    {
+        "isic_id": "8620",
+        "isic_title": "Medical and dental practice activities",
+        "naics_correspondence": [{"id": "621111", "title": "Offices of Physicians (except Mental Health Specialists)"},{"id": "621112", "title": "Offices of Physicians, Mental Health Specialists"},{"id": "621210", "title": "Offices of Dentists"},{"id": "621410", "title": "Family Planning Centers"},{"id": "621420", "title": "Outpatient Mental Health and Substance Abuse Centers"},{"id": "621491", "title": "HMO Medical Centers"},{"id": "621493", "title": "Freestanding Ambulatory Surgical and Emergency Centers"},{"id": "621498", "title": "All Other Outpatient Care Centers"}]
+    },
+    {
+        "isic_id": "8690",
+        "isic_title": "Other human health activities",
+        "naics_correspondence": [{"id": "621310", "title": "Offices of Chiropractors"},{"id": "621320", "title": "Offices of Optometrists"},{"id": "621330", "title": "Offices of Mental Health Practitioners (except Physicians)"},{"id": "621340", "title": "Offices of Physical, Occupational and Speech Therapists, and Audiologists"},{"id": "621391", "title": "Offices of Podiatrists"},{"id": "621399", "title": "Offices of All Other Miscellaneous Health Practitioners"},{"id": "621410", "title": "Family Planning Centers"},{"id": "621420", "title": "Outpatient Mental Health and Substance Abuse Centers"},{"id": "621492", "title": "Kidney Dialysis Centers"},{"id": "621498", "title": "All Other Outpatient Care Centers"},{"id": "621511", "title": "Medical Laboratories"},{"id": "621512", "title": "Diagnostic Imaging Centers"},{"id": "621610", "title": "Home Health Care Services"},{"id": "621910", "title": "Ambulance Services"},{"id": "621991", "title": "Blood and Organ Banks"},{"id": "621999", "title": "All Other Miscellaneous Ambulatory Health Care Services"}]
+    },
+    {
+        "isic_id": "8710",
+        "isic_title": "Residential nursing care facilities",
+        "naics_correspondence": [{"id": "623110", "title": "Nursing Care Facilities (Skilled Nursing Facilities)"}]
+    },
+    {
+        "isic_id": "8720",
+        "isic_title": "Residential care activities for mental retardation, mental health and substance abuse",
+        "naics_correspondence": [{"id": "623210", "title": "Residential Intellectual and Developmental Disability Facilities"},{"id": "623220", "title": "Residential Mental Health and Substance Abuse Facilities"}]
+    },
+    {
+        "isic_id": "8730",
+        "isic_title": "Residential care activities for the elderly and disabled",
+        "naics_correspondence": [{"id": "623311", "title": "Continuing Care Retirement Communities"},{"id": "623312", "title": "Assisted Living Facilities for the Elderly"}]
+    },
+    {
+        "isic_id": "8790",
+        "isic_title": "Other residential care activities",
+        "naics_correspondence": [{"id": "623990", "title": "Other Residential Care Facilities"}]
+    },
+    {
+        "isic_id": "8810",
+        "isic_title": "Social work activities without accommodation for the elderly and disabled",
+        "naics_correspondence": [{"id": "624120", "title": "Services for the Elderly and Persons with Disabilities"}]
+    },
+    {
+        "isic_id": "8890",
+        "isic_title": "Other social work activities without accommodation",
+        "naics_correspondence": [{"id": "541990", "title": "All Other Professional, Scientific, and Technical Services"},{"id": "621410", "title": "Family Planning Centers"},{"id": "624110", "title": "Child and Youth Services"},{"id": "624190", "title": "Other Individual and Family Services"},{"id": "624210", "title": "Community Food Services"},{"id": "624221", "title": "Temporary Shelters"},{"id": "624229", "title": "Other Community Housing Services"},{"id": "624230", "title": "Emergency and Other Relief Services"},{"id": "624310", "title": "Vocational Rehabilitation Services"},{"id": "624410", "title": "Child Care Services"}]
+    },
+    {
+        "isic_id": "9000",
+        "isic_title": "Creative, arts and entertainment activities",
+        "naics_correspondence": [{"id": "711110", "title": "Theater Companies and Dinner Theaters"},{"id": "711120", "title": "Dance Companies"},{"id": "711130", "title": "Musical Groups and Artists"},{"id": "711190", "title": "Other Performing Arts Companies"},{"id": "711310", "title": "Promoters of Performing Arts, Sports, and Similar Events with Facilities"},{"id": "711320", "title": "Promoters of Performing Arts, Sports, and Similar Events without Facilities"},{"id": "711510", "title": "Independent Artists, Writers, and Performers"}]
+    },
+    {
+        "isic_id": "9101",
+        "isic_title": "Library and archives activities",
+        "naics_correspondence": [{"id": "519210", "title": "Libraries and Archives"},{"id": "519290", "title": "Web Search Portals and All Other Information Services"}]
+    },
+    {
+        "isic_id": "9102",
+        "isic_title": "Museums activities and operation of historical sites and buildings",
+        "naics_correspondence": [{"id": "712110", "title": "Museums"},{"id": "712120", "title": "Historical Sites"}]
+    },
+    {
+        "isic_id": "9103",
+        "isic_title": "Botanical and zoological gardens and nature reserves activities",
+        "naics_correspondence": [{"id": "712130", "title": "Zoos and Botanical Gardens"},{"id": "712190", "title": "Nature Parks and Other Similar Institutions"}]
+    },
+    {
+        "isic_id": "9200",
+        "isic_title": "Gambling and betting activities",
+        "naics_correspondence": [{"id": "713210", "title": "Casinos (except Casino Hotels)"},{"id": "713290", "title": "Other Gambling Industries"},{"id": "721120", "title": "Casino Hotels"}]
+    },
+    {
+        "isic_id": "9311",
+        "isic_title": "Operation of sports facilities",
+        "naics_correspondence": [{"id": "711212", "title": "Racetracks"},{"id": "711310", "title": "Promoters of Performing Arts, Sports, and Similar Events with Facilities"},{"id": "713910", "title": "Golf Courses and Country Clubs"},{"id": "713940", "title": "Fitness and Recreational Sports Centers"},{"id": "713950", "title": "Bowling Centers"}]
+    },
+    {
+        "isic_id": "9312",
+        "isic_title": "Activities of sports clubs",
+        "naics_correspondence": [{"id": "711211", "title": "Sports Teams and Clubs"},{"id": "713990", "title": "All Other Amusement and Recreation Industries"}]
+    },
+    {
+        "isic_id": "9319",
+        "isic_title": "Other sports activities",
+        "naics_correspondence": [{"id": "711219", "title": "Other Spectator Sports"},{"id": "711310", "title": "Promoters of Performing Arts, Sports, and Similar Events with Facilities"},{"id": "711320", "title": "Promoters of Performing Arts, Sports, and Similar Events without Facilities"},{"id": "713990", "title": "All Other Amusement and Recreation Industries"},{"id": "813990", "title": "Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)"}]
+    },
+    {
+        "isic_id": "9321",
+        "isic_title": "Activities of amusement parks and theme parks",
+        "naics_correspondence": [{"id": "713110", "title": "Amusement and Theme Parks"}]
+    },
+    {
+        "isic_id": "9329",
+        "isic_title": "Other amusement and recreation activities (not elsewhere classified)",
+        "naics_correspondence": [{"id": "711190", "title": "Other Performing Arts Companies"},{"id": "711310", "title": "Promoters of Performing Arts, Sports, and Similar Events with Facilities"},{"id": "711320", "title": "Promoters of Performing Arts, Sports, and Similar Events without Facilities"},{"id": "713120", "title": "Amusement Arcades"},{"id": "713920", "title": "Skiing Facilities"},{"id": "713930", "title": "Marinas"},{"id": "713990", "title": "All Other Amusement and Recreation Industries"}]
+    },
+    {
+        "isic_id": "9411",
+        "isic_title": "Activities of business and employers membership organizations",
+        "naics_correspondence": [{"id": "813910", "title": "Business Associations"}]
+    },
+    {
+        "isic_id": "9412",
+        "isic_title": "Activities of professional membership organizations",
+        "naics_correspondence": [{"id": "813920", "title": "Professional Organizations"}]
+    },
+    {
+        "isic_id": "9420",
+        "isic_title": "Activities of trade unions",
+        "naics_correspondence": [{"id": "813930", "title": "Labor Unions and Similar Labor Organizations"}]
+    },
+    {
+        "isic_id": "9491",
+        "isic_title": "Activities of religious organizations",
+        "naics_correspondence": [{"id": "813110", "title": "Religious Organizations"}]
+    },
+    {
+        "isic_id": "9492",
+        "isic_title": "Activities of political organizations",
+        "naics_correspondence": [{"id": "813940", "title": "Political Organizations"}]
+    },
+    {
+        "isic_id": "9499",
+        "isic_title": "Activities of other membership organizations (not elsewhere classified)",
+        "naics_correspondence": [{"id": "813211", "title": "Grantmaking Foundations"},{"id": "813212", "title": "Voluntary Health Organizations"},{"id": "813219", "title": "Other Grantmaking and Giving Services"},{"id": "813311", "title": "Human Rights Organizations"},{"id": "813312", "title": "Environment, Conservation and Wildlife Organizations"},{"id": "813319", "title": "Other Social Advocacy Organizations"},{"id": "813410", "title": "Civic and Social Organizations"},{"id": "813990", "title": "Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)"}]
+    },
+    {
+        "isic_id": "9511",
+        "isic_title": "Repair of computers and peripheral equipment",
+        "naics_correspondence": [{"id": "811210", "title": "Electronic and Precision Equipment Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "9512",
+        "isic_title": "Repair of communication equipment",
+        "naics_correspondence": [{"id": "811210", "title": "Electronic and Precision Equipment Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "9521",
+        "isic_title": "Repair of consumer electronics",
+        "naics_correspondence": [{"id": "449210", "title": "Electronics and Appliance Retailers"},{"id": "811210", "title": "Electronic and Precision Equipment Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "9522",
+        "isic_title": "Repair of household appliances and home and garden equipment",
+        "naics_correspondence": [{"id": "449210", "title": "Electronics and Appliance Retailers"},{"id": "444230", "title": "Outdoor Power Equipment Retailers"},{"id": "811411", "title": "Home and Garden Equipment Repair and Maintenance"},{"id": "811412", "title": "Appliance Repair and Maintenance"},{"id": "811490", "title": "Other Personal and Household Goods Repair and Maintenance"}]
+    },
+    {
+        "isic_id": "9523",
+        "isic_title": "Repair of footwear and leather goods",
+        "naics_correspondence": [{"id": "458320", "title": "Luggage and Leather Goods Retailers"},{"id": "458210", "title": "Shoe Retailers"}]
+    },
+    {
+        "isic_id": "9524",
+        "isic_title": "Repair of furniture and home furnishings",
+        "naics_correspondence": [{"id": "449122", "title": "Window Treatment Retailers"},{"id": "811420", "title": "Reupholstery and Furniture Repair"}]
+    },
+    {
+        "isic_id": "9529",
+        "isic_title": "Repair of other personal and household goods",
+        "naics_correspondence": [{"id": "458310", "title": "Jewelry Retailers"},{"id": "459110", "title": "Sporting Goods Retailers"},{"id": "459140", "title": "Musical Instrument and Supplies Retailers"},{"id": "811490", "title": "Other Personal and Household Goods Repair and Maintenance"},{"id": "812990", "title": "All Other Personal Services"}]
+    },
+    {
+        "isic_id": "9601",
+        "isic_title": "Washing and (dry-) cleaning of textile and fur products",
+        "naics_correspondence": [{"id": "561740", "title": "Carpet and Upholstery Cleaning Services"},{"id": "812310", "title": "Coin-Operated Laundries and Drycleaners"},{"id": "812320", "title": "Drycleaning and Laundry Services (except Coin-Operated)"},{"id": "812331", "title": "Linen Supply"},{"id": "812332", "title": "Industrial Launderers"}]
+    },
+    {
+        "isic_id": "9602",
+        "isic_title": "Hairdressing and other beauty treatment",
+        "naics_correspondence": [{"id": "812111", "title": "Barber Shops"},{"id": "812112", "title": "Beauty Salons"},{"id": "812113", "title": "Nail Salons"}]
+    },
+    {
+        "isic_id": "9603",
+        "isic_title": "Funeral and related activities",
+        "naics_correspondence": [{"id": "812210", "title": "Funeral Homes and Funeral Services"},{"id": "812220", "title": "Cemeteries and Crematories"}]
+    },
+    {
+        "isic_id": "9609",
+        "isic_title": "Other personal service activities (not elsewhere classified)",
+        "naics_correspondence": [{"id": "812191", "title": "Diet and Weight Reducing Centers"},{"id": "812199", "title": "Other Personal Care Services"},{"id": "812910", "title": "Pet Care (except Veterinary) Services"},{"id": "812930", "title": "Parking Lots and Garages"},{"id": "812990", "title": "All Other Personal Services"}]
+    },
+    {
+        "isic_id": "9700",
+        "isic_title": "Activities of households as employers of domestic personnel",
+        "naics_correspondence": [{"id": "814110", "title": "Private Households"}]
+    },
+    {
+        "isic_id": "9810",
+        "isic_title": "Undifferentiated goods-producing activities of private households for own use",
+        "naics_correspondence": []
+    },
+    {
+        "isic_id": "9900",
+        "isic_title": "Activities of extraterritorial organizations and bodies",
+        "naics_correspondence": [{"id": "928120", "title": "International Affairs"}]
+    }
+]
