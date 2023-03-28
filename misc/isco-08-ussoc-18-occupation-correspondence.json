@@ -1,0 +1,2207 @@
+[
+    {
+        "isco_id": "0110",
+        "isco_title": "Commissioned armed forces officers",
+        "ussoc_correspondence": [{"id": "55-1011", "title": "Air Crew Officers"},{"id": "55-1012", "title": "Aircraft Launch and Recovery Officers"},{"id": "55-1013", "title": "Armored Assault Vehicle Officers"},{"id": "55-1014", "title": "Artillery and Missile Officers"},{"id": "55-1015", "title": "Command and Control Center Officers"},{"id": "55-1016", "title": "Infantry Officers"},{"id": "55-1017", "title": "Special Forces Officers"},{"id": "55-1019", "title": "Military Officer Special and Tactical Operations Leaders, All Other"}]
+    },
+    {
+        "isco_id": "0210",
+        "isco_title": "Non-commissioned armed forces officers",
+        "ussoc_correspondence": [{"id": "55-2011", "title": "First-Line Supervisors of Air Crew Members"},{"id": "55-2012", "title": "First-Line Supervisors of Weapons Specialists/Crew Members"},{"id": "55-2013", "title": "First-Line Supervisors of All Other Tactical Operations Specialists"}]
+    },
+    {
+        "isco_id": "0310",
+        "isco_title": "Armed forces occupations, other ranks",
+        "ussoc_correspondence": [{"id": "55-3011", "title": "Air Crew Members"},{"id": "55-3012", "title": "Aircraft Launch and Recovery Specialists"},{"id": "55-3013", "title": "Armored Assault Vehicle Crew Members"},{"id": "55-3014", "title": "Artillery and Missile Crew Members"},{"id": "55-3015", "title": "Command and Control Center Specialists"},{"id": "55-3016", "title": "Infantry"},{"id": "55-3018", "title": "Special Forces"},{"id": "55-3019", "title": "Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other"}]
+    },
+    {
+        "isco_id": "1111",
+        "isco_title": "Legislators",
+        "ussoc_correspondence": [{"id": "11-1031", "title": "Legislators"}]
+    },
+    {
+        "isco_id": "1112",
+        "isco_title": "Senior government officials",
+        "ussoc_correspondence": [{"id": "11-1011", "title": "Chief Executives"},{"id": "11-1021", "title": "General and Operations Managers"},{"id": "11-9161", "title": "Emergency Management Directors"}]
+    },
+    {
+        "isco_id": "1113",
+        "isco_title": "Traditional chiefs and heads of villages",
+        "ussoc_correspondence": [{"id": "11-1011", "title": "Chief Executives"},{"id": "11-1031", "title": "Legislators"}]
+    },
+    {
+        "isco_id": "1114",
+        "isco_title": "Senior officials of special-interest organizations",
+        "ussoc_correspondence": [{"id": "11-1021", "title": "General and Operations Managers"},{"id": "11-2032", "title": "Public Relations Managers"},{"id": "11-9199", "title": "Managers, All Other"}]
+    },
+    {
+        "isco_id": "1120",
+        "isco_title": "Managing directors and chief executives",
+        "ussoc_correspondence": [{"id": "11-1011", "title": "Chief Executives"},{"id": "11-1021", "title": "General and Operations Managers"}]
+    },
+    {
+        "isco_id": "1211",
+        "isco_title": "Finance managers",
+        "ussoc_correspondence": [{"id": "11-3031", "title": "Financial Managers"}]
+    },
+    {
+        "isco_id": "1212",
+        "isco_title": "Human resource managers",
+        "ussoc_correspondence": [{"id": "11-3111", "title": "Compensation and Benefits Managers"},{"id": "11-3121", "title": "Human Resources Managers"},{"id": "11-3131", "title": "Training and Development Managers"}]
+    },
+    {
+        "isco_id": "1213",
+        "isco_title": "Policy and planning managers",
+        "ussoc_correspondence": [{"id": "11-9199", "title": "Managers, All Other"}]
+    },
+    {
+        "isco_id": "1219",
+        "isco_title": "Business services and administration managers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "11-2032", "title": "Public Relations Managers"},{"id": "11-3012", "title": "Administrative Services Managers"},{"id": "11-3061", "title": "Purchasing Managers"},{"id": "11-9171", "title": "Funeral Home Managers"},{"id": "11-9131", "title": "Postmasters and Mail Superintendents"},{"id": "11-9199", "title": "Managers, All Other"}]
+    },
+    {
+        "isco_id": "1221",
+        "isco_title": "Sales and marketing managers",
+        "ussoc_correspondence": [{"id": "11-2021", "title": "Marketing Managers"},{"id": "11-2022", "title": "Sales Managers"}]
+    },
+    {
+        "isco_id": "1222",
+        "isco_title": "Advertising and public relations managers",
+        "ussoc_correspondence": [{"id": "11-2011", "title": "Advertising and Promotions Managers"},{"id": "11-2032", "title": "Public Relations Managers"}]
+    },
+    {
+        "isco_id": "1223",
+        "isco_title": "Research and development managers",
+        "ussoc_correspondence": [{"id": "11-9041", "title": "Architectural and Engineering Managers"},{"id": "11-9121", "title": "Natural Sciences Managers"}]
+    },
+    {
+        "isco_id": "1311",
+        "isco_title": "Agricultural and forestry production managers",
+        "ussoc_correspondence": [{"id": "11-9013", "title": "Farmers, Ranchers, and Other Agricultural Managers"}]
+    },
+    {
+        "isco_id": "1312",
+        "isco_title": "Aquaculture and fisheries production managers",
+        "ussoc_correspondence": [{"id": "11-9013", "title": "Farmers, Ranchers, and Other Agricultural Managers"}]
+    },
+    {
+        "isco_id": "1321",
+        "isco_title": "Manufacturing managers",
+        "ussoc_correspondence": [{"id": "11-3051", "title": "Industrial Production Managers"}]
+    },
+    {
+        "isco_id": "1322",
+        "isco_title": "Mining managers",
+        "ussoc_correspondence": [{"id": "11-9199", "title": "Managers, All Other"}]
+    },
+    {
+        "isco_id": "1323",
+        "isco_title": "Construction managers",
+        "ussoc_correspondence": [{"id": "11-9021", "title": "Construction Managers"}]
+    },
+    {
+        "isco_id": "1324",
+        "isco_title": "Supply, distribution and related managers",
+        "ussoc_correspondence": [{"id": "11-3071", "title": "Transportation, Storage, and Distribution Managers"}]
+    },
+    {
+        "isco_id": "1330",
+        "isco_title": "Information and communications technology service managers",
+        "ussoc_correspondence": [{"id": "11-3021", "title": "Computer and Information Systems Managers"}]
+    },
+    {
+        "isco_id": "1341",
+        "isco_title": "Child care services managers",
+        "ussoc_correspondence": [{"id": "11-9031", "title": "Education and Childcare Administrators, Preschool and Daycare"}]
+    },
+    {
+        "isco_id": "1342",
+        "isco_title": "Health services managers",
+        "ussoc_correspondence": [{"id": "11-9111", "title": "Medical and Health Services Managers"}]
+    },
+    {
+        "isco_id": "1343",
+        "isco_title": "Aged care services managers",
+        "ussoc_correspondence": [{"id": "11-1021", "title": "General and Operations Managers"},{"id": "11-9111", "title": "Medical and Health Services Managers"}]
+    },
+    {
+        "isco_id": "1344",
+        "isco_title": "Social welfare managers",
+        "ussoc_correspondence": [{"id": "11-9151", "title": "Social and Community Service Managers"}]
+    },
+    {
+        "isco_id": "1345",
+        "isco_title": "Education managers",
+        "ussoc_correspondence": [{"id": "11-9032", "title": "Education Administrators, Kindergarten through Secondary"},{"id": "11-9033", "title": "Education Administrators, Postsecondary"},{"id": "11-9039", "title": "Education Administrators, All Other"}]
+    },
+    {
+        "isco_id": "1346",
+        "isco_title": "Financial and insurance services branch managers",
+        "ussoc_correspondence": [{"id": "11-1021", "title": "General and Operations Managers"},{"id": "11-3031", "title": "Financial Managers"}]
+    },
+    {
+        "isco_id": "1349",
+        "isco_title": "Professional services managers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "11-9199", "title": "Managers, All Other"}]
+    },
+    {
+        "isco_id": "1411",
+        "isco_title": "Hotel managers",
+        "ussoc_correspondence": [{"id": "11-9081", "title": "Lodging Managers"}]
+    },
+    {
+        "isco_id": "1412",
+        "isco_title": "Restaurant managers",
+        "ussoc_correspondence": [{"id": "11-9051", "title": "Food Service Managers"}]
+    },
+    {
+        "isco_id": "1420",
+        "isco_title": "Retail and wholesale trade managers",
+        "ussoc_correspondence": [{"id": "11-1021", "title": "General and Operations Managers"}]
+    },
+    {
+        "isco_id": "1431",
+        "isco_title": "Sports, recreation and cultural centre managers",
+        "ussoc_correspondence": [{"id": "11-9071", "title": "Gambling Managers"},{"id": "11-9199", "title": "Managers, All Other"}]
+    },
+    {
+        "isco_id": "1439",
+        "isco_title": "Services managers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "11-9199", "title": "Managers, All Other"}]
+    },
+    {
+        "isco_id": "211",
+        "isco_title": "Physical and earth science professionals",
+        "ussoc_correspondence": [{"id": "19-2099", "title": "Physical Scientists, All Other"}]
+    },
+    {
+        "isco_id": "2111",
+        "isco_title": "Physicists and astronomers",
+        "ussoc_correspondence": [{"id": "19-2011", "title": "Astronomers"},{"id": "19-2012", "title": "Physicists"}]
+    },
+    {
+        "isco_id": "2112",
+        "isco_title": "Meteorologists",
+        "ussoc_correspondence": [{"id": "19-2021", "title": "Atmospheric and Space Scientists"}]
+    },
+    {
+        "isco_id": "2113",
+        "isco_title": "Chemists",
+        "ussoc_correspondence": [{"id": "19-2031", "title": "Chemists"},{"id": "19-2032", "title": "Materials Scientists"}]
+    },
+    {
+        "isco_id": "2114",
+        "isco_title": "Geologists and geophysicists",
+        "ussoc_correspondence": [{"id": "19-2042", "title": "Geoscientists, Except Hydrologists and Geographers"},{"id": "19-2043", "title": "Hydrologists"}]
+    },
+    {
+        "isco_id": "2120",
+        "isco_title": "Mathematicians, actuaries and statisticians",
+        "ussoc_correspondence": [{"id": "15-2011", "title": "Actuaries"},{"id": "15-2021", "title": "Mathematicians"},{"id": "15-2031", "title": "Operations Research Analysts"},{"id": "15-2041", "title": "Statisticians"},{"id": "19-3022", "title": "Survey Researchers"}]
+    },
+    {
+        "isco_id": "2131",
+        "isco_title": "Biologists, botanists, zoologists and related professionals",
+        "ussoc_correspondence": [{"id": "19-1011", "title": "Animal Scientists"},{"id": "19-1012", "title": "Food Scientists and Technologists"},{"id": "19-1013", "title": "Soil and Plant Scientists"},{"id": "19-1021", "title": "Biochemists and Biophysicists"},{"id": "19-1022", "title": "Microbiologists"},{"id": "19-1023", "title": "Zoologists and Wildlife Biologists"},{"id": "19-1029", "title": "Biological Scientists, All Other"},{"id": "19-1041", "title": "Epidemiologists"},{"id": "19-1042", "title": "Medical Scientists, Except Epidemiologists"},{"id": "19-1099", "title": "Life Scientists, All Other"}]
+    },
+    {
+        "isco_id": "2132",
+        "isco_title": "Farming, forestry and fisheries advisers",
+        "ussoc_correspondence": [{"id": "19-1013", "title": "Soil and Plant Scientists"},{"id": "19-1032", "title": "Foresters"},{"id": "25-9021", "title": "Farm and Home Management Educators"}]
+    },
+    {
+        "isco_id": "2133",
+        "isco_title": "Environmental protection professionals",
+        "ussoc_correspondence": [{"id": "19-1031", "title": "Conservation Scientists"},{"id": "19-2041", "title": "Environmental Scientists and Specialists, Including Health"}]
+    },
+    {
+        "isco_id": "2141",
+        "isco_title": "Industrial and production engineers",
+        "ussoc_correspondence": [{"id": "17-2112", "title": "Industrial Engineers"}]
+    },
+    {
+        "isco_id": "2142",
+        "isco_title": "Civil engineers",
+        "ussoc_correspondence": [{"id": "17-2051", "title": "Civil Engineers"}]
+    },
+    {
+        "isco_id": "2143",
+        "isco_title": "Environmental engineers",
+        "ussoc_correspondence": [{"id": "17-2081", "title": "Environmental Engineers"}]
+    },
+    {
+        "isco_id": "2144",
+        "isco_title": "Mechanical engineers",
+        "ussoc_correspondence": [{"id": "17-2011", "title": "Aerospace Engineers"},{"id": "17-2021", "title": "Agricultural Engineers"},{"id": "17-2121", "title": "Marine Engineers and Naval Architects"},{"id": "17-2141", "title": "Mechanical Engineers"}]
+    },
+    {
+        "isco_id": "2145",
+        "isco_title": "Chemical engineers",
+        "ussoc_correspondence": [{"id": "17-2041", "title": "Chemical Engineers"}]
+    },
+    {
+        "isco_id": "2146",
+        "isco_title": "Mining engineers, metallurgists and related professionals",
+        "ussoc_correspondence": [{"id": "17-2131", "title": "Materials Engineers"},{"id": "17-2151", "title": "Mining and Geological Engineers, Including Mining Safety Engineers"},{"id": "17-2171", "title": "Petroleum Engineers"},{"id": "19-2032", "title": "Materials Scientists"}]
+    },
+    {
+        "isco_id": "2149",
+        "isco_title": "Engineering professionals not elsewhere classified",
+        "ussoc_correspondence": [{"id": "17-2031", "title": "Bioengineers and Biomedical Engineers"},{"id": "17-2111", "title": "Health and Safety Engineers, Except Mining Safety Engineers and Inspectors"},{"id": "17-2131", "title": "Materials Engineers"},{"id": "17-2161", "title": "Nuclear Engineers"},{"id": "17-2199", "title": "Engineers, All Other"}]
+    },
+    {
+        "isco_id": "2151",
+        "isco_title": "Electrical engineers",
+        "ussoc_correspondence": [{"id": "17-2071", "title": "Electrical Engineers"}]
+    },
+    {
+        "isco_id": "2152",
+        "isco_title": "Electronics engineers",
+        "ussoc_correspondence": [{"id": "17-2061", "title": "Computer Hardware Engineers"},{"id": "17-2072", "title": "Electronics Engineers, Except Computer"}]
+    },
+    {
+        "isco_id": "2153",
+        "isco_title": "Telecommunications engineers",
+        "ussoc_correspondence": [{"id": "17-2072", "title": "Electronics Engineers, Except Computer"}]
+    },
+    {
+        "isco_id": "2161",
+        "isco_title": "Building architects",
+        "ussoc_correspondence": [{"id": "17-1011", "title": "Architects, Except Landscape and Naval"}]
+    },
+    {
+        "isco_id": "2162",
+        "isco_title": "Landscape architects",
+        "ussoc_correspondence": [{"id": "17-1012", "title": "Landscape Architects"}]
+    },
+    {
+        "isco_id": "2163",
+        "isco_title": "Product and garment designers",
+        "ussoc_correspondence": [{"id": "27-1021", "title": "Commercial and Industrial Designers"},{"id": "27-1022", "title": "Fashion Designers"},{"id": "27-1029", "title": "Designers, All Other"}]
+    },
+    {
+        "isco_id": "2164",
+        "isco_title": "Town and traffic planners",
+        "ussoc_correspondence": [{"id": "19-3051", "title": "Urban and Regional Planners"}]
+    },
+    {
+        "isco_id": "2165",
+        "isco_title": "Cartographers and surveyors",
+        "ussoc_correspondence": [{"id": "17-1021", "title": "Cartographers and Photogrammetrists"},{"id": "17-1022", "title": "Surveyors"}]
+    },
+    {
+        "isco_id": "2166",
+        "isco_title": "Graphic and multimedia designers",
+        "ussoc_correspondence": [{"id": "27-1014", "title": "Special Effects Artists and Animators"},{"id": "27-1024", "title": "Graphic Designers"}]
+    },
+    {
+        "isco_id": "2211",
+        "isco_title": "Generalist medical practitioners ",
+        "ussoc_correspondence": [{"id": "29-1215", "title": "Family Medicine Physicians"},{"id": "29-1216", "title": "General Internal Medicine Physicians"},{"id": "29-1221", "title": "Pediatricians, General"},{"id": "29-1229", "title": "Physicians, All Other"}]
+    },
+    {
+        "isco_id": "2212",
+        "isco_title": "Specialist medical practitioners ",
+        "ussoc_correspondence": [{"id": "29-1211", "title": "Anesthesiologists"},{"id": "29-1218", "title": "Obstetricians and Gynecologists"},{"id": "29-1223", "title": "Psychiatrists"},{"id": "29-1249", "title": "Surgeons, All Other"},{"id": "29-1229", "title": "Physicians, All Other"}]
+    },
+    {
+        "isco_id": "2221",
+        "isco_title": "Nursing professionals",
+        "ussoc_correspondence": [{"id": "29-1141", "title": "Registered Nurses"},{"id": "29-1151", "title": "Nurse Anesthetists"},{"id": "29-1171", "title": "Nurse Practitioners"}]
+    },
+    {
+        "isco_id": "2222",
+        "isco_title": "Midwifery professionals",
+        "ussoc_correspondence": [{"id": "29-1161", "title": "Nurse Midwives"}]
+    },
+    {
+        "isco_id": "2230",
+        "isco_title": "Traditional and complementary medicine professionals",
+        "ussoc_correspondence": [{"id": "29-1299", "title": "Healthcare Diagnosing or Treating Practitioners, All Other"}]
+    },
+    {
+        "isco_id": "2240",
+        "isco_title": "Paramedical practitioners",
+        "ussoc_correspondence": [{"id": "29-1071", "title": "Physician Assistants"}]
+    },
+    {
+        "isco_id": "2250",
+        "isco_title": "Veterinarians",
+        "ussoc_correspondence": [{"id": "29-1131", "title": "Veterinarians"}]
+    },
+    {
+        "isco_id": "2261",
+        "isco_title": "Dentists",
+        "ussoc_correspondence": [{"id": "29-1021", "title": "Dentists, General"},{"id": "29-1022", "title": "Oral and Maxillofacial Surgeons"},{"id": "29-1023", "title": "Orthodontists"},{"id": "29-1024", "title": "Prosthodontists"},{"id": "29-1029", "title": "Dentists, All Other Specialists"}]
+    },
+    {
+        "isco_id": "2262",
+        "isco_title": "Pharmacists",
+        "ussoc_correspondence": [{"id": "29-1051", "title": "Pharmacists"}]
+    },
+    {
+        "isco_id": "2263",
+        "isco_title": "Environmental and occupational health and hygiene professionals",
+        "ussoc_correspondence": [{"id": "21-1091", "title": "Health Education Specialists"},{"id": "19-5011", "title": "Occupational Health and Safety Specialists"}]
+    },
+    {
+        "isco_id": "2264",
+        "isco_title": "Physiotherapists ",
+        "ussoc_correspondence": [{"id": "29-1123", "title": "Physical Therapists"},{"id": "29-1128", "title": "Exercise Physiologists"}]
+    },
+    {
+        "isco_id": "2265",
+        "isco_title": "Dieticians and nutritionists",
+        "ussoc_correspondence": [{"id": "29-1031", "title": "Dietitians and Nutritionists"}]
+    },
+    {
+        "isco_id": "2266",
+        "isco_title": "Audiologists and speech therapists",
+        "ussoc_correspondence": [{"id": "29-1127", "title": "Speech-Language Pathologists"},{"id": "29-1181", "title": "Audiologists"}]
+    },
+    {
+        "isco_id": "2267",
+        "isco_title": "Optometrists and ophthalmic opticians",
+        "ussoc_correspondence": [{"id": "29-1041", "title": "Optometrists"}]
+    },
+    {
+        "isco_id": "2269",
+        "isco_title": "Health professionals not elsewhere classified",
+        "ussoc_correspondence": [{"id": "29-1011", "title": "Chiropractors"},{"id": "29-1081", "title": "Podiatrists"},{"id": "29-1122", "title": "Occupational Therapists"},{"id": "29-1125", "title": "Recreational Therapists"},{"id": "29-1129", "title": "Therapists, All Other"},{"id": "29-1299", "title": "Healthcare Diagnosing or Treating Practitioners, All Other"},{"id": "29-9092", "title": "Genetic Counselors"}]
+    },
+    {
+        "isco_id": "2310",
+        "isco_title": "University and higher education teachers",
+        "ussoc_correspondence": [{"id": "25-1011", "title": "Business Teachers, Postsecondary"},{"id": "25-1021", "title": "Computer Science Teachers, Postsecondary"},{"id": "25-1022", "title": "Mathematical Science Teachers, Postsecondary"},{"id": "25-1031", "title": "Architecture Teachers, Postsecondary"},{"id": "25-1032", "title": "Engineering Teachers, Postsecondary"},{"id": "25-1041", "title": "Agricultural Sciences Teachers, Postsecondary"},{"id": "25-1042", "title": "Biological Science Teachers, Postsecondary"},{"id": "25-1043", "title": "Forestry and Conservation Science Teachers, Postsecondary"},{"id": "25-1051", "title": "Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"},{"id": "25-1052", "title": "Chemistry Teachers, Postsecondary"},{"id": "25-1053", "title": "Environmental Science Teachers, Postsecondary"},{"id": "25-1054", "title": "Physics Teachers, Postsecondary"},{"id": "25-1061", "title": "Anthropology and Archeology Teachers, Postsecondary"},{"id": "25-1062", "title": "Area, Ethnic, and Cultural Studies Teachers, Postsecondary"},{"id": "25-1063", "title": "Economics Teachers, Postsecondary"},{"id": "25-1064", "title": "Geography Teachers, Postsecondary"},{"id": "25-1065", "title": "Political Science Teachers, Postsecondary"},{"id": "25-1066", "title": "Psychology Teachers, Postsecondary"},{"id": "25-1067", "title": "Sociology Teachers, Postsecondary"},{"id": "25-1069", "title": "Social Sciences Teachers, Postsecondary, All Other"},{"id": "25-1071", "title": "Health Specialties Teachers, Postsecondary"},{"id": "25-1072", "title": "Nursing Instructors and Teachers, Postsecondary"},{"id": "25-1081", "title": "Education Teachers, Postsecondary"},{"id": "25-1082", "title": "Library Science Teachers, Postsecondary"},{"id": "25-1111", "title": "Criminal Justice and Law Enforcement Teachers, Postsecondary"},{"id": "25-1112", "title": "Law Teachers, Postsecondary"},{"id": "25-1113", "title": "Social Work Teachers, Postsecondary"},{"id": "25-1121", "title": "Art, Drama, and Music Teachers, Postsecondary"},{"id": "25-1122", "title": "Communications Teachers, Postsecondary"},{"id": "25-1123", "title": "English Language and Literature Teachers, Postsecondary"},{"id": "25-1124", "title": "Foreign Language and Literature Teachers, Postsecondary"},{"id": "25-1125", "title": "History Teachers, Postsecondary"},{"id": "25-1126", "title": "Philosophy and Religion Teachers, Postsecondary"},{"id": "25-9044", "title": "Teaching Assistants, Postsecondary"},{"id": "25-1192", "title": "Family and Consumer Sciences Teachers, Postsecondary"},{"id": "25-1193", "title": "Recreation and Fitness Studies Teachers, Postsecondary"},{"id": "25-1199", "title": "Postsecondary Teachers, All Other"}]
+    },
+    {
+        "isco_id": "2320",
+        "isco_title": "Vocational education teachers",
+        "ussoc_correspondence": [{"id": "25-1194", "title": "Career/Technical Education Teachers, Postsecondary"},{"id": "25-2023", "title": "Career/Technical Education Teachers, Middle School"},{"id": "25-2032", "title": "Career/Technical Education Teachers, Secondary School"}]
+    },
+    {
+        "isco_id": "2330",
+        "isco_title": "Secondary education teachers",
+        "ussoc_correspondence": [{"id": "25-2031", "title": "Secondary School Teachers, Except Special and Career/Technical Education"}]
+    },
+    {
+        "isco_id": "2341",
+        "isco_title": "Primary school teachers",
+        "ussoc_correspondence": [{"id": "25-2021", "title": "Elementary School Teachers, Except Special Education"},{"id": "25-2022", "title": "Middle School Teachers, Except Special and Career/Technical Education"}]
+    },
+    {
+        "isco_id": "2342",
+        "isco_title": "Early childhood educators",
+        "ussoc_correspondence": [{"id": "25-2011", "title": "Preschool Teachers, Except Special Education"},{"id": "25-2012", "title": "Kindergarten Teachers, Except Special Education"}]
+    },
+    {
+        "isco_id": "2351",
+        "isco_title": "Education methods specialists",
+        "ussoc_correspondence": [{"id": "25-9031", "title": "Instructional Coordinators"}]
+    },
+    {
+        "isco_id": "2352",
+        "isco_title": "Special needs teachers",
+        "ussoc_correspondence": [{"id": "25-2051", "title": "Special Education Teachers, Preschool"},{"id": "25-2055", "title": "Special Education Teachers, Kindergarten"},{"id": "25-2057", "title": "Special Education Teachers, Middle School"},{"id": "25-2058", "title": "Special Education Teachers, Secondary School"},{"id": "25-2059", "title": "Special Education Teachers, All Other"}]
+    },
+    {
+        "isco_id": "2353",
+        "isco_title": "Other language teachers",
+        "ussoc_correspondence": [{"id": "25-3011", "title": "Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors"},{"id": "25-3021", "title": "Self-Enrichment Teachers"},{"id": "25-3099", "title": "Teachers and Instructors, All Other"}]
+    },
+    {
+        "isco_id": "2354",
+        "isco_title": "Other music teachers",
+        "ussoc_correspondence": [{"id": "25-3021", "title": "Self-Enrichment Teachers"}]
+    },
+    {
+        "isco_id": "2355",
+        "isco_title": "Other arts teachers",
+        "ussoc_correspondence": [{"id": "25-3021", "title": "Self-Enrichment Teachers"},{"id": "25-3099", "title": "Teachers and Instructors, All Other"}]
+    },
+    {
+        "isco_id": "2356",
+        "isco_title": "Information technology trainers",
+        "ussoc_correspondence": [{"id": "13-1151", "title": "Training and Development Specialists"}]
+    },
+    {
+        "isco_id": "2359",
+        "isco_title": "Teaching professionals not elsewhere classified",
+        "ussoc_correspondence": [{"id": "21-1012", "title": "Educational, Guidance, and Career Counselors and Advisors"},{"id": "25-3099", "title": "Teachers and Instructors, All Other"},{"id": "25-9099", "title": "Educational Instruction and Library Workers, All Other"}]
+    },
+    {
+        "isco_id": "2411",
+        "isco_title": "Accountants",
+        "ussoc_correspondence": [{"id": "13-2011", "title": "Accountants and Auditors"},{"id": "13-2031", "title": "Budget Analysts"},{"id": "13-2082", "title": "Tax Preparers"}]
+    },
+    {
+        "isco_id": "2412",
+        "isco_title": "Financial and investment advisers",
+        "ussoc_correspondence": [{"id": "13-2051", "title": "Financial and Investment Analysts"},{"id": "13-2052", "title": "Personal Financial Advisors"}]
+    },
+    {
+        "isco_id": "2413",
+        "isco_title": "Financial analysts",
+        "ussoc_correspondence": [{"id": "13-2041", "title": "Credit Analysts"},{"id": "13-2051", "title": "Financial and Investment Analysts"},{"id": "13-2061", "title": "Financial Examiners"}]
+    },
+    {
+        "isco_id": "2421",
+        "isco_title": "Management and organization analysts",
+        "ussoc_correspondence": [{"id": "13-1081", "title": "Logisticians"},{"id": "13-1111", "title": "Management Analysts"}]
+    },
+    {
+        "isco_id": "2422",
+        "isco_title": "Policy administration professionals",
+        "ussoc_correspondence": [{"id": "13-1199", "title": "Business Operations Specialists, All Other"}]
+    },
+    {
+        "isco_id": "2423",
+        "isco_title": "Personnel and careers professionals",
+        "ussoc_correspondence": [{"id": "13-1071", "title": "Human Resources Specialists"},{"id": "13-1075", "title": "Labor Relations Specialists"},{"id": "13-1141", "title": "Compensation, Benefits, and Job Analysis Specialists"},{"id": "21-1012", "title": "Educational, Guidance, and Career Counselors and Advisors"}]
+    },
+    {
+        "isco_id": "2424",
+        "isco_title": "Training and staff development professionals",
+        "ussoc_correspondence": [{"id": "13-1151", "title": "Training and Development Specialists"}]
+    },
+    {
+        "isco_id": "2431",
+        "isco_title": "Advertising and marketing professionals",
+        "ussoc_correspondence": [{"id": "13-1161", "title": "Market Research Analysts and Marketing Specialists"},{"id": "27-3043", "title": "Writers and Authors"}]
+    },
+    {
+        "isco_id": "2432",
+        "isco_title": "Public relations professionals",
+        "ussoc_correspondence": [{"id": "27-3031", "title": "Public Relations Specialists"}]
+    },
+    {
+        "isco_id": "2433",
+        "isco_title": "Technical and medical sales professionals (excluding ICT)",
+        "ussoc_correspondence": [{"id": "41-1012", "title": "First-Line Supervisors of Non-Retail Sales Workers"},{"id": "41-4011", "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"}]
+    },
+    {
+        "isco_id": "2434",
+        "isco_title": "Information and communications technology sales professionals",
+        "ussoc_correspondence": [{"id": "41-1012", "title": "First-Line Supervisors of Non-Retail Sales Workers"},{"id": "41-4011", "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"},{"id": "41-9031", "title": "Sales Engineers"}]
+    },
+    {
+        "isco_id": "2511",
+        "isco_title": "Systems analysts",
+        "ussoc_correspondence": [{"id": "15-1221", "title": "Computer and Information Research Scientists"},{"id": "15-1211", "title": "Computer Systems Analysts"}]
+    },
+    {
+        "isco_id": "2512",
+        "isco_title": "Software developers",
+        "ussoc_correspondence": [{"id": "15-1252", "title": "Software Developers"}]
+    },
+    {
+        "isco_id": "2513",
+        "isco_title": "Web and multimedia developers",
+        "ussoc_correspondence": [{"id": "15-1254", "title": "Web Developers"}]
+    },
+    {
+        "isco_id": "2514",
+        "isco_title": "Applications programmers",
+        "ussoc_correspondence": [{"id": "15-1251", "title": "Computer Programmers"}]
+    },
+    {
+        "isco_id": "2519",
+        "isco_title": "Software and applications developers and analysts not elsewhere classified",
+        "ussoc_correspondence": [{"id": "15-1299", "title": "Computer Occupations, All Other"}]
+    },
+    {
+        "isco_id": "2521",
+        "isco_title": "Database designers and administrators",
+        "ussoc_correspondence": [{"id": "15-1242", "title": "Database Administrators"}]
+    },
+    {
+        "isco_id": "2522",
+        "isco_title": "Systems administrators",
+        "ussoc_correspondence": [{"id": "15-1244", "title": "Network and Computer Systems Administrators"}]
+    },
+    {
+        "isco_id": "2523",
+        "isco_title": "Computer network professionals",
+        "ussoc_correspondence": [{"id": "15-1241", "title": "Computer Network Architects"}]
+    },
+    {
+        "isco_id": "2529",
+        "isco_title": "Database and network professionals not elsewhere classified",
+        "ussoc_correspondence": [{"id": "15-1212", "title": "Information Security Analysts"},{"id": "15-1299", "title": "Computer Occupations, All Other"}]
+    },
+    {
+        "isco_id": "2611",
+        "isco_title": "Lawyers",
+        "ussoc_correspondence": [{"id": "23-1011", "title": "Lawyers"}]
+    },
+    {
+        "isco_id": "2612",
+        "isco_title": "Judges",
+        "ussoc_correspondence": [{"id": "23-1021", "title": "Administrative Law Judges, Adjudicators, and Hearing Officers"},{"id": "23-1023", "title": "Judges, Magistrate Judges, and Magistrates"}]
+    },
+    {
+        "isco_id": "2619",
+        "isco_title": "Legal professionals not elsewhere classified",
+        "ussoc_correspondence": [{"id": "23-1022", "title": "Arbitrators, Mediators, and Conciliators"}]
+    },
+    {
+        "isco_id": "2621",
+        "isco_title": "Archivists and curators",
+        "ussoc_correspondence": [{"id": "25-4011", "title": "Archivists"},{"id": "25-4012", "title": "Curators"}]
+    },
+    {
+        "isco_id": "2622",
+        "isco_title": "Librarians and related information professionals",
+        "ussoc_correspondence": [{"id": "25-4022", "title": "Librarians and Media Collections Specialists"}]
+    },
+    {
+        "isco_id": "2631",
+        "isco_title": "Economists",
+        "ussoc_correspondence": [{"id": "19-3011", "title": "Economists"}]
+    },
+    {
+        "isco_id": "2632",
+        "isco_title": "Sociologists, anthropologists and related professionals",
+        "ussoc_correspondence": [{"id": "19-3041", "title": "Sociologists"},{"id": "19-3091", "title": "Anthropologists and Archeologists"},{"id": "19-3092", "title": "Geographers"}]
+    },
+    {
+        "isco_id": "2633",
+        "isco_title": "Philosophers, historians and political scientists",
+        "ussoc_correspondence": [{"id": "19-3093", "title": "Historians"},{"id": "19-3094", "title": "Political Scientists"},{"id": "19-3099", "title": "Social Scientists and Related Workers, All Other"}]
+    },
+    {
+        "isco_id": "2634",
+        "isco_title": "Psychologists",
+        "ussoc_correspondence": [{"id": "19-3032", "title": "Industrial-Organizational Psychologists"},{"id": "19-3033", "title": "Clinical and Counseling Psychologists"},{"id": "19-3034", "title": "School Psychologists"},{"id": "19-3039", "title": "Psychologists, All Other"}]
+    },
+    {
+        "isco_id": "2635",
+        "isco_title": "Social work and counselling professionals",
+        "ussoc_correspondence": [{"id": "21-1011", "title": "Substance Abuse and Behavioral Disorder Counselors"},{"id": "21-1013", "title": "Marriage and Family Therapists"},{"id": "21-1014", "title": "Mental Health Counselors"},{"id": "21-1015", "title": "Rehabilitation Counselors"},{"id": "21-1019", "title": "Counselors, All Other"},{"id": "21-1021", "title": "Child, Family, and School Social Workers"},{"id": "21-1022", "title": "Healthcare Social Workers"},{"id": "21-1023", "title": "Mental Health and Substance Abuse Social Workers"},{"id": "21-1029", "title": "Social Workers, All Other"},{"id": "21-1092", "title": "Probation Officers and Correctional Treatment Specialists"},{"id": "21-1099", "title": "Community and Social Service Specialists, All Other"}]
+    },
+    {
+        "isco_id": "2636",
+        "isco_title": "Religious professionals",
+        "ussoc_correspondence": [{"id": "21-2011", "title": "Clergy"},{"id": "21-2021", "title": "Directors, Religious Activities and Education"}]
+    },
+    {
+        "isco_id": "2641",
+        "isco_title": "Authors and related writers",
+        "ussoc_correspondence": [{"id": "27-3041", "title": "Editors"},{"id": "27-3042", "title": "Technical Writers"},{"id": "27-3043", "title": "Writers and Authors"}]
+    },
+    {
+        "isco_id": "2642",
+        "isco_title": "Journalists",
+        "ussoc_correspondence": [{"id": "27-3023", "title": "News Analysts, Reporters, and Journalists"},{"id": "27-3041", "title": "Editors"}]
+    },
+    {
+        "isco_id": "2643",
+        "isco_title": "Translators, interpreters and other linguists",
+        "ussoc_correspondence": [{"id": "19-3099", "title": "Social Scientists and Related Workers, All Other"},{"id": "27-3091", "title": "Interpreters and Translators"}]
+    },
+    {
+        "isco_id": "2651",
+        "isco_title": "Visual artists",
+        "ussoc_correspondence": [{"id": "27-1012", "title": "Craft Artists"},{"id": "27-1013", "title": "Fine Artists, Including Painters, Sculptors, and Illustrators"}]
+    },
+    {
+        "isco_id": "2652",
+        "isco_title": "Musicians, singers and composers",
+        "ussoc_correspondence": [{"id": "27-2041", "title": "Music Directors and Composers"},{"id": "27-2042", "title": "Musicians and Singers"}]
+    },
+    {
+        "isco_id": "2653",
+        "isco_title": "Dancers and choreographers",
+        "ussoc_correspondence": [{"id": "27-2031", "title": "Dancers"},{"id": "27-2032", "title": "Choreographers"}]
+    },
+    {
+        "isco_id": "2654",
+        "isco_title": "Film, stage and related directors and producers",
+        "ussoc_correspondence": [{"id": "27-1011", "title": "Art Directors"},{"id": "27-2012", "title": "Producers and Directors"},{"id": "27-4032", "title": "Film and Video Editors"}]
+    },
+    {
+        "isco_id": "2655",
+        "isco_title": "Actors",
+        "ussoc_correspondence": [{"id": "27-2011", "title": "Actors"}]
+    },
+    {
+        "isco_id": "2656",
+        "isco_title": "Announcers on radio, television and other media",
+        "ussoc_correspondence": [{"id": "27-3011", "title": "Broadcast Announcers and Radio Disc Jockeys"},{"id": "27-3023", "title": "News Analysts, Reporters, and Journalists"}]
+    },
+    {
+        "isco_id": "2659",
+        "isco_title": "Creative and performing artists not elsewhere classified",
+        "ussoc_correspondence": [{"id": "27-2099", "title": "Entertainers and Performers, Sports and Related Workers, All Other"}]
+    },
+    {
+        "isco_id": "3111",
+        "isco_title": "Chemical and physical science technicians",
+        "ussoc_correspondence": [{"id": "19-4031", "title": "Chemical Technicians"},{"id": "19-4043", "title": "Geological Technicians, Except Hydrologic Technicians"},{"id": "19-4099", "title": "Life, Physical, and Social Science Technicians, All Other"}]
+    },
+    {
+        "isco_id": "3112",
+        "isco_title": "Civil engineering technicians",
+        "ussoc_correspondence": [{"id": "17-3022", "title": "Civil Engineering Technologists and Technicians"},{"id": "17-3031", "title": "Surveying and Mapping Technicians"},{"id": "33-1021", "title": "First-Line Supervisors of Firefighting and Prevention Workers"},{"id": "33-2021", "title": "Fire Inspectors and Investigators"},{"id": "47-4011", "title": "Construction and Building Inspectors"}]
+    },
+    {
+        "isco_id": "3113",
+        "isco_title": "Electrical engineering technicians",
+        "ussoc_correspondence": [{"id": "17-3023", "title": "Electrical and Electronic Engineering Technologists and Technicians"},{"id": "17-3024", "title": "Electro-Mechanical and Mechatronics Technologists and Technicians"}]
+    },
+    {
+        "isco_id": "3114",
+        "isco_title": "Electronics engineering technicians",
+        "ussoc_correspondence": [{"id": "17-3023", "title": "Electrical and Electronic Engineering Technologists and Technicians"}]
+    },
+    {
+        "isco_id": "3115",
+        "isco_title": "Mechanical engineering technicians",
+        "ussoc_correspondence": [{"id": "17-3021", "title": "Aerospace Engineering and Operations Technologists and Technicians"},{"id": "17-3024", "title": "Electro-Mechanical and Mechatronics Technologists and Technicians"},{"id": "17-3027", "title": "Mechanical Engineering Technologists and Technicians"},{"id": "17-3029", "title": "Engineering Technologists and Technicians, Except Drafters, All Other"}]
+    },
+    {
+        "isco_id": "3116",
+        "isco_title": "Chemical engineering technicians",
+        "ussoc_correspondence": [{"id": "17-3029", "title": "Engineering Technologists and Technicians, Except Drafters, All Other"}]
+    },
+    {
+        "isco_id": "3117",
+        "isco_title": "Mining and metallurgical technicians",
+        "ussoc_correspondence": [{"id": "17-3029", "title": "Engineering Technologists and Technicians, Except Drafters, All Other"},{"id": "19-4043", "title": "Geological Technicians, Except Hydrologic Technicians"}]
+    },
+    {
+        "isco_id": "3118",
+        "isco_title": "Draughtspersons",
+        "ussoc_correspondence": [{"id": "17-3011", "title": "Architectural and Civil Drafters"},{"id": "17-3012", "title": "Electrical and Electronics Drafters"},{"id": "17-3013", "title": "Mechanical Drafters"},{"id": "17-3019", "title": "Drafters, All Other"},{"id": "27-1013", "title": "Fine Artists, Including Painters, Sculptors, and Illustrators"}]
+    },
+    {
+        "isco_id": "3119",
+        "isco_title": "Physical and engineering science technicians not elsewhere classified",
+        "ussoc_correspondence": [{"id": "17-3025", "title": "Environmental Engineering Technologists and Technicians"},{"id": "17-3026", "title": "Industrial Engineering Technologists and Technicians"},{"id": "17-3029", "title": "Engineering Technologists and Technicians, Except Drafters, All Other"},{"id": "19-4051", "title": "Nuclear Technicians"},{"id": "19-4092", "title": "Forensic Science Technicians"},{"id": "19-4099", "title": "Life, Physical, and Social Science Technicians, All Other"},{"id": "33-1021", "title": "First-Line Supervisors of Firefighting and Prevention Workers"},{"id": "33-2021", "title": "Fire Inspectors and Investigators"},{"id": "33-2022", "title": "Forest Fire Inspectors and Prevention Specialists"},{"id": "53-6041", "title": "Traffic Technicians"}]
+    },
+    {
+        "isco_id": "3121",
+        "isco_title": "Mining supervisors",
+        "ussoc_correspondence": [{"id": "47-1011", "title": "First-Line Supervisors of Construction Trades and Extraction Workers"}]
+    },
+    {
+        "isco_id": "3122",
+        "isco_title": "Manufacturing supervisors",
+        "ussoc_correspondence": [{"id": "51-1011", "title": "First-Line Supervisors of Production and Operating Workers"}]
+    },
+    {
+        "isco_id": "3123",
+        "isco_title": "Construction supervisors",
+        "ussoc_correspondence": [{"id": "47-1011", "title": "First-Line Supervisors of Construction Trades and Extraction Workers"}]
+    },
+    {
+        "isco_id": "3131",
+        "isco_title": "Power production plant operators",
+        "ussoc_correspondence": [{"id": "51-1011", "title": "First-Line Supervisors of Production and Operating Workers"},{"id": "51-8011", "title": "Nuclear Power Reactor Operators"},{"id": "51-8012", "title": "Power Distributors and Dispatchers"},{"id": "51-8013", "title": "Power Plant Operators"}]
+    },
+    {
+        "isco_id": "3132",
+        "isco_title": "Incinerator and water treatment plant operators",
+        "ussoc_correspondence": [{"id": "51-1011", "title": "First-Line Supervisors of Production and Operating Workers"},{"id": "51-8031", "title": "Water and Wastewater Treatment Plant and System Operators"},{"id": "51-8099", "title": "Plant and System Operators, All Other"},{"id": "53-7072", "title": "Pump Operators, Except Wellhead Pumpers"}]
+    },
+    {
+        "isco_id": "3133",
+        "isco_title": "Chemical processing plant controllers",
+        "ussoc_correspondence": [{"id": "51-8091", "title": "Chemical Plant and System Operators"}]
+    },
+    {
+        "isco_id": "3134",
+        "isco_title": "Petroleum and natural gas refining plant operators",
+        "ussoc_correspondence": [{"id": "51-8092", "title": "Gas Plant Operators"},{"id": "51-8093", "title": "Petroleum Pump System Operators, Refinery Operators, and Gaugers"},{"id": "53-7071", "title": "Gas Compressor and Gas Pumping Station Operators"},{"id": "53-7072", "title": "Pump Operators, Except Wellhead Pumpers"}]
+    },
+    {
+        "isco_id": "3135",
+        "isco_title": "Metal production process controllers",
+        "ussoc_correspondence": [{"id": "51-4051", "title": "Metal-Refining Furnace Operators and Tenders"}]
+    },
+    {
+        "isco_id": "3139",
+        "isco_title": "Process control technicians not elsewhere classified",
+        "ussoc_correspondence": [{"id": "51-9162", "title": "Computer Numerically Controlled Tool Programmers"}]
+    },
+    {
+        "isco_id": "3141",
+        "isco_title": "Life science technicians (excluding medical)",
+        "ussoc_correspondence": [{"id": "19-4021", "title": "Biological Technicians"},{"id": "19-4042", "title": "Environmental Science and Protection Technicians, Including Health"}]
+    },
+    {
+        "isco_id": "3142",
+        "isco_title": "Agricultural technicians",
+        "ussoc_correspondence": [{"id": "19-4012", "title": "Agricultural Technicians"}]
+    },
+    {
+        "isco_id": "3143",
+        "isco_title": "Forestry technicians",
+        "ussoc_correspondence": [{"id": "19-4071", "title": "Forest and Conservation Technicians"}]
+    },
+    {
+        "isco_id": "315",
+        "isco_title": "Ship and aircraft controllers and technicians",
+        "ussoc_correspondence": [{"id": "53-2022", "title": "Airfield Operations Specialists"}]
+    },
+    {
+        "isco_id": "3151",
+        "isco_title": "Ships' engineers",
+        "ussoc_correspondence": [{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-5031", "title": "Ship Engineers"}]
+    },
+    {
+        "isco_id": "3152",
+        "isco_title": "Ships' deck officers and pilots",
+        "ussoc_correspondence": [{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-5021", "title": "Captains, Mates, and Pilots of Water Vessels"}]
+    },
+    {
+        "isco_id": "3153",
+        "isco_title": "Aircraft pilots and related associate professionals",
+        "ussoc_correspondence": [{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-2011", "title": "Airline Pilots, Copilots, and Flight Engineers"},{"id": "53-2012", "title": "Commercial Pilots"}]
+    },
+    {
+        "isco_id": "3154",
+        "isco_title": "Air traffic controllers",
+        "ussoc_correspondence": [{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-2021", "title": "Air Traffic Controllers"}]
+    },
+    {
+        "isco_id": "3155",
+        "isco_title": "Air traffic safety electronics technicians",
+        "ussoc_correspondence": [{"id": "17-3023", "title": "Electrical and Electronic Engineering Technologists and Technicians"}]
+    },
+    {
+        "isco_id": "3211",
+        "isco_title": "Medical imaging and therapeutic equipment technicians",
+        "ussoc_correspondence": [{"id": "29-1124", "title": "Radiation Therapists"},{"id": "29-2032", "title": "Diagnostic Medical Sonographers"},{"id": "29-2033", "title": "Nuclear Medicine Technologists"},{"id": "29-2034", "title": "Radiologic Technologists and Technicians"},{"id": "29-2035", "title": "Magnetic Resonance Imaging Technologists"}]
+    },
+    {
+        "isco_id": "3212",
+        "isco_title": "Medical and pathology laboratory technicians ",
+        "ussoc_correspondence": [{"id": "29-2011", "title": "Medical and Clinical Laboratory Technologists"},{"id": "29-2012", "title": "Medical and Clinical Laboratory Technicians"}]
+    },
+    {
+        "isco_id": "3213",
+        "isco_title": "Pharmaceutical technicians and assistants",
+        "ussoc_correspondence": [{"id": "29-2052", "title": "Pharmacy Technicians"}]
+    },
+    {
+        "isco_id": "3214",
+        "isco_title": "Medical and dental prosthetic technicians",
+        "ussoc_correspondence": [{"id": "29-2091", "title": "Orthotists and Prosthetists"},{"id": "29-2092", "title": "Hearing Aid Specialists"},{"id": "51-9081", "title": "Dental Laboratory Technicians"},{"id": "51-9082", "title": "Medical Appliance Technicians"}]
+    },
+    {
+        "isco_id": "3221",
+        "isco_title": "Nursing associate professionals",
+        "ussoc_correspondence": [{"id": "29-2061", "title": "Licensed Practical and Licensed Vocational Nurses"}]
+    },
+    {
+        "isco_id": "3222",
+        "isco_title": "Midwifery associate professionals",
+        "ussoc_correspondence": [{"id": "29-9099", "title": "Healthcare Practitioners and Technical Workers, All Other"}]
+    },
+    {
+        "isco_id": "3230",
+        "isco_title": "Traditional and complementary medicine associate professionals",
+        "ussoc_correspondence": [{"id": "29-9099", "title": "Healthcare Practitioners and Technical Workers, All Other"}]
+    },
+    {
+        "isco_id": "3240",
+        "isco_title": "Veterinary technicians and assistants",
+        "ussoc_correspondence": [{"id": "29-2056", "title": "Veterinary Technologists and Technicians"},{"id": "31-9096", "title": "Veterinary Assistants and Laboratory Animal Caretakers"}]
+    },
+    {
+        "isco_id": "3251",
+        "isco_title": "Dental assistants and therapists",
+        "ussoc_correspondence": [{"id": "29-1292", "title": "Dental Hygienists"},{"id": "31-9091", "title": "Dental Assistants"}]
+    },
+    {
+        "isco_id": "3252",
+        "isco_title": "Medical records and health information technicians",
+        "ussoc_correspondence": [{"id": "29-9021", "title": "Health Information Technologists and Medical Registrars"}]
+    },
+    {
+        "isco_id": "3253",
+        "isco_title": "Community health workers",
+        "ussoc_correspondence": [{"id": "21-1094", "title": "Community Health Workers"}]
+    },
+    {
+        "isco_id": "3254",
+        "isco_title": "Dispensing opticians",
+        "ussoc_correspondence": [{"id": "29-2081", "title": "Opticians, Dispensing"}]
+    },
+    {
+        "isco_id": "3255",
+        "isco_title": "Physiotherapy technicians and assistants",
+        "ussoc_correspondence": [{"id": "29-1299", "title": "Healthcare Diagnosing or Treating Practitioners, All Other"},{"id": "31-2021", "title": "Physical Therapist Assistants"},{"id": "31-9011", "title": "Massage Therapists"}]
+    },
+    {
+        "isco_id": "3256",
+        "isco_title": "Medical assistants",
+        "ussoc_correspondence": [{"id": "29-2057", "title": "Ophthalmic Medical Technicians"},{"id": "31-9092", "title": "Medical Assistants"}]
+    },
+    {
+        "isco_id": "3257",
+        "isco_title": "Environmental and occupational health inspectors and associates",
+        "ussoc_correspondence": [{"id": "19-5012", "title": "Occupational Health and Safety Technicians"},{"id": "45-2011", "title": "Agricultural Inspectors"},{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-6051", "title": "Transportation Inspectors"}]
+    },
+    {
+        "isco_id": "3258",
+        "isco_title": "Ambulance workers",
+        "ussoc_correspondence": [{"id": "29-2042", "title": "Fishers and Related Fishing Workers"}]
+    },
+    {
+        "isco_id": "3259",
+        "isco_title": "Health associate professionals not elsewhere classified",
+        "ussoc_correspondence": [{"id": "29-1126", "title": "Respiratory Therapists"},{"id": "29-2031", "title": "Cardiovascular Technologists and Technicians"},{"id": "29-2051", "title": "Dietetic Technicians"},{"id": "29-2053", "title": "Psychiatric Technicians"},{"id": "29-1126", "title": "Respiratory Therapists"},{"id": "29-2055", "title": "Surgical Technologists"},{"id": "29-2099", "title": "Health Technologists and Technicians, All Other"},{"id": "29-9099", "title": "Healthcare Practitioners and Technical Workers, All Other"},{"id": "31-2011", "title": "Occupational Therapy Assistants"},{"id": "31-9099", "title": "Healthcare Support Workers, All Other"}]
+    },
+    {
+        "isco_id": "3311",
+        "isco_title": "Securities and finance dealers and brokers",
+        "ussoc_correspondence": [{"id": "41-1012", "title": "First-Line Supervisors of Non-Retail Sales Workers"},{"id": "41-3031", "title": "Securities, Commodities, and Financial Services Sales Agents"}]
+    },
+    {
+        "isco_id": "3312",
+        "isco_title": "Credit and loans officers",
+        "ussoc_correspondence": [{"id": "13-2071", "title": "Credit Counselors"},{"id": "13-2072", "title": "Loan Officers"}]
+    },
+    {
+        "isco_id": "3313",
+        "isco_title": "Accounting associate professionals",
+        "ussoc_correspondence": [{"id": "43-3031", "title": "Bookkeeping, Accounting, and Auditing Clerks"}]
+    },
+    {
+        "isco_id": "3314",
+        "isco_title": "Statistical, mathematical and related associate professionals",
+        "ussoc_correspondence": [{"id": "15-2041", "title": "Statisticians"},{"id": "15-2099", "title": "Mathematical Science Occupations, All Other"},{"id": "19-4061", "title": "Social Science Research Assistants"},{"id": "43-9111", "title": "Statistical Assistants"}]
+    },
+    {
+        "isco_id": "3315",
+        "isco_title": "Valuers and loss assessors",
+        "ussoc_correspondence": [{"id": "13-1031", "title": "Claims Adjusters, Examiners, and Investigators"},{"id": "13-1032", "title": "Insurance Appraisers, Auto Damage"},{"id": "13-2023", "title": "Appraisers and Assessors of Real Estate"}]
+    },
+    {
+        "isco_id": "3321",
+        "isco_title": "Insurance representatives",
+        "ussoc_correspondence": [{"id": "13-2053", "title": "Insurance Underwriters"},{"id": "41-1012", "title": "First-Line Supervisors of Non-Retail Sales Workers"},{"id": "41-3021", "title": "Insurance Sales Agents"}]
+    },
+    {
+        "isco_id": "3322",
+        "isco_title": "Commercial sales representatives",
+        "ussoc_correspondence": [{"id": "41-1012", "title": "First-Line Supervisors of Non-Retail Sales Workers"},{"id": "41-3091", "title": "Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel"},{"id": "41-4011", "title": "Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"}]
+    },
+    {
+        "isco_id": "3322 ",
+        "isco_title": "Commercial sales representatives",
+        "ussoc_correspondence": [{"id": "41-4012", "title": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"}]
+    },
+    {
+        "isco_id": "3323",
+        "isco_title": "Buyers",
+        "ussoc_correspondence": [{"id": "13-1021", "title": "Buyers and Purchasing Agents, Farm Products"},{"id": "13-1022", "title": "Wholesale and Retail Buyers, Except Farm Products"},{"id": "13-1023", "title": "Purchasing Agents, Except Wholesale, Retail, and Farm Products"}]
+    },
+    {
+        "isco_id": "3324",
+        "isco_title": "Trade brokers",
+        "ussoc_correspondence": [{"id": "41-1012", "title": "First-Line Supervisors of Non-Retail Sales Workers"},{"id": "41-3031", "title": "Securities, Commodities, and Financial Services Sales Agents"},{"id": "43-5011", "title": "Cargo and Freight Agents"}]
+    },
+    {
+        "isco_id": "3331",
+        "isco_title": "Clearing and forwarding agents",
+        "ussoc_correspondence": [{"id": "43-5011", "title": "Cargo and Freight Agents"},{"id": "43-5071", "title": "Shipping, Receiving, and Inventory Clerks"}]
+    },
+    {
+        "isco_id": "3332",
+        "isco_title": "Conference and event planners",
+        "ussoc_correspondence": [{"id": "13-1121", "title": "Meeting, Convention, and Event Planners"}]
+    },
+    {
+        "isco_id": "3333",
+        "isco_title": "Employment agents and contractors",
+        "ussoc_correspondence": [{"id": "13-1071", "title": "Human Resources Specialists"},{"id": "13-1074", "title": "Farm Labor Contractors"}]
+    },
+    {
+        "isco_id": "3334",
+        "isco_title": "Real estate agents and property managers",
+        "ussoc_correspondence": [{"id": "11-9141", "title": "Property, Real Estate, and Community Association Managers"},{"id": "41-1012", "title": "First-Line Supervisors of Non-Retail Sales Workers"},{"id": "41-9021", "title": "Real Estate Brokers"},{"id": "41-9022", "title": "Real Estate Sales Agents"}]
+    },
+    {
+        "isco_id": "3339",
+        "isco_title": "Business services agents not elsewhere classified",
+        "ussoc_correspondence": [{"id": "13-1011", "title": "Agents and Business Managers of Artists, Performers, and Athletes"},{"id": "13-1051", "title": "Cost Estimators"},{"id": "13-1199", "title": "Business Operations Specialists, All Other"},{"id": "13-2099", "title": "Financial Specialists, All Other"},{"id": "41-1012", "title": "First-Line Supervisors of Non-Retail Sales Workers"},{"id": "41-3011", "title": "Advertising Sales Agents"},{"id": "41-3041", "title": "Travel Agents"},{"id": "41-9099", "title": "Sales and Related Workers, All Other"}]
+    },
+    {
+        "isco_id": "3341",
+        "isco_title": "Office supervisors",
+        "ussoc_correspondence": [{"id": "43-1011", "title": "First-Line Supervisors of Office and Administrative Support Workers"}]
+    },
+    {
+        "isco_id": "3342",
+        "isco_title": "Legal secretaries",
+        "ussoc_correspondence": [{"id": "43-6012", "title": "Legal Secretaries and Administrative Assistants"}]
+    },
+    {
+        "isco_id": "3343",
+        "isco_title": "Administrative and executive secretaries",
+        "ussoc_correspondence": [{"id": "27-3092", "title": "Court Reporters and Simultaneous Captioners"},{"id": "43-6011", "title": "Executive Secretaries and Executive Administrative Assistants"}]
+    },
+    {
+        "isco_id": "3344",
+        "isco_title": "Medical secretaries",
+        "ussoc_correspondence": [{"id": "31-9094", "title": "Medical Transcriptionists"},{"id": "43-6013", "title": "Medical Secretaries and Administrative Assistants"}]
+    },
+    {
+        "isco_id": "3351",
+        "isco_title": "Customs and border inspectors",
+        "ussoc_correspondence": [{"id": "13-1041", "title": "Compliance Officers"},{"id": "33-1012", "title": "First-Line Supervisors of Police and Detectives"},{"id": "33-3051", "title": "Police and Sheriff’s Patrol Officers"}]
+    },
+    {
+        "isco_id": "3352",
+        "isco_title": "Government tax and excise officials",
+        "ussoc_correspondence": [{"id": "13-2081", "title": "Tax Examiners and Collectors, and Revenue Agents"}]
+    },
+    {
+        "isco_id": "3353",
+        "isco_title": "Government social benefits officials",
+        "ussoc_correspondence": [{"id": "13-1041", "title": "Compliance Officers"},{"id": "43-4061", "title": "Eligibility Interviewers, Government Programs"}]
+    },
+    {
+        "isco_id": "3354",
+        "isco_title": "Government licensing officials",
+        "ussoc_correspondence": [{"id": "13-1041", "title": "Compliance Officers"},{"id": "43-4031", "title": "Court, Municipal, and License Clerks"}]
+    },
+    {
+        "isco_id": "3355",
+        "isco_title": "Police inspectors and detectives",
+        "ussoc_correspondence": [{"id": "33-1012", "title": "First-Line Supervisors of Police and Detectives"},{"id": "33-3021", "title": "Detectives and Criminal Investigators"}]
+    },
+    {
+        "isco_id": "3359",
+        "isco_title": "Regulatory government associate professionals not elsewhere classified",
+        "ussoc_correspondence": [{"id": "45-2011", "title": "Agricultural Inspectors"}]
+    },
+    {
+        "isco_id": "3411",
+        "isco_title": "Legal and related associate professionals",
+        "ussoc_correspondence": [{"id": "23-1012", "title": "Judicial Law Clerks"},{"id": "23-2011", "title": "Paralegals and Legal Assistants"},{"id": "23-2093", "title": "Title Examiners, Abstractors, and Searchers"},{"id": "23-2099", "title": "Legal Support Workers, All Other"},{"id": "33-3011", "title": "Bailiffs"},{"id": "33-9021", "title": "Private Detectives and Investigators"},{"id": "33-9031", "title": "Gambling Surveillance Officers and Gambling Investigators"}]
+    },
+    {
+        "isco_id": "3412",
+        "isco_title": "Social work associate professionals",
+        "ussoc_correspondence": [{"id": "21-1093", "title": "Social and Human Service Assistants"}]
+    },
+    {
+        "isco_id": "3413",
+        "isco_title": "Religious associate professionals",
+        "ussoc_correspondence": [{"id": "21-2099", "title": "Religious Workers, All Other"}]
+    },
+    {
+        "isco_id": "3421",
+        "isco_title": "Athletes and sports players",
+        "ussoc_correspondence": [{"id": "27-2021", "title": "Athletes and Sports Competitors"}]
+    },
+    {
+        "isco_id": "3422",
+        "isco_title": "Sports coaches, instructors and officials",
+        "ussoc_correspondence": [{"id": "25-3021", "title": "Self-Enrichment Teachers"},{"id": "27-2022", "title": "Coaches and Scouts"},{"id": "27-2023", "title": "Umpires, Referees, and Other Sports Officials"}]
+    },
+    {
+        "isco_id": "3423",
+        "isco_title": "Fitness and recreation instructors and program leaders",
+        "ussoc_correspondence": [{"id": "25-3021", "title": "Self-Enrichment Teachers"},{"id": "29-9091", "title": "Athletic Trainers"},{"id": "39-1022", "title": "First-Line Supervisors of Personal Service Workers"},{"id": "39-9031", "title": "Exercise Trainers and Group Fitness Instructors"}]
+    },
+    {
+        "isco_id": "3431",
+        "isco_title": "Photographers",
+        "ussoc_correspondence": [{"id": "27-4021", "title": "Photographers"}]
+    },
+    {
+        "isco_id": "3432",
+        "isco_title": "Interior designers and decorators",
+        "ussoc_correspondence": [{"id": "27-1025", "title": "Interior Designers"},{"id": "27-1026", "title": "Merchandise Displayers and Window Trimmers"},{"id": "27-1027", "title": "Set and Exhibit Designers"}]
+    },
+    {
+        "isco_id": "3433",
+        "isco_title": "Gallery, museum and library technicians",
+        "ussoc_correspondence": [{"id": "25-4013", "title": "Museum Technicians and Conservators"},{"id": "25-4031", "title": "Library Technicians"},{"id": "27-1012", "title": "Craft Artists"}]
+    },
+    {
+        "isco_id": "3434",
+        "isco_title": "Chefs",
+        "ussoc_correspondence": [{"id": "35-1011", "title": "Chefs and Head Cooks"},{"id": "35-1012", "title": "First-Line Supervisors of Food Preparation and Serving Workers"}]
+    },
+    {
+        "isco_id": "3435",
+        "isco_title": "Other artistic and cultural associate professionals",
+        "ussoc_correspondence": [{"id": "27-1019", "title": "Artists and Related Workers, All Other"},{"id": "27-2099", "title": "Entertainers and Performers, Sports and Related Workers, All Other"},{"id": "27-3099", "title": "Media and Communication Workers, All Other"},{"id": "27-4099", "title": "Media and Communication Equipment Workers, All Other"},{"id": "39-3092", "title": "Costume Attendants"},{"id": "39-3099", "title": "Entertainment Attendants and Related Workers, All Other"}]
+    },
+    {
+        "isco_id": "3511",
+        "isco_title": "Information and communications technology operations technicians",
+        "ussoc_correspondence": [{"id": "15-1299", "title": "Computer Occupations, All Other"}]
+    },
+    {
+        "isco_id": "3512",
+        "isco_title": "Information and communications technology user support technicians",
+        "ussoc_correspondence": [{"id": "15-1232", "title": "Computer User Support Specialists"}]
+    },
+    {
+        "isco_id": "3513",
+        "isco_title": "Computer network and systems technicians",
+        "ussoc_correspondence": [{"id": "15-1231", "title": "Computer Network Support Specialists"}]
+    },
+    {
+        "isco_id": "3514",
+        "isco_title": "Web technicians",
+        "ussoc_correspondence": [{"id": "15-1254", "title": "Web Developers"},{"id": "15-1244", "title": "Network and Computer Systems Administrators"}]
+    },
+    {
+        "isco_id": "3521",
+        "isco_title": "Broadcasting and audio-visual technicians",
+        "ussoc_correspondence": [{"id": "27-4011", "title": "Audio and Video Technicians"},{"id": "27-4012", "title": "Broadcast Technicians"},{"id": "27-4014", "title": "Sound Engineering Technicians"},{"id": "27-4031", "title": "Camera Operators, Television, Video, and Film"},{"id": "27-4099", "title": "Media and Communication Equipment Workers, All Other"}]
+    },
+    {
+        "isco_id": "3522",
+        "isco_title": "Telecommunications engineering technicians",
+        "ussoc_correspondence": [{"id": "17-3023", "title": "Electrical and Electronic Engineering Technologists and Technicians"}]
+    },
+    {
+        "isco_id": "4110",
+        "isco_title": "General office clerks",
+        "ussoc_correspondence": [{"id": "43-3061", "title": "Procurement Clerks"},{"id": "43-9061", "title": "Office Clerks, General"}]
+    },
+    {
+        "isco_id": "4120",
+        "isco_title": "Secretaries (general)",
+        "ussoc_correspondence": [{"id": "43-6014", "title": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"}]
+    },
+    {
+        "isco_id": "4131",
+        "isco_title": "Typists and word processing operators",
+        "ussoc_correspondence": [{"id": "43-9022", "title": "Word Processors and Typists"}]
+    },
+    {
+        "isco_id": "4132",
+        "isco_title": "Data entry clerks",
+        "ussoc_correspondence": [{"id": "43-9021", "title": "Data Entry Keyers"}]
+    },
+    {
+        "isco_id": "4211",
+        "isco_title": "Bank tellers and related clerks",
+        "ussoc_correspondence": [{"id": "43-3071", "title": "Tellers"},{"id": "43-5051", "title": "Postal Service Clerks"}]
+    },
+    {
+        "isco_id": "4212",
+        "isco_title": "Bookmakers, croupiers and related gaming workers",
+        "ussoc_correspondence": [{"id": "11-9071", "title": "Gambling Managers"},{"id": "41-2012", "title": "Gambling Change Persons and Booth Cashiers"},{"id": "39-3011", "title": "Gambling Dealers"},{"id": "39-3012", "title": "Gambling and Sports Book Writers and Runners"},{"id": "39-3019", "title": "Gambling Service Workers, All Other"},{"id": "43-3041", "title": "Gambling Cage Workers"}]
+    },
+    {
+        "isco_id": "4213",
+        "isco_title": "Pawnbrokers and money-lenders",
+        "ussoc_correspondence": [{"id": "41-9099", "title": "Sales and Related Workers, All Other"},{"id": "43-3099", "title": "Financial Clerks, All Other"}]
+    },
+    {
+        "isco_id": "4214",
+        "isco_title": "Debt-collectors and related workers",
+        "ussoc_correspondence": [{"id": "13-1131", "title": "Fundraisers"},{"id": "43-3011", "title": "Bill and Account Collectors"}]
+    },
+    {
+        "isco_id": "4221",
+        "isco_title": "Travel consultants and clerks",
+        "ussoc_correspondence": [{"id": "41-1012", "title": "First-Line Supervisors of Non-Retail Sales Workers"},{"id": "41-3041", "title": "Travel Agents"},{"id": "43-4181", "title": "Reservation and Transportation Ticket Agents and Travel Clerks"}]
+    },
+    {
+        "isco_id": "4222",
+        "isco_title": "Contact centre information clerks",
+        "ussoc_correspondence": [{"id": "43-4051", "title": "Customer Service Representatives"},{"id": "43-4171", "title": "Receptionists and Information Clerks"}]
+    },
+    {
+        "isco_id": "4223",
+        "isco_title": "Telephone switchboard operators",
+        "ussoc_correspondence": [{"id": "43-2011", "title": "Switchboard Operators, Including Answering Service"},{"id": "43-2021", "title": "Telephone Operators"}]
+    },
+    {
+        "isco_id": "4224",
+        "isco_title": "Hotel receptionists",
+        "ussoc_correspondence": [{"id": "39-6012", "title": "Concierges"},{"id": "43-4081", "title": "Hotel, Motel, and Resort Desk Clerks"}]
+    },
+    {
+        "isco_id": "4225",
+        "isco_title": "Enquiry clerks",
+        "ussoc_correspondence": [{"id": "43-4021", "title": "Correspondence Clerks"},{"id": "43-4171", "title": "Receptionists and Information Clerks"}]
+    },
+    {
+        "isco_id": "4226",
+        "isco_title": "Receptionists (general)",
+        "ussoc_correspondence": [{"id": "43-4171", "title": "Receptionists and Information Clerks"}]
+    },
+    {
+        "isco_id": "4227",
+        "isco_title": "Survey and market research interviewers",
+        "ussoc_correspondence": [{"id": "43-4111", "title": "Interviewers, Except Eligibility and Loan"}]
+    },
+    {
+        "isco_id": "4229",
+        "isco_title": "Client information workers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "43-2099", "title": "Communications Equipment Operators, All Other"},{"id": "43-4061", "title": "Eligibility Interviewers, Government Programs"},{"id": "43-4199", "title": "Information and Record Clerks, All Other"}]
+    },
+    {
+        "isco_id": "4311",
+        "isco_title": "Accounting and bookkeeping clerks",
+        "ussoc_correspondence": [{"id": "43-3021", "title": "Billing and Posting Clerks"},{"id": "43-3031", "title": "Bookkeeping, Accounting, and Auditing Clerks"}]
+    },
+    {
+        "isco_id": "4312",
+        "isco_title": "Statistical, finance and insurance clerks",
+        "ussoc_correspondence": [{"id": "43-3099", "title": "Financial Clerks, All Other"},{"id": "43-4011", "title": "Brokerage Clerks"},{"id": "43-4041", "title": "Credit Authorizers, Checkers, and Clerks"},{"id": "43-4131", "title": "Loan Interviewers and Clerks"},{"id": "43-4141", "title": "New Accounts Clerks"},{"id": "43-9041", "title": "Insurance Claims and Policy Processing Clerks"}]
+    },
+    {
+        "isco_id": "4313",
+        "isco_title": "Payroll clerks",
+        "ussoc_correspondence": [{"id": "43-3051", "title": "Payroll and Timekeeping Clerks"}]
+    },
+    {
+        "isco_id": "4321",
+        "isco_title": "Stock clerks",
+        "ussoc_correspondence": [{"id": "43-5071", "title": "Shipping, Receiving, and Inventory Clerks"},{"id": "53-7065", "title": "Stockers and Order Fillers"},{"id": "43-5111", "title": "Weighers, Measurers, Checkers, and Samplers, Recordkeeping"}]
+    },
+    {
+        "isco_id": "4322",
+        "isco_title": "Production clerks",
+        "ussoc_correspondence": [{"id": "43-5061", "title": "Production, Planning, and Expediting Clerks"}]
+    },
+    {
+        "isco_id": "4323",
+        "isco_title": "Transport clerks",
+        "ussoc_correspondence": [{"id": "43-5032", "title": "Dispatchers, Except Police, Fire, and Ambulance"}]
+    },
+    {
+        "isco_id": "4411",
+        "isco_title": "Library clerks",
+        "ussoc_correspondence": [{"id": "25-4031", "title": "Library Technicians"},{"id": "43-4121", "title": "Library Assistants, Clerical"}]
+    },
+    {
+        "isco_id": "4412",
+        "isco_title": "Mail carriers and sorting clerks",
+        "ussoc_correspondence": [{"id": "43-5021", "title": "Couriers and Messengers"},{"id": "43-5051", "title": "Postal Service Clerks"},{"id": "43-5052", "title": "Postal Service Mail Carriers"},{"id": "43-5053", "title": "Postal Service Mail Sorters, Processors, and Processing Machine Operators"},{"id": "43-9051", "title": "Mail Clerks and Mail Machine Operators, Except Postal Service"}]
+    },
+    {
+        "isco_id": "4413",
+        "isco_title": "Coding, proof-reading and related clerks",
+        "ussoc_correspondence": [{"id": "43-9081", "title": "Proofreaders and Copy Markers"}]
+    },
+    {
+        "isco_id": "4414",
+        "isco_title": "Scribes and related workers",
+        "ussoc_correspondence": [{"id": "39-1022", "title": "First-Line Supervisors of Personal Service Workers"},{"id": "31-1122", "title": "Personal Care Aides"}]
+    },
+    {
+        "isco_id": "4415",
+        "isco_title": "Filing and copying clerks",
+        "ussoc_correspondence": [{"id": "43-4071", "title": "File Clerks"},{"id": "43-9071", "title": "Office Machine Operators, Except Computer"}]
+    },
+    {
+        "isco_id": "4416",
+        "isco_title": "Personnel clerks",
+        "ussoc_correspondence": [{"id": "43-4161", "title": "Human Resources Assistants, Except Payroll and Timekeeping"}]
+    },
+    {
+        "isco_id": "4419",
+        "isco_title": "Clerical support workers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "43-4021", "title": "Correspondence Clerks"},{"id": "43-4151", "title": "Order Clerks"},{"id": "43-4199", "title": "Information and Record Clerks, All Other"},{"id": "43-9199", "title": "Office and Administrative Support Workers, All Other"}]
+    },
+    {
+        "isco_id": "5111",
+        "isco_title": "Travel attendants and travel stewards",
+        "ussoc_correspondence": [{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-2031", "title": "Flight Attendants"},{"id": "53-6061", "title": "Passenger Attendants"}]
+    },
+    {
+        "isco_id": "5112",
+        "isco_title": "Transport conductors",
+        "ussoc_correspondence": [{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-6061", "title": "Passenger Attendants"}]
+    },
+    {
+        "isco_id": "5113",
+        "isco_title": "Travel guides",
+        "ussoc_correspondence": [{"id": "39-1022", "title": "First-Line Supervisors of Personal Service Workers"},{"id": "39-7011", "title": "Tour Guides and Escorts"},{"id": "39-7012", "title": "Travel Guides"}]
+    },
+    {
+        "isco_id": "5120",
+        "isco_title": "Cooks",
+        "ussoc_correspondence": [{"id": "35-1012", "title": "First-Line Supervisors of Food Preparation and Serving Workers"},{"id": "35-2012", "title": "Cooks, Institution and Cafeteria"},{"id": "35-2013", "title": "Cooks, Private Household"},{"id": "35-2014", "title": "Cooks, Restaurant"},{"id": "35-2015", "title": "Cooks, Short Order"},{"id": "35-2019", "title": "Cooks, All Other"}]
+    },
+    {
+        "isco_id": "5131",
+        "isco_title": "Waiters",
+        "ussoc_correspondence": [{"id": "35-3031", "title": "Waiters and Waitresses"},{"id": "35-3041", "title": "Food Servers, Nonrestaurant"}]
+    },
+    {
+        "isco_id": "5132",
+        "isco_title": "Bartenders",
+        "ussoc_correspondence": [{"id": "35-3011", "title": "Bartenders"}]
+    },
+    {
+        "isco_id": "5141",
+        "isco_title": "Hairdressers",
+        "ussoc_correspondence": [{"id": "39-1022", "title": "First-Line Supervisors of Personal Service Workers"},{"id": "39-5011", "title": "Barbers"},{"id": "39-5012", "title": "Hairdressers, Hairstylists, and Cosmetologists"}]
+    },
+    {
+        "isco_id": "5142",
+        "isco_title": "Beauticians and related workers",
+        "ussoc_correspondence": [{"id": "39-1022", "title": "First-Line Supervisors of Personal Service Workers"},{"id": "39-5012", "title": "Hairdressers, Hairstylists, and Cosmetologists"},{"id": "39-5091", "title": "Makeup Artists, Theatrical and Performance"},{"id": "39-5092", "title": "Manicurists and Pedicurists"},{"id": "39-5093", "title": "Shampooers"},{"id": "39-5094", "title": "Skincare Specialists"}]
+    },
+    {
+        "isco_id": "5151",
+        "isco_title": "Cleaning and housekeeping supervisors in offices, hotels and other establishments",
+        "ussoc_correspondence": [{"id": "37-1011", "title": "First-Line Supervisors of Housekeeping and Janitorial Workers"}]
+    },
+    {
+        "isco_id": "5152",
+        "isco_title": "Domestic housekeepers",
+        "ussoc_correspondence": [{"id": "37-1011", "title": "First-Line Supervisors of Housekeeping and Janitorial Workers"},{"id": "39-9099", "title": "Personal Care and Service Workers, All Other"}]
+    },
+    {
+        "isco_id": "5153",
+        "isco_title": "Building caretakers",
+        "ussoc_correspondence": [{"id": "37-2011", "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners"}]
+    },
+    {
+        "isco_id": "5161",
+        "isco_title": "Astrologers, fortune-tellers and related workers",
+        "ussoc_correspondence": [{"id": "27-2099", "title": "Entertainers and Performers, Sports and Related Workers, All Other"}]
+    },
+    {
+        "isco_id": "5162",
+        "isco_title": "Companions and valets",
+        "ussoc_correspondence": [{"id": "39-1022", "title": "First-Line Supervisors of Personal Service Workers"},{"id": "31-1122", "title": "Personal Care Aides"},{"id": "39-9099", "title": "Personal Care and Service Workers, All Other"}]
+    },
+    {
+        "isco_id": "5163",
+        "isco_title": "Undertakers and embalmers",
+        "ussoc_correspondence": [{"id": "39-4011", "title": "Embalmers"},{"id": "39-4021", "title": "Funeral Attendants"},{"id": "39-4031", "title": "Morticians, Undertakers, and Funeral Arrangers"}]
+    },
+    {
+        "isco_id": "5164",
+        "isco_title": "Pet groomers and animal care workers",
+        "ussoc_correspondence": [{"id": "31-9096", "title": "Veterinary Assistants and Laboratory Animal Caretakers"},{"id": "39-1022", "title": "First-Line Supervisors of Personal Service Workers"},{"id": "39-2011", "title": "Animal Trainers"},{"id": "39-2021", "title": "Animal Caretakers"}]
+    },
+    {
+        "isco_id": "5165",
+        "isco_title": "Driving instructors",
+        "ussoc_correspondence": [{"id": "25-3021", "title": "Self-Enrichment Teachers"}]
+    },
+    {
+        "isco_id": "5169",
+        "isco_title": "Personal services workers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "35-9031", "title": "Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"},{"id": "39-9099", "title": "Personal Care and Service Workers, All Other"}]
+    },
+    {
+        "isco_id": "5169 ",
+        "isco_title": "Personal services workers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "39-1022", "title": "First-Line Supervisors of Personal Service Workers"},{"id": "39-9032", "title": "Recreation Workers"},{"id": "39-9041", "title": "Residential Advisors"}]
+    },
+    {
+        "isco_id": "5211",
+        "isco_title": "Stall and market salespersons",
+        "ussoc_correspondence": [{"id": "41-9091", "title": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"}]
+    },
+    {
+        "isco_id": "5212",
+        "isco_title": "Street food salespersons",
+        "ussoc_correspondence": [{"id": "35-3041", "title": "Food Servers, Nonrestaurant"},{"id": "41-9091", "title": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"}]
+    },
+    {
+        "isco_id": "5221",
+        "isco_title": "Shopkeepers",
+        "ussoc_correspondence": [{"id": "11-1021", "title": "General and Operations Managers"}]
+    },
+    {
+        "isco_id": "5222",
+        "isco_title": "Shop supervisors",
+        "ussoc_correspondence": [{"id": "41-1011", "title": "First-Line Supervisors of Retail Sales Workers"}]
+    },
+    {
+        "isco_id": "5223",
+        "isco_title": "Shop sales assistants",
+        "ussoc_correspondence": [{"id": "41-2022", "title": "Parts Salespersons"},{"id": "41-2031", "title": "Retail Salespersons"}]
+    },
+    {
+        "isco_id": "5230",
+        "isco_title": "Cashiers and ticket clerks",
+        "ussoc_correspondence": [{"id": "41-2011", "title": "Cashiers"},{"id": "41-2012", "title": "Gambling Change Persons and Booth Cashiers"}]
+    },
+    {
+        "isco_id": "5241",
+        "isco_title": "Fashion and other models",
+        "ussoc_correspondence": [{"id": "41-9012", "title": "Models"}]
+    },
+    {
+        "isco_id": "5242",
+        "isco_title": "Sales demonstrators",
+        "ussoc_correspondence": [{"id": "41-9011", "title": "Demonstrators and Product Promoters"}]
+    },
+    {
+        "isco_id": "5243",
+        "isco_title": "Door to door salespersons",
+        "ussoc_correspondence": [{"id": "41-9091", "title": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"}]
+    },
+    {
+        "isco_id": "5244",
+        "isco_title": "Contact centre salespersons",
+        "ussoc_correspondence": [{"id": "41-9041", "title": "Telemarketers"}]
+    },
+    {
+        "isco_id": "5245",
+        "isco_title": "Service station attendants",
+        "ussoc_correspondence": [{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-6031", "title": "Automotive and Watercraft Service Attendants"}]
+    },
+    {
+        "isco_id": "5246",
+        "isco_title": "Food service counter attendants",
+        "ussoc_correspondence": [{"id": "35-2021", "title": "Food Preparation Workers"},{"id": "35-3023", "title": "Fast Food and Counter Workers"},{"id": "35-9011", "title": "Dining Room and Cafeteria Attendants and Bartender Helpers"}]
+    },
+    {
+        "isco_id": "5249",
+        "isco_title": "Sales workers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "41-2021", "title": "Counter and Rental Clerks"},{"id": "41-9099", "title": "Sales and Related Workers, All Other"}]
+    },
+    {
+        "isco_id": "5311",
+        "isco_title": "Child care workers",
+        "ussoc_correspondence": [{"id": "39-1022", "title": "First-Line Supervisors of Personal Service Workers"},{"id": "39-9011", "title": "Childcare Workers"}]
+    },
+    {
+        "isco_id": "5312",
+        "isco_title": "Teachers' aides",
+        "ussoc_correspondence": [{"id": "25-9042", "title": "Teaching Assistants, Preschool, Elementary, Middle, and Secondary School, Except Special Education"}]
+    },
+    {
+        "isco_id": "5321",
+        "isco_title": "Health care assistants",
+        "ussoc_correspondence": [{"id": "31-1133", "title": "Psychiatric Aides"},{"id": "31-1131", "title": "Nursing Assistants"}]
+    },
+    {
+        "isco_id": "5322",
+        "isco_title": "Home-based personal care workers",
+        "ussoc_correspondence": [{"id": "31-1121", "title": "Home Health Aides"},{"id": "39-1022", "title": "First-Line Supervisors of Personal Service Workers"},{"id": "", "title": "Home Health Aides"},{"id": "31-1122", "title": "Personal Care Aides"}]
+    },
+    {
+        "isco_id": "5329",
+        "isco_title": "Personal care workers in health services not elsewhere classified",
+        "ussoc_correspondence": [{"id": "31-1132", "title": "Orderlies"},{"id": "31-2012", "title": "Occupational Therapy Aides"},{"id": "31-2022", "title": "Physical Therapist Aides"},{"id": "31-9091", "title": "Dental Assistants"},{"id": "31-9093", "title": "Medical Equipment Preparers"},{"id": "31-9095", "title": "Pharmacy Aides"},{"id": "31-9097", "title": "Phlebotomists"},{"id": "31-9099", "title": "Healthcare Support Workers, All Other"}]
+    },
+    {
+        "isco_id": "5411",
+        "isco_title": "Fire-fighters",
+        "ussoc_correspondence": [{"id": "33-1021", "title": "First-Line Supervisors of Firefighting and Prevention Workers"},{"id": "33-2011", "title": "Firefighters"}]
+    },
+    {
+        "isco_id": "5412",
+        "isco_title": "Police officers",
+        "ussoc_correspondence": [{"id": "33-1012", "title": "First-Line Supervisors of Police and Detectives"},{"id": "33-3051", "title": "Police and Sheriff’s Patrol Officers"},{"id": "33-3052", "title": "Transit and Railroad Police"}]
+    },
+    {
+        "isco_id": "5413",
+        "isco_title": "Prison guards",
+        "ussoc_correspondence": [{"id": "33-1011", "title": "First-Line Supervisors of Correctional Officers"},{"id": "33-3012", "title": "Correctional Officers and Jailers"}]
+    },
+    {
+        "isco_id": "5414",
+        "isco_title": "Security guards",
+        "ussoc_correspondence": [{"id": "33-1099", "title": "First-Line Supervisors of Protective Service Workers, All Other"},{"id": "33-9031", "title": "Gambling Surveillance Officers and Gambling Investigators"},{"id": "33-9032", "title": "Security Guards"},{"id": "33-9093", "title": "Transportation Security Screeners"}]
+    },
+    {
+        "isco_id": "5419",
+        "isco_title": "Protective services workers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "33-1099", "title": "First-Line Supervisors of Protective Service Workers, All Other"},{"id": "33-3031", "title": "Fish and Game Wardens"},{"id": "33-3041", "title": "Parking Enforcement Workers"},{"id": "33-9011", "title": "Animal Control Workers"},{"id": "33-9091", "title": "Crossing Guards and Flaggers"},{"id": "33-9092", "title": "Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"},{"id": "33-9099", "title": "Protective Service Workers, All Other"},{"id": "43-5031", "title": "Public Safety Telecommunicators"}]
+    },
+    {
+        "isco_id": "6111",
+        "isco_title": "Field crop and vegetable growers",
+        "ussoc_correspondence": [{"id": "45-1011", "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"},{"id": "45-2091", "title": "Agricultural Equipment Operators"}]
+    },
+    {
+        "isco_id": "6112",
+        "isco_title": "Tree and shrub crop growers",
+        "ussoc_correspondence": [{"id": "45-1011", "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"},{"id": "45-2091", "title": "Agricultural Equipment Operators"}]
+    },
+    {
+        "isco_id": "6113",
+        "isco_title": "Gardeners, horticultural and nursery growers",
+        "ussoc_correspondence": [{"id": "37-1012", "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"},{"id": "37-3013", "title": "Tree Trimmers and Pruners"},{"id": "45-2091", "title": "Agricultural Equipment Operators"}]
+    },
+    {
+        "isco_id": "6114",
+        "isco_title": "Mixed crop growers",
+        "ussoc_correspondence": [{"id": "45-1011", "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"},{"id": "45-2091", "title": "Agricultural Equipment Operators"}]
+    },
+    {
+        "isco_id": "6121",
+        "isco_title": "Livestock and dairy producers",
+        "ussoc_correspondence": [{"id": "45-1011", "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"},{"id": "45-2021", "title": "Animal Breeders"}]
+    },
+    {
+        "isco_id": "6122",
+        "isco_title": "Poultry producers",
+        "ussoc_correspondence": [{"id": "45-1011", "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"},{"id": "45-2021", "title": "Animal Breeders"}]
+    },
+    {
+        "isco_id": "6123",
+        "isco_title": "Apiarists and sericulturists",
+        "ussoc_correspondence": [{"id": "45-1011", "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"},{"id": "45-2021", "title": "Animal Breeders"}]
+    },
+    {
+        "isco_id": "6129",
+        "isco_title": "Animal producers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "45-1011", "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"},{"id": "45-2021", "title": "Animal Breeders"}]
+    },
+    {
+        "isco_id": "6130",
+        "isco_title": "Mixed crop and animal producers",
+        "ussoc_correspondence": [{"id": "45-1011", "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"},{"id": "45-2021", "title": "Animal Breeders"},{"id": "45-2091", "title": "Agricultural Equipment Operators"}]
+    },
+    {
+        "isco_id": "6210",
+        "isco_title": "Forestry and related workers",
+        "ussoc_correspondence": [{"id": "45-1011", "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"},{"id": "45-4011", "title": "Forest and Conservation Workers"},{"id": "45-4021", "title": "Fallers"},{"id": "45-4022", "title": "Logging Equipment Operators"},{"id": "45-4023", "title": "Log Graders and Scalers"},{"id": "45-4029", "title": "Logging Workers, All Other"}]
+    },
+    {
+        "isco_id": "6221",
+        "isco_title": "Aquaculture workers",
+        "ussoc_correspondence": [{"id": "45-1011", "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"},{"id": "45-2021", "title": "Animal Breeders"}]
+    },
+    {
+        "isco_id": "6222",
+        "isco_title": "Inland and coastal waters fishery workers",
+        "ussoc_correspondence": [{"id": "45-1011", "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"},{"id": "29-2042", "title": "Fishers and Related Fishing Workers"}]
+    },
+    {
+        "isco_id": "6223",
+        "isco_title": "Deep-sea fishery workers",
+        "ussoc_correspondence": [{"id": "45-1011", "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"},{"id": "29-2042", "title": "Fishers and Related Fishing Workers"}]
+    },
+    {
+        "isco_id": "6224",
+        "isco_title": "Hunters and trappers",
+        "ussoc_correspondence": [{"id": "45-1011", "title": "First-Line Supervisors of Farming, Fishing, and Forestry Workers"},{"id": "45-3031", "title": "Fishing and Hunting Workers"}]
+    },
+    {
+        "isco_id": "6310",
+        "isco_title": "Subsistence crop farmers",
+        "ussoc_correspondence": [{"id": "45-2092", "title": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse"}]
+    },
+    {
+        "isco_id": "6320",
+        "isco_title": "Subsistence livestock farmers",
+        "ussoc_correspondence": [{"id": "45-2093", "title": "Farmworkers, Farm, Ranch, and Aquacultural Animals"}]
+    },
+    {
+        "isco_id": "6330",
+        "isco_title": "Subsistence mixed crop and livestock farmers",
+        "ussoc_correspondence": [{"id": "45-2092", "title": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse"},{"id": "45-2093", "title": "Farmworkers, Farm, Ranch, and Aquacultural Animals"}]
+    },
+    {
+        "isco_id": "6340",
+        "isco_title": "Subsistence fishers, hunters, trappers and gatherers",
+        "ussoc_correspondence": [{"id": "29-2042", "title": "Fishers and Related Fishing Workers"},{"id": "45-3031", "title": "Fishing and Hunting Workers"}]
+    },
+    {
+        "isco_id": "7111",
+        "isco_title": "House builders",
+        "ussoc_correspondence": [{"id": "11-9021", "title": "Construction Managers"}]
+    },
+    {
+        "isco_id": "7112",
+        "isco_title": "Bricklayers and related workers",
+        "ussoc_correspondence": [{"id": "47-2021", "title": "Brickmasons and Blockmasons"},{"id": "49-9045", "title": "Refractory Materials Repairers, Except Brickmasons"}]
+    },
+    {
+        "isco_id": "7113",
+        "isco_title": "Stonemasons, stone cutters, splitters and carvers",
+        "ussoc_correspondence": [{"id": "47-2022", "title": "Stonemasons"},{"id": "47-4091", "title": "Segmental Pavers"}]
+    },
+    {
+        "isco_id": "7114",
+        "isco_title": "Concrete placers, concrete finishers and related workers",
+        "ussoc_correspondence": [{"id": "47-2051", "title": "Cement Masons and Concrete Finishers"},{"id": "47-2053", "title": "Terrazzo Workers and Finishers"},{"id": "47-4091", "title": "Segmental Pavers"}]
+    },
+    {
+        "isco_id": "7115",
+        "isco_title": "Carpenters and joiners",
+        "ussoc_correspondence": [{"id": "47-2031", "title": "Carpenters"}]
+    },
+    {
+        "isco_id": "7119",
+        "isco_title": "Building frame and related trades workers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "47-2231", "title": "Solar Photovoltaic Installers"},{"id": "47-4031", "title": "Fence Erectors"},{"id": "47-4041", "title": "Hazardous Materials Removal Workers"},{"id": "47-4099", "title": "Construction and Related Workers, All Other"},{"id": "49-9095", "title": "Manufactured Building and Mobile Home Installers"}]
+    },
+    {
+        "isco_id": "7121",
+        "isco_title": "Roofers",
+        "ussoc_correspondence": [{"id": "47-2181", "title": "Roofers"}]
+    },
+    {
+        "isco_id": "7122",
+        "isco_title": "Floor layers and tile setters",
+        "ussoc_correspondence": [{"id": "47-2041", "title": "Carpet Installers"},{"id": "47-2042", "title": "Floor Layers, Except Carpet, Wood, and Hard Tiles"},{"id": "47-2043", "title": "Floor Sanders and Finishers"},{"id": "47-2044", "title": "Tile and Stone Setters"}]
+    },
+    {
+        "isco_id": "7123",
+        "isco_title": "Plasterers",
+        "ussoc_correspondence": [{"id": "47-2081", "title": "Drywall and Ceiling Tile Installers"},{"id": "47-2082", "title": "Tapers"},{"id": "47-2161", "title": "Plasterers and Stucco Masons"}]
+    },
+    {
+        "isco_id": "7124",
+        "isco_title": "Insulation workers",
+        "ussoc_correspondence": [{"id": "47-2131", "title": "Insulation Workers, Floor, Ceiling, and Wall"},{"id": "47-2132", "title": "Insulation Workers, Mechanical"}]
+    },
+    {
+        "isco_id": "7125",
+        "isco_title": "Glaziers",
+        "ussoc_correspondence": [{"id": "47-2121", "title": "Glaziers"}]
+    },
+    {
+        "isco_id": "7126",
+        "isco_title": "Plumbers and pipe fitters",
+        "ussoc_correspondence": [{"id": "47-2151", "title": "Pipelayers"},{"id": "47-2152", "title": "Plumbers, Pipefitters, and Steamfitters"}]
+    },
+    {
+        "isco_id": "7127",
+        "isco_title": "Air conditioning and refrigeration mechanics",
+        "ussoc_correspondence": [{"id": "49-1011", "title": "First-Line Supervisors of Mechanics, Installers, and Repairers"},{"id": "49-9021", "title": "Heating, Air Conditioning, and Refrigeration Mechanics and Installers"}]
+    },
+    {
+        "isco_id": "7131",
+        "isco_title": "Painters and related workers",
+        "ussoc_correspondence": [{"id": "47-2141", "title": "Painters, Construction and Maintenance"},{"id": "47-2142", "title": "Paperhangers"}]
+    },
+    {
+        "isco_id": "7132",
+        "isco_title": "Spray painters and varnishers",
+        "ussoc_correspondence": [{"id": "51-9124", "title": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"},{"id": "51-9123", "title": "Painting, Coating, and Decorating Workers"}]
+    },
+    {
+        "isco_id": "7133",
+        "isco_title": "Building structure cleaners",
+        "ussoc_correspondence": [{"id": "37-2019", "title": "Building Cleaning Workers, All Other"}]
+    },
+    {
+        "isco_id": "7211",
+        "isco_title": "Metal moulders and coremakers",
+        "ussoc_correspondence": [{"id": "51-4071", "title": "Foundry Mold and Coremakers"},{"id": "51-4072", "title": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"}]
+    },
+    {
+        "isco_id": "7212",
+        "isco_title": "Welders and flamecutters",
+        "ussoc_correspondence": [{"id": "51-4121", "title": "Welders, Cutters, Solderers, and Brazers"},{"id": "51-4122", "title": "Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"}]
+    },
+    {
+        "isco_id": "7213",
+        "isco_title": "Sheet-metal workers",
+        "ussoc_correspondence": [{"id": "47-2011", "title": "Boilermakers"},{"id": "47-2211", "title": "Sheet Metal Workers"},{"id": "51-4192", "title": "Layout Workers, Metal and Plastic"}]
+    },
+    {
+        "isco_id": "7214",
+        "isco_title": "Structural-metal preparers and erectors",
+        "ussoc_correspondence": [{"id": "47-2171", "title": "Reinforcing Iron and Rebar Workers"},{"id": "47-2221", "title": "Structural Iron and Steel Workers"},{"id": "51-2041", "title": "Structural Metal Fabricators and Fitters"}]
+    },
+    {
+        "isco_id": "7215",
+        "isco_title": "Riggers and cable splicers",
+        "ussoc_correspondence": [{"id": "49-9096", "title": "Riggers"}]
+    },
+    {
+        "isco_id": "7221",
+        "isco_title": "Blacksmiths, hammersmiths and forging press workers",
+        "ussoc_correspondence": [{"id": "51-4022", "title": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4199", "title": "Metal Workers and Plastic Workers, All Other"}]
+    },
+    {
+        "isco_id": "7222",
+        "isco_title": "Toolmakers and related workers",
+        "ussoc_correspondence": [{"id": "49-9094", "title": "Locksmiths and Safe Repairers"},{"id": "51-9162", "title": "Computer Numerically Controlled Tool Programmers"},{"id": "51-4061", "title": "Model Makers, Metal and Plastic"},{"id": "51-4062", "title": "Patternmakers, Metal and Plastic"},{"id": "51-4111", "title": "Tool and Die Makers"},{"id": "51-4192", "title": "Layout Workers, Metal and Plastic"}]
+    },
+    {
+        "isco_id": "7223",
+        "isco_title": "Metal working machine tool setters and operators",
+        "ussoc_correspondence": [{"id": "51-9161", "title": "Computer Numerically Controlled Tool Operators"},{"id": "51-4021", "title": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4022", "title": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4023", "title": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4031", "title": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4032", "title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4033", "title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4034", "title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4035", "title": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4041", "title": "Machinists"},{"id": "51-4081", "title": "Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4199", "title": "Metal Workers and Plastic Workers, All Other"}]
+    },
+    {
+        "isco_id": "7224",
+        "isco_title": "Metal polishers, wheel grinders and tool sharpeners",
+        "ussoc_correspondence": [{"id": "51-4194", "title": "Tool Grinders, Filers, and Sharpeners"},{"id": "51-9022", "title": "Grinding and Polishing Workers, Hand"}]
+    },
+    {
+        "isco_id": "7231",
+        "isco_title": "Motor vehicle mechanics and repairers",
+        "ussoc_correspondence": [{"id": "49-1011", "title": "First-Line Supervisors of Mechanics, Installers, and Repairers"},{"id": "49-3021", "title": "Automotive Body and Related Repairers"},{"id": "49-3022", "title": "Automotive Glass Installers and Repairers"},{"id": "49-3023", "title": "Automotive Service Technicians and Mechanics"},{"id": "49-3031", "title": "Bus and Truck Mechanics and Diesel Engine Specialists"},{"id": "49-3051", "title": "Motorboat Mechanics and Service Technicians"},{"id": "49-3052", "title": "Motorcycle Mechanics"},{"id": "49-3053", "title": "Outdoor Power Equipment and Other Small Engine Mechanics"},{"id": "49-3092", "title": "Recreational Vehicle Service Technicians"},{"id": "49-3093", "title": "Tire Repairers and Changers"}]
+    },
+    {
+        "isco_id": "7232",
+        "isco_title": "Aircraft engine mechanics and repairers",
+        "ussoc_correspondence": [{"id": "49-1011", "title": "First-Line Supervisors of Mechanics, Installers, and Repairers"},{"id": "49-3011", "title": "Aircraft Mechanics and Service Technicians"}]
+    },
+    {
+        "isco_id": "7233",
+        "isco_title": "Agricultural and industrial machinery mechanics and repairers",
+        "ussoc_correspondence": [{"id": "49-1011", "title": "First-Line Supervisors of Mechanics, Installers, and Repairers"},{"id": "49-3041", "title": "Farm Equipment Mechanics and Service Technicians"},{"id": "49-3042", "title": "Mobile Heavy Equipment Mechanics, Except Engines"},{"id": "49-3043", "title": "Rail Car Repairers"},{"id": "49-9041", "title": "Industrial Machinery Mechanics"},{"id": "49-9043", "title": "Maintenance Workers, Machinery"},{"id": "49-9044", "title": "Millwrights"},{"id": "49-9045", "title": "Refractory Materials Repairers, Except Brickmasons"},{"id": "49-9081", "title": "Wind Turbine Service Technicians"}]
+    },
+    {
+        "isco_id": "7234",
+        "isco_title": "Bicycle and related repairers",
+        "ussoc_correspondence": [{"id": "49-1011", "title": "First-Line Supervisors of Mechanics, Installers, and Repairers"},{"id": "49-3091", "title": "Bicycle Repairers"}]
+    },
+    {
+        "isco_id": "7311",
+        "isco_title": "Precision-instrument makers and repairers",
+        "ussoc_correspondence": [{"id": "49-1011", "title": "First-Line Supervisors of Mechanics, Installers, and Repairers"},{"id": "49-9061", "title": "Camera and Photographic Equipment Repairers"},{"id": "49-9062", "title": "Medical Equipment Repairers"},{"id": "49-9064", "title": "Watch and Clock Repairers"},{"id": "49-9069", "title": "Precision Instrument and Equipment Repairers, All Other"}]
+    },
+    {
+        "isco_id": "7312",
+        "isco_title": "Musical instrument makers and tuners",
+        "ussoc_correspondence": [{"id": "49-1011", "title": "First-Line Supervisors of Mechanics, Installers, and Repairers"},{"id": "49-9063", "title": "Musical Instrument Repairers and Tuners"}]
+    },
+    {
+        "isco_id": "7313",
+        "isco_title": "Jewellery and precious-metal workers",
+        "ussoc_correspondence": [{"id": "51-9071", "title": "Jewelers and Precious Stone and Metal Workers"}]
+    },
+    {
+        "isco_id": "7314",
+        "isco_title": "Potters and related workers",
+        "ussoc_correspondence": [{"id": "27-1012", "title": "Craft Artists"},{"id": "51-9195", "title": "Molders, Shapers, and Casters, Except Metal and Plastic"}]
+    },
+    {
+        "isco_id": "7315",
+        "isco_title": "Glass makers, cutters, grinders and finishers",
+        "ussoc_correspondence": [{"id": "51-9022", "title": "Grinding and Polishing Workers, Hand"},{"id": "51-9031", "title": "Cutters and Trimmers, Hand"},{"id": "51-9195", "title": "Molders, Shapers, and Casters, Except Metal and Plastic"}]
+    },
+    {
+        "isco_id": "7316",
+        "isco_title": "Sign writers, decorative painters, engravers and etchers",
+        "ussoc_correspondence": [{"id": "51-9123", "title": "Painting, Coating, and Decorating Workers"},{"id": "51-9194", "title": "Etchers and Engravers"}]
+    },
+    {
+        "isco_id": "7317",
+        "isco_title": "Handicraft workers in wood, basketry and related materials",
+        "ussoc_correspondence": [{"id": "27-1012", "title": "Craft Artists"},{"id": "51-7099", "title": "Woodworkers, All Other"}]
+    },
+    {
+        "isco_id": "7318",
+        "isco_title": "Handicraft workers in textile, leather and related materials",
+        "ussoc_correspondence": [{"id": "51-6041", "title": "Shoe and Leather Workers and Repairers"}]
+    },
+    {
+        "isco_id": "7319",
+        "isco_title": "Handicraft workers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "27-1012", "title": "Craft Artists"}]
+    },
+    {
+        "isco_id": "7321",
+        "isco_title": "Pre-press technicians",
+        "ussoc_correspondence": [{"id": "43-9031", "title": "Desktop Publishers"},{"id": "51-5111", "title": "Prepress Technicians and Workers"}]
+    },
+    {
+        "isco_id": "7322",
+        "isco_title": "Printers ",
+        "ussoc_correspondence": [{"id": "51-5112", "title": "Printing Press Operators"}]
+    },
+    {
+        "isco_id": "7323",
+        "isco_title": "Print finishing and binding workers",
+        "ussoc_correspondence": [{"id": "51-5113", "title": "Print Binding and Finishing Workers"}]
+    },
+    {
+        "isco_id": "7411",
+        "isco_title": "Building and related electricians",
+        "ussoc_correspondence": [{"id": "47-2111", "title": "Electricians"},{"id": "47-2231", "title": "Solar Photovoltaic Installers"}]
+    },
+    {
+        "isco_id": "7412",
+        "isco_title": "Electrical mechanics and fitters",
+        "ussoc_correspondence": [{"id": "47-4021", "title": "Elevator and Escalator Installers and Repairers"},{"id": "49-1011", "title": "First-Line Supervisors of Mechanics, Installers, and Repairers"},{"id": "49-2092", "title": "Electric Motor, Power Tool, and Related Repairers"},{"id": "49-2093", "title": "Electrical and Electronics Installers and Repairers, Transportation Equipment"},{"id": "49-2094", "title": "Electrical and Electronics Repairers, Commercial and Industrial Equipment"},{"id": "49-2095", "title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"},{"id": "49-2096", "title": "Electronic Equipment Installers and Repairers, Motor Vehicles"},{"id": "49-2098", "title": "Security and Fire Alarm Systems Installers"},{"id": "49-3053", "title": "Outdoor Power Equipment and Other Small Engine Mechanics"},{"id": "49-9011", "title": "Mechanical Door Repairers"},{"id": "49-9012", "title": "Control and Valve Installers and Repairers, Except Mechanical Door"},{"id": "49-9031", "title": "Home Appliance Repairers"},{"id": "49-9097", "title": "Signal and Track Switch Repairers"}]
+    },
+    {
+        "isco_id": "7413",
+        "isco_title": "Electrical line installers and repairers ",
+        "ussoc_correspondence": [{"id": "49-1011", "title": "First-Line Supervisors of Mechanics, Installers, and Repairers"},{"id": "49-9051", "title": "Electrical Power-Line Installers and Repairers"}]
+    },
+    {
+        "isco_id": "7421",
+        "isco_title": "Electronics mechanics and servicers",
+        "ussoc_correspondence": [{"id": "49-1011", "title": "First-Line Supervisors of Mechanics, Installers, and Repairers"},{"id": "49-2011", "title": "Computer, Automated Teller, and Office Machine Repairers"},{"id": "49-2091", "title": "Avionics Technicians"},{"id": "49-2093", "title": "Electrical and Electronics Installers and Repairers, Transportation Equipment"},{"id": "49-2094", "title": "Electrical and Electronics Repairers, Commercial and Industrial Equipment"},{"id": "49-2095", "title": "Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"},{"id": "49-2096", "title": "Electronic Equipment Installers and Repairers, Motor Vehicles"}]
+    },
+    {
+        "isco_id": "7422",
+        "isco_title": "Information and communications technology installers and servicers",
+        "ussoc_correspondence": [{"id": "49-1011", "title": "First-Line Supervisors of Mechanics, Installers, and Repairers"},{"id": "49-2011", "title": "Computer, Automated Teller, and Office Machine Repairers"},{"id": "49-2021", "title": "Radio, Cellular, and Tower Equipment Installers and Repairers"},{"id": "49-2022", "title": "Telecommunications Equipment Installers and Repairers, Except Line Installers"},{"id": "49-2093", "title": "Electrical and Electronics Installers and Repairers, Transportation Equipment"},{"id": "49-9052", "title": "Telecommunications Line Installers and Repairers"}]
+    },
+    {
+        "isco_id": "7422 ",
+        "isco_title": "Information and communications technology installers and servicers",
+        "ussoc_correspondence": [{"id": "49-2097", "title": "Audiovisual Equipment Installers and Repairers"}]
+    },
+    {
+        "isco_id": "7511",
+        "isco_title": "Butchers, fishmongers and related food preparers",
+        "ussoc_correspondence": [{"id": "51-3021", "title": "Butchers and Meat Cutters"},{"id": "51-3022", "title": "Meat, Poultry, and Fish Cutters and Trimmers"},{"id": "51-3023", "title": "Slaughterers and Meat Packers"},{"id": "51-3091", "title": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"}]
+    },
+    {
+        "isco_id": "7512",
+        "isco_title": "Bakers, pastry-cooks and confectionery makers",
+        "ussoc_correspondence": [{"id": "51-3011", "title": "Bakers"}]
+    },
+    {
+        "isco_id": "7513",
+        "isco_title": "Dairy-products makers",
+        "ussoc_correspondence": [{"id": "51-3092", "title": "Food Batchmakers"},{"id": "51-9012", "title": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"}]
+    },
+    {
+        "isco_id": "7514",
+        "isco_title": "Fruit, vegetable and related preservers",
+        "ussoc_correspondence": [{"id": "51-3093", "title": "Food Cooking Machine Operators and Tenders"},{"id": "51-3099", "title": "Food Processing Workers, All Other"}]
+    },
+    {
+        "isco_id": "7515",
+        "isco_title": "Food and beverage tasters and graders",
+        "ussoc_correspondence": [{"id": "45-2011", "title": "Agricultural Inspectors"},{"id": "45-2041", "title": "Graders and Sorters, Agricultural Products"}]
+    },
+    {
+        "isco_id": "7516",
+        "isco_title": "Tobacco preparers and tobacco products makers",
+        "ussoc_correspondence": [{"id": "45-2041", "title": "Graders and Sorters, Agricultural Products"},{"id": "51-9041", "title": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"},{"id": "51-9195", "title": "Molders, Shapers, and Casters, Except Metal and Plastic"}]
+    },
+    {
+        "isco_id": "7521",
+        "isco_title": "Wood treaters",
+        "ussoc_correspondence": [{"id": "51-9051", "title": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"},{"id": "51-9191", "title": "Adhesive Bonding Machine Operators and Tenders"}]
+    },
+    {
+        "isco_id": "7522",
+        "isco_title": "Cabinet-makers and related workers",
+        "ussoc_correspondence": [{"id": "51-7011", "title": "Cabinetmakers and Bench Carpenters"},{"id": "51-7021", "title": "Furniture Finishers"},{"id": "51-7031", "title": "Model Makers, Wood"},{"id": "51-7032", "title": "Patternmakers, Wood"}]
+    },
+    {
+        "isco_id": "7523",
+        "isco_title": "Woodworking-machine tool setters and operators",
+        "ussoc_correspondence": [{"id": "51-7042", "title": "Woodworking Machine Setters, Operators, and Tenders, Except Sawing"}]
+    },
+    {
+        "isco_id": "7531",
+        "isco_title": "Tailors, dressmakers, furriers and hatters",
+        "ussoc_correspondence": [{"id": "51-6052", "title": "Tailors, Dressmakers, and Custom Sewers"}]
+    },
+    {
+        "isco_id": "7532",
+        "isco_title": "Garment and related pattern-makers and cutters",
+        "ussoc_correspondence": [{"id": "51-6062", "title": "Textile Cutting Machine Setters, Operators, and Tenders"},{"id": "51-6092", "title": "Fabric and Apparel Patternmakers"},{"id": "51-9031", "title": "Cutters and Trimmers, Hand"}]
+    },
+    {
+        "isco_id": "7533",
+        "isco_title": "Sewing, embroidery and related workers",
+        "ussoc_correspondence": [{"id": "51-6092", "title": "Fabric and Apparel Patternmakers"},{"id": "51-6041", "title": "Shoe and Leather Workers and Repairers"},{"id": "51-6051", "title": "Sewers, Hand"}]
+    },
+    {
+        "isco_id": "7534",
+        "isco_title": "Upholsterers and related workers",
+        "ussoc_correspondence": [{"id": "51-6093", "title": "Upholsterers"}]
+    },
+    {
+        "isco_id": "7535",
+        "isco_title": "Pelt dressers, tanners and fellmongers",
+        "ussoc_correspondence": [{"id": "45-2041", "title": "Graders and Sorters, Agricultural Products"},{"id": "51-6099", "title": "Textile, Apparel, and Furnishings Workers, All Other"}]
+    },
+    {
+        "isco_id": "7536",
+        "isco_title": "Shoemakers and related workers",
+        "ussoc_correspondence": [{"id": "51-6041", "title": "Shoe and Leather Workers and Repairers"}]
+    },
+    {
+        "isco_id": "7541",
+        "isco_title": "Underwater divers",
+        "ussoc_correspondence": [{"id": "49-9092", "title": "Commercial Divers"}]
+    },
+    {
+        "isco_id": "7542",
+        "isco_title": "Shotfirers and blasters",
+        "ussoc_correspondence": [{"id": "47-5032", "title": "Explosives Workers, Ordnance Handling Experts, and Blasters"}]
+    },
+    {
+        "isco_id": "7543",
+        "isco_title": "Product graders and testers (excluding foods and beverages)",
+        "ussoc_correspondence": [{"id": "51-9061", "title": "Inspectors, Testers, Sorters, Samplers, and Weighers"}]
+    },
+    {
+        "isco_id": "7544",
+        "isco_title": "Fumigators and other pest and weed controllers",
+        "ussoc_correspondence": [{"id": "37-1012", "title": "First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"},{"id": "37-2021", "title": "Pest Control Workers"},{"id": "37-3012", "title": "Pesticide Handlers, Sprayers, and Applicators, Vegetation"}]
+    },
+    {
+        "isco_id": "7549",
+        "isco_title": "Craft and related workers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "27-1023", "title": "Floral Designers"},{"id": "51-9083", "title": "Ophthalmic Laboratory Technicians"}]
+    },
+    {
+        "isco_id": "8111",
+        "isco_title": "Miners and quarriers",
+        "ussoc_correspondence": [{"id": "47-5023", "title": "Earth Drillers, Except Oil and Gas"},{"id": "47-5041", "title": "Continuous Mining Machine Operators"},{"id": "47-5049", "title": "Underground Mining Machine Operators, All Other"},{"id": "47-5051", "title": "Rock Splitters, Quarry"},{"id": "47-5043", "title": "Roof Bolters, Mining"},{"id": "47-5022", "title": "Excavating and Loading Machine and Dragline Operators, Surface Mining"},{"id": "47-5044", "title": "Loading and Moving Machine Operators, Underground Mining"}]
+    },
+    {
+        "isco_id": "8112",
+        "isco_title": "Mineral and stone processing plant operators",
+        "ussoc_correspondence": [{"id": "51-9021", "title": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"},{"id": "51-9192", "title": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"}]
+    },
+    {
+        "isco_id": "8113",
+        "isco_title": "Well drillers and borers and related workers",
+        "ussoc_correspondence": [{"id": "47-5011", "title": "Derrick Operators, Oil and Gas"},{"id": "47-5012", "title": "Rotary Drill Operators, Oil and Gas"},{"id": "47-5013", "title": "Service Unit Operators, Oil and Gas"},{"id": "47-5023", "title": "Earth Drillers, Except Oil and Gas"},{"id": "47-5071", "title": "Roustabouts, Oil and Gas"},{"id": "53-7073", "title": "Wellhead Pumpers"}]
+    },
+    {
+        "isco_id": "8114",
+        "isco_title": "Cement, stone and other mineral products machine operators",
+        "ussoc_correspondence": [{"id": "51-8099", "title": "Plant and System Operators, All Other"},{"id": "51-9021", "title": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"},{"id": "51-9023", "title": "Mixing and Blending Machine Setters, Operators, and Tenders"},{"id": "51-9032", "title": "Cutting and Slicing Machine Setters, Operators, and Tenders"}]
+    },
+    {
+        "isco_id": "8121",
+        "isco_title": "Metal processing plant operators",
+        "ussoc_correspondence": [{"id": "51-4021", "title": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4023", "title": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4051", "title": "Metal-Refining Furnace Operators and Tenders"},{"id": "51-4052", "title": "Pourers and Casters, Metal"},{"id": "51-4191", "title": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"}]
+    },
+    {
+        "isco_id": "8122",
+        "isco_title": "Metal finishing, plating and coating machine operators",
+        "ussoc_correspondence": [{"id": "51-4193", "title": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-9124", "title": "Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"},{"id": "51-9192", "title": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"}]
+    },
+    {
+        "isco_id": "8131",
+        "isco_title": "Chemical products plant and machine operators",
+        "ussoc_correspondence": [{"id": "51-9011", "title": "Chemical Equipment Operators and Tenders"},{"id": "51-9012", "title": "Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"},{"id": "51-9195", "title": "Molders, Shapers, and Casters, Except Metal and Plastic"}]
+    },
+    {
+        "isco_id": "8132",
+        "isco_title": "Photographic products machine operators",
+        "ussoc_correspondence": [{"id": "51-9151", "title": "Photographic Process Workers and Processing Machine Operators"}]
+    },
+    {
+        "isco_id": "8141",
+        "isco_title": "Rubber products machine operators",
+        "ussoc_correspondence": [{"id": "51-9021", "title": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"},{"id": "51-9041", "title": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"},{"id": "51-9051", "title": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"},{"id": "51-9195", "title": "Molders, Shapers, and Casters, Except Metal and Plastic"},{"id": "51-9197", "title": "Tire Builders"}]
+    },
+    {
+        "isco_id": "8142",
+        "isco_title": "Plastic products machine operators",
+        "ussoc_correspondence": [{"id": "51-2051", "title": "Fiberglass Laminators and Fabricators"},{"id": "51-4021", "title": "Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4022", "title": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4023", "title": "Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4031", "title": "Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4032", "title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4033", "title": "Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4034", "title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4035", "title": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4072", "title": "Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4191", "title": "Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4193", "title": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic"},{"id": "51-4199", "title": "Metal Workers and Plastic Workers, All Other"}]
+    },
+    {
+        "isco_id": "8143",
+        "isco_title": "Paper products machine operators",
+        "ussoc_correspondence": [{"id": "51-9191", "title": "Adhesive Bonding Machine Operators and Tenders"},{"id": "51-9196", "title": "Paper Goods Machine Setters, Operators, and Tenders"}]
+    },
+    {
+        "isco_id": "8151",
+        "isco_title": "Fibre preparing, spinning and winding machine operators",
+        "ussoc_correspondence": [{"id": "51-6064", "title": "Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"}]
+    },
+    {
+        "isco_id": "8152",
+        "isco_title": "Weaving and knitting machine operators",
+        "ussoc_correspondence": [{"id": "51-6063", "title": "Textile Knitting and Weaving Machine Setters, Operators, and Tenders"}]
+    },
+    {
+        "isco_id": "8153",
+        "isco_title": "Sewing machine operators",
+        "ussoc_correspondence": [{"id": "51-6031", "title": "Sewing Machine Operators"}]
+    },
+    {
+        "isco_id": "8154",
+        "isco_title": "Bleaching, dyeing and fabric cleaning machine operators",
+        "ussoc_correspondence": [{"id": "51-6061", "title": "Textile Bleaching and Dyeing Machine Operators and Tenders"}]
+    },
+    {
+        "isco_id": "8155",
+        "isco_title": "Fur and leather preparing machine operators",
+        "ussoc_correspondence": [{"id": "51-6099", "title": "Textile, Apparel, and Furnishings Workers, All Other"}]
+    },
+    {
+        "isco_id": "8156",
+        "isco_title": "Shoemaking and related machine operators",
+        "ussoc_correspondence": [{"id": "51-6042", "title": "Shoe Machine Operators and Tenders"}]
+    },
+    {
+        "isco_id": "8157",
+        "isco_title": "Laundry machine operators",
+        "ussoc_correspondence": [{"id": "51-6011", "title": "Laundry and Dry-Cleaning Workers"}]
+    },
+    {
+        "isco_id": "8159",
+        "isco_title": "Textile, fur and leather products machine operators not elsewhere classified",
+        "ussoc_correspondence": [{"id": "51-6099", "title": "Textile, Apparel, and Furnishings Workers, All Other"}]
+    },
+    {
+        "isco_id": "8160",
+        "isco_title": "Food and related products machine operators",
+        "ussoc_correspondence": [{"id": "51-3091", "title": "Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"},{"id": "51-3092", "title": "Food Batchmakers"},{"id": "51-3093", "title": "Food Cooking Machine Operators and Tenders"},{"id": "51-3099", "title": "Food Processing Workers, All Other"},{"id": "51-9041", "title": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"},{"id": "51-9193", "title": "Cooling and Freezing Equipment Operators and Tenders"}]
+    },
+    {
+        "isco_id": "8171",
+        "isco_title": "Pulp and papermaking plant operators",
+        "ussoc_correspondence": [{"id": "51-9192", "title": "Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"},{"id": "51-9196", "title": "Paper Goods Machine Setters, Operators, and Tenders"}]
+    },
+    {
+        "isco_id": "8172",
+        "isco_title": "Wood processing plant operators",
+        "ussoc_correspondence": [{"id": "51-7041", "title": "Sawing Machine Setters, Operators, and Tenders, Wood"}]
+    },
+    {
+        "isco_id": "8181",
+        "isco_title": "Glass and ceramics plant operators",
+        "ussoc_correspondence": [{"id": "51-6091", "title": "Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers"},{"id": "51-9021", "title": "Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"},{"id": "51-9023", "title": "Mixing and Blending Machine Setters, Operators, and Tenders"},{"id": "51-9041", "title": "Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"},{"id": "51-9051", "title": "Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"},{"id": "51-9195", "title": "Molders, Shapers, and Casters, Except Metal and Plastic"}]
+    },
+    {
+        "isco_id": "8182",
+        "isco_title": "Steam engine and boiler operators",
+        "ussoc_correspondence": [{"id": "51-8021", "title": "Stationary Engineers and Boiler Operators"}]
+    },
+    {
+        "isco_id": "8183",
+        "isco_title": "Packing, bottling and labelling machine operators",
+        "ussoc_correspondence": [{"id": "51-9111", "title": "Packaging and Filling Machine Operators and Tenders"}]
+    },
+    {
+        "isco_id": "8189",
+        "isco_title": "Stationary plant and machine operators not elsewhere classified",
+        "ussoc_correspondence": [{"id": "51-9141", "title": "Semiconductor Processing Technicians"},{"id": "51-9191", "title": "Adhesive Bonding Machine Operators and Tenders"},{"id": "51-9193", "title": "Cooling and Freezing Equipment Operators and Tenders"},{"id": "53-7011", "title": "Conveyor Operators and Tenders"}]
+    },
+    {
+        "isco_id": "8211",
+        "isco_title": "Mechanical machinery assemblers",
+        "ussoc_correspondence": [{"id": "51-2011", "title": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"},{"id": "51-2031", "title": "Engine and Other Machine Assemblers"}]
+    },
+    {
+        "isco_id": "8212",
+        "isco_title": "Electrical and electronic equipment assemblers",
+        "ussoc_correspondence": [{"id": "51-2021", "title": "Coil Winders, Tapers, and Finishers"},{"id": "51-2022", "title": "Electrical and Electronic Equipment Assemblers"},{"id": "51-2023", "title": "Electromechanical Equipment Assemblers"},{"id": "51-2061", "title": "Timing Device Assemblers and Adjusters"},{"id": "51-9194", "title": "Etchers and Engravers"}]
+    },
+    {
+        "isco_id": "8219",
+        "isco_title": "Assemblers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "51-2092", "title": "Team Assemblers"},{"id": "51-2099", "title": "Assemblers and Fabricators, All Other"}]
+    },
+    {
+        "isco_id": "8311",
+        "isco_title": "Locomotive engine drivers",
+        "ussoc_correspondence": [{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-4011", "title": "Locomotive Engineers"},{"id": "53-4022", "title": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers"},{"id": "53-4013", "title": "Rail Yard Engineers, Dinkey Operators, and Hostlers"},{"id": "53-4041", "title": "Subway and Streetcar Operators"}]
+    },
+    {
+        "isco_id": "8312",
+        "isco_title": "Railway brake, signal and switch operators",
+        "ussoc_correspondence": [{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-4022", "title": "Railroad Brake, Signal, and Switch Operators and Locomotive Firers"},{"id": "53-4031", "title": "Railroad Conductors and Yardmasters"},{"id": "53-4099", "title": "Rail Transportation Workers, All Other"}]
+    },
+    {
+        "isco_id": "8321",
+        "isco_title": "Motorcycle drivers",
+        "ussoc_correspondence": [{"id": "43-5021", "title": "Couriers and Messengers"},{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-3099", "title": "Motor Vehicle Operators, All Other"}]
+    },
+    {
+        "isco_id": "8322",
+        "isco_title": "Car, taxi and van drivers",
+        "ussoc_correspondence": [{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-3011", "title": "Ambulance Drivers and Attendants, Except Emergency Medical Technicians"},{"id": "53-3031", "title": "Driver/Sales Workers"},{"id": "53-3033", "title": "Light Truck Drivers"},{"id": "53-3054", "title": "Taxi Drivers"},{"id": "53-3053", "title": "Shuttle Drivers and Chauffeurs"}]
+    },
+    {
+        "isco_id": "8331",
+        "isco_title": "Bus and tram drivers",
+        "ussoc_correspondence": [{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-3052", "title": "Bus Drivers, Transit and Intercity"},{"id": "53-3051", "title": "Bus Drivers, School"},{"id": "53-4041", "title": "Subway and Streetcar Operators"}]
+    },
+    {
+        "isco_id": "8332",
+        "isco_title": "Heavy truck and lorry drivers",
+        "ussoc_correspondence": [{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-3032", "title": "Heavy and Tractor-Trailer Truck Drivers"}]
+    },
+    {
+        "isco_id": "8341",
+        "isco_title": "Mobile farm and forestry plant operators",
+        "ussoc_correspondence": [{"id": "45-2091", "title": "Agricultural Equipment Operators"},{"id": "45-4022", "title": "Logging Equipment Operators"}]
+    },
+    {
+        "isco_id": "8342",
+        "isco_title": "Earthmoving and related plant operators",
+        "ussoc_correspondence": [{"id": "47-2071", "title": "Paving, Surfacing, and Tamping Equipment Operators"},{"id": "47-2072", "title": "Pile Driver Operators"},{"id": "47-2073", "title": "Operating Engineers and Other Construction Equipment Operators"},{"id": "53-7031", "title": "Dredge Operators"},{"id": "47-5022", "title": "Excavating and Loading Machine and Dragline Operators, Surface Mining"}]
+    },
+    {
+        "isco_id": "8343",
+        "isco_title": "Crane, hoist and related plant operators",
+        "ussoc_correspondence": [{"id": "39-3091", "title": "Amusement and Recreation Attendants"},{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-6011", "title": "Bridge and Lock Tenders"},{"id": "53-7021", "title": "Crane and Tower Operators"},{"id": "53-7041", "title": "Hoist and Winch Operators"}]
+    },
+    {
+        "isco_id": "8344",
+        "isco_title": "Lifting truck operators",
+        "ussoc_correspondence": [{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-7051", "title": "Industrial Truck and Tractor Operators"}]
+    },
+    {
+        "isco_id": "8350",
+        "isco_title": "Ships' deck crews and related workers",
+        "ussoc_correspondence": [{"id": "53-5011", "title": "Sailors and Marine Oilers"},{"id": "53-5022", "title": "Motorboat Operators"}]
+    },
+    {
+        "isco_id": "9111",
+        "isco_title": "Domestic cleaners and helpers",
+        "ussoc_correspondence": [{"id": "37-2012", "title": "Maids and Housekeeping Cleaners"}]
+    },
+    {
+        "isco_id": "9112",
+        "isco_title": "Cleaners and helpers in offices, hotels and other establishments",
+        "ussoc_correspondence": [{"id": "37-2011", "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners"},{"id": "37-2012", "title": "Maids and Housekeeping Cleaners"},{"id": "53-7061", "title": "Cleaners of Vehicles and Equipment"}]
+    },
+    {
+        "isco_id": "9121",
+        "isco_title": "Hand launderers and pressers",
+        "ussoc_correspondence": [{"id": "51-6021", "title": "Pressers, Textile, Garment, and Related Materials"}]
+    },
+    {
+        "isco_id": "9122",
+        "isco_title": "Vehicle cleaners",
+        "ussoc_correspondence": [{"id": "53-7061", "title": "Cleaners of Vehicles and Equipment"}]
+    },
+    {
+        "isco_id": "9123",
+        "isco_title": "Window cleaners",
+        "ussoc_correspondence": [{"id": "37-2011", "title": "Janitors and Cleaners, Except Maids and Housekeeping Cleaners"}]
+    },
+    {
+        "isco_id": "9129",
+        "isco_title": "Other cleaning workers",
+        "ussoc_correspondence": [{"id": "37-2019", "title": "Building Cleaning Workers, All Other"},{"id": "47-4071", "title": "Septic Tank Servicers and Sewer Pipe Cleaners"}]
+    },
+    {
+        "isco_id": "9211",
+        "isco_title": "Crop farm labourers",
+        "ussoc_correspondence": [{"id": "45-2092", "title": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse"},{"id": "45-2099", "title": "Agricultural Workers, All Other"}]
+    },
+    {
+        "isco_id": "9212",
+        "isco_title": "Livestock farm labourers",
+        "ussoc_correspondence": [{"id": "45-2093", "title": "Farmworkers, Farm, Ranch, and Aquacultural Animals"},{"id": "45-2099", "title": "Agricultural Workers, All Other"}]
+    },
+    {
+        "isco_id": "9213",
+        "isco_title": "Mixed crop and livestock farm labourers",
+        "ussoc_correspondence": [{"id": "45-2092", "title": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse"},{"id": "45-2093", "title": "Farmworkers, Farm, Ranch, and Aquacultural Animals"},{"id": "45-2099", "title": "Agricultural Workers, All Other"}]
+    },
+    {
+        "isco_id": "9214",
+        "isco_title": "Garden and horticultural labourers",
+        "ussoc_correspondence": [{"id": "37-3011", "title": "Landscaping and Groundskeeping Workers"},{"id": "37-3019", "title": "Grounds Maintenance Workers, All Other"},{"id": "45-2092", "title": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse"}]
+    },
+    {
+        "isco_id": "9215",
+        "isco_title": "Forestry labourers",
+        "ussoc_correspondence": [{"id": "45-4011", "title": "Forest and Conservation Workers"},{"id": "45-4029", "title": "Logging Workers, All Other"}]
+    },
+    {
+        "isco_id": "9216",
+        "isco_title": "Fishery and aquaculture labourers",
+        "ussoc_correspondence": [{"id": "45-2093", "title": "Farmworkers, Farm, Ranch, and Aquacultural Animals"},{"id": "29-2042", "title": "Fishers and Related Fishing Workers"}]
+    },
+    {
+        "isco_id": "9311",
+        "isco_title": "Mining and quarrying labourers",
+        "ussoc_correspondence": [{"id": "47-5081", "title": "Helpers--Extraction Workers"},{"id": "47-5099", "title": "Extraction Workers, All Other"}]
+    },
+    {
+        "isco_id": "9312",
+        "isco_title": "Civil engineering labourers",
+        "ussoc_correspondence": [{"id": "47-3019", "title": "Helpers, Construction Trades, All Other"},{"id": "47-4051", "title": "Highway Maintenance Workers"},{"id": "47-4061", "title": "Rail-Track Laying and Maintenance Equipment Operators"}]
+    },
+    {
+        "isco_id": "9313",
+        "isco_title": "Building construction labourers",
+        "ussoc_correspondence": [{"id": "47-2061", "title": "Construction Laborers"},{"id": "47-3011", "title": "Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"},{"id": "47-3012", "title": "Helpers--Carpenters"},{"id": "47-3013", "title": "Helpers--Electricians"},{"id": "47-3014", "title": "Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons"},{"id": "47-3015", "title": "Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"},{"id": "47-3016", "title": "Helpers--Roofers"},{"id": "47-3019", "title": "Helpers, Construction Trades, All Other"}]
+    },
+    {
+        "isco_id": "9321",
+        "isco_title": "Hand packers",
+        "ussoc_correspondence": [{"id": "53-7064", "title": "Packers and Packagers, Hand"}]
+    },
+    {
+        "isco_id": "9329",
+        "isco_title": "Manufacturing labourers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "51-9198", "title": "Helpers--Production Workers"},{"id": "51-9199", "title": "Production Workers, All Other"},{"id": "53-7062", "title": "Laborers and Freight, Stock, and Material Movers, Hand"},{"id": "53-7063", "title": "Machine Feeders and Offbearers"}]
+    },
+    {
+        "isco_id": "9331",
+        "isco_title": "Hand and pedal vehicle drivers",
+        "ussoc_correspondence": [{"id": "43-5021", "title": "Couriers and Messengers"},{"id": "53-6099", "title": "Transportation Workers, All Other"},{"id": "53-7199", "title": "Material Moving Workers, All Other"}]
+    },
+    {
+        "isco_id": "9332",
+        "isco_title": "Drivers of animal-drawn vehicles and machinery",
+        "ussoc_correspondence": [{"id": "53-6099", "title": "Transportation Workers, All Other"},{"id": "53-7199", "title": "Material Moving Workers, All Other"}]
+    },
+    {
+        "isco_id": "9333",
+        "isco_title": "Freight handlers",
+        "ussoc_correspondence": [{"id": "53-1041", "title": "Aircraft Cargo Handling Supervisors"},{"id": "53-1042", "title": "First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"},{"id": "53-7062", "title": "Laborers and Freight, Stock, and Material Movers, Hand"},{"id": "53-7121", "title": "Tank Car, Truck, and Ship Loaders"}]
+    },
+    {
+        "isco_id": "9334",
+        "isco_title": "Shelf fillers",
+        "ussoc_correspondence": [{"id": "53-7065", "title": "Stockers and Order Fillers"}]
+    },
+    {
+        "isco_id": "9411",
+        "isco_title": "Fast food preparers",
+        "ussoc_correspondence": [{"id": "35-2011", "title": "Cooks, Fast Food"},{"id": "35-2015", "title": "Cooks, Short Order"}]
+    },
+    {
+        "isco_id": "9412",
+        "isco_title": "Kitchen helpers",
+        "ussoc_correspondence": [{"id": "35-2021", "title": "Food Preparation Workers"},{"id": "35-9011", "title": "Dining Room and Cafeteria Attendants and Bartender Helpers"},{"id": "35-9021", "title": "Dishwashers"},{"id": "35-9099", "title": "Food Preparation and Serving Related Workers, All Other"}]
+    },
+    {
+        "isco_id": "9510",
+        "isco_title": "Street and related service workers",
+        "ussoc_correspondence": [{"id": "39-9099", "title": "Personal Care and Service Workers, All Other"}]
+    },
+    {
+        "isco_id": "9520",
+        "isco_title": "Street vendors (excluding food)",
+        "ussoc_correspondence": [{"id": "41-9091", "title": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"}]
+    },
+    {
+        "isco_id": "9611",
+        "isco_title": "Garbage and recycling collectors",
+        "ussoc_correspondence": [{"id": "53-1043", "title": "First-Line Supervisors of Material-Moving Machine and Vehicle Operators"},{"id": "53-7081", "title": "Refuse and Recyclable Material Collectors"}]
+    },
+    {
+        "isco_id": "9612",
+        "isco_title": "Refuse sorters",
+        "ussoc_correspondence": [{"id": "53-7081", "title": "Refuse and Recyclable Material Collectors"}]
+    },
+    {
+        "isco_id": "9613",
+        "isco_title": "Sweepers and related labourers",
+        "ussoc_correspondence": [{"id": "37-3019", "title": "Grounds Maintenance Workers, All Other"}]
+    },
+    {
+        "isco_id": "9621",
+        "isco_title": "Messengers, package deliverers and luggage porters",
+        "ussoc_correspondence": [{"id": "39-6011", "title": "Baggage Porters and Bellhops"},{"id": "43-5021", "title": "Couriers and Messengers"}]
+    },
+    {
+        "isco_id": "9622",
+        "isco_title": "Odd job persons",
+        "ussoc_correspondence": [{"id": "37-3019", "title": "Grounds Maintenance Workers, All Other"},{"id": "49-9071", "title": "Maintenance and Repair Workers, General"},{"id": "49-9098", "title": "Helpers--Installation, Maintenance, and Repair Workers"},{"id": "49-9099", "title": "Installation, Maintenance, and Repair Workers, All Other"}]
+    },
+    {
+        "isco_id": "9623",
+        "isco_title": "Meter readers and vending-machine collectors",
+        "ussoc_correspondence": [{"id": "43-5041", "title": "Meter Readers, Utilities"},{"id": "49-9091", "title": "Coin, Vending, and Amusement Machine Servicers and Repairers"}]
+    },
+    {
+        "isco_id": "9624",
+        "isco_title": "Water and firewood collectors",
+        "ussoc_correspondence": [{"id": "53-7062", "title": "Laborers and Freight, Stock, and Material Movers, Hand"}]
+    },
+    {
+        "isco_id": "9629",
+        "isco_title": "Elementary workers not elsewhere classified",
+        "ussoc_correspondence": [{"id": "39-3021", "title": "Motion Picture Projectionists"},{"id": "39-3031", "title": "Ushers, Lobby Attendants, and Ticket Takers"},{"id": "39-3091", "title": "Amusement and Recreation Attendants"},{"id": "39-3093", "title": "Locker Room, Coatroom, and Dressing Room Attendants"},{"id": "53-6021", "title": "Parking Attendants"}]
+    }
+]
